@@ -39,7 +39,9 @@ Sprawa Gorder / INBG – świadectwa G3. Stan na 29 października 2026 r. Dokume
 
 8. Art. 98 § 1 KPC (pkt III.2 pisma). Potwierdzone. Uzupełnienie co do trybu: przy wartości przedmiotu sporu 10 000 zł sprawa podlega postępowaniu uproszczonemu (art. 505¹ § 1 pkt 1 KPC – do 20 000 zł). Jeżeli Stowarzyszenie jest przedsiębiorcą (art. 43¹ KC; działalność gospodarcza stowarzyszenia – art. 34 Prawa o stowarzyszeniach), a sprawa wynika z tej działalności, będzie to sprawa gospodarcza (art. 458² § 1 pkt 1 KPC) z prekluzją: pozwany powołuje wszystkie twierdzenia i dowody w odpowiedzi na pozew (art. 458⁵ § 1 i 4 KPC), czynności stron wykazuje się co do zasady dokumentem (art. 458¹⁰ KPC), dowód ze świadków ma charakter subsydiarny (art. 458¹¹ KPC). Do potwierdzenia: czy Stowarzyszenie jest wpisane do rejestru przedsiębiorców KRS. Konsekwencja praktyczna: materiał dowodowy z pkt 7.5 kontekstu (wniosek, umowa z komisją, korespondencja, historia InPost, zrzut strony, regulamin) musi być skompletowany przed doręczeniem pozwu, nie po.
 
-9. § 13 ust. 1 rozporządzenia MKiŚ z 1.07.2022 r. (Dz.U. poz. 1392) – termin 14 dni na wydanie świadectwa (podstawa wewnętrzna, nie powołana w piśmie). Rozporządzenie według ELI obowiązuje, nie odnaleziono aktu zmieniającego ani uchylającego. Termin 14 dni od egzaminu potwierdzony pośrednio (powielają go regulaminy komisji kwalifikacyjnych SEP). Numer paragrafu do potwierdzenia w tekście Dz.U. Istotne: w 2025 r. istniał projekt nowego rozporządzenia w tej samej sprawie (wejście w życie 30 dni od ogłoszenia). Należy potwierdzić w RCL, które rozporządzenie obowiązywało 17.09.2026 r., bo od tego zależy treść zarzutu wobec komisji i ocena URE.
+9. § 13 ust. 1 rozporządzenia MKiŚ z 1.07.2022 r. (Dz.U. poz. 1392) – termin 14 dni na wydanie świadectwa (podstawa wewnętrzna, nie powołana w piśmie). Rozporządzenie według ELI obowiązuje, nie odnaleziono aktu zmieniającego ani uchylającego. Termin 14 dni od egzaminu potwierdzony pośrednio (powielają go regulaminy komisji kwalifikacyjnych SEP). Numer paragrafu do potwierdzenia w tekście Dz.U. Sprostowanie: w pierwotnej wersji tej notatki wskazano na „projekt nowego rozporządzenia z 2025 r.”; po ponownej weryfikacji nie odnaleziono takiego projektu. Jedyny odnaleziony projekt to projekt z początku 2022 r. (konsultacje publiczne luty 2022 r., „Tydzień w SEP” nr 326), który został uchwalony jako rozporządzenie z 1.07.2022 r.; wykazy prac legislacyjnych MKiŚ z 27.05.2025 r. i 31.07.2025 r. nie zawierają pozycji dotyczącej tego rozporządzenia. Przyjąć, że 17.09.2026 r. obowiązywało rozporządzenie z 1.07.2022 r. w brzmieniu pierwotnym; ostateczne potwierdzenie braku zmian – w ISAP/LEX.
+
+14. Art. 54 Prawa energetycznego – zmiany w 2026 r. Tekst jednolity: Dz.U. 2026 poz. 43. Ustawa z 13.03.2026 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz.U. 2026 poz. 516, w życie 30.04.2026 r.) oraz ustawa z 11.06.2026 r. o zmianie niektórych ustaw w celu dokonania deregulacji w zakresie energetyki (Dz.U. 2026 poz. 900, w życie 21.07.2026 r.). Jedyna zidentyfikowana zmiana art. 54 to dodany ust. 4b (zwolnienie z opłaty za sprawdzenie kwalifikacji przez komisje powołane przez Ministra Sprawiedliwości) – bez znaczenia dla sprawy. Nie odnaleziono zmiany ust. 3 (komisje przy stowarzyszeniach naukowo-technicznych) ani ust. 4 (opłata). Wzmianka o kolejnym akcie zmieniającym (Dz.U. 2026 poz. 1281) niepotwierdzona. Do sprawdzenia w LEX przy okazji sporu KK 739 / SOKiK: aktualne brzmienie art. 54 ust. 3 i 3a oraz przepisów przejściowych obu ustaw.
 
 10. Art. 54 ust. 4 Prawa energetycznego – opłata za sprawdzenie kwalifikacji nie wyższa niż 10% minimalnego wynagrodzenia w dniu złożenia wniosku (2026: 480,60 zł przy 4 806 zł). Wpłata INBG wyniosła 575,60 zł na rachunek SEEP tytułem „faktura proforma VII/A/2026/09/P007”. Kwota nie odpowiada ani jednej, ani dwóm opłatom egzaminacyjnym; należy ustalić, co obejmowała (egzamin, szkolenie, obsługa) i kto wystawił proformę i na kogo. Dokument ten wyznacza stronę umowy i będzie pierwszym dowodem, o który spyta sąd.
 
@@ -54,7 +56,9 @@ Sprawa Gorder / INBG – świadectwa G3. Stan na 29 października 2026 r. Dokume
 
 1. Wysokie. Treść strony ekck.pl (stopka z danymi rejestrowymi Stowarzyszenia, „własna komisja”, „bez pośredników”, „24 h”) jest już w aktach INBG jako załącznik nr 6. Linia braku legitymacji biernej utrzyma się tylko, jeżeli regulamin, formularz zgłoszeniowy i proforma wskazują inny podmiot niż Stowarzyszenie. Do sprawdzenia natychmiast: regulamin ekck.pl (usługodawca, zakres usługi, postanowienia o świadectwach i odpowiedzialności), formularz zgłoszeniowy z 16.09.2026, proforma VII/A/2026/09/P007, umowa z komisją.
 
-2. Wysokie. Świadectwo z dozoru nadal nie zostało wysłane (pkt 4.4 kontekstu). Każdy dzień wydłuża okres ewentualnej szkody i osłabia argument, że skutki opóźnienia zakończyły się 19.10.2026 r. Wysłać niezwłocznie, kurierem z potwierdzeniem odbioru, na adres z wniosku.
+2. Wysokie (zmienione). Pierwotnie wskazano tu potrzebę ustalenia, czy 17.09.2026 r. obowiązywało rozporządzenie z 2022 r., czy nowy akt z projektu z 2025 r. Projekt z 2025 r. nie istnieje (sekcja III pkt 9). Pozycja pozostaje jako polecenie potwierdzenia w ISAP/LEX, że rozporządzenie Dz.U. 2022 poz. 1392 nie było zmieniane, oraz sprawdzenia aktualnego brzmienia art. 54 ust. 3–4 Prawa energetycznego po nowelizacjach z 2026 r. (sekcja III pkt 14).
+
+9. Wysokie. Świadectwo z dozoru nadal nie zostało wysłane (pkt 4.4 kontekstu). Każdy dzień wydłuża okres ewentualnej szkody i osłabia argument, że skutki opóźnienia zakończyły się 19.10.2026 r. Wysłać niezwłocznie, kurierem z potwierdzeniem odbioru, na adres z wniosku.
 
 3. Wysokie. Gorder żąda pisemnego wyniku wyjaśnień co do daty 14.09.2026 i wymiany obu świadectw. Mail do komisji (pkt 7.3 kontekstu) nie został dotąd przygotowany. Bez stanowiska komisji Stowarzyszenie nie będzie w stanie odpowiedzieć URE ani Gorderowi, a przedłużające się „wyjaśnianie” będzie w procesie oceniane na niekorzyść.
 
@@ -95,6 +99,22 @@ Sprawa Gorder / INBG – świadectwa G3. Stan na 29 października 2026 r. Dokume
 - [Tekst rozporządzenia Dz.U. 2022 poz. 1392 na stronie URE](https://www.ure.gov.pl/download/9/12973/1392.pdf)
 
 - [Świadectwo kwalifikacji – biznes.gov.pl](https://www.biznes.gov.pl/pl/portal/ou142)
+
+- [Projekt rozporządzenia (2022) – Tydzień w SEP nr 326](https://sep.com.pl/tydzien-w-sep/326/projekt-rozporzadzenia-ministra-klimatu-i-srodowiska-w-sprawie-szczegolowych-zasad-stwierdzenia-posiadania-kwalifikacji-przez-osoby-zajmujace-sie-eksploatacja-urzadzen-instalacji-i-sieci.html)
+
+- [Projekt rozporządzenia (2022) – załączniki, konsultacje ZPP (luty 2022)](https://www.zpp.pl/storage/library/2022-02/930ffd0002adc9b5d48fb65db67ff1ef.pdf)
+
+- [Wykaz prac legislacyjnych MKiŚ z 27.05.2025 r.](https://bip.mos.gov.pl/fileadmin/user_upload/bip/prawo/wykaz_prac_legislacyjnych/2025.05.27_Wykaz_prac_legislacyjnych_Ministra_Klimatu_i_Srodowiska.pdf)
+
+- [Wykaz prac legislacyjnych MKiŚ z 31.07.2025 r.](https://bip.mos.gov.pl/fileadmin/user_upload/bip/prawo/wykaz_prac_legislacyjnych/2025.07.31_Wykaz_prac_legislacyjnych_Ministra_Klimatu_i_Srodowiska.pdf)
+
+- [Ustawa z 13.03.2026 r., Dz.U. 2026 poz. 516 – ISAP](https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20260000516/O/D20260516.pdf)
+
+- [Ustawa z 11.06.2026 r., Dz.U. 2026 poz. 900 – infor.pl (metryka)](https://www.infor.pl/akt-prawny/DZU.2026.187.0000900,metryka,ustawa-o-zmianie-niektorych-ustaw-w-celu-dokonania-deregulacji-w-zakresie-energetyki.html)
+
+- [Przegląd zmian Prawa energetycznego (stan 29.09.2026)](https://prawo.kalinski-energia.pl/)
+
+- [Komisje kwalifikacyjne – URE (wykaz czynnych komisji, stan 18.03.2026)](https://www.ure.gov.pl/pl/biznes/komisje-kwalifikacyjne)
 
 - [Art. 54 Prawa energetycznego – lexlege](https://lexlege.pl/prawo-energetyczne/art-54/)
 
