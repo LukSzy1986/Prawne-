@@ -1,7 +1,7 @@
 {
  "u2": {
   "paras": [
-   "6.3 PRÓBY PRZEWROTU (COUP ATTEMPTS)",
+   "6.3 PRZEWROTY (COUP ATTEMPTS)",
    "<b>6.3.1</b> Przewrót (Coup) przedstawia działania niebędące jeszcze wojną na pełną skalę, mające zmienić skład rządu państwa będącego celem. Aby podjąć próbę Przewrotu, nie musisz mieć żadnych Wpływów (Influence) w państwie będącym celem ani w sąsiadującym. Przeciwnik musi jednak mieć znaczniki Wpływów (Influence markers) w państwie będącym celem.",
    "<b>6.3.2</b> Aby rozpatrzyć próbę Przewrotu (Coup attempt), pomnóż Poziom Stabilizacji (Stability Number) państwa będącego celem przez 2. Następnie rzuć kością i dodaj do wyniku Punkty Operacyjne (Operations points) z karty. Jeśli tak zmodyfikowany wynik rzutu jest większy od podwojonego Poziomu Stabilizacji, Przewrót się udaje; w przeciwnym razie się nie udaje. Jeśli się udał, usuń z państwa będącego celem tyle znaczników Wpływów (Influence markers) przeciwnika, ile wynosi różnica między zmodyfikowanym wynikiem rzutu a podwojonym Poziomem Stabilizacji. Jeśli znaczników Wpływów przeciwnika jest za mało do usunięcia, dodaj własne, aby uzupełnić różnicę.",
    "<b>6.3.3</b> Przesuń swój znacznik na torze Operacji Wojskowych (Military Operations track marker) o liczbę pól równą Wartości Operacyjnej (Operations value) zagranej karty."

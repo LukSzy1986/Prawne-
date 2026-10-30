@@ -50,20 +50,20 @@
  },
  "u11": {
   "paras": [
-   "<b>9.21 Uporządkowany odwrót:</b> Harcownicy (Skirmishers) mogą wykonać uporządkowany odwrót (Orderly Withdrawal) o najwyżej 2 heksy przed każdym oddziałem o takiej samej lub mniejszej MA (tj. przed wszystkimi oddziałami piechoty), bez względu na różnicę MA. Harcownicy otrzymują ubytki spójności (Cohesion Hits) podczas uporządkowanego odwrotu (OW) tylko wtedy, gdy wróg zbliża się z heksu tylnego (Rear hex). Welici (Velites) otrzymują ubytki spójności z powodu OW tylko wtedy, gdy wróg zbliża się z heksu skrzydłowego (Flank) lub tylnego.",
+   "<b>9.21 Uporządkowany odwrót:</b> Harcownicy (Skirmishers) mogą wykonać uporządkowany odwrót (Orderly Withdrawal) o najwyżej 2 heksy przed każdym oddziałem o takiej samej lub mniejszej MA (tj. przed wszystkimi oddziałami piechoty), bez względu na różnicę MA. Harcownicy otrzymują ubytki spójności (Cohesion Hits) podczas OW tylko wtedy, gdy wróg zbliża się z heksu tylnego (Rear hex). Welici (Velites) otrzymują je tylko wtedy, gdy wróg zbliża się z heksu skrzydłowego (Flank) lub tylnego.",
    "<b>9.22 Ostrzał (Missile Fire):</b> Do rzutu na ostrzał (Missile Fire DR) stosuje się DRM +2 zawsze, gdy celem są harcownicy (Skirmisher). Łucznicy (klasy A) spośród harcowników i lekkiej piechoty (Skirmisher and Light Infantry Archers) nie mogą stosować nękania i rozproszenia (H&D fire). Lekka jazda (Light Cavalry) – wszystkich klas strzelających – nie może stosować H&D przeciwko harcownikom.",
    "<b>9.23 Starcie (Shock Combat):</b> Harcownicy (Skirmishers) biorący udział w starciu podlegają następującym ograniczeniom:",
-   "• Harcownicy nie mogą atakować w starciu (Shock attack).",
-   "• Żaden oddział atakujący w starciu (Shock attack) wyłącznie harcowników nie musi wykonywać testu TQ przed starciem (Pre-Shock TQ), nawet ze znacznikami Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ).",
-   "• Jeśli harcownicy bronią się wspólnie z oddziałem dowolnego innego typu, jako obrońcę należy wskazać ten inny typ (Type). Współczynnik liczebności (Size rating) harcowników pomija się.",
-   "• Wszelkie ubytki spójności (Cohesion Hits) zadane przez harcowników w starciu dzieli się na pół (zaokrąglając w dół), najwyżej do 1 ubytku.",
+   "• Harcownicy (SK) nie mogą atakować w starciu (Shock attack).",
+   "• Żaden oddział atakujący w starciu (Shock attack) wyłącznie harcowników (SK) nie musi wykonywać testu TQ przed starciem (Pre-Shock TQ), nawet ze znacznikami Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ).",
+   "• Jeśli harcownicy (SK) bronią się wspólnie z oddziałem dowolnego innego typu, jako obrońcę należy wskazać ten inny typ (Type). Współczynnik liczebności (Size rating) harcowników pomija się.",
+   "• Wszelkie ubytki spójności (Cohesion Hits) zadane przez harcowników (SK) w starciu dzieli się na pół (zaokrąglając w dół), najwyżej do 1 ubytku.",
    "• Oddziały falangi (PH), ciężkiej piechoty (HI) i piechoty legionowej (LG) atakowane z heksu frontowego (Front hex) przez lekką piechotę (LI) nie przechodzą testu TQ przed starciem (Pre-Shock TQ check), nawet jeśli atakujący mają znaczniki Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ); atakująca LI nadal jednak ten test wykonuje. Nie działa to odwrotnie: PH, HI i LG atakujące LI przechodzą test TQ przed starciem.",
-   "PRZYKŁAD: Jeśli więc atak lekkiej piechoty na harcowników dałby niezmodyfikowany wynik 1(4) w tabeli wyników starcia (Shock Results Table), faktycznie wyniósłby on 0(4).",
+   "PRZYKŁAD: Jeśli więc atak lekkiej piechoty (LI) na harcowników (SK) dałby niezmodyfikowany wynik 1(4) w tabeli wyników starcia (Shock Results Table), faktycznie wyniósłby on 0(4).",
    "<b>9.24</b> Inne sytuacje:",
-   "• Rozbici (Rout) harcownicy zostają zamiast tego wyeliminowani.",
-   "• Harcownicy nie wykonują testu po przepuszczeniu słoni (Elephant Pass-Thru Check, 9.11).",
-   "• Specjalne zasady łączenia w stosy (stacking) harcowników i welitów (Velites) – zob. 6.69. Harcownicy mogą zmieniać front bez kosztu MP i poruszać się więcej niż raz w turze gry bez kosztu w spójności.",
-   "• Przy ustalaniu linii (lines) do rozkazu liniowego (Line Command, 4.32) oddział welitów lub harcowników nie przerywa linii, jeśli przerwa"
+   "• Rozbici (Rout) harcownicy (SK) zostają zamiast tego wyeliminowani.",
+   "• Harcownicy (SK) nie wykonują testu po przepuszczeniu słoni (Elephant Pass-Thru Check, 9.11).",
+   "• Specjalne zasady łączenia w stosy (stacking) harcowników (SK) i welitów (Velites) – zob. 6.69. Harcownicy mogą zmieniać front bez kosztu MP i poruszać się więcej niż raz w turze gry bez kosztu w spójności.",
+   "• Przy ustalaniu linii (lines) do rozkazu liniowego (Line Command, 4.32) oddział welitów (Velites) lub harcowników (SK) nie przerywa linii,"
   ]
  }
 }

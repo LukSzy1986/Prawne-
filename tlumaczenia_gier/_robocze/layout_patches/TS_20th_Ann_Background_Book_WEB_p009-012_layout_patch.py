@@ -264,3 +264,67 @@ P.para('u3', 0, hs=0.94); P.para('u4', 0, hs=0.96)   # QA r3: dialogi jednowiers
 clear_boxes(P)
 whiteouts(P)
 P.save()
+
+
+# ================================================================== 30.10 nawiasy kart (bb_karta)
+# Decyzja użytkownika 30.10: brakujące nawiasy EN (lista ZAWSZE, tytuły kart) – łatki z dodatkowym wierszem.
+# Bloki NIE wołają restore(): startują od stanu po łatkach stron powyżej (cały plik jest idempotentny).
+def twolines(P, uid, i, pitch):
+    """akapit i w 2 wierszach (interlinia pitch): lastbase/bottom akapitu, dalsze akapity w dół o różnicę"""
+    u = P.unit(uid)
+    p = u['paras'][i]
+    d = round(p['base'] + pitch - p['lastbase'], 2)
+    p.update(nlines=2, pitch=pitch, lastbase=round(p['base'] + pitch, 2), bottom=round(p['bottom'] + d, 2))
+    for q in u['paras'][i + 1:]:
+        for k in ('base', 'lastbase', 'top', 'bottom'):
+            q[k] = round(q[k] + d, 2)
+    u['bottom'] = round(max(q['bottom'] for q in u['paras']), 2)
+
+
+# ---- s. 10
+P = Patch(D, 10)
+# Wydarzenie Kluczowe ZSRR: „Pojmany nazistowski naukowiec (Captured Nazi Scientist, 1 Op)” w 2 wierszach;
+# opis pod nim (u11, własna skala) niżej i ciaśniej – dół 3,5 pt nad ramką CHRUSZCZOW (y = 458)
+twolines(P, 'u10', 0, 11.2)
+P.set('u10', maxBottom=424.0)
+P.move_to('u11', base=432.6)
+P.para('u11', 1, pitch=10.6)
+setgap(P, 'u11', 1, 11.6)
+P.set('u11', maxBottom=454.5)
+# AR1 (USA): „Karta: Wojna indyjsko-pakistańska (Indo‑Pakistani War, neutralna, 2 Ops)” w 2 wierszach;
+# „Poszerzanie Strefy Wpływów” i punkt pod nim niżej (podkreślenie z tła zakryte łatką, <u> pod tekstem; pod
+# punktem wolne miejsce do stopki)
+twolines(P, 'u18', 0, 11.5)
+P.set('u18', maxBottom=707.0)
+P.move_to('u36', base=720.6)
+P.set('u36', maxBottom=746.0)
+P.save()
+
+# ---- s. 12
+P = Patch(D, 12)
+# AR5 (ZSRR): „Karta: Wojna arabsko-izraelska (Arab‑Israeli War, Wydarzenie ZSRR)” w 2 wierszach (u6 – własna
+# skala, dół 4 pt nad ramką CHRUSZCZOW)
+twolines(P, 'u6', 0, 12.0)
+for i, g in ((1, 12.5), (2, 12.5), (3, 12.5)):
+    setgap(P, 'u6', i, g)
+# AR5 (USA): „Karta: De Gaulle na czele Francji (De Gaulle Leads France, ZSRR, 3 Ops)” w 2 wierszach; blok pod nim
+# niżej, odstępy ścieśnione (karta → „Poszerzanie…” 17,7 → 14 pt; opis → opis 15,5 → 12,5 pt; u13 13 → 12,3 pt; podkreślenie z tła pod
+# „Poszerzanie…” zakryte łatką, <u> pod tekstem). Opisy u11 po polsku mają 3 + 3 wiersze (EN 3 + 2): punkt
+# „Francja (France): (0/1)” 11 pt pod ostatnim wierszem (wcześniej ok. 6,7 pt – ciasno), u13 12 pt pod nim
+twolines(P, 'u10', 0, 11.5)
+P.set('u10', maxBottom=round(P.unit('u10')['maxBottom'] + 11.5, 2))
+y = P.unit('u10')['paras'][0]['lastbase'] + 14.0
+P.move_to('u27', base=round(y, 2))
+P.set('u27', maxBottom=round(y + 4.0, 2))
+y += 14.5
+P.move_to('u11', base=round(y, 2))
+setgap(P, 'u11', 1, 12.5)
+last = P.unit('u11')['paras'][1]['base'] + 2 * 11.0      # 3. wiersz drugiego opisu (PL)
+P.set('u11', maxBottom=round(last + 3.0, 2))
+P.move_to('u12', base=round(last + 11.0, 2))
+P.set('u12', maxBottom=round(last + 14.5, 2))
+P.move_to('u13', base=round(last + 23.0, 2))
+P.para('u13', 1, pitch=11.0)                       # „Jack wykorzystuje…” (2 wiersze po polsku) – interlinia jak w opisach
+for i in range(1, 5):
+    setgap(P, 'u13', i, 12.3)
+P.save()

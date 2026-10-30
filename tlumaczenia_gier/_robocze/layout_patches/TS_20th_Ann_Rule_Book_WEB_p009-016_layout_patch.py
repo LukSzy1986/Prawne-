@@ -336,3 +336,27 @@ P.save()
 P = r3(15)
 P.para('u7', 8, ws=-0.03)
 P.save()
+
+# ---------------------------------------------------------------- ts_naglowki (30.10): nagłówki rozdziałów jak Phalanx
+# s. 14 – „8.0 STATUS DEFCON ORAZ OPERACJE WOJSKOWE” (dłuższy o „ORAZ”): nagłówek może wejść w odstęp między łamami
+# (prawa łama w tej wysokości zaczyna się punktorem w x ≈ 321), tracking 0,92 – stopień ok. 15,6 pt (było 16,2 pt).
+P = r3(14)
+P.set('u9', maxRight=310.0)
+P.para('u9', 0, hs=0.92)
+P.save()
+# s. 16 – „10.0 ROZSTRZYGNIĘCIE I WARUNKI ZWYCIĘSTWA” w jednym wierszu miałby ok. 14 pt (ramka PRZYKŁAD od x ≈ 305):
+# dwa wiersze jak w Phalanx („10.0 ROZSTRZYGNIĘCIE / I WARUNKI ZWYCIĘSTWA”, podział <br> w trans), stała skala 0,9
+# (16,2 pt), drugi wiersz na linii bazowej oryginału (85,3), pierwszy 16,5 pt wyżej – nad nim pagina (do y ≈ 54).
+P = r3(16)
+u = P.unit('u2')
+P.set(u, nowrap=False, fixscale=0.9)
+P.para(u, 0, pitch=round(16.5 / 0.9, 3), nlines=2)
+P.move_to(u, base=round(85.32 - 16.5, 2))
+P.para(u, 0, lastbase=85.32)
+P.set(u, bottom=89.68, maxBottom=89.68)
+P.save()
+# s. 15 – „9.0 KARTA CHIŃSKA (CHINA)” sięgał na ilustrację karty THE CHINA CARD (lewa krawędź karty w wysokości
+# nagłówka x ≈ 494): nagłówek do x = 488 (stopień ok. 16,5 pt).
+P = r3(15)
+P.set('u6', x1=488.0, maxRight=488.0)
+P.save()

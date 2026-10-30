@@ -166,6 +166,13 @@ def s6(P):
             if u['id'] in ('u18', 'u19', 'u20', 'u21', 'u22', 'u23', 'u24', 'u25'):
                 u['maxBottom'] = round(u['paras'][0]['base'] + 4.0, 2)
             keep_grid(u['id'])
+    # ts_naglowki (30.10): przywrócone poprawki walidacji tsr_1_8#3/#5 – „, rozmieszczając 15/25 znacz-” (koniec „ników”
+    # w następnym wierszu) i „Oba znaczniki Wyścigu Kosmicznego (Space Race)” przed ikoną ⑤: ścieśnienie (hs) fragmentów
+    # przy ikonach ③ ④ ⑤ oraz 3.3 (u9[1]) – podział wierszy 3.3 bez dzielenia „Kana-dzie”, „Filipi-nach”
+    for uid in ('u8', 'u10'):
+        P.para(uid, 0, hs=0.94)
+    P.para('u9', 1, hs=0.96)
+    P.para('u11', 0, hs=0.93)
 
 
 def s8(P):

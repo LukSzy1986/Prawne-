@@ -64,7 +64,7 @@
  },
  "u8": {
   "paras": [
-   "Gracze aktywują każdego ze swoich dowódców w kolejności wyznaczonej przez ich współczynnik inicjatywy (Initiative Rating). Aktywowany dowódca wydaje rozkazy, które pozwalają oddziałom wykonywać ruch i prowadzić walkę. Gdy wszyscy dowódcy są zakończeni (Finished), gra przechodzi do fazy rozbicia i uzupełniania pocisków (Rout and Reload Phase), po której każdy gracz sprawdza, czy jego armia się wycofuje.",
+   "Gracze aktywują każdego ze swoich dowódców w kolejności wyznaczonej przez ich współczynnik inicjatywy (Initiative Rating). Aktywowany dowódca wydaje rozkazy, które pozwalają oddziałom wykonywać ruch i prowadzić walkę. Gdy wszyscy dowódcy są zakończeni (Finished), gra przechodzi do fazy rozbicia i uzupełniania pocisków (Rout and Reload Phase), po której każdy gracz sprawdza, czy jego armia się wycofuje (Army Withdraws).",
    "A. Faza aktywacji dowódców",
    "Gracz, którego dowódca ma najniższy współczynnik inicjatywy spośród dowódców jeszcze nieaktywowanych, aktywuje tego dowódcę. Jeśli aktywowany dowódca musi wykonać rzut kością (DR), aby móc wydać rozkaz liniowy (Line Command), gracz wykonuje ten rzut w tym momencie (4.33). W tym czasie można podejmować próby przebicia niezwiązanego z impetem (Non-Momentum Trump, 5.41)."
   ]

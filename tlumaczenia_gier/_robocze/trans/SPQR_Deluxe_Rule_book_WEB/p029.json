@@ -2,7 +2,7 @@
  "_uwagi": "s. 29 – dokończenie rozszerzonego przykładu starcia (u2[0] = dalszy ciąg akapitu ze s. 28, u6[3]); 8.5.",
  "u2": {
   "paras": [
-   "liczebności zaokrągla się dodatkowo w górę do 4:1, ponieważ falanga wykonała ruch, aby zaatakować, co daje przesunięcie o 3 kolumny w prawo. Gracz kartagiński wyrzuca 2, co w kolumnie 13 (kolumna bazowa 10 przesunięta o 3 kolumny w prawo za przewagę liczebności) daje wynik „2(3)”. Falanga <b>B</b> otrzymuje 2 ubytki (Hits), a welici <b>X</b> – 6 ubytków, ponieważ wynik 3 zostaje podwojony z powodu przewagi atakującego (Attack Superiority). Mimo że <b>X</b> mają więcej ubytków, niż wynosi ich jakość wojsk (TQ), na razie nie zostają rozbici (rout).",
+   "liczebności zaokrągla się dodatkowo w górę do 4:1, ponieważ falanga (PH) wykonała ruch, aby zaatakować, co daje przesunięcie o 3 kolumny w prawo (3R). Gracz kartagiński wyrzuca 2, co w kolumnie 13 (kolumna bazowa 10 przesunięta o 3 kolumny w prawo za przewagę liczebności) daje wynik „2(3)”. Falanga <b>B</b> otrzymuje 2 ubytki (Hits), a welici <b>X</b> – 6 ubytków, ponieważ wynik 3 zostaje podwojony z powodu przewagi atakującego (Attack Superiority). Mimo że <b>X</b> mają więcej ubytków, niż wynosi ich jakość wojsk (TQ), na razie nie zostają rozbici (rout).",
    "Przechodząc do ataku Celtów <b>C</b> od frontu: gracz rzymski znów może wybrać, którego typu użyć, i na czele obrony stawia triarii – kolumna bazowa (base column) 6, MI przeciw HI. Tabela przewagi w starciu (Shock Superiority Chart) nie wykazuje przewagi systemu uzbrojenia (Weapon System Superiority). Liczebności się równoważą (5 wobec 3+2), a innych przesunięć, które miałyby zastosowanie, nie ma. Gracz kartagiński wyrzuca 6, co w kolumnie 6 daje wynik „2(2)”. Celtowie <b>C</b> otrzymują 2 ubytki (Hits), a 2 ubytki obrońcy zostają rozdzielone po równo między oba oddziały – każdy otrzymuje 1 ubytek."
   ]
  },
@@ -19,7 +19,7 @@
  },
  "u5": {
   "paras": [
-   "Przechodząc do ostatniego kroku, 8.47[3]: falanga (Phalanx) <b>B</b> musi wykonać posunięcie (advance), przy czym obie połówki oddziału wchodzą do nowych heksów, z których jeden opuścił broniący się oddział. Celtowie <b>C</b> również muszą wykonać posunięcie na heks opuszczony przez welitów <b>Z</b>. Wykonując je, zmieniają ustawienie frontu o jeden wierzchołek heksu, aby przygotować przyszły atak na skrzydło (flank) triarii <b>Y</b>."
+   "Przechodząc do ostatniego kroku, 8.47[3]: falanga (Phalanx) <b>B</b> musi wykonać posunięcie (advance), przy czym obie połówki oddziału wchodzą do nowych heksów, z których jeden opuścił broniący się oddział. Celtowie <b>C</b> również muszą wykonać posunięcie na heks opuszczony przez welitów (Velites) <b>Z</b>. Wykonując je, zmieniają ustawienie frontu o jeden wierzchołek heksu, aby przygotować przyszły atak na skrzydło (flank) triarii <b>Y</b>."
   ]
  },
  "u6": {

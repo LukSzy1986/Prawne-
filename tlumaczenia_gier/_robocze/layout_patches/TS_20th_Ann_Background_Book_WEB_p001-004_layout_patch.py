@@ -255,3 +255,88 @@ P.line('u11', 0, align='right', x1=130.6, maxLeft=60.0)   # „DEFCON: 5” prze
 # „Poziom Stabilizacji (Stability Number)” – kończy się przy linii odnośnika (x ≈ 257)
 P.line('u6', 0, align='right', x0=150.0, x1=255.5, maxLeft=60.0, maxRight=255.5)
 P.save()
+
+# ================================================================ 30.10 nawiasy kart (bb_karta)
+# Decyzja użytkownika 30.10: brakujące nawiasy EN (lista ZAWSZE, tytuły kart) – łatki z dodatkowym wierszem.
+# Blok NIE woła restore(): startuje od stanu po łatkach strony powyżej (cały plik jest idempotentny).
+
+# ---- s. 4
+P = Patch(D, 4)
+# ramka „Przewrót w Iranie” (biała, y 189–312): „Iran: 0/2 (Kontrola ZSRR, USSR Control)” i „Operacje Wojskowe
+# ZSRR (USSR Military Ops): 3” w dwóch wierszach; „Rzut kością” (kość z tła) i „DEFCON: 5 → 4” (strzałka z tła)
+# zostają na swoich liniach bazowych – „Siła Przewrotu” i „Iran” ścieśnione między nimi (10–10,5 pt, interlinia 10–10,2)
+u10 = P.unit('u10')
+P.para(u10, 0, size=10.5, pitch=10.2)
+P.move_to(u10, base=238.4)
+P.para(u10, 0, lastbase=248.6)
+P.set(u10, maxBottom=251.5)
+u36 = P.unit('u36')
+P.para(u36, 0, size=10.0, pitch=10.0, nlines=2)
+P.move_to(u36, base=260.6)
+P.para(u36, 0, lastbase=270.6)
+P.set(u36, maxBottom=272.5)
+u12 = P.unit('u12')
+P.para(u12, 0, size=10.0, pitch=10.2, nlines=2)
+P.move_to(u12, base=295.3)
+P.para(u12, 0, lastbase=305.5)
+P.set(u12, maxBottom=308.6)                        # ≥ 3 pt nad dolną krawędzią białej ramki (y = 312)
+# AR3 (ZSRR): „Karta: … (Arab‑Israeli War, Wydarzenie ZSRR)” w jednym wierszu (nowrap, lekkie zwężenie liter),
+# zdanie z „(US Controlled)” w dwóch wierszach + 2 punktory – osobna jednostka (własna skala), 5 pt nad ramką
+u25 = P.unit('u25')
+if len(u25['paras']) > 1:
+    n25 = P.split(u25, 1)                          # nowa jednostka u37
+else:
+    n25 = P.unit('u37')
+u25.pop('fixscale', None)
+P.para(u25, 0, nlines=1, lastbase=u25['paras'][0]['base'], hang=0.0, hs=0.95)
+P.set(u25, nowrap=True, maxRight=561.0, maxBottom=388.0)
+n25.pop('fixscale', None)
+P.set(n25, nowrap=False, body=False, maxBottom=437.6)
+P.move_to(n25, base=397.6)
+P.para(n25, 0, nlines=2, pitch=10.6, lastbase=408.2, align='justify')
+P.para(n25, 1, base=421.6, lastbase=421.6, gap=13.4)
+P.para(n25, 2, base=434.4, lastbase=434.4, gap=12.8)
+P.save()
+
+# ---- s. 3
+P = Patch(D, 3)
+# faza Wydarzeń Kluczowych: „W tym Etapie (this turn) wszystkie karty USA mają −1 do Operacji (Operations, min. 1).”
+# w 2 wierszach (ramka dialogu CHRUSZCZOW z tła od y = 592,2 – nie przesuwa się). Nagłówek i wiersz „ZSRR: …”
+# 11 pt wyżej (pod podpisem mapy było ok. 30 pt wolnego miejsca). Trójkąt ▶ z tła (x 54–60, y 563–573, #231f20)
+# zakryty białą łatką u950 (twarde spacje podświetlone na biało, pod tekstem); nowy trójkąt 11 pt wyżej – u951:
+# dwa trójkąty prostokątne ◣ + ◤ (DejaVu Sans, 7,2 pt: ok. 5,3 × 5,2 pt każdy; zmierzone w składzie (1200 dpi):
+# szerokość i wysokość ok. 0,73·stopnia, góra 0,616·stopnia nad linią bazową) złożone w trójkąt ok. 5,3 × 10,4 pt
+# (w tle 6,2 × 10,1 pt; pojedynczy znak ▶ jest kwadratowy – wyraźnie szerszy od trójkątów tła na tej stronie).
+DY3 = 11.0
+P.move_to('u10', base=round(559.18 - DY3, 2))
+P.set('u10', maxBottom=round(564.34 - DY3, 2))
+u20 = P.unit('u20')
+P.move_to(u20, base=round(572.38 - DY3, 2))
+P.set(u20, maxBottom=round(580.48 - DY3, 2))
+u21 = P.unit('u21')
+P.move_to(u21, base=575.4)
+P.para(u21, 0, nlines=2, pitch=11.0, lastbase=586.4, align='justify')
+P.set(u21, nowrap=False, maxBottom=589.2)
+
+
+def wline(en, size, x0, x1, base, color, top, bottom, hl=None):
+    ln = {'en': en, 'font': 'MinionPro-Cn', 'size': size, 'color': color, 'x0': x0, 'x1': x1, 'top': top,
+          'bottom': bottom, 'base': base, 'rot': 0, 'bg': '#ffffff', 'maxRight': x1, 'maxLeft': x0, 'align': 'left'}
+    if hl:
+        ln['hl'] = hl
+    return ln
+
+
+cov = wline('\u00a0' * 4, 9.5, 52.8, 61.5, 571.6, '#ffffff', 561.5, 574.5, hl='#ffffff')
+P.lay['units'].insert(0, {'id': 'u950', 'kind': 'lines', 'x0': 52.8, 'top': 561.5, 'x1': 61.5, 'bottom': 574.5,
+                          'maxBottom': 574.5, 'maxRight': 61.5, 'maxLeft': 52.8, 'bg': '#ffffff', 'fixscale': 1.0,
+                          'lines': [cov]})
+T0, SZ = round(563.0 - DY3 - 0.1, 2), 7.2                   # góra trójkąta, stopień znaków
+b1 = round(T0 + 0.616 * SZ, 2)                              # ◣: górna połowa (wierzchołek u góry z lewej)
+b2 = round(b1 + 0.725 * SZ - 0.15, 2)                        # ◤: dolna połowa (0,15 pt zakładki – bez szczeliny)
+tri = [wline('\u25e3', SZ, 54.0, 59.5, b1, '#231f20', round(b1 - 5, 2), round(b1 + 1, 2)),
+       wline('\u25e4', SZ, 54.0, 59.5, b2, '#231f20', round(b2 - 5, 2), round(b2 + 1, 2))]
+P.lay['units'].append({'id': 'u951', 'kind': 'lines', 'x0': 54.0, 'top': T0, 'x1': 59.5, 'bottom': round(T0 + 10.4, 2),
+                       'maxBottom': round(T0 + 10.4, 2), 'maxRight': 59.5, 'maxLeft': 54.0, 'bg': '#ffffff',
+                       'fixscale': 1.0, 'lines': tri})
+P.save()

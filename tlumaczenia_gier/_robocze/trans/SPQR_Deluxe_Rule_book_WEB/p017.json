@@ -3,13 +3,13 @@
  "u2": {
   "paras": [
    "<b>6.56</b> Uporządkowany odwrót (Orderly Withdrawal) odbywa się w etapie ruchu i ostrzału (Movement and Missile Fire Segment) przeciwnika; oddział bojowy nie może się wycofać w etapie starcia (Shock Combat Segment) – dowódcy mogą. Poruszający się oddział może dokończyć ruch mimo takiego wycofania.",
-   "<b><i>Wyjątek:</i></b> Uporządkowany odwrót (OW) przed rozszalałym słoniem (Rampaging Elephant, 9.14) może nastąpić w dowolnej chwili i może z niego skorzystać każdy gracz, bez względu na to, czyja jest faza rozkazów (Orders Phase) i czyj słoń wpadł w szał.",
-   "PRZYKŁAD UPORZĄDKOWANEGO ODWROTU: [Kanny] Oddział jazdy rzymskiej (MA 8) stoi w heksie 3214, zwrócony frontem na północny zachód. Oddział rzymskich welitów (Velites, MA 6) stoi w heksie 3216, zwrócony frontem na południowy zachód. Falanga afrykańska zajmuje heksy 2912/3012. Gracz kartagiński przesuwa falangę w stro­nę jazdy. Gdy falanga wchodzi do heksów 3112/3013 (zużywszy 1 z 5 MA), gracz rzymski wycofuje jazdę o 2 heksy (mógłby nawet o 3 heksy) do heksu 3415. Jazda nie przechodzi testu TQ i nie otrzymuje automatycznych ubytków spójności (cohesion hits), ponieważ nie zbliżano się do niej z heksu skrzydłowego (flank) ani tylnego (rear). Falanga przesuwa się teraz o 1 heks do heksów 3113/3213, a następnie do 3114/3214, przez co jest w odległości do 2 heksów zarówno od jazdy, jak i od welitów. Jazda znów się wycofuje, tym razem o 1 heks do heksu 3515. Oddział welitów może się wycofać o 1 MP (6–5=1) i przechodzi do heksu 3316, zachowując to samo ustawienie frontu na południowy zachód; otrzymuje przy tym 1 ubytek spójności, ponieważ zbliżano się do niego od skrzydła. Falanga, której zostały 2 MP, kontynuuje ruch do heksów 3215/3314, gdzie znów jest w odległości do 2 heksów od obu oddziałów; te cofają się (retreat) odpowiednio do heksów 3616 i 3417, przy czym oddział welitów otrzymuje kolejny ubytek spójności. Falanga wydaje ostatni MP na wejście do heksów 3315/3415. Choć znów jest w odległości do 2 heksów od obu rzymskich oddziałów, gracz rzymski postanawia się nie wycofywać, ponieważ falandze nie zostały już żadne MP."
+   "<b><i>Wyjątek:</i></b> Uporządkowany odwrót (OW) przed rozszalałym słoniem (Rampaging Elephant, 9.14) może nastąpić w dowolnej chwili i może z niego skorzystać każdy gracz, bez względu na to, czyja jest faza rozkazów (Orders Phase) i czyj słoń wpadł w szał (Rampage).",
+   "PRZYKŁAD UPORZĄDKOWANEGO ODWROTU (OW): [Kanny] Oddział jazdy rzymskiej (RC, MA 8) stoi w heksie 3214, zwrócony frontem na północny zachód. Oddział rzymskich welitów (Velites, MA 6) stoi w heksie 3216, zwrócony frontem na południowy zachód. Falanga afrykańska (PH) zajmuje heksy 2912/3012. Gracz kartagiński przesuwa falangę w stro­nę jazdy. Gdy falanga wchodzi do heksów 3112/3013 (zużywszy 1 z 5 MA), gracz rzymski wycofuje jazdę o 2 heksy (mógłby nawet o 3 heksy) do heksu 3415. Jazda nie przechodzi testu TQ i nie otrzymuje automatycznych ubytków spójności (cohesion hits), ponieważ nie zbliżano się do niej z heksu skrzydłowego (flank) ani tylnego (rear). Falanga przesuwa się teraz o 1 heks do heksów 3113/3213, a następnie do 3114/3214, przez co jest w odległości do 2 heksów zarówno od jazdy, jak i od welitów. Jazda znów się wycofuje, tym razem o 1 heks do heksu 3515. Oddział welitów może się wycofać o 1 MP (6–5=1) i przechodzi do heksu 3316, zachowując to samo ustawienie frontu na południowy zachód; otrzymuje przy tym 1 ubytek spójności, ponieważ zbliżano się do niego od skrzydła. Falanga, której zostały 2 MP, kontynuuje ruch do heksów 3215/3314, gdzie znów jest w odległości do 2 heksów od obu oddziałów; te cofają się (retreat) odpowiednio do heksów 3616 i 3417, przy czym oddział welitów otrzymuje kolejny ubytek spójności. Falanga wydaje ostatni MP na wejście do heksów 3315/3415. Choć znów jest w odległości do 2 heksów od obu rzymskich oddziałów, gracz rzymski postanawia się nie wycofywać, ponieważ falandze nie zostały już żadne MP."
   ]
  },
  "u3": {
   "paras": [
-   "UWAGA DO ROZGRYWKI: Wycofanie jazdy, choć nie kosztowało jej żadnych ubytków spójności (Cohesion Hits), oznaczało jednak oddanie pozycji i w praktyce odsłonięcie skrzydła rzymskiego oddziału piechoty. Oddział welitów, dzięki nieco wyższej MA, zdołał uniknąć falangi obchodzącej skrzydło, ale kosztem 2 ubytków spójności."
+   "UWAGA DO ROZGRYWKI: Wycofanie jazdy, choć nie kosztowało jej żadnych ubytków spójności (Cohesion Hits), oznaczało jednak oddanie pozycji i w praktyce odsłonięcie skrzydła rzymskiego oddziału piechoty. Oddział welitów (Velites), dzięki nieco wyższej MA, zdołał uniknąć falangi (PH) obchodzącej skrzydło, ale kosztem 2 ubytków spójności."
   ]
  },
  "u4": {
@@ -30,7 +30,7 @@
  },
  "u7": {
   "paras": [
-   "UWAGA PROJEKTANTA: Zasady łączenia w stosy są bardzo proste – żadnego dobrowolnego łączenia w stosy – z wyjątkiem Rzymian i falang macedońskich. Rzymskie zasady łączenia w stosy odzwierciedlają taktyczną elastyczność Rzymian, a jednocześnie pozwalają zachować na potrzeby gry właściwą szerokość frontu linii (bardzo ważny czynnik taktyczny w tej epoce). Zob. też 9.5 i 9.61."
+   "UWAGA PROJEKTANTA: Zasady łączenia w stosy są bardzo proste – żadnego dobrowolnego łączenia w stosy – z wyjątkiem Rzymian i falang macedońskich (PH). Rzymskie zasady łączenia w stosy odzwierciedlają taktyczną elastyczność Rzymian, a jednocześnie pozwalają zachować na potrzeby gry właściwą szerokość frontu linii (bardzo ważny czynnik taktyczny w tej epoce). Zob. też 9.5 i 9.61."
   ]
  },
  "u8": {
@@ -42,7 +42,7 @@
    "<b>•</b> <b>Podstawowy (Basic):</b> Wszystkie oddziały z wyjątkiem harcowników (Skirmisher), welitów (Velites) i innej rzymskiej piechoty.",
    "<b>•</b> <b>Inny kolor (Different Color):</b> Dotyczy oddziałów rzymskiej piechoty z różnych legionów lub ali (Legion or ala), oznaczonych kolorowymi paskami wokół żetonów. Zwróć uwagę, że oddziały legionu I i ali I mają „ten sam kolor” („Same Color”).",
    "<b>•</b> <b>Inna klasa (Different Class):</b> HA, PR, TR itd.",
-   "<b>•</b> <b>Rzymski (Roman):</b> Dotyczy możliwości łączenia w stos dwóch oddziałów rzymskiej piechoty. Jeśli w heksie są już dwa, każdy trzeci, poruszający się oddział traktuje się w tabeli jako podstawowy (Basic). Jazdę rzymską zawsze traktuje się jako podstawową."
+   "<b>•</b> <b>Rzymski (Roman):</b> Dotyczy możliwości łączenia w stos dwóch oddziałów rzymskiej piechoty. Jeśli w heksie są już dwa, każdy trzeci, poruszający się oddział traktuje się w tabeli jako podstawowy (Basic). Jazdę rzymską (RC) zawsze traktuje się jako podstawową."
   ]
  },
  "u9": {

@@ -1,7 +1,7 @@
 {
  "u2": {
   "paras": [
-   "10.0 ROZSTRZYGNIĘCIE I ZWYCIĘSTWO"
+   "10.0 ROZSTRZYGNIĘCIE<br>I WARUNKI ZWYCIĘSTWA"
   ]
  },
  "u3": {
@@ -16,7 +16,7 @@
  },
  "u5": {
   "paras": [
-   "10.1 ROZSTRZYGNIĘCIE (SCORING)",
+   "10.1 ROZSTRZYGNIĘCIA (SCORING)",
    "<b>10.1.1</b> Podczas Rozstrzygnięcia w Regionie (Regional Scoring) stosuje się następujące terminy:",
    "<b><u>Obecność (Presence):</u></b> Supermocarstwo ma Obecność w Regionie, jeśli kontroluje (Controls) co najmniej 1 państwo w tym Regionie.",
    "<b><u>Dominacja (Domination):</u></b> Supermocarstwo uzyskuje Dominację w Regionie, jeśli kontroluje (Controls) w nim więcej państw (łącznie) i więcej Państw Strategicznych (Battleground countries) niż przeciwnik (oraz co najmniej 1 państwo niestrategiczne, non-Battleground country).",

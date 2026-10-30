@@ -5,10 +5,10 @@
    "Powyższy wynik rzutu (DR) modyfikuje się następująco:",
    "+1 dla oddziału słoni (Elephant) atakującego falangę (PH) lub ciężką piechotę (HI) przez heks frontowy (Front hex);",
    "+1 dla słonia afrykańskiego (African Elephant) atakującego oddział słoni indyjskich (Indian Elephant) lub broniącego się przed nim;",
-   "+1 dla oddziału atakowanego przez falangę o podwójnej głębokości (Double Depth);",
-   "–1 dla falangi o podwójnej głębokości atakowanej przez dowolny oddział;",
+   "+1 dla oddziału atakowanego przez falangę (PH) o podwójnej głębokości (Double Depth);",
+   "–1 dla falangi (PH) o podwójnej głębokości atakowanej przez dowolny oddział;",
    "–1 dla piechoty barbarzyńskiej (BI) mającej zaciekłość (Ferocity, 9.94);",
-   "+2 dla oddziału atakowanego przez piechotę barbarzyńską mającą zaciekłość (9.94)."
+   "+2 dla oddziału atakowanego przez piechotę barbarzyńską (BI) mającą zaciekłość (9.94)."
   ]
  },
  "u4": {
@@ -29,15 +29,15 @@
  },
  "u6": {
   "paras": [
-   "PRZYKŁAD NR 3: Dwa oddziały rzymskie atakują oddział falangi (Phalanx): oddział welitów od frontu i oddział ciężkiej jazdy sprzymierzeńców (HC) od tyłu. Gracz rzymski wybrałby wariant „ciężka jazda (HC) atakuje falangi od tyłu” („HC attacking Phalanxes from the rear”), aby uzyskać znacznie korzystniejszą kolumnę 11, a także przewagę pozycyjną (position Superiority) za atak od tyłu.",
-   "<b>8.46 Zmagania wręcz (The Hand-to-Hand Struggle):</b> Gracze ustalają teraz skutki wszelkich przewag, jakie ma którakolwiek ze stron, a następnie rozstrzygają starcie (Shock Combat).",
+   "PRZYKŁAD NR 3: Dwa oddziały rzymskie atakują oddział falangi (Phalanx): oddział welitów (Velites) od frontu i oddział ciężkiej jazdy sprzymierzeńców (HC) od tyłu. Gracz rzymski wybrałby wariant „ciężka jazda (HC) atakuje falangi od tyłu” („HC attacking Phalanxes from the rear”), aby uzyskać znacznie korzystniejszą kolumnę 11, a także przewagę pozycyjną (position Superiority) za atak od tyłu.",
+   "<b>8.46 Zmagania wręcz (The Hand-to-Hand Struggle):</b> Gracze ustalają teraz skutki wszelkich przewag (Superiority), jakie ma którakolwiek ze stron, a następnie rozstrzygają starcie (Shock Combat).",
    "<b>Krok 1: Ustal przewagę (Determine Superiority):</b> Istnieją dwa rodzaje przewagi: przewaga pozycyjna (Position Superiority) i przewaga systemu uzbrojenia (Weapon System Superiority). Jedna albo druga strona może (ale nie musi) uzyskać przewagę – jako przewagę atakującego (AS) albo przewagę obrońcy (DS). Gracze ustalają przewagę za pomocą tabeli przewagi w starciu (Shock Superiority Chart). W wielu przypadkach żadna ze stron nie ma przewagi. Przewagę ustala się następująco:",
-   "<b>A. Przewaga pozycyjna (Position Superiority):</b> Oddział atakujący ma z reguły przewagę pozycyjną, jeśli atakuje przez heks skrzydłowy (Flank) lub heks tylny (Rear hex) oddziału broniącego się. Oddział, na podstawie którego gracz atakujący ustala przewagę pozycyjną, musi jednak być zarazem tym, na podstawie którego ustala się kolumnę starcia w tabeli szczęku włóczni i mieczy (Clash of Swords chart) zgodnie z 8.45.",
+   "<b>A. Przewaga pozycyjna (Position Superiority):</b> Oddział atakujący ma z reguły przewagę pozycyjną, jeśli atakuje przez heks skrzydłowy (Flank) lub heks tylny (Rear hex) oddziału broniącego się. Oddział, na podstawie którego gracz atakujący ustala przewagę pozycyjną, musi jednak być zarazem tym, na podstawie którego ustala się kolumnę starcia (Shock) w tabeli szczęku włóczni i mieczy (Clash of Swords chart) zgodnie z 8.45.",
    "Atak nie daje przewagi pozycyjnej (Position Superiority), gdy:",
    "• oddział harcowników (Skirmisher) jest atakowany przez heks skrzydłowy (Flank hex), <i>lub</i>",
    "• oddział jazdy atakuje oddział słoni (Elephant), <i>lub</i>",
    "• oddział słoni (Elephant) atakuje inny oddział słoni, <i>lub</i>",
-   "• oddział atakujący znajduje się w strefie kontroli (ZOC) zdolnego do starcia oddziału wroga, który stoi w heksie skrzydłowym (Flank) lub w heksie tylnym (Rear hex) atakującego.",
+   "• oddział atakujący znajduje się w strefie kontroli (ZOC) zdolnego do starcia (Shock-capable) oddziału wroga, który stoi w heksie skrzydłowym (Flank) lub w heksie tylnym (Rear hex) atakującego.",
    "W powyższych sytuacjach o przewadze (Superiority) decyduje system uzbrojenia (Weapon System, 8.46[1.B] poniżej). Jeśli oddział atakujący ma przewagę pozycyjną, gracz atakujący uzyskuje w tej walce przewagę atakującego (AS).",
    "<b>B. Przewaga systemu uzbrojenia (Weapon System Superiority):</b> Jeśli nie uzyskano przewagi pozycyjnej, gracze sprawdzają wzajemną relację klas uzbrojenia (weapon class) przeciwnych oddziałów (zob. tabela przewagi w starciu – Shock Superiority Chart, 8.72), aby ustalić, czy system uzbrojenia którejś ze stron ma przewagę (AS albo DS) nad drugim. Jeśli po którejkolwiek stronie w walce bierze udział więcej niż jeden oddział, do ustalenia używa się oddziałów wybranych w 8.45."
   ]

@@ -2,7 +2,7 @@
  "_uwagi": "s. 16 (sp10_18): u2[0] – dokończenie 6.51 ze s. 15 (u10[0])",
  "u2": {
   "paras": [
-   "oddziałów, oddalając się od poruszającego się oddziału. „Oddalanie się” (Away) oznacza, że wycofujący się oddział musi wejść na heks dalszy od poruszającego się oddziału (licząc w heksach) niż heks, który opuszcza. Wycofanie musi nastąpić w chwili, gdy oddział wroga wejdzie w zasięg 2 heksów (lub zacznie w nim ruch) – tymczasowo wstrzymaj jego ruch; inaczej możliwość przepada. Falangi używają swojej MA 4, gdy próbują się wycofać, ale MA 5, gdy próbuje się wycofać oddział przeciwnika.",
+   "oddziałów, oddalając się od poruszającego się oddziału. „Oddalanie się” (Away) oznacza, że wycofujący się oddział musi wejść na heks dalszy od poruszającego się oddziału (licząc w heksach) niż heks, który opuszcza. Wycofanie (Withdrawal) musi nastąpić w chwili, gdy oddział wroga wejdzie w zasięg 2 heksów (lub zacznie w nim ruch) – tymczasowo wstrzymaj jego ruch; inaczej możliwość przepada. Falangi (PH) używają swojej MA 4, gdy próbują się wycofać, ale MA 5, gdy próbuje się wycofać oddział przeciwnika.",
    "Wyjątki:",
    "• Oddziały harcowników (Skirmisher, SK) mogą wykonać uporządkowany odwrót (Orderly Withdraw) o maksymalnie 2 heksy – nie MP – przed każdym oddziałem o równej lub niższej MA, niezależnie od różnicy MA.",
    "• Oddziały rozbite (Routed) oraz oddziały, których MA podniesiono ponad nadrukowaną wartość (np. ruchem w kolumnie – Column Movement), nie mogą wykonywać uporządkowanego odwrotu (Orderly Withdrawal).",
@@ -16,13 +16,13 @@
  },
  "u4": {
   "paras": [
-   "PRZYKŁAD NR 1: Oddział welitów (Velites, MA 6), do którego zbliża się falanga (MA 5), może się wycofać (Withdraw) o 1 heks terenu otwartego (6–5 = 1 MP). Oddział hastati nie mógłby wykonać uporządkowanego odwrotu (OW), gdy zbliża się do niego falanga, ponieważ oba mają taką samą MA.",
-   "PRZYKŁAD NR 2: Oddział jazdy (MA 8) nie może wycofać się pod górę przed poruszającym się oddziałem słoni (MA 7), bo kosztowałoby to jazdę 2 MP."
+   "PRZYKŁAD NR 1: Oddział welitów (Velites, MA 6), do którego zbliża się falanga (PH, MA 5), może się wycofać (Withdraw) o 1 heks terenu otwartego (6–5 = 1 MP). Oddział hastati nie mógłby wykonać uporządkowanego odwrotu (OW), gdy zbliża się do niego falanga, ponieważ oba mają taką samą MA.",
+   "PRZYKŁAD NR 2: Oddział jazdy (MA 8) nie może wycofać się pod górę przed poruszającym się oddziałem słoni (EL, MA 7), bo kosztowałoby to jazdę 2 MP."
   ]
  },
  "u5": {
   "paras": [
-   "PRZYKŁAD NR 3: Na powyższym diagramie do harcowników zbliża się oddział od tyłu (Rear), więc za wycofanie otrzymaliby 1 ubytek spójności (Cohesion Hit). Harcownicy mogą się wycofać na zacienione heksy – każdy z nich leży „dalej” (Away) od zbliżającego się oddziału principes."
+   "PRZYKŁAD NR 3: Na powyższym diagramie do harcowników (SK) zbliża się oddział od tyłu (Rear), więc za wycofanie otrzymaliby 1 ubytek spójności (Cohesion Hit). Harcownicy mogą się wycofać na zacienione heksy – każdy z nich leży „dalej” (Away) od zbliżającego się oddziału principes."
   ]
  },
  "u6": {

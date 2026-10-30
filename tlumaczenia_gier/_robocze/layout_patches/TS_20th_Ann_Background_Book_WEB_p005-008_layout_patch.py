@@ -413,3 +413,50 @@ for pg in range(5, 9):
     clear_boxes(P)
     whiteouts(P)
     P.save()
+
+
+# ====================================================================== 30.10 nawiasy kart (bb_karta)
+# Decyzja użytkownika 30.10: brakujące nawiasy EN (lista ZAWSZE, tytuły kart) – łatki z dodatkowym wierszem.
+# Blok NIE woła restore(): startuje od stanu po pętli stron powyżej (cały plik jest idempotentny).
+def grow(u, i, nlines):
+    """akapit i ma po polsku nlines wierszy: lastbase = base + (n − 1) · interlinia; dalsze akapity w dół o różnicę"""
+    p = u['paras'][i]
+    new_last = round(p['base'] + (nlines - 1) * p['pitch'], 2)
+    d = round(new_last - p['lastbase'], 2)
+    p['nlines'] = nlines
+    p['lastbase'] = new_last
+    p['bottom'] = round(p['bottom'] + d, 2)
+    shift_from(u, i + 1, d)
+
+
+# ---- s. 5: AR4 (ZSRR) „z Europy Zachodniej (Western Europe).” (opis w 2 wierszach), AR4 (USA) „Karta:
+# Rozstrzygnięcie w Europie (Europe Scoring, …)” (2 wiersze) – mniejsze odstępy w blokach, dół 3 pt nad ramką
+P = Patch(D, 5)
+u = P.unit('u3')
+P.para(u, 0, pitch=12.0)
+grow(u, 0, 2)
+grow(u, 1, 2)
+set_gap(u, 1, 11.5)
+set_gap(u, 2, 12.8)
+set_gap(u, 3, 12.8)
+P.set(u, maxBottom=158.4)
+u = P.unit('u6')
+grow(u, 0, 2)
+set_gap(u, 1, 11.2)
+P.set(u, maxBottom=272.3)
+P.save()
+
+# ---- s. 8: AR3 (ZSRR) „Modyfikator rzutu: −1 (Kontrola Iranu przez USA, US control of Iran)” – jeden wiersz
+# (zwężenie liter); AR4 (USA) „Karta: Pakt o wzajemnej obronie USA/Japonia (US/Japan Mutual Defense Pact,
+# Wydarzenie USA)” w 2 wierszach – odstępy bloku jak w najgęstszych blokach strony (TIGHT, bez EXTRA),
+# interlinia wiersza „Karta:” 11,5 pt, dół 3,5 pt nad ramką dialogu (y = 694)
+P = Patch(D, 8)
+P.para('u3', 2, hs=0.94)
+P.set('u3', x1=298.0, maxBottom=178.8)            # łam do 298 (ramka dialogu do x = 300), 3 pt nad ramką
+u = P.unit('u17')
+P.para(u, 0, pitch=11.5)
+grow(u, 0, 2)
+for i, g in ((1, TIGHT[('card', 'txt')]), (2, TIGHT[('txt', 'bul')]), (3, TIGHT[('bul', 'txt')])):
+    set_gap(u, i, g)
+P.set(u, maxBottom=690.5)
+P.save()

@@ -58,7 +58,7 @@
  "u12": {
   "paras": [
    "<b>6.21</b> Oddział wydaje punkty ruchu (Movement Points, MP) za każdy heks, na który wchodzi, zgodnie z tabelą kosztów ruchu (Movement Cost Chart, 6.27). Większość oddziałów płaci też dodatkowe MP za wejście na heks położony wyżej. Oddziały bojowe płacą również MP – i ewentualnie ponoszą kary w spójności – za zmianę frontu (change facing, 7.1).",
-   "PRZYKŁAD: Tak więc oddział ciężkiej piechoty stojący pod Kynoskefalaj na heksie 2322 wydałby 4 MP, aby wejść na heks 2523 (po 1 za każdy heks terenu otwartego i za każdy wyższy poziom terenu).",
+   "PRZYKŁAD: Tak więc oddział ciężkiej piechoty (HI) stojący pod Kynoskefalaj na heksie 2322 wydałby 4 MP, aby wejść na heks 2523 (po 1 za każdy heks terenu otwartego i za każdy wyższy poziom terenu).",
    "<b>6.22</b> Niewiele trzeba było, by zdezorganizować szyk, który musiał wejść na teren inny niż płaski i gładki. Niektóre oddziały – zależnie od typu – otrzymują ubytki spójności (Cohesion Hits) za każdym razem, gdy wchodzą na określone rodzaje terenu – zwykle każdy inny niż teren otwarty (Clear) – lub zmieniają na nim front, i/lub gdy zmieniają wysokość terenu. Niektóre oddziały otrzymują jednak ubytki spójności przy ruchu pod górę tylko wtedy, gdy w jednym ruchu zmieniają wysokość o więcej niż jeden poziom (zob. tabelę kosztów ruchu – Movement Cost Chart). Wszystkie ubytki spójności za ruch i zmiany frontu nalicza się natychmiast, w chwili ich powstania. Dowódcy i oddziały rozbite (Routed) nigdy nie otrzymują ubytków spójności.",
    "PRZYKŁAD: W przykładzie z 6.21 ten oddział ciężkiej piechoty (HI) otrzymałby dwa ubytki spójności (Cohesion Hits) za ruch o dwa poziomy w górę, natomiast oddział średniej piechoty (MI) – tylko jeden."
   ]

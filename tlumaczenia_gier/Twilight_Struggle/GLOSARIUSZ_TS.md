@@ -18,7 +18,7 @@ Kryterium nadrzędne (GLOSARIUSZ.md): polski gracz gra z angielską planszą, ka
 
 1. Terminy mechaniki gry i nazwy elementów przejmujemy z Phalanx (decyzja użytkownika 26.10.2026) – także wtedy, gdy nie są dosłownym przekładem EN. EN zawsze w nawiasie (zasada A; w PDF – lista ZAWSZE, 0.4), więc gracz z angielskimi elementami odnajdzie element. Przejęte m.in.: Region, podregion, Wpływy, Punkty Wpływów, Kontrola, Obecność, Dominacja, Operacje, Punkty Operacyjne, Wartość Operacyjna, Przewrót, Wywieranie Presji, Wyścig Kosmiczny, DEFCON, Operacje Wojskowe, Wymagane Operacje Wojskowe, Wydarzenie, Wydarzenia Wojenne, Trwałe Wydarzenia, Karta Chińska, Punkty Zwycięstwa, supermocarstwo, licytacja, stos kart odrzuconych, zatrzymana karta, limit kart na ręce.
 2. Terminy Phalanx niedosłowne, przejęte decyzją 26.10 (oznaczenie [Phalanx; decyzja 26.10]): Etap (Turn), Runda (Action Round), Rundy graczy (krok D „Action Rounds”), Wydarzenie Kluczowe / faza Wydarzeń Kluczowych (Headline / Headline Phase), Rozstrzygnięcie (Scoring), karta Rozstrzygnięcia (Scoring card), Rozstrzygnięcie Końcowe (Final Scoring), Preludium / Eskalacja / Apogeum (Early / Mid / Late War), Scenariusz Apogeum (A Late War Scenario), Oznaczenie Okresu (Deck Indicator), tor Punktacji i znacznik Punktacji (Victory Point track, VP marker), tor Etapów, znacznik Etapu, znacznik Rundy, Poszerzanie Strefy Wpływów (Placing Influence – Operacja), Poprawa sytuacji na torze DEFCON (krok A), podnosić / obniżać DEFCON (improve / degrade, R 8.1.7), Przygotowanie Karty Chińskiej (krok G), Postęp na torze Etapów (krok H), znacznik karty w grze (card reminder marker), zwycięstwo po zakończeniu gry (End Game Victory), Specjalne ograniczenie dla USA (Special US Condition), zainicjować (trigger), „na poczet Wyścigu Kosmicznego” (for the Space Race); wcześniej przejęte: Wywieranie Presji, Państwo Strategiczne (Battleground; decyzja 26.10 pkt 3), Poziom Stabilizacji, Aktywny Gracz. Formy pochodne, których Phalanx nie ma (Etap zero – Turn Zero, tor Rund – Action Round track), tworzymy od przejętych rdzeni [nowe 26.10 – propozycja].
-3. Nie przejmujemy z Phalanx: (a) lokalizacji kulturowych tytułów kart (pkt 4; decyzja 26.10 pkt 4); (b) zmian tytułów kart przez dodanie lub pominięcie treści (np. „Blokada Berlina”, „CIA”) – zasady dla tytułów (0.7, sekcja 5) bez zmian; (c) użyć Phalanx sprzecznych z zasadą L lub M albo z ustaleniami projektu: „rozpatrzyć” także dla occur (u nas occur – zajść, resolve – rozpatrzyć), „podnieść” także dla increase (u nas increase – zwiększyć), „znaczniki” dla counters (u nas żetony, marker – znacznik), „Opcjonalne zasady autorów” (M: projektantów), „Komponenty” (Elementy gry jak w SE), polskie skróty PO i PZ; (d) zmienionych przez Phalanx nagłówków rozdziałów, które nie są terminami (2.1 „Plansza”, 6.3 „Przewroty”, 9.0 „Karta Chińska”, 10.3 „Warunki zwycięstwa”) – nagłówki przekładamy wiernie z użyciem przyjętych terminów (sekcja 4); sprawa do ewentualnej decyzji – 12.1.
+3. Nie przejmujemy z Phalanx: (a) lokalizacji kulturowych tytułów kart (pkt 4; decyzja 26.10 pkt 4); (b) zmian tytułów kart przez dodanie lub pominięcie treści (np. „Blokada Berlina”, „CIA”) – zasady dla tytułów (0.7, sekcja 5) bez zmian; (c) użyć Phalanx sprzecznych z zasadą L lub M albo z ustaleniami projektu: „rozpatrzyć” także dla occur (u nas occur – zajść, resolve – rozpatrzyć), „podnieść” także dla increase (u nas increase – zwiększyć), „znaczniki” dla counters (u nas żetony, marker – znacznik), polskie skróty PO i PZ, a poza nagłówkami (pkt d) także „Opcjonalne zasady autorów” (M: projektantów) i „Komponenty” (Elementy gry jak w SE); (d) nagłówki rozdziałów i punktów R – PRZEJMUJEMY brzmienie Phalanx tam, gdzie Phalanx ma punkt tej samej treści (2.0 „Komponenty”, 2.1 „Plansza”, 3.0 „Przygotowanie rozgrywki”, 4.0 „Przebieg rozgrywki”, 6.2 „Wywieranie Presji”, 6.3 „Przewroty”, 8.0 „… oraz …”, 9.0 „Karta Chińska”, 10.0 „Rozstrzygnięcie i warunki zwycięstwa”, 10.1 „Rozstrzygnięcia”, 10.3 „Warunki zwycięstwa”, 13.3 „Opcjonalne zasady autorów” i in. – sekcja 4.1) [decyzja użytkownika 30.10 – nagłówki jak Phalanx]; nawias EN w nagłówku zostaje z brzmieniem oryginału; pisownię wielkich liter wyznacza 0.2 (np. „Chińska wojna domowa”, nie „Chińska Wojna Domowa”); punkty nowe w 20th Anniversary (Etap zero, Red Sun Rising, 13.0–13.2, 13.4, Przygotowanie scenariusza) zostają w przekładzie wiernym.
 4. Lokalizacji kulturowych Phalanx (zmienione tytuły kart i odniesienia: „Przysposobienie obronne” za Duck and Cover, „Diabelska alternatywa” za Missile Envy, „Paraliż”, „Wietkong”, „Trzecia droga”, „Dzieci kwiaty”, „Stracona dekada” itd.) nie przejmujemy – podajemy wierny przekład EN, a formę Phalanx odnotowujemy w uwagach (sekcja 5).
 5. Dawniejsze polskie warianty wymienione w „Uwagach tłumacza” Phalanx (s. 32): „Kulminacja Napięć” (Scoring), „Zmiana Sojuszu” (Realignment); w zasadach opcjonalnych Phalanx (s. 36) raz pojawia się „Zamach Stanu” (Coup). Żadnego z nich nie używamy (sekcja 10); Coup = Przewrót (decyzja 26.10 pkt 2).
 
@@ -185,7 +185,7 @@ Zasada A.4: nazwy znaczników, kart, torów, pól i etykiet – polska nazwa (pi
 | EN | PL | uwagi / źródło |
 |---|---|---|
 | map board / game board / board / map / 2-sided Game Board | plansza z mapą / plansza / plansza / mapa / Dwustronna plansza | R 2.0, 2.1, s. 3; „double-sided 22” by 34” map board” – dwustronna plansza z mapą 22 × 34 cale |
-| The Game Map / map space / space | Mapa gry / pole na mapie / pole | R 2.1, 2.1.3 |
+| The Game Map / map space / space | mapa gry / pole na mapie / pole | R 2.1, 2.1.3; nagłówek 2.1 – „Plansza” (Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx, 4.1) |
 | box (track) / Start box / space (track) | pole (toru) / pole Start / pole (toru) | R 3.4, 6.4.1, 10.2.1; box i space to w TS to samo – jeden polski odpowiednik (sekcja 11); „Count this box as a space” – „Licz to pole jako jedno pole” |
 | level (DEFCON track) | poziom | R 3.4 „Level 5 of the DEFCON track” – poziom 5 toru DEFCON |
 | Turn Record track / Turn track / TURN RECORD TRACK | tor Etapów / tor Etapów / TOR ETAPÓW | [Phalanx; decyzja 26.10]; R 3.4, 7.3; plansza (Phalanx: napis „TOR ETAPÓW”, „torze Etapów”) |
@@ -204,7 +204,7 @@ Zasada A.4: nazwy znaczników, kart, torów, pól i etykiet – polska nazwa (pi
 | US VICTORY / USSR VICTORY / START (tor VP) | ZWYCIĘSTWO USA / ZWYCIĘSTWO ZSRR / START | plansza |
 | US-20 / USSR-20 / US-10 box | USA-20 / ZSRR-20 / pole USA-10 | R 10.2; 0.6.2 |
 | CURRENT DECK / DISCARD PILE (pola na planszy) | BIEŻĄCA TALIA / STOS KART ODRZUCONYCH | plansza (R s. 7) |
-| SEQUENCE OF PLAY (ramka na planszy) | SEKWENCJA GRY | plansza (R s. 6); rozdział 4.0 „Game Sequence” – Przebieg gry; kroki A–I jak w sekcji 3 |
+| SEQUENCE OF PLAY (ramka na planszy) | SEKWENCJA GRY | plansza (R s. 6); rozdział 4.0 „Game Sequence” – Przebieg rozgrywki (nagłówek jak Phalanx, decyzja 30.10); kroki A–I jak w sekcji 3 |
 | MAP KEY / Regional Connection / Inter-regional Connection / Adjacency to Superpower | LEGENDA MAPY / połączenie w obrębie Regionu / połączenie międzyregionalne / sąsiedztwo z supermocarstwem | [Phalanx] (połączenia, sąsiedztwo); legenda mapy (R s. 6); w tekście: „brown, red and black lines” – brązowe, czerwone i czarne linie |
 | Stability Number / Flag Name / Influence Marker placement area / At Start Influence / Country / Battleground Country | Poziom Stabilizacji / flaga, nazwa / miejsce na znaczniki Wpływów / Wpływy początkowe / państwo / Państwo Strategiczne | legenda mapy; [Phalanx] (miejsce na znaczniki Wpływów) |
 | (Subregion of Europe) / Both W. & E. Europe / (Subregion of Asia) | (podregion Europy) / Europa Zach. i Wsch. / (podregion Azji) | legenda mapy |
@@ -278,7 +278,7 @@ Zasada L: marker – znacznik; counter i token – żeton (to samo w TS: tekturo
 
 | EN | PL | uwagi / źródło |
 |---|---|---|
-| Components / BASE GAME | Elementy gry / GRA PODSTAWOWA | R 2.0; Phalanx: „Komponenty” – nie przejęte (zgodność z SE: „Elementy gry”) |
+| Components / BASE GAME | Komponenty (nagłówek 2.0) / elementy gry (w tekście) / GRA PODSTAWOWA | R 2.0; nagłówek 2.0 – „Komponenty” (Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx); w tekście „elementy” |
 | One double-sided 22” by 34” map board / Two punchboards / Two Player Aid cards / 110 Event cards (numbered 1 through 110) / Two 6-sided dice / A Background Booklet / This Rules Booklet | jedna dwustronna plansza z mapą 22 × 34 cale / dwa arkusze z wykrojonymi elementami / dwie karty pomocy gracza / 110 kart Wydarzeń (o numerach od 1 do 110) / dwie kości sześciościenne / zeszyt tła historycznego (Background Booklet) / niniejszy zeszyt zasad | R 2.0; tytuł BB – sekcja 4.4 |
 | The Turn Zero Expansion: 10 Turn Zero Statecraft cards (TZ1-TZ10) / 6 Turn Zero Oversize Crisis cards / 2 Turn Zero Event cards (TZ11-TZ12) / Several cardboard tokens (on a shared punchboard) | Dodatek Etap zero (Turn Zero Expansion): 10 kart Sztuki Rządzenia Etapu zero (TZ1–TZ10) / 6 kart Kryzysów Etapu zero w dużym formacie / 2 karty Wydarzeń Etapu zero (TZ11–TZ12) / kilka tekturowych żetonów (na wspólnym arkuszu z wykrojonymi elementami) | R 2.0 |
 | The Red Sun Rising scenario: One 11” by 17” map overlay / 18 Event cards (RS1-RS18) | Scenariusz Wschodzące czerwone słońce (Red Sun Rising): jedna nakładka na mapę 11 × 17 cali / 18 kart Wydarzeń (RS1–RS18) | R 2.0 |
@@ -348,7 +348,7 @@ Zasada L: marker – znacznik; counter i token – żeton (to samo w TS: tekturo
 | A Late War Scenario | Scenariusz Apogeum | [Phalanx; decyzja 26.10]; R s. 20–21 (Phalanx: „Scenariusz Apogeum”) |
 | Red Sun Rising / Red Sun Rising Scenario | Wschodzące czerwone słońce / scenariusz Wschodzące czerwone słońce | R s. 22; [nowe 26.10 – propozycja]; gra słów (wschodzące słońce – symbol Japonii; czerwień – komunizm); EN zawsze w nawiasie |
 | what if scenario / alternate-history scenario | scenariusz „co by było, gdyby” / scenariusz historii alternatywnej | R s. 22, 2.0 |
-| Optional Rules / Designers’ Optional Rules | zasady opcjonalne / opcjonalne zasady projektantów | R 13.0, 13.3; Phalanx „Opcjonalne zasady autorów” – nie przejęte (designer – projektant, zasada M) |
+| Optional Rules / Designers’ Optional Rules | zasady opcjonalne / opcjonalne zasady projektantów | R 13.0, 13.3; w tekście – projektanci (zasada M); nagłówek 13.3 – „Opcjonalne zasady autorów” (Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx, 4.1) |
 | Promotional Cards / localized versions / international publishing partners | karty promocyjne / wersje zlokalizowane / zagraniczni partnerzy wydawniczy | R 13.2 |
 | Special Rules (scenario) | zasady specjalne | R s. 23 |
 | Control and Influence (setup box) / Mark Influence as minimum needed for Control, except where shown as (US#/Sov#). | Kontrola i Wpływy / Umieść minimalną liczbę Punktów Wpływów potrzebną do Kontroli, z wyjątkiem państw z zapisem (USA#/ZSRR#). | R s. 21 |
@@ -356,55 +356,55 @@ Zasada L: marker – znacznik; counter i token – żeton (to samo w TS: tekturo
 
 ## 4. Nagłówki i tytuły (Zasady i Background Book)
 
-Zasada: tytuł rozdziału, punktu, artykułu i ramki – wierny przekład; terminy wewnątrz nagłówków wg sekcji 1–3; wersaliki jak w oryginale (INSTRUKCJA_NOWE). EN w nawiasie w nagłówkach – tylko gdy nie wydłuża nagłówka o wiersz (K.4); w md przy terminach gry – tak jak w tekście.
+Zasada: tytuł rozdziału, punktu, artykułu i ramki – wierny przekład (wyjątek: nagłówki R mające odpowiednik w Phalanx – brzmienie Phalanx, 0.1.3 d, 4.1; decyzja użytkownika 30.10 – nagłówki jak Phalanx); terminy wewnątrz nagłówków wg sekcji 1–3; wersaliki jak w oryginale (INSTRUKCJA_NOWE). EN w nawiasie w nagłówkach – tylko gdy nie wydłuża nagłówka o wiersz (K.4); w md przy terminach gry – tak jak w tekście.
 
 ### 4.1 Zasady (R): spis treści i nagłówki punktów
 
 | EN | PL | uwagi / źródło |
 |---|---|---|
-| RULEBOOK / TABLE OF CONTENTS | KSIĘGA ZASAD / SPIS TREŚCI | R s. 1 |
+| RULEBOOK / TABLE OF CONTENTS | KSIĘGA ZASAD / SPIS TREŚCI | R s. 1; pozycje spisu = nagłówki rozdziałów poniżej (2.0, 3.0, 4.0, 8.0, 9.0, 10.0 – brzmienie Phalanx, decyzja użytkownika 30.10 – nagłówki jak Phalanx) |
 | 1.0 Introduction | 1.0 Wprowadzenie | |
-| 2.0 Components | 2.0 Elementy gry | |
-| 2.1 The Game Map | 2.1 Mapa gry | Phalanx „Plansza” – nie przejęte |
+| 2.0 Components | 2.0 Komponenty | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Elementy gry) |
+| 2.1 The Game Map | 2.1 Plansza | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Mapa gry) |
 | 2.1.4 Battleground Countries | 2.1.4 Państwa Strategiczne | etykieta wpuszczona w akapit |
-| 2.1.7 Controlling Countries | 2.1.7 Kontrolowanie państw | |
+| 2.1.7 Controlling Countries | 2.1.7 Kontrolowanie państwa | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Kontrolowanie państw) |
 | 2.2 Cards | 2.2 Karty | |
 | 2.3 Markers | 2.3 Znaczniki | |
-| 3.0 Game Setup | 3.0 Przygotowanie gry | |
-| 4.0 Game Sequence | 4.0 Przebieg gry | Phalanx „Przebieg rozgrywki” (nagłówek, nie termin); ramka planszy „Sequence of Play” – Sekwencja gry |
+| 3.0 Game Setup | 3.0 Przygotowanie rozgrywki | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Przygotowanie gry; Phalanx – spis treści „Przygotowanie rozgrywki”, nagłówek „PRZYGOTOWANIE”); w tekście „przygotowanie gry” (setup) bez zmian |
+| 4.0 Game Sequence | 4.0 Przebieg rozgrywki | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Przebieg gry); ramka planszy „Sequence of Play” – Sekwencja gry |
 | A. Improve DEFCON Status … I. Final Scoring | jak w sekcji 3.1 (A. Poprawa sytuacji na torze DEFCON … I. Rozstrzygnięcie Końcowe) | etykiety kroków (pogrubione) |
 | 5.0 Card Play | 5.0 Zagrywanie kart | [Phalanx] |
 | 5.2 Events Associated With Your Opponent | 5.2 Wydarzenia powiązane z przeciwnikiem | |
 | 6.0 Operations | 6.0 Operacje | |
 | 6.1 Placing Influence Markers | 6.1 Poszerzanie Strefy Wpływów | [Phalanx; decyzja 26.10] (Phalanx 6.1 „POSZERZANIE STREFY WPŁYWÓW”) |
-| 6.2 Realignment Rolls | 6.2 Rzuty na Wywieranie Presji | Phalanx „WYWIERANIE PRESJI” (pomija Rolls; nagłówek – 0.1.3 d) |
-| 6.3 Coup Attempts | 6.3 Próby Przewrotu | Phalanx „PRZEWROTY” (nagłówek – 0.1.3 d) |
+| 6.2 Realignment Rolls | 6.2 Wywieranie Presji | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Rzuty na Wywieranie Presji); w tekście „rzut na Wywieranie Presji (Realignment roll)” bez zmian |
+| 6.3 Coup Attempts | 6.3 Przewroty | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Próby Przewrotu); w tekście „próba Przewrotu (Coup attempt)” bez zmian |
 | 6.4 The Space Race | 6.4 Wyścig Kosmiczny | |
 | 7.0 Events | 7.0 Wydarzenia | |
 | 7.3 Lasting Events | 7.3 Trwałe Wydarzenia | |
 | 7.6 War Events | 7.6 Wydarzenia Wojenne | |
-| 8.0 DEFCON Status and Military Operations | 8.0 Status DEFCON i Operacje Wojskowe | [Phalanx] |
+| 8.0 DEFCON Status and Military Operations | 8.0 Status DEFCON oraz Operacje Wojskowe | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: … i …) |
 | 8.1 The DEFCON Track | 8.1 Tor DEFCON | |
 | 8.1.7 Improve & Degrade | 8.1.7 Podnoszenie i obniżanie | [Phalanx; decyzja 26.10] |
 | 8.2 Required Military Operations | 8.2 Wymagane Operacje Wojskowe | |
-| 9.0 China | 9.0 Chiny | Phalanx „Karta Chińska” – nie przejęte (EN: China) |
-| 10.0 Scoring and Victory | 10.0 Rozstrzygnięcie i zwycięstwo | Phalanx „ROZSTRZYGNIĘCIE I WARUNKI ZWYCIĘSTWA” (dodaje „warunki” – nagłówek, 0.1.3 d) |
-| 10.1 Scoring | 10.1 Rozstrzygnięcie | Phalanx „ROZSTRZYGNIĘCIA” (l.mn.) – EN l.poj. |
+| 9.0 China | 9.0 Karta Chińska | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Chiny); punkt 9.1 bez tytułu (Phalanx 9.1 „Udział Chin w Zimnej Wojnie” – w 20th brak) |
+| 10.0 Scoring and Victory | 10.0 Rozstrzygnięcie i warunki zwycięstwa | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Rozstrzygnięcie i zwycięstwo); w składzie dwa wiersze jak w Phalanx |
+| 10.1 Scoring | 10.1 Rozstrzygnięcia | [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Rozstrzygnięcie) |
 | 10.2 The Victory Point Track | 10.2 Tor Punktacji | [Phalanx; decyzja 26.10] (Phalanx 10.2 „Tor Punktacji”) |
-| 10.3 Victory / 10.3.1 Automatic Victory / 10.3.2 End Game Victory | 10.3 Zwycięstwo / 10.3.1 Automatyczne zwycięstwo / 10.3.2 Zwycięstwo po zakończeniu gry | 10.3.2 – [Phalanx; decyzja 26.10]; 10.3 – Phalanx „WARUNKI ZWYCIĘSTWA” (nagłówek, 0.1.3 d) |
+| 10.3 Victory / 10.3.1 Automatic Victory / 10.3.2 End Game Victory | 10.3 Warunki zwycięstwa / 10.3.1 Automatyczne zwycięstwo / 10.3.2 Zwycięstwo po zakończeniu gry | 10.3 – [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Zwycięstwo); 10.3.2 – [Phalanx; decyzja 26.10] |
 | 11.0 The Chinese Civil War Variant / From C3i #21, copyright RBM Studio | 11.0 Wariant „Chińska wojna domowa” / Z magazynu C3i #21, prawa autorskie: RBM Studio | |
-| 11.1 The Chinese Civil War space | 11.1 Pole Chińska wojna domowa | |
-| 11.2 Control / 11.3 Impact of Control / 11.4 Event Restrictions / 11.4.1 Special US Condition | 11.2 Kontrola / 11.3 Skutki Kontroli / 11.4 Ograniczenia Wydarzeń / 11.4.1 Specjalne ograniczenie dla USA | Phalanx 12.2–12.4.1 (Kontrola, Skutki kontroli pola, Ograniczenie Wydarzeń, Specjalne ograniczenie dla USA); 11.4.1 – [Phalanx; decyzja 26.10] |
+| 11.1 The Chinese Civil War space | 11.1 Pole „Chińska wojna domowa” | [Phalanx 12.1; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: bez cudzysłowu); wielkie litery wg 0.2 (Phalanx „Chińska Wojna Domowa”); w tekście bez cudzysłowu |
+| 11.2 Control / 11.3 Impact of Control / 11.4 Event Restrictions / 11.4.1 Special US Condition | 11.2 Kontrola / 11.3 Skutki Kontroli pola / 11.4 Ograniczenie Wydarzeń / 11.4.1 Specjalne ograniczenie dla USA | Phalanx 12.2–12.4.1; 11.3, 11.4 – [Phalanx; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Skutki Kontroli, Ograniczenia Wydarzeń; „Kontroli” wielką literą wg 0.2); 11.4.1 – [Phalanx; decyzja 26.10] |
 | 12. Turn Zero Expansion | 12. Dodatek Etap zero | numer „12.” bez „.0” jak w oryginale |
 | 12.1 Turn Zero Components / 12.2 Setting Up Turn Zero / 12.3 Playing Turn Zero | 12.1 Elementy Etapu zero / 12.2 Przygotowanie Etapu zero / 12.3 Rozgrywanie Etapu zero | |
 | 13.0 Optional Rules | 13.0 Zasady opcjonalne | |
 | 13.1 Alternate Space Race Track | 13.1 Alternatywny tor Wyścigu Kosmicznego | |
 | 13.2 Promotional Cards | 13.2 Karty promocyjne | |
-| 13.3 Designers’ Optional Rules / Realignment Rolls / The Space Race | 13.3 Opcjonalne zasady projektantów / Rzuty na Wywieranie Presji / Wyścig Kosmiczny | podtytuły bez numeru |
+| 13.3 Designers’ Optional Rules / Realignment Rolls / The Space Race | 13.3 Opcjonalne zasady autorów / Wywieranie Presji / Wyścig Kosmiczny | podtytuły bez numeru; [Phalanx „OPCJONALNE ZASADY AUTORÓW”, podtytuły „Wywieranie Presji”, „Wyścig Kosmiczny”; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Opcjonalne zasady projektantów / Rzuty na Wywieranie Presji); w tekście ciągłym designers – projektanci (M) |
 | 13.4 Bidding for Sides | 13.4 Licytacja stron | |
 | A Late War Scenario/Red Sun Rising Scenario (spis) | Scenariusz Apogeum / scenariusz Wschodzące czerwone słońce | R s. 1 |
 | A LATE WAR SCENARIO for Twilight Struggle / By Volko Ruhnke / from C3i Magazine #19, copyright RBM Studio | SCENARIUSZ APOGEUM do *Twilight Struggle* / Autor: Volko Ruhnke / z magazynu C3i #19, prawa autorskie: RBM Studio | [Phalanx; decyzja 26.10] (Phalanx: „Scenariusz Apogeum / Autor: Volko Ruhnke / Magazyn C3i nr 19, RBM Studio” – „#19” bez zmian, 0.6) |
-| A LATE WAR SCENARIO SETUP / Cards / Markers / Events in Play Counters / Victory | PRZYGOTOWANIE SCENARIUSZA APOGEUM / Karty / Znaczniki / Żetony Wydarzeń w grze / Zwycięstwo | R s. 21; Phalanx: „Warunki Zwycięstwa” (nagłówek, 0.1.3 d) |
+| A LATE WAR SCENARIO SETUP / Cards / Markers / Events in Play Counters / Victory | PRZYGOTOWANIE SCENARIUSZA APOGEUM / Karty / Znaczniki / Żetony Wydarzeń w grze / Warunki zwycięstwa | R s. 21; Victory – [Phalanx „Warunki Zwycięstwa”; decyzja użytkownika 30.10 – nagłówki jak Phalanx] (było: Zwycięstwo; małe „z” jak w 10.3); pozostałe podtytuły bez odpowiednika w Phalanx – wierne |
 | A LATE WAR SCENARIO Control and Influence | SCENARIUSZ APOGEUM – Kontrola i Wpływy | R s. 21 (ramka); [Phalanx] „Kontrola i Wpływy” |
 | RED SUN RISING SCENARIO / By Jason Matthews / Red Sun Rising Components / RED SUN RISING SCENARIO SETUP / Influence Markers / Special Rules | SCENARIUSZ WSCHODZĄCE CZERWONE SŁOŃCE / Autor: Jason Matthews / Elementy scenariusza Wschodzące czerwone słońce / PRZYGOTOWANIE SCENARIUSZA WSCHODZĄCE CZERWONE SŁOŃCE / Znaczniki Wpływów / Zasady specjalne | R s. 22–23 |
 | Early War: / Mid War: / Late War: (listy kart do usunięcia) | Preludium: / Eskalacja: / Apogeum: | [Phalanx; decyzja 26.10]; R s. 22 |
@@ -1106,7 +1106,7 @@ Napięci\w* w (Europie|Afryce)               # Unrest = Niepokoje
 Państw\w* Kluczow|Pol\w* Bitwy              # Battleground = Państwo Strategiczne (pole bitwy tylko historycznie, małą literą)
 Punkt\w* Operacji\b|Wartoś\w* Operacji     # Operations points = Punkty Operacyjne; Operations value = Wartość Operacyjna
 (?-i:\bPZ\b|\bPO\b)                         # polskie skróty VP, Ops – zakazane
-Komponent                                    # Components = Elementy gry
+Komponent                                    # Components = elementy gry; wyjątek: nagłówek „2.0 Komponenty” (R s. 1, 2; decyzja 30.10)
 \bsowieck                                    # Soviet = radziecki (Sowieci – rzeczownik dopuszczalny)
 \baktywn(?!\w* Gracz)                        # „aktywny” tylko w „Aktywny Gracz”
 wyrzuci|wyrzuca                              # discard = odrzucić
@@ -1145,7 +1145,7 @@ Mao Tse|Chou En|Chiang Kai|Kadafi|Chruszczew|Breżniev|Gorbaczew|Ceausescu|Wales
 | missile / rocket | pocisk / rakieta | wyjątek opisany: tytuł karty 49 „Zazdrość o rakiety (Missile Envy)” – gra słów |
 | Statecraft / Crisis | Sztuka Rządzenia / Kryzys | |
 | Turn Record track / Turn track | tor Etapów | dwa zapisy EN tego samego toru – jeden polski [Phalanx] |
-| Game Sequence / Sequence of Play | Przebieg gry / Sekwencja gry | różne EN – różne PL |
+| Game Sequence / Sequence of Play | Przebieg rozgrywki / Sekwencja gry | różne EN – różne PL (nagłówek 4.0 jak Phalanx, decyzja 30.10) |
 | Final Scoring / End Game Scoring | Rozstrzygnięcie Końcowe | dwa zapisy EN tego samego zdarzenia (R 4.5 I, 10.3.2 / R 11.2) – jeden polski [Phalanx] |
 | Placing Influence (Operacja) / place (marker) / sphere of influence (historycznie) | Poszerzanie Strefy Wpływów / rozmieścić, umieścić / strefa wpływów | wyjątek opisany: Phalanx sam definiuje Poszerzanie Strefy Wpływów jako rozmieszczanie znaczników Wpływów (6.1.1); nazwa Operacji – Poszerzanie, czynność fizyczna – rozmieścić |
 
@@ -1167,7 +1167,7 @@ Rozstrzygnięte 26.10.2026 (decyzje użytkownika – uwzględnione w całym glos
 
 Sprawy otwarte (z rekomendacją; drobne, nie blokują przekładu):
 
-1. Nagłówki rozdziałów zmienione w Phalanx, które nie są terminami (0.1.3 d): 2.0 „Komponenty” (u nas Elementy gry – zgodnie z SE), 2.1 „Plansza” (Mapa gry), 6.2 „Wywieranie Presji” (Rzuty na Wywieranie Presji), 6.3 „Przewroty” (Próby Przewrotu), 9.0 „Karta Chińska” (Chiny), 10.0 „Rozstrzygnięcie i warunki zwycięstwa” (Rozstrzygnięcie i zwycięstwo), 10.3 „Warunki zwycięstwa” (Zwycięstwo), 13.3 „Opcjonalne zasady autorów” (Opcjonalne zasady projektantów – zasada M). Rekomendacja: nagłówki wierne EN z przyjętymi terminami (jak w glosariuszu); alternatywa – nagłówki Phalanx.
+1. [ROZSTRZYGNIĘTE 30.10 – nagłówki jak Phalanx, 12.2 pkt 4] Nagłówki rozdziałów zmienione w Phalanx, które nie są terminami (0.1.3 d): 2.0 „Komponenty” (u nas Elementy gry – zgodnie z SE), 2.1 „Plansza” (Mapa gry), 6.2 „Wywieranie Presji” (Rzuty na Wywieranie Presji), 6.3 „Przewroty” (Próby Przewrotu), 9.0 „Karta Chińska” (Chiny), 10.0 „Rozstrzygnięcie i warunki zwycięstwa” (Rozstrzygnięcie i zwycięstwo), 10.3 „Warunki zwycięstwa” (Zwycięstwo), 13.3 „Opcjonalne zasady autorów” (Opcjonalne zasady projektantów – zasada M). Rekomendacja: nagłówki wierne EN z przyjętymi terminami (jak w glosariuszu); alternatywa – nagłówki Phalanx.
 2. Miejsca, w których Phalanx nie odróżnia dwóch terminów EN, a my odróżniamy (zasada L): occur – zajść (Phalanx także „rozpatrzyć” = resolve), increase / decrease – zwiększyć / zmniejszyć (Phalanx „podnieść / obniżyć” jak improve / degrade), counter – żeton (Phalanx „znacznik” jak marker). Rekomendacja: zostawić rozróżnienie (EN w nawiasie i tak wskazuje słowo oryginału).
 
 ### 12.1 Decyzje i ustalenia z walidacji końcowej (30.10.2026)
@@ -1193,7 +1193,7 @@ Walidacja językowo-merytoryczna R (24 s.) i BB (48 s.) wobec EN i terminologii 
 1. R 2.0: „Rulebook” = „niniejsza księga zasad”, „Background Booklet” = „księga tła historycznego” (zamiast „zeszyt”) – spójnie z okładkami.
 2. „scenariusz Apogeum” w tekście ciągłym małą literą (jak „scenariusz Wschodzące czerwone słońce”); nagłówki i spis treści – „Scenariusz Apogeum”.
 3. R 11.1 „Soviet Union” (pole supermocarstwa) – „ZSRR (Soviet Union)”; „Związek Radziecki” tylko w tekście historycznym.
-4. Nagłówki rozdziałów R – jak w Phalanx (2.0 „Komponenty”, 2.1 „Plansza”, 6.3 „Przewroty”, 9.0 „Karta Chińska”, 10.0 „Rozstrzygnięcie i warunki zwycięstwa”, 10.3 „Warunki zwycięstwa” itd.) – DO WYKONANIA (PRZEKAZANIE pkt 13); zmienia pkt 0.1.3 d i 4.1.
+4. Nagłówki rozdziałów R – jak w Phalanx – WYKONANE 30.10 (zadanie ts_naglowki; md, skład, spis treści s. 1; 0.1.3 d i 4.1 zaktualizowane). Zmienione (było → jest): 2.0 Elementy gry → Komponenty; 2.1 Mapa gry → Plansza; 2.1.7 Kontrolowanie państw → Kontrolowanie państwa; 3.0 Przygotowanie gry → Przygotowanie rozgrywki; 4.0 Przebieg gry → Przebieg rozgrywki; 6.2 Rzuty na Wywieranie Presji → Wywieranie Presji; 6.3 Próby Przewrotu → Przewroty; 8.0 Status DEFCON i Operacje Wojskowe → Status DEFCON oraz Operacje Wojskowe; 9.0 Chiny → Karta Chińska; 10.0 Rozstrzygnięcie i zwycięstwo → Rozstrzygnięcie i warunki zwycięstwa; 10.1 Rozstrzygnięcie → Rozstrzygnięcia; 10.3 Zwycięstwo → Warunki zwycięstwa; 11.1 Pole Chińska wojna domowa → Pole „Chińska wojna domowa”; 11.3 Skutki Kontroli → Skutki Kontroli pola; 11.4 Ograniczenia Wydarzeń → Ograniczenie Wydarzeń; 13.3 Opcjonalne zasady projektantów → Opcjonalne zasady autorów; 13.3 (podtytuł) Rzuty na Wywieranie Presji → Wywieranie Presji; Scenariusz Apogeum, podtytuł Zwycięstwo → Warunki zwycięstwa. Bez zmian (brzmienie jak w Phalanx albo brak odpowiednika): 1.0, 2.1.4, 2.2, 2.3, 4.5 A–I, 5.0, 5.2, 6.0, 6.1, 6.4, 7.0, 7.3, 7.6, 8.1, 8.1.7, 8.2, 10.2, 10.3.1, 10.3.2, 11.0, 11.2, 11.4.1, 12.–12.3, 13.0–13.2, 13.4, scenariusze (poza „Warunki zwycięstwa”), Twórcy.
 5. Pary occur/resolve, increase/improve, counter/marker – rozróżnienie zostaje.
 6. „TURN 4+” – pole 7 toru Rund.
 7. BB: nawiasy EN tytułów kart w wierszach „Karta:” – dodać łatką składu z dodatkowym wierszem (DO WYKONANIA); kropka z oryginału po „(…, Wydarzenie ZSRR).” usunięta; s. 2 – md „Wpływy ZSRR (USSR Influence) – zapis (USA/ZSRR)”, skład bez EN przy obu członach.

@@ -2,7 +2,7 @@
  "_uwagi": "s. 5 (tr1_8): 2.1.7–2.3. Uwaga do rozgrywki 2.2.1 przechodzi z lewej łamy (u7) do prawej (u8).",
  "u2": {
   "paras": [
-   "<b>2.1.7 Kontrolowanie państw:</b> Każde państwo na mapie jest albo kontrolowane (Controlled) przez jednego z graczy, albo niekontrolowane. Państwo uważa się za kontrolowane przez gracza, jeśli:",
+   "<b>2.1.7 Kontrolowanie państwa:</b> Każde państwo na mapie jest albo kontrolowane (Controlled) przez jednego z graczy, albo niekontrolowane. Państwo uważa się za kontrolowane przez gracza, jeśli:",
    "• Wpływy (Influence) gracza w tym państwie są równe Poziomowi Stabilizacji (Stability Number) lub większe, <b>oraz</b>",
    "• Wpływy (Influence) gracza w tym państwie przewyższają Wpływy przeciwnika co najmniej o Poziom Stabilizacji (Stability Number) tego państwa."
   ]

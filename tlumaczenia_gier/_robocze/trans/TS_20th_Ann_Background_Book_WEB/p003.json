@@ -1,5 +1,5 @@
 {
- "_uwagi": "Liczby na znacznikach mapy – keep; żywa pagina BACKGROUND BOOK – keep (glosariusz TS 4.4). u10 podzielona łatką na u10/u20/u21, u12 na u12/u22 (własne skale). u21: pominięty nawias (Operations) i „(US Operations cards)” – 1 wiersz nad ramką cytatu. u22: pominięte „(is not in effect)” (nie z listy ZAWSZE).",
+ "_uwagi": "Liczby na znacznikach mapy – keep; żywa pagina BACKGROUND BOOK – keep (glosariusz TS 4.4). u10 podzielona łatką na u10/u20/u21, u12 na u12/u22 (własne skale). u21: 2 wiersze z „(Operations, min. 1)” (30.10 bb_karta; nagłówek i u20 11 pt wyżej, trójkąt z tła zakryty białą łatką u950, nowy trójkąt u951 (◣+◤) – oba keep); pominięte „(US Operations cards)”. u22: pominięte „(is not in effect)” (nie z listy ZAWSZE).",
  "u2": "keep",
  "u3": "keep",
  "u4": "keep",
@@ -29,7 +29,7 @@
  },
  "u21": {
   "paras": [
-   "W tym Etapie (this turn) wszystkie karty USA mają −1 do Operacji (min. 1)."
+   "W tym Etapie (this turn) wszystkie karty USA mają −1 do Operacji (Operations, min. 1)."
   ]
  },
  "u11": {
@@ -52,5 +52,7 @@
   "paras": [
    "<b>KENNEDY:</b> Jackie najwyraźniej oczarowuje Paryż równie łatwo jak Londyn."
   ]
- }
+ },
+ "u950": "keep",
+ "u951": "keep"
 }

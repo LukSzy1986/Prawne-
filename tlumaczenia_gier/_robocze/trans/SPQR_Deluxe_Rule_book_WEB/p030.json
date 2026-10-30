@@ -38,7 +38,7 @@
  },
  "u9": {
   "paras": [
-   "Jeśli zwolnionych heksów było więcej niż oddziałów atakujących, heks (heksy) wybiera gracz wykonujący posunięcie.",
+   "Jeśli zwolnionych heksów było więcej niż oddziałów atakujących, heks (heksy) wybiera gracz wykonujący posunięcie (advance).",
    "<b>8.55</b> Przeciwnik nie może w odpowiedzi na posunięcie (advance) wykonać uporządkowanego odwrotu (Orderly Withdrawal, 6.51), ale może zmienić front (facing) wg 7.15–16 i/lub – jeśli spełnia warunki – przeprowadzić ostrzał reakcyjny przy wejściu (Entry Reaction Fire, 8.21).",
    "<b>8.56</b> Po samym ostrzale (Missile Fire) nie wykonuje się posunięcia (advance), bez względu na to, co zrobi cel ostrzału."
   ]
@@ -68,10 +68,10 @@
    "• w każdym starciu (Shock Combat) będącym skutkiem wyniku „pościg” (Pursue, 8.62).",
    "W tych przypadkach zwycięski oddział (oddziały) jazdy wykonuje posunięcie po walce (Advances After Combat, 8.5).",
    "<b>8.62</b> Aby rozstrzygnąć pościg, gracz, do którego należy jazda, rzuca kością i porównuje wynik ze współczynnikiem TQ ścigającej jazdy. Jeśli wynik (DR) jest wyższy, oddział jazdy i dowódcy w stosie z nim <i>muszą</i> <b>podjąć pościg (Pursue)</b>; w przeciwnym razie oddział <i>musi</i> <b>oderwać się (Break-Off)</b>. Procedury są następujące:",
-   "<b>Pościg (Pursue):</b> Ścigający oddział jazdy porusza się w stronę rozbitego (routed) oddziału wzdłuż jego drogi odwrotu. Nie kosztuje to MP, ale obowiązują ubytki spójności (Cohesion Hits) za teren. Jeśli wszyscy obrońcy zostali wyeliminowani (oddziały rozbite, harcownicy itp.), ścigający oddział jazdy porusza się zamiast tego o ½ swojej MA (z zaokrągleniem w górę), jeśli którykolwiek z obrońców był piechotą, albo o pełną MA, jeśli wszyscy obrońcy byli jazdą:",
-   "• w kierunku, w którym zmierzał rozbity oddział (oddziały) – jeśli kierunków jest kilka, wybiera gracz prowadzący pościg, <i>albo</i>",
+   "<b>Pościg (Pursue):</b> Ścigający oddział jazdy porusza się w stronę rozbitego (routed) oddziału wzdłuż jego drogi odwrotu. Nie kosztuje to MP, ale obowiązują ubytki spójności (Cohesion Hits) za teren. Jeśli wszyscy obrońcy zostali wyeliminowani – oddziały rozbite, harcownicy (SK) itp. – ścigający oddział jazdy porusza się zamiast tego o ½ swojej MA (z zaokrągleniem w górę), jeśli którykolwiek z obrońców był piechotą, albo o pełną MA, jeśli wszyscy obrońcy byli jazdą:",
+   "• w kierunku, w którym zmierzał rozbity (Routed) oddział (oddziały) – jeśli kierunków jest kilka, wybiera gracz prowadzący pościg (Pursuit), <i>albo</i>",
    "• w kierunku krawędzi odwrotu (Retreat Edge) przeciwnika, jeśli żaden z wyeliminowanych oddziałów nie był wcześniej rozbity (Routed).",
-   "Oddział jazdy musi się zatrzymać, jeśli wejdzie w strefę kontroli (ZOC) wroga lub jeśli oddział wroga znajdzie się w jego ZOC. Następnie gracz prowadzący pościg rozstrzyga starcie (Shock Combat, 8.43–8.47) przeciwko wszystkim oddziałom wroga w jego ZOC. Jeśli ścigający oddział"
+   "Oddział jazdy musi się zatrzymać, jeśli wejdzie w strefę kontroli (ZOC) wroga lub jeśli oddział wroga znajdzie się w jego ZOC. Następnie gracz prowadzący pościg (Pursuit) rozstrzyga starcie (Shock Combat, 8.43–8.47) przeciwko wszystkim oddziałom wroga w jego ZOC. Jeśli ścigający oddział"
   ]
  }
 }

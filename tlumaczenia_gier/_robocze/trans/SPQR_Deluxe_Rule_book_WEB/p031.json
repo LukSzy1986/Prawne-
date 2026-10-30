@@ -71,12 +71,12 @@
   "paras": [
    "<b>9.11 Przepuszczenie słoni (Elephant Pass-Thru):</b> Oddział piechoty atakowany przez jeden ze swoich heksów frontowych (Front hexes) przez oddział słoni (Elephant) oznaczony znacznikiem Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ) może spróbować przepuścić słonie przez swój heks. Decyzję trzeba podjąć przed rzutem w teście TQ przed starciem (Pre-Shock TQ Check, 8.43); można ją podjąć tylko wtedy, gdy co najmniej jeden z heksów tylnych (Rear hexes) obrońcy jest pusty. Przepuszczenie (Pass-Thru) jest <i>niedozwolone</i>, gdy:",
    "• oddział piechoty jest atakowany przez heks skrzydłowy (Flank) lub tylny (Rear);",
-   "• oddział słoni atakuje razem z innymi oddziałami;",
+   "• oddział słoni (EL) atakuje razem z innymi oddziałami;",
    "• oddział piechoty na początku fazy rozkazów (Orders Phase) znajdował się w strefie kontroli (ZOC) wroga.",
    "Z przepuszczenia (Pass-Thru) mogą skorzystać dwa broniące się oddziały piechoty, jeśli oba spełniają powyższe warunki. Gdy gracz zrezygnuje z przepuszczenia, starcie (Shock) przebiega normalnie.",
    "Jeśli gracz wybierze przepuszczenie (Pass-Thru), wykonaj kolejno:",
    "1. Zastosuj DRM +1 do rzutu (DR) oddziału piechoty w teście TQ przed starciem (Pre-Shock TQ Check).",
-   "2. Przeprowadź procedurę rozstrzygania starcia (Shock resolution), ale ubytki spójności (Cohesion Hits) obrońcy podziel na pół (z zaokrągleniem w dół), a ubytki oddziału słoni zmniejsz o 1."
+   "2. Przeprowadź procedurę rozstrzygania starcia (Shock resolution), ale ubytki spójności (Cohesion Hits) obrońcy podziel na pół (z zaokrągleniem w dół), a ubytki oddziału słoni (EL) zmniejsz o 1."
   ]
  }
 }

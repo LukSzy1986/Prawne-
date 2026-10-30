@@ -2,7 +2,7 @@
  "_uwagi": "s. 34 – u2[0] = dokończenie ostatniego punktora 9.24 ze s. 33; 9.3–9.53.",
  "u2": {
   "paras": [
-   "wynika z obecności tylko jednego takiego oddziału.",
+   "jeśli przerwa wynika z obecności tylko jednego takiego oddziału.",
    "PRZYKŁAD: W 2808 stoją hastati, w 2809 – welici (Velites), a w 2810 – hastati. Nadal może to być linia (line). Gdyby jednak welici stali w 2809 i 2810, a hastati w 2808 i 2811, te dwa oddziały hastati nie utworzyłyby linii. Gdyby hastati stali w 2808, 2810 i 2812, a welici w 2809 i 2811, hastati mogliby utworzyć linię.",
    "9.3 LEKKA JAZDA (LIGHT CAVALRY)",
    "<b>9.31</b> Lekka jazda (Light Cavalry) uzbrojona w pociski może stosować nękanie i rozproszenie (H&D fire, 8.3) przeciwko wszystkim oddziałom o niższej MA, z wyjątkiem harcowników (Skirmishers). Łucznicy lekkiej jazdy (Light Cavalry Archers) mogą strzelać podczas uporządkowanego odwrotu (Orderly Withdrawal, 6.55).",
@@ -39,7 +39,7 @@
    "<b>9.52 Ograniczenia ruchu (Movement Restrictions):</b> Szyk podwójnej głębokości (DD) ma następujące skutki:",
    "• Oddziały mogą otrzymywać rozkazy tylko od wodza naczelnego (OC).",
    "• Mogą się poruszać jak jeden oddział, ale do wspólnego ruchu obu oddziałów potrzebne są 2 rozkazy indywidualne (Individual Orders), gdy korzysta się z rozkazów indywidualnych. Mogą korzystać z wcześniej zaplanowanego wycofania (Pre-Arranged Withdrawal, 6.8).",
-   "• Oddziały nie mogą wykonywać manewru zwrotu (Wheel, 6.44) ani odwrócenia frontu (Reverse, 6.45), nie mogą też korzystać z kolumny (Column, 6.7). Rozdzielenie stosu wymaga – jak wyżej – rozkazu indywidualnego lub liniowego; wówczas oddział wierzchni (top unit) schodzi ze stosu, płacąc zwykłe koszty. Oddział spodni (bottom unit) musi pozostać na miejscu.",
+   "• Oddziały nie mogą wykonywać manewru zwrotu (Wheel, 6.44) ani odwrócenia frontu (Reverse, 6.45), nie mogą też korzystać z kolumny (Column, 6.7). Rozdzielenie stosu wymaga – jak wyżej – rozkazu indywidualnego (IO) lub liniowego (LC); wówczas oddział wierzchni (top unit) schodzi ze stosu, płacąc zwykłe koszty. Oddział spodni (bottom unit) musi pozostać na miejscu.",
    "• Oddziały zawsze używają swojej MA 4; nigdy do niczego nie używają MA 5. Przy każdym ruchu, który powodowałby ubytek spójności (Cohesion Hit), ubytek ten otrzymują oba oddziały.",
    "• Żaden oddział, bez względu na typ, nigdy nie może przejść przez stos podwójnej głębokości ani na niego wejść. Traktuj takie stosy jak teren nieprzekraczalny (impassable terrain).",
    "<b>9.53 Skutki w walce (Combat Effects):</b> Szyk podwójnej głębokości (DD) ma następujące skutki w walce:",

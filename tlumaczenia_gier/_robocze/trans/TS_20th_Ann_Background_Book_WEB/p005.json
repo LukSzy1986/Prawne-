@@ -7,7 +7,7 @@
  "u3": {
   "paras": [
    "Karta: <b><i><sc>Rządy socjalistów</sc></i></b> (<b><i><sc>Socialist Governments</sc></i></b>, Wydarzenie ZSRR)",
-   "Usuń 3 Punkty Wpływów USA (US Influence) z Europy Zachodniej.",
+   "Usuń 3 Punkty Wpływów USA (US Influence) z Europy Zachodniej (Western Europe).",
    "• Włochy (Italy): (2/0) <b><c #0072aa>Kontrola USA (US Control)</c></b>",
    "• Francja (France): (0/0)"
   ]
@@ -24,7 +24,7 @@
  },
  "u6": {
   "paras": [
-   "Karta: <b><i><sc>Rozstrzygnięcie w Europie</sc></i></b> (Wydarzenie neutralne)",
+   "Karta: <b><i><sc>Rozstrzygnięcie w Europie</sc></i></b> (<b><i><sc>Europe Scoring</sc></i></b>, Wydarzenie neutralne)",
    "Obie strony mają Obecność (Presence, 3) + dwa Państwa Strategiczne (Battlegrounds, 2), co daje razem 5. Nie przyznaje się żadnych VP."
   ]
  },

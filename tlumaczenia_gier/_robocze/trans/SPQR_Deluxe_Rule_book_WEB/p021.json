@@ -25,7 +25,7 @@
  },
  "u6": {
   "paras": [
-   "• Welici (Velites) mogą atakować w starciu wyłącznie heks frontowy (Front hex).",
+   "• Welici (Velites) mogą atakować w starciu (Shock) wyłącznie heks frontowy (Front hex).",
    "Przy stosowaniu zasady „związanie walką” (Engaged, 10.4) znaczniki Starcie: bez testu TQ (SHOCK NO TQ CHECK) muszą otrzymać, bez względu na ograniczenia dowodzenia, własne oddziały związane walką w zasięgu aktywowanego dowódcy."
   ]
  },
@@ -57,7 +57,7 @@
  "u12": {
   "paras": [
    "<b>8.11</b> Oddziały zdolne do ostrzału (zob. przykładowe oddziały) mogą strzelać. Oddziały strzelające",
-   "dzielą się na cztery klasy: łucznicy (A), procarze (S), oszczepnicy (J) i skorpiony. Po otrzymaniu rozkazu pojedynczy oddział strzelający może oddać strzał w dowolnej chwili: przed ruchem, po nim, w jego trakcie – albo zamiast niego. Jeśli oddział strzelający wykonuje ruch, może strzelać tylko wtedy, gdy tuż przed oddaniem strzału przesunął się „naprzód” (bliżej celu). Strzelanie w trakcie ruchu nie kosztuje punktów ruchu. Każdy oddział z rozkazem może strzelać tylko raz na fazę rozkazów.",
+   "dzielą się na cztery klasy: łucznicy (A), procarze (S), oszczepnicy (J) i skorpiony (Scorpios). Po otrzymaniu rozkazu pojedynczy oddział strzelający może oddać strzał w dowolnej chwili: przed ruchem, po nim, w jego trakcie – albo zamiast niego. Jeśli wykonuje ruch, może strzelać tylko wtedy, gdy tuż przed oddaniem strzału przesunął się „naprzód” (bliżej celu). Strzelanie w trakcie ruchu nie kosztuje punktów ruchu. Każdy oddział z rozkazem może strzelać tylko raz na fazę rozkazów.",
    "<b><i>Wyjątek:</i></b> Łucznicy lekkiej piechoty (LI klasy A) i oddziały skorpionów mogą w tej samej fazie rozkazów albo wykonać ruch, albo strzelać – nigdy jedno i drugie. Skorpiony nie potrzebują rozkazów, aby strzelać (9.85)."
   ]
  },
@@ -85,11 +85,11 @@
  "u18": {
   "paras": [
    "<b>7.32</b> Gracz wykonujący ruch kładzie znacznik Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ) na każdym oddziale, który w następującym etapie starcia musi za­ata­ko­wać w starciu albo który gracz postanowił wysłać do ataku (7.31). Znaczniki te kładzie się w chwili, gdy poruszający się oddział wejdzie do heksu sąsiadującego, jeszcze przed jakimkolwiek ostrzałem reakcyjnym (Reaction Fire), aby wskazać, które oddziały będą musiały przejść test TQ przed starciem (Pre-Shock TQ check, 8.43).",
-   "PRZYKŁAD: Na falandze macedońskiej (PH) wchodzącej do heksu sąsiadującego z rzymskim oddziałem hastati kładzie się znacznik Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ), ponieważ musi ona za­ata­ko­wać (7.31). Numidyjska lekka jazda (LC) wchodząca do heksu sąsiadującego z oddziałem principes nie musi atakować w starciu; gracz wykonujący ruch musi jednak oświadczyć, czy to zrobi, gdy oddział kończy ruch. Jeśli chce, by oddział za­ata­ko­wał, kładzie na nim znacznik Starcie: obowiązkowy test TQ.",
+   "PRZYKŁAD: Na falandze macedońskiej (PH) wchodzącej do heksu sąsiadującego z rzymskim oddziałem hastati kładzie się znacznik Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ), bo musi za­ata­ko­wać (7.31). Numidyjska lekka jazda (LC) wchodząca do heksu sąsiadującego z oddziałem principes nie musi atakować w starciu; gracz wykonujący ruch musi jednak oświadczyć, czy to zrobi, gdy oddział kończy ruch. Jeśli chce ataku, kładzie na nim znacznik Starcie: obowiązkowy test TQ.",
    "<b>7.33</b> Każdy oddział z rozkazem ostrzału albo rozkazem ruchu, do którego nie ma zastosowania 7.31, lub po prostu znajdujący się w zasięgu dowodzenia aktywowanego dowódcy, o ile ten może nim dowodzić, <i>może zdecydować się</i> za­ata­ko­wać wszystkie oddziały bojowe wroga w swojej (własnej) ZOC. Oddziały te otrzymują w kroku wyznaczenia do starcia (8.41) znacznik Starcie: bez testu TQ (SHOCK NO TQ CHECK), wskazujący, że za­ata­kują w starciu, ale nie muszą przechodzić testu TQ przed starciem (Pre-Shock TQ check). Zob. wstęp do 8.4.",
    "Wyjątki:",
-   "• Harcownicy, skorpiony, łucznicy lekkiej piechoty i lekkiej jazdy nie są zdolni do starcia (Shock-capable) i nigdy nie mogą atakować w starciu.",
-   "• Oddziały rozbite (Routed) i w kolumnie (In Column) nigdy nie mogą atakować w starciu."
+   "• Harcownicy (SK), skorpiony, łucznicy lekkiej piechoty (LI) i lekkiej jazdy (LC) nie są zdolni do starcia (Shock-capable) i nigdy nie mogą atakować w starciu.",
+   "• Oddziały rozbite (Routed) i w kolumnie (In Column) nigdy nie mogą atakować w starciu (Shock)."
   ]
  }
 }

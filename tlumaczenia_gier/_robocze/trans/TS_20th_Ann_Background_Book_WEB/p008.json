@@ -8,7 +8,7 @@
   "paras": [
    "Karta: <b><i><sc>Wojna indyjsko-pakistańska</sc></i></b> (<b><i><sc>Indo‑Pakistani War</sc></i></b>, Wydarzenie neutralne)",
    "• Cel: Pakistan",
-   "• Modyfikator rzutu: −1 (Kontrola Iranu przez USA)",
+   "• Modyfikator rzutu: −1 (Kontrola Iranu przez USA, US control of Iran)",
    "• Rzut kością: 3 (modyfikator −1 = 2) <i>Wojna kończy się porażką, Wpływy (influence) bez zmian</i>",
    "• Operacje Wojskowe ZSRR (USSR Military Ops): 2"
   ]
@@ -78,7 +78,7 @@
  },
  "u17": {
   "paras": [
-   "Karta: <b><i><sc>Pakt o wzajemnej obronie USA/Japonia</sc></i></b> (Wydarzenie USA)",
+   "Karta: <b><i><sc>Pakt o wzajemnej obronie USA/Japonia</sc></i></b> (<b><i><sc>US/Japan Mutual Defense Pact</sc></i></b>, Wydarzenie USA)",
    "USA dodają w Japonii (Japan) tyle Punktów Wpływów (Influence), ile potrzeba do Kontroli (Control). ZSRR nie może już podejmować tam prób Przewrotu (Coups) ani rzutów na Wywieranie Presji (Realignments).",
    "• Japonia (Japan): (4/0) <b><c #0072aa>Kontrola USA (US Control)</c></b>",
    "<b><i><sc>Pakt o wzajemnej obronie USA/Japonia</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry (jego znacznik przypomina o efekcie)."

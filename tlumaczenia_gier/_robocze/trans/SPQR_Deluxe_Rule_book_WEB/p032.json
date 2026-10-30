@@ -13,7 +13,7 @@
  },
  "u4": {
   "paras": [
-   "<b>9.12 Osłony słoni (Elephant Screens):</b> Słonie były dość podatne na ostrzał, dlatego – aby je chronić – armie otaczały każdego słonia jego własną lekką osłoną harcowników, zwykle łuczników, oznaczoną na żetonie małą literą „a”. Siła rażenia osłony jest znacznie mniejsza niż zwykłych oddziałów łuczników, co odzwierciedla wielkość osłony i jej taktyczne zadania.",
+   "<b>9.12 Osłony słoni (Elephant Screens):</b> Słonie były dość podatne na ostrzał, dlatego – aby je chronić – armie otaczały każdego słonia jego własną lekką osłoną harcowników (SK), zwykle łuczników, oznaczoną na żetonie małą literą „a”. Siła rażenia osłony jest znacznie mniejsza niż zwykłych oddziałów łuczników, co odzwierciedla wielkość osłony i jej taktyczne zadania.",
    "Osłony słoni mogą prowadzić ostrzał (Missile Fire) wyłącznie jako ostrzał reakcyjny (Reaction Fire, 8.2), korzystając z wiersza „osłona słoni” (Elephant Screen) w tabeli zasięgu i wyników ostrzału (MRRC). Osłony mają własne znaczniki zapasu pocisków. Słonie dowódców (Leader elephants) nie mają osłon (zwykle je miały, ale zbyt małe, by miały znaczenie).",
    "<b>9.13 Wojownicy w wieżach (Tower Riders):</b> Wojownicy na grzbietach słoni mieli oszczepy i przy ostrzale (Missile Fire) traktuje się ich jak konnych oszczepników (Mounted Javelinists). Oddział słoni (Elephant) może prowadzić ostrzał reakcyjny (Reaction Fire) zarówno oszczepami, jak i osłoną; gracz rzuca kością osobno dla każdego z tych ostrzałów."
   ]
@@ -47,7 +47,7 @@
  },
  "u10": {
   "paras": [
-   "Oddział słoni zmierza w kierunku wskazanym przez różę wiatrów (Compass) na mapie (przykład poniżej). Kierunek geograficzny wskazuje wierzchołek heksu, a kierunek, w którym słonie pędzą w szale (Rampage), wyznacza bok heksu."
+   "Oddział słoni (EL) zmierza w kierunku wskazanym przez różę wiatrów (Compass) na mapie (przykład poniżej). Kierunek geograficzny wskazuje wierzchołek heksu, a kierunek, w którym słonie pędzą w szale (Rampage), wyznacza bok heksu."
   ]
  },
  "u11": {
@@ -72,16 +72,16 @@
  },
  "u15": {
   "paras": [
-   "PRZYKŁAD: Powyższy diagram przedstawia oddział słoni po zmianie ustawienia frontu wskutek rzutu kością na szał (Rampage) z wynikiem 1. To tylko przykład; w każdej bitwie korzystaj z róży wiatrów na mapie.",
+   "PRZYKŁAD: Powyższy diagram przedstawia oddział słoni (EL) po zmianie ustawienia frontu wskutek rzutu kością na szał (Rampage) z wynikiem 1. To tylko przykład; w każdej bitwie korzystaj z róży wiatrów na mapie.",
    "Oddział słoni (Elephant) w szale (rampaging) oraz każdy dowódca, który tworzy z nim stos, zawsze próbuje przesunąć się o 3 heksy we wskazanym kierunku za każdy rzut kością na kierunek (directional die roll), dopóki nie opuści mapy lub nie zostanie w inny sposób wyeliminowany. Jeśli oddział słoni w szale miałby wejść na heks zajęty przez jakikolwiek oddział – wroga lub własny – słonie zatrzymują się na sąsiednim heksie, a oddział otrzymuje 1 ubytek spójności (Cohesion Hit), jeśli słonie weszłyby do niego przez heks frontowy (Front hex), albo 2 ubytki spójności, jeśli weszłyby przez heks skrzydłowy (Flank) lub tylny (Rear hex). Oddział jazdy otrzymuje 2 ubytki spójności niezależnie od kąta.",
    "Jeśli oddziały, których to dotyczy, tworzą stos, ubytki spójności (Cohesion Hits) otrzymują oba oddziały. Jeśli w heksie znajduje się dowódca (sam lub w stosie z oddziałem), który nie może się wycofać (withdraw; zob. 4.72), zostaje tragicznie nadziany na kły słonia, wyrzucony wysoko w powietrze, a następnie zadeptany na śmierć. Wszystko to bez rzutu kością!",
    "Gracz rzuca teraz ponownie kością, jak opisano wyżej, i powtarza tę procedurę, aż:",
-   "• oddział słoni w szale (rampages) opuści mapę, <i>albo</i>",
-   "• oddział słoni zostanie wyeliminowany (wynik 7–9 w rzucie kością na kornaka), <i>albo</i>",
-   "• oddział słoni znajdzie się w odległości co najmniej 8 heksów od najbliższego oddziału – wówczas zostaje wyeliminowany – <i>albo</i>",
-   "• jeśli nie zaszło żadne z powyższych – po czwartym kolejnym rzucie kością na szał (Rampage DR) oddział słoni zostaje wyeliminowany.",
+   "• oddział słoni (EL) w szale (rampages) opuści mapę, <i>albo</i>",
+   "• oddział słoni (EL) zostanie wyeliminowany (wynik 7–9 w rzucie kością na kornaka), <i>albo</i>",
+   "• oddział słoni (EL) znajdzie się w odległości co najmniej 8 heksów od najbliższego oddziału – wówczas zostaje wyeliminowany – <i>albo</i>",
+   "• jeśli nie zaszło żadne z powyższych – po czwartym kolejnym rzucie kością na szał (Rampage DR) oddział słoni (EL) zostaje wyeliminowany.",
    "Dowódca tworzący stos z oddziałem słoni (Elephant) w szale porusza się razem z nim w trakcie szału (Rampage). Gdy szał się zakończy, gracz wykonuje rzut na straty wśród dowódców (leader casualty, 4.73). Jeśli dowódca przeżyje, pozostaje na mapie w miejscu, w którym słonie zakończyły szał. Jeśli słonie w szale opuszczą mapę, zarówno oddział słoni, jak i dowódca zostają wyeliminowani.",
-   "Słonie w szale (Rampaging) nie mają strefy kontroli (ZOC), nie wywołują żadnego rodzaju ostrzału reakcyjnego (Reaction Fire) i nie można ich zebrać (rallied). Każdy szał (Rampage) prowadzi się aż do jego"
+   "Słonie (EL) w szale (Rampaging) nie mają strefy kontroli (ZOC), nie wywołują żadnego rodzaju ostrzału reakcyjnego (Reaction Fire) i nie można ich zebrać (rallied). Każdy szał (Rampage) prowadzi się aż do jego"
   ]
  }
 }

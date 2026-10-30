@@ -1,5 +1,7 @@
 # Przekazanie prac – przekłady SPQR Deluxe i Twilight Struggle 20th Anniversary (stan 30.10.2026, ok. 08:00 UTC)
 
+> STAN AKTUALNY: zob. `RAPORT_AKTUALNY_30_10_2026.md` – decyzje 1, 8, 10–13, 15–18, 21–23 zostały wykonane w dalszej części sesji 30.10.
+
 Dokument dla kolejnej sesji Claude, która dokończy prace po odnowieniu limitu. Uzupełnia `RAPORT_30_10_2026.md` (opis walidacji i poprawek). Czytaj oba.
 
 ## 1. Stan plików (wszystko w `tlumaczenia_gier/`)
