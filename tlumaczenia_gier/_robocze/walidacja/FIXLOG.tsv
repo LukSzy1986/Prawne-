@@ -319,3 +319,10 @@ FIT-18b	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	to najlepiej jest prawdopo
 FIT-18c	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	grozi tym, że ZSRR zagra	grozi, że ZSRR zagra
 FIT-18d	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	to najlepiej chyba po prostu zagrać tę kartę	to chyba najlepiej zagrać tę kartę
 IDX-42	SPQR_Deluxe_Rule_book_WEB	42	json	OK(1)	gdy falanga utrzymuje się zamiast ulec rozbiciu	gdy falanga stoi zamiast ulec rozbiciu
+REV-tsr_1_8#3	TS_20th_Ann_Rule_Book_WEB	6	json	OK(1)	, rozmieszczając <b>15 znaczników</b>	, kładąc <b>15 znaczników</b>
+REV-tsr_1_8#4	TS_20th_Ann_Rule_Book_WEB	6	json	OK(1)	, rozmieszczając <b>25 znaczników</b>	, kładąc <b>25 znaczników</b>
+REV-tsr_1_8#5	TS_20th_Ann_Rule_Book_WEB	6	json	OK(1)	Znaczniki Wyścigu Kosmicznego (Space Race) USA i ZSRR	Znaczniki Wyścigu Kosmicznego USA i ZSRR
+REV-tsbb_1_8#7	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	(Wojna kończy się porażką, Wpływy (Influence) bez zmian)	(Wojna nieudana, Wpływy (Influence) bez zmian)
+REV-spqr_1_8#10	SPQR_Deluxe_Rule_book_WEB	3	json	WIELE(2)	Nazwa/oznacz.	Nazwa/ozn.
+REV-spqr_1_8#10b	SPQR_Deluxe_Rule_book_WEB	3	json	OK(1)	Nazwa/oznacz. (u10)	Nazwa/ozn.
+REV-tsbb_1_8#11	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	państwo kontrolowane przez USA (US Controlled) nie daje	państwo kontrolowane przez USA nie daje
