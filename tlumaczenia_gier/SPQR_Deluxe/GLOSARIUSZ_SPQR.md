@@ -918,3 +918,10 @@ Walidacja językowo-merytoryczna wszystkich 44 stron (md + skład) wobec EN i pr
 6. Nota © na okładce: skład odtwarza stopkę „GMT Games, LLC • P.O. Box 1308 • Hanford, CA 93232–1308” według obrazu okładki; warstwa tekstowa oryginału zawiera też „© 2026” – do sprawdzenia na okładce oryginału. DO DECYZJI.
 7. Błędy oryginału odnotowane dodatkowo (oddane wiernie): 4.72 „that combat units enters”; 6.52 cudzysłów „retreat’; 8.34 nie mówi, kto otrzymuje 2 ubytki (z 9.15 – jazda); 10.32 ostatni punktor bez kropki (w PL kropkę dodano); indeks: „Skirmishers … 6.52” powtórzone, kolejność „8.12, 6.55”, zakresy 6.41–6.44/6.45; 9.22 „Skirmishers..”; brak 9.92; „impassible”.
 8. Hastati/principes/triarii – zostają formy łacińskie nieodmienne (pkt 1 wyżej – potwierdzone brakiem uwag walidatorów).
+
+### 11.2 Decyzje użytkownika z 30.10.2026 (po walidacji)
+
+1. Nawiasy EN przy typach oddziałów w składzie PDF – jak w PDF GBJC i Aleksandra: raz na akapit także w przykładach i wyjątkach (K.2, lista 0.2) – DO WYKONANIA (PRZEKAZANIE pkt 1).
+2. Nota „© 2026” na okładce – dodać, jeśli jest na okładce oryginału (DO WYKONANIA – brak oryginału SPQR EN w środowisku).
+3. 7.0: md „…i strefy kontroli”, PDF „…i ZOC” – zostaje. 8.34 bez przypisu. Osobliwości indeksu bez przypisu. „ostrzał podczas wycofania”, „modyfikacje za liczebność” – zostają. Hastati/principes/triarii – łacina nieodmienna (spolszczenie odrzucone).
+4. W dostarczonym przekładzie GBJC: nagłówek 7.3 „Warunki starcia” → „Wymogi starcia” (DO WYKONANIA przy poprawce GBJC).

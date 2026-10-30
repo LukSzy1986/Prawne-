@@ -189,7 +189,7 @@ Zasada A.4: nazwy znaczników, kart, torów, pól i etykiet – polska nazwa (pi
 | box (track) / Start box / space (track) | pole (toru) / pole Start / pole (toru) | R 3.4, 6.4.1, 10.2.1; box i space to w TS to samo – jeden polski odpowiednik (sekcja 11); „Count this box as a space” – „Licz to pole jako jedno pole” |
 | level (DEFCON track) | poziom | R 3.4 „Level 5 of the DEFCON track” – poziom 5 toru DEFCON |
 | Turn Record track / Turn track / TURN RECORD TRACK | tor Etapów / tor Etapów / TOR ETAPÓW | [Phalanx; decyzja 26.10]; R 3.4, 7.3; plansza (Phalanx: napis „TOR ETAPÓW”, „torze Etapów”) |
-| Action Round track / ACTION ROUND TRACK | tor Rund / TOR RUND | [nowe 26.10 – propozycja] od Phalanx „Runda” (nazwy toru Phalanx nie podaje); R 3.4; „TURN 4+” (oznaczenie pola 8 toru) – „ETAP 4+” [Phalanx, napis mapy] |
+| Action Round track / ACTION ROUND TRACK | tor Rund / TOR RUND | [nowe 26.10 – propozycja] od Phalanx „Runda” (nazwy toru Phalanx nie podaje); R 3.4; „TURN 4+” (oznaczenie pola 7 toru – potwierdzone przez użytkownika 30.10 na planszy) – „ETAP 4+” [Phalanx, napis mapy] |
 | DEFCON track / DEFCON STATUS (plansza) | tor DEFCON / STATUS DEFCON | [Phalanx]; R 8.1 |
 | NUCLEAR WAR / NO COUP OR REALIGNMENT ATTEMPTS / [+ Middle East] / [+ Asia] / [In Europe] / PEACE [No Restrictions] | WOJNA NUKLEARNA / BEZ PRÓB PRZEWROTU ANI WYWIERANIA PRESJI / [+ Bliski Wschód] / [+ Azja] / [w Europie] / POKÓJ [bez ograniczeń] | etykiety toru DEFCON (R s. 6, 14) |
 | DEFCON 4 / DEFCON 3 / DEFCON 2 (przy symbolach na mapie) | DEFCON 4 / DEFCON 3 / DEFCON 2 | przy Europie, Azji, Bliskim Wschodzie; bez tłumaczenia |
@@ -1187,3 +1187,14 @@ Walidacja językowo-merytoryczna R (24 s.) i BB (48 s.) wobec EN i terminologii 
 11. Nawiasy EN tytułów kart w wierszach „Karta:” Przykładu rozgrywki (BB s. 8 US/Japan Mutual Defense Pact, s. 10 Indo-Pakistani War, Captured Nazi Scientist, s. 12 Arab-Israeli War, De Gaulle Leads France) oraz EN w ramce PRZEWRÓT W IRANIE (s. 4) – w składzie pominięte z braku miejsca (K.6); próby dodania obniżały skalę strony poniżej 0,85. DO DECYZJI UŻYTKOWNIKA (dodanie wymaga dodatkowego wiersza).
 12. „Scenariusz Apogeum” – wielka litera w nazwie scenariusza zostaje (nagłówek i tekst); „scenariusz Wschodzące czerwone słońce” małą (nazwa własna w tytule). Bez zmian.
 13. Błędy oryginału odnotowane dodatkowo (oddane wiernie): BB s. 25 „second presidency” (de Gaulle), s. 29 „Soviet Premier” (1956), s. 30 „Socialist Democratic party” (w PL poprawna nazwa SPD), s. 30 uwolnienie Mandeli „za Bothy”, s. 32 „foreign minister Zhou Enlai” (1971), s. 36 INF „Reykjavik 1986” i Pershing II „RFN, Włochy, W. Brytania”, s. 41 „and completing”, s. 45 „Presidents MacArthur and DeGaulle”, s. 47 „Handelsgeselschaft”, „CC-BY4.0”; R s. 18 „counters”/„reminder markers” dla tych samych elementów.
+
+### 12.2 Decyzje użytkownika z 30.10.2026 (po walidacji)
+
+1. R 2.0: „Rulebook” = „niniejsza księga zasad”, „Background Booklet” = „księga tła historycznego” (zamiast „zeszyt”) – spójnie z okładkami.
+2. „scenariusz Apogeum” w tekście ciągłym małą literą (jak „scenariusz Wschodzące czerwone słońce”); nagłówki i spis treści – „Scenariusz Apogeum”.
+3. R 11.1 „Soviet Union” (pole supermocarstwa) – „ZSRR (Soviet Union)”; „Związek Radziecki” tylko w tekście historycznym.
+4. Nagłówki rozdziałów R – jak w Phalanx (2.0 „Komponenty”, 2.1 „Plansza”, 6.3 „Przewroty”, 9.0 „Karta Chińska”, 10.0 „Rozstrzygnięcie i warunki zwycięstwa”, 10.3 „Warunki zwycięstwa” itd.) – DO WYKONANIA (PRZEKAZANIE pkt 13); zmienia pkt 0.1.3 d i 4.1.
+5. Pary occur/resolve, increase/improve, counter/marker – rozróżnienie zostaje.
+6. „TURN 4+” – pole 7 toru Rund.
+7. BB: nawiasy EN tytułów kart w wierszach „Karta:” – dodać łatką składu z dodatkowym wierszem (DO WYKONANIA); kropka z oryginału po „(…, Wydarzenie ZSRR).” usunięta; s. 2 – md „Wpływy ZSRR (USSR Influence) – zapis (USA/ZSRR)”, skład bez EN przy obu członach.
+8. Dialogi: „ty”/„pan” jak w oryginale; błędy faktograficzne oryginału bez przypisów; wyjątek – „Socialist Democratic party” (BB s. 30): poprawna nazwa z dopiskiem „[przyp. red.: w oryginale „Socialist Democratic party”; chodzi o SPD]”.

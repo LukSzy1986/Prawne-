@@ -37,20 +37,20 @@ SPQR Deluxe:
 
 Twilight Struggle – Zasady:
 9. Przypis w 8.1.6 – zostaje. (bez zmian)
-10. **2.0: „zeszyt zasad” → „księga zasad”, „zeszyt tła historycznego” → „księga tła historycznego (Background Booklet)”** – md i skład.
-11. **„Scenariusz Apogeum” w tekście ciągłym małą literą: „scenariusz Apogeum”**; nagłówki bez zmian – md i skład (R s. 18–21; BB – sprawdzić).
-12. **11.1 „Związek Radziecki (Soviet Union)” → „ZSRR (Soviet Union)”** – md i skład; uzupełnić glosariusz TS 6.3.
+10. ✅ WYKONANE 30.10 (md + skład + PDF). **2.0: „zeszyt zasad” → „księga zasad”, „zeszyt tła historycznego” → „księga tła historycznego (Background Booklet)”** – md i skład.
+11. ✅ WYKONANE 30.10 (R s. 18–20; BB nie zawiera). **„Scenariusz Apogeum” w tekście ciągłym małą literą: „scenariusz Apogeum”**; nagłówki bez zmian – md i skład (R s. 18–21; BB – sprawdzić).
+12. ✅ WYKONANE 30.10 („ze ZSRR (Soviet Union)”; glosariusz 12.2). **11.1 „Związek Radziecki (Soviet Union)” → „ZSRR (Soviet Union)”** – md i skład; uzupełnić glosariusz TS 6.3.
 13. **Nagłówki rozdziałów – JAK PHALANX** (decyzja użytkownika odmienna od rekomendacji): 2.0 „Komponenty”, 2.1 „Plansza”, 6.2 „Wywieranie Presji”, 6.3 „Przewroty”, 9.0 „Karta Chińska”, 10.0 „Rozstrzygnięcie i warunki zwycięstwa”, 10.3 „Warunki zwycięstwa”, 13.3 – brzmienie Phalanx („Opcjonalne zasady autorów” koliduje z zasadą M – zapytać albo dać „Opcjonalne zasady projektantów”); pełna lista w glosariuszu TS 0.1.3 d i 12 (sprawa 1). Zmienić: md, skład (nagłówki, spis treści s. 1 – sprawdzić długość wiersza i kropki), odesłania w BB, glosariusz 4.1 i 0.1.3. Sprawdzić tekst Phalanx: `tr/ref/TS_PL_Phalanx_Ksiega_zasad.txt`.
 14. Rozróżnienia occur/resolve, increase/improve, counter/marker – zostają. (bez zmian)
-15. **„TURN 4+” na torze Rund – pole 7** (użytkownik sprawdził na mapach): poprawić glosariusz TS 2.1 („oznaczenie pola 8 toru” → pola 7); opis ilustracji w p007.md już mówi o polu 7 – sprawdzić p012.md i BB.
+15. ✅ WYKONANE 30.10 (glosariusz 2.1 poprawiony; opisy ilustracji w md już mówiły o polu 7). **„TURN 4+” na torze Rund – pole 7** (użytkownik sprawdził na mapach): poprawić glosariusz TS 2.1 („oznaczenie pola 8 toru” → pola 7); opis ilustracji w p007.md już mówi o polu 7 – sprawdzić p012.md i BB.
 
 Twilight Struggle – Background Book:
 16. **Nawiasy EN tytułów kart w wierszach „Karta:” – ZROBIĆ łatkę layoutu z dodatkowym wierszem**: s. 8 (US/Japan Mutual Defense Pact), s. 10 (Indo-Pakistani War; Wydarzenie Kluczowe ZSRR Captured Nazi Scientist), s. 12 (Arab-Israeli War, De Gaulle Leads France), s. 4 ramka PRZEWRÓT W IRANIE (Kontrola ZSRR – USSR Control, Operacje Wojskowe ZSRR – USSR Military Ops) i s. 4 „kontrolowane przez USA (US Controlled)”, s. 3 „−1 do Operacji (Operations, min. 1)”, s. 5 „z Europy Zachodniej (Western Europe)”, s. 8 „(Kontrola Iranu przez USA, US control of Iran)”. Wszystkie próbowano 30.10 – obniżały skalę stron (s. 5 do 0,83, s. 8 do 0,77, s. 10 do 0,82) albo kolidowały z dymkami (s. 4) – cofnięte. Wymagają łatek: `custom/TS_20th_Ann_Background_Book_WEB_p001-004/p005-008/p009-012_layout_patch.py` (dopisać sekcję; przesunięcie dymków dialogów nie jest możliwe – są w tle; zwiększyć `maxBottom` jednostek nad wolnym miejscem, zmniejszyć odstępy EXTRA, rozdzielić jednostkę). Po zmianie – kontrola wizualna!
-17. **Kropka po „(…, Wydarzenie ZSRR).” na s. 4 – usunąć** (md + skład).
-18. **s. 2: md – „Wpływy ZSRR (USSR Influence)” + objaśnienie zapisu (USA/ZSRR); skład – usunąć EN przy obu członach** („Wpływy USA, a liczba po ukośniku – Wpływy ZSRR (USA/ZSRR)”). Cytaty: `walidacja/val_tsbb_1_8.tsv` wiersze 2–3.
+17. ✅ WYKONANE 30.10. **Kropka po „(…, Wydarzenie ZSRR).” na s. 4 – usunąć** (md + skład).
+18. ✅ WYKONANE 30.10. **s. 2: md – „Wpływy ZSRR (USSR Influence)” + objaśnienie zapisu (USA/ZSRR); skład – usunąć EN przy obu członach** („Wpływy USA, a liczba po ukośniku – Wpływy ZSRR (USA/ZSRR)”). Cytaty: `walidacja/val_tsbb_1_8.tsv` wiersze 2–3.
 19. Dialogi „ty”/„pan” – zostają. (bez zmian)
 20. Przypisy do błędów faktograficznych oryginału – bez przypisów. (bez zmian)
-21. **„Socialist Democratic party” (BB s. 30, hasło Willy Brandt) – ZOSTAWIĆ poprawną nazwę Z DOPISKIEM**: np. „… partię socjaldemokratyczną [przyp. red.: w oryginale „Socialist Democratic party”; chodzi o SPD]” – md (pełny), skład (krótszy, jeśli się nie mieści: „[przyp. red.: SPD]”), DOCX z md.
+21. ✅ WYKONANE 30.10 (pełny dopisek w md i w składzie – zmieścił się, s. 30 skala 0,896). **„Socialist Democratic party” (BB s. 30, hasło Willy Brandt) – ZOSTAWIĆ poprawną nazwę Z DOPISKIEM**: np. „… partię socjaldemokratyczną [przyp. red.: w oryginale „Socialist Democratic party”; chodzi o SPD]” – md (pełny), skład (krótszy, jeśli się nie mieści: „[przyp. red.: SPD]”), DOCX z md.
 
 Ogólne:
 22. Tła i oryginały TS – dostarczone, PDF TS złożone 30.10. (wykonane)
@@ -66,6 +66,12 @@ Ogólne:
 ## 5. Cofnięte 30.10 z powodu składu (treść w md jest poprawna; w PDF zostało poprzednie brzmienie)
 
 SPQR s. 3 „Nazwa/ozn.” (etykieta diagramu), s. 21 nawiasy (SK), (LI), (LC) w 7.33; TS Zasady s. 6: „kładąc” (zamiast „rozmieszczając”) i brak „(Space Race)” w 3.4 – fragmenty między ikonami ③–⑥ nie mieszczą dłuższego tekstu; BB s. 3, 4 („Wojna nieudana”, „(US Controlled)”), s. 5, 8, 10, 12 – zob. pkt 16.
+
+## 5a. Stan po drugiej części sesji 30.10 (ok. 08:15 UTC)
+
+- Wykonane decyzje: 10, 11, 12, 15, 17, 18, 21 (zaznaczone ✅ wyżej); glosariusze uzupełnione: SPQR 11.2, TS 12.2.
+- PDF obu dokumentów TS przebudowane po zmianach; strony z elementami o stałym położeniu (Zasady s. 5, 6, 8, 9, 18; BB s. 2–12, 16–17) obejrzane – bez kolizji; `overlap.py` zgłasza tylko warstwowe etykiety planszy (Zasady s. 4, 5, 11, 15 – fałszywe trafienia).
+- POZOSTAJĄ do wykonania: 1 (nawiasy EN typów oddziałów w składzie SPQR), 2 (© na okładce SPQR – potrzebny oryginał SPQR EN), 8 (GBJC 7.3), 13 (nagłówki rozdziałów Zasad TS jak w Phalanx – z odesłaniami i spisem treści), 16 (nawiasy EN w wierszach „Karta:” BB – łatki layoutu), 23 (poprawka `render.py`).
 
 ## 6. Kolejność prac dla następnej sesji
 

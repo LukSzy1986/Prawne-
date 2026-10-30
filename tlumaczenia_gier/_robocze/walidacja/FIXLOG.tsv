@@ -326,3 +326,21 @@ REV-tsbb_1_8#7	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	(Wojna kończy się 
 REV-spqr_1_8#10	SPQR_Deluxe_Rule_book_WEB	3	json	WIELE(2)	Nazwa/oznacz.	Nazwa/ozn.
 REV-spqr_1_8#10b	SPQR_Deluxe_Rule_book_WEB	3	json	OK(1)	Nazwa/oznacz. (u10)	Nazwa/ozn.
 REV-tsbb_1_8#11	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	państwo kontrolowane przez USA (US Controlled) nie daje	państwo kontrolowane przez USA nie daje
+DEC-10a	TS_20th_Ann_Rule_Book_WEB	2	md	OK(1)	zeszyt tła historycznego (Background Booklet)	księga tła historycznego (Background Booklet)
+DEC-10a	TS_20th_Ann_Rule_Book_WEB	2	json	OK(1)	zeszyt tła historycznego (Background Booklet)	księga tła historycznego (Background Booklet)
+DEC-10b	TS_20th_Ann_Rule_Book_WEB	2	md	OK(1)	niniejszy zeszyt zasad	niniejsza księga zasad
+DEC-10b	TS_20th_Ann_Rule_Book_WEB	2	json	OK(1)	niniejszy zeszyt zasad	niniejsza księga zasad
+DEC-11a	TS_20th_Ann_Rule_Book_WEB	18	md	OK(1)	w Scenariuszu Apogeum	w scenariuszu Apogeum
+DEC-11a	TS_20th_Ann_Rule_Book_WEB	18	json	OK(1)	w Scenariuszu Apogeum	w scenariuszu Apogeum
+DEC-11b	TS_20th_Ann_Rule_Book_WEB	19	md	OK(1)	w Scenariuszu Apogeum	w scenariuszu Apogeum
+DEC-11b	TS_20th_Ann_Rule_Book_WEB	19	json	OK(1)	w Scenariuszu Apogeum	w scenariuszu Apogeum
+DEC-11c	TS_20th_Ann_Rule_Book_WEB	20	md	OK(1)	na otwarcie Scenariusza Apogeum	na otwarcie scenariusza Apogeum
+DEC-11c	TS_20th_Ann_Rule_Book_WEB	20	json	OK(1)	na otwarcie Scenariusza Apogeum	na otwarcie scenariusza Apogeum
+DEC-12	TS_20th_Ann_Rule_Book_WEB	17	md	OK(1)	ze Związkiem Radzieckim (Soviet Union)	ze ZSRR (Soviet Union)
+DEC-12	TS_20th_Ann_Rule_Book_WEB	17	json	OK(1)	ze Związkiem Radzieckim (Soviet Union)	ze ZSRR (Soviet Union)
+DEC-17	TS_20th_Ann_Background_Book_WEB	4	md	OK(1)	Wydarzenie ZSRR).	Wydarzenie ZSRR)
+DEC-17	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	Wydarzenie ZSRR).	Wydarzenie ZSRR)
+DEC-18a	TS_20th_Ann_Background_Book_WEB	2	md	OK(1)	Wpływy ZSRR (USA/ZSRR)	Wpływy ZSRR (USSR Influence) – zapis (USA/ZSRR)
+DEC-18b	TS_20th_Ann_Background_Book_WEB	2	json	OK(1)	Wpływy USA (US Influence), a liczba po ukośniku – Wpływy ZSRR (USA/ZSRR)	Wpływy USA, a liczba po ukośniku – Wpływy ZSRR (USA/ZSRR)
+DEC-21	TS_20th_Ann_Background_Book_WEB	30	md	OK(1)	partię socjaldemokratyczną do zdobycia	partię socjaldemokratyczną [przyp. red.: w oryginale „Socialist Democratic party”; chodzi o SPD] do zdobycia
+DEC-21	TS_20th_Ann_Background_Book_WEB	30	json	OK(1)	partię socjaldemokratyczną do zdobycia	partię socjaldemokratyczną [przyp. red.: w oryginale „Socialist Democratic party”; chodzi o SPD] do zdobycia
