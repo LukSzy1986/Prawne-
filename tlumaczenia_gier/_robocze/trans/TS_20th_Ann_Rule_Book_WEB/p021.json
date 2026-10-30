@@ -1,0 +1,140 @@
+{
+ "_uwagi": "s. 21 (tr21_24): Przygotowanie Scenariusza Apogeum + ramka Kontrola i Wpływy. Tabele państw (u12, u14, u16) przebudowane łatką na 2 kolumny (kolejność wierszy w trans: kolumna lewa z góry na dół, potem prawa – jak kolejność czytania oryginału kolumnami). u4 akapit 0 pusty – całość w akapicie 1 (łatka: linia bazowa akapitu 1 = akapitu 0).",
+ "u2": {
+  "paras": [
+   "PRZYGOTOWANIE SCENARIUSZA APOGEUM"
+  ]
+ },
+ "u3": {
+  "lines": [
+   "Karty"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "",
+   "Usuń wszystkie Wydarzenia (Events) z Preludium i Eskalacji (Early and Mid War) z gwiazdką (*) Z WYJĄTKIEM kart <b><i><sc>Niedźwiedź w potrzasku (Bear Trap)</sc></i></b>, <b><i><sc>Porozumienia z Camp David (Camp David Accords)</sc></i></b>, <b><i><sc>Jan Paweł II wybrany na papieża (John Paul II Elected Pope)</sc></i></b> oraz <b><i><sc>Zwrot Kanału Panamskiego (Panama Canal Returned)</sc></i></b>. Daj <b><i><sc>Kartę Chińską (The China Card)</sc></i></b> graczowi ZSRR. Potasuj razem pozostałe karty <b>Preludium</b>, <b>Eskalacji</b> i <b>Apogeum</b> (Late War) i rozdaj je, aby rozpocząć <b>Etap 8</b> (Turn 8).",
+   "Znaczniki",
+   "Umieść znacznik <b>Wyścigu Kosmicznego USA</b> (US Space Race marker) na polu <b><i>Orzeł wylądował (Eagle has Landed)</i></b> toru Wyścigu Kosmicznego. Umieść znacznik <b>Wyścigu Kosmicznego ZSRR</b> na polu <b><i>Człowiek na orbicie ziemskiej (Man in Earth Orbit)</i></b> tego toru. Umieść znaczniki <b>Operacji Wojskowych</b> (Military Operations markers) na polu <b>0</b> toru Operacji Wojskowych. Umieść znacznik <b>Etapu</b> (Turn marker) na polu <b>8</b> toru Etapów (Turn Record track), a znacznik <b>Rundy</b> (Action Round marker) obok toru Rund. Umieść znacznik <b>DEFCON</b> na <b>poziomie 4</b> toru DEFCON. Na koniec umieść znacznik <b>Punktacji</b> (VP marker) na polu <b>4</b> (po stronie USA) toru Punktacji (Victory Point track). <i>Zob. ramkę przygotowania scenariusza „Kontrola i Wpływy”.</i>",
+   "Żetony Wydarzeń w grze (Events in Play Counters):"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "Zwycięstwo"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "USA nie mogą zwyciężyć w wyniku zagrania przez USA karty <b><i><sc>Gry wojenne (Wargames)</sc></i></b>. Po zakończeniu Rozstrzygnięcia Końcowego (Final Scoring) USA muszą mieć <b>20+ VP</b>, aby zwyciężyć; w przeciwnym razie zwycięża ZSRR. Wszystkie pozostałe automatyczne zwycięstwa (Automatic Victory) następują zgodnie ze zwykłymi zasadami (10.3.1)."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "SCENARIUSZ APOGEUM"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Kontrola i Wpływy"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<f MinionPro-Cn>•</f> USA dominują (Dominates) w Ameryce Południowej (South America) i Azji (Asia)"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "Umieść minimalną liczbę Punktów Wpływów (Influence) potrzebną do Kontroli (Control), z wyjątkiem państw z zapisem (USA#/ZSRR#)."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "KONTROLA USA"
+  ]
+ },
+ "u12": {
+  "lines": [
+   "Wielka Brytania (UK)",
+   "Włochy (Italy)",
+   "Beneluks (Benelux)",
+   "Dania (Denmark)",
+   "Norwegia (Norway)",
+   "Niemcy Zachodnie (W. Germany, <b>5/1</b>)",
+   "Izrael (Israel)",
+   "Iran",
+   "Pakistan",
+   "Turcja (Turkey)",
+   "Zair (Zaire)",
+   "Somalia",
+   "Kenia (Kenya)",
+   "Nigeria",
+   "Japonia (Japan)",
+   "Korea Południowa (South Korea)",
+   "Tajwan (Taiwan)",
+   "Filipiny (Philippines, <b>3/1</b>)",
+   "Tajlandia (Thailand)",
+   "Indonezja (Indonesia)",
+   "Australia",
+   "Malezja (Malaysia, <b>3/1</b>)",
+   "Nikaragua (Nicaragua)",
+   "Panama",
+   "Haiti",
+   "Honduras",
+   "Wenezuela (Venezuela)",
+   "Chile",
+   "Argentyna (Argentina)",
+   "Kolumbia (Colombia, <b>2/1</b>)",
+   "Dominikana (Dominican Republic)"
+  ]
+ },
+ "u13": {
+  "paras": [
+   "KONTROLA ZSRR"
+  ]
+ },
+ "u14": {
+  "lines": [
+   "Niemcy Wschodnie (E. Germany)",
+   "Polska (Poland)",
+   "Węgry (Hungary)",
+   "Czechosłowacja (Czechoslovakia)",
+   "Bułgaria (Bulgaria)",
+   "Irak (Iraq)",
+   "Syria <b>(0/3)</b>",
+   "Indie (India)",
+   "Afganistan (Afghanistan)",
+   "Kuba (Cuba)",
+   "Libia (Libya)",
+   "Algieria (Algeria)",
+   "Etiopia (Ethiopia)",
+   "Zimbabwe",
+   "Korea Północna (North Korea)",
+   "Angola <b>(1/3)</b>",
+   "<f MyriadPro-Cond>Laos</f> (0/2)",
+   "Wietnam (Vietnam, <b>0/5</b>)"
+  ]
+ },
+ "u15": {
+  "paras": [
+   "Państwa Afryki Południowo-Wschodniej (SE African States, <b>0/2</b>)"
+  ]
+ },
+ "u16": {
+  "lines": [
+   "NEUTRALNE",
+   "Hiszpania (Spain, <b>1/0</b>)",
+   "Francja (France, <b>3/1</b>)",
+   "Rumunia (Romania, <b>1/3</b>)",
+   "Jordania (Jordan, <b>2/2</b>)",
+   "Egipt (Egypt, <b>1/0</b>)",
+   "RPA (South Africa, <b>2/1</b>)",
+   "Finlandia (Finland, <b>1/2</b>)",
+   "Birma (Burma, <b>0/1</b>)",
+   "<f MyriadPro-Cond>Peru</f> (2/1)",
+   "Jugosławia (Yugoslavia, <b>1/2</b>)",
+   "Arabia Saudyjska (Saudi Arabia, <b>2/0</b>)"
+  ]
+ }
+}

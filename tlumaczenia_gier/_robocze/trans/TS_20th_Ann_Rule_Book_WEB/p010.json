@@ -1,0 +1,53 @@
+{
+ "u2": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD 3:</f> Gracz ZSRR zagrywa kartę <b><sc>Sojusz dla Postępu (Alliance for Progress)</sc></b>. Gracz USA nie kontroluje (Control) jednak żadnego Państwa Strategicznego (Battleground country) ani w Ameryce Południowej (South America), ani w Ameryce Środkowej (Central America). Mimo to uznaje się, że Wydarzenie (Event) zostało zagrane, a karta zostaje na stałe usunięta z gry."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD 4:</f> ZSRR zagrywa kartę <b><sc>Gwiezdne wojny (Star Wars)</sc></b> jako Operacje (for Operations), co normalnie zainicjowałoby Wydarzenie (Event), ale gracz USA jest w tyle na torze Wyścigu Kosmicznego (Space Race track). Nic się nie dzieje, a karta <b><sc>Gwiezdne wojny</sc></b> zostaje po prostu odrzucona."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<f MyriadPro-BlackCond>5.3</f> Gdy Wydarzenie (Event) wymaga zagrania lub odrzucenia karty o określonej wartości, wymóg ten zawsze spełnia karta o wyższej wartości."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Karta <b><sc>Grzęzawisko (Quagmire)</sc></b> wymaga od gracza USA odrzucenia karty o Wartości Operacyjnej 2 lub wyższej (a 2 or more Operations card). Jeśli USA odrzucą kartę o Wartości Operacyjnej 3, wymóg nadal jest spełniony."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<f MyriadPro-BlackCond>5.4</f> Gdy Wydarzenie (Event) zmusza gracza do odrzucenia (discard) karty, Wydarzenie z odrzuconej karty nie zachodzi. Dotyczy to także kart Rozstrzygnięcia (Scoring cards).",
+   "<f MyriadPro-BlackCond>5.5</f> Z wyjątkiem przypadku opisanego w zasadzie 10.1.5 tekst karty ma pierwszeństwo przed spisanymi zasadami."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "6.0 OPERACJE (OPERATIONS)"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Operacje (Operations) można wykorzystać do Poszerzania Strefy Wpływów (place Influence markers), rzutów na Wywieranie Presji (Realignment rolls), prób Przewrotu (Coups) albo awansu w Wyścigu Kosmicznym. Gdy kartę zagrano jako Operacje, gracz musi wykorzystać wszystkie Punkty Operacyjne (Operations points) na jedną z tych opcji.",
+   "6.1 POSZERZANIE STREFY WPŁYWÓW",
+   "„Każdy narzuca swój system tam, dokąd może dotrzeć jego armia.”",
+   "<f MinionPro-Cn>– </f>Józef Stalin",
+   "<b>6.1.1</b> Znaczniki Wpływów (Influence markers) umieszcza się pojedynczo. Trzeba je jednak dodawać w państwach, w których są własne Wpływy obecne tam od początku Rundy (Action Round) Aktywnego Gracza (Phasing Player), albo w państwach z nimi sąsiadujących. <i>Wyjątek:</i> znaczniki umieszczane na wymóg Wydarzenia (Event) nie podlegają temu ograniczeniu, chyba że na karcie wyraźnie zaznaczono inaczej. Jeśli Wpływy wystarczają do uzyskania Kontroli (Control) nad państwem, umieść znacznik ciemniejszą stroną Kontroli do góry.",
+   "<b>6.1.2</b> Umieszczenie znacznika Wpływów (Influence marker) w państwie, które kontrolujesz (Control) lub które jest niekontrolowane, kosztuje jeden 1 Punkt Operacyjny (one 1 Operations point), a w państwie kontrolowanym przez przeciwnika – 2 Punkty Operacyjne. Jeśli podczas umieszczania znaczników zmieni się status Kontroli państwa, kolejne znaczniki umieszczane w tej Rundzie (Action Round) umieszcza się po niższym koszcie."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz USA ma 2 znaczniki Wpływów (Influence markers) w Turcji (Turkey), a gracz ZSRR – żadnego. USA kontrolują (Controls) więc Turcję. Gracz ZSRR wykorzystuje kartę o Wartości Operacyjnej 4 (4 Operations point card) na Poszerzanie Strefy Wpływów (to place Influence markers). Przy umieszczaniu znaczników w Turcji pierwszy znacznik kosztuje 2 Punkty Operacyjne (Operations points). Jednak po umieszczeniu pierwszego znacznika ZSRR Wpływy USA nie przewyższają już Wpływów ZSRR w Turcji o Poziom Stabilizacji (Stability Number) równy 2. Dlatego kolejne znaczniki ZSRR kosztowałyby już tylko po 1 Punkcie Operacyjnym. Gdyby gracz USA zaczynał tylko z 1 znacznikiem Wpływów w Turcji, nie kontrolowałby Turcji. Dlatego znaczniki ZSRR kosztowałyby tylko po 1 Punkcie Operacyjnym."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz USA kontroluje (controls) Turcję (Turkey) i Grecję (Greece), a gracz ZSRR kontroluje Syrię (Syria) i Liban (Lebanon). Żaden z graczy nie kontroluje Rumunii (Romania) ani Bułgarii (Bulgaria)."
+  ]
+ }
+}

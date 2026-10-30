@@ -1,0 +1,55 @@
+{
+ "_uwagi": "sp1_9 (26.10.2026). Okładka: tytuł gry bez zmian (glosariusz 3.4); spis treści bez nawiasów EN (nagłówki rozdziałów w tekście mają EN). Między numerem a tytułem rozdziału spacja EM+EN (jak tabulator w oryginale). Stopka u9: warstwa tekstu w oryginale zepsuta – złożona czysto, bez zmian treści (jak na obrazie). Spis treści: wiersze justowane (numer strony w znaczniku <f>, żeby nie działał mechanizm kropek wiodących) – stały odstęp kropek od numeru.",
+ "u1": {
+  "paras": [
+   "Seria The Great Battles of History — tom II"
+  ]
+ },
+ "u2": "keep",
+ "u3": {
+  "paras": [
+   "ZASADY GRY",
+   "Wydanie 5."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "1.0  Wprowadzenie . . . . . . . . . . . . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>2</f>",
+   "2.0  Elementy gry i terminologia . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>2</f>",
+   "3.0  Sekwencja gry . . . . . . . . . . . . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>6</f>",
+   "4.0  Dowódcy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>7</f>",
+   "5.0  Aktywacja dowódców i rozkazy . . . . . . . . . . . <f TimesNewRomanPSMT>11</f>"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "gra Richarda Berga i Marka Hermana"
+  ]
+ },
+ "u6": {
+  "lines": [
+   "Spis treści"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "7.0  Ustawienie frontu i ZOC . . . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>20</f>",
+   "8.0  Walka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>21</f>",
+   "9.0  Specjalne oddziały bojowe . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>31</f>",
+   "10.0 Skutki walki . . . . . . . . . . . . . . . . . . . . . . . . . . . <f TimesNewRomanPSMT>37</f>",
+   "11.0 Wycofanie armii i zwycięstwo . . . . . . . . . . . . . <f TimesNewRomanPSMT>41</f>"
+  ]
+ },
+ "u8": {
+  "lines": [
+   "6.0",
+   "Ruch . . . . . . . . . .  . . . . . . . . . .  . . . . . . . . . .  . . . 14",
+   "Indeks zasad . . . . . .  . . . . . .  . . . . . .  . . . . . .  . . . . . .  . . 42"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>GMT Games, LLC •</b> P.O. Box 1308 • Hanford, CA 93232–1308"
+  ]
+ }
+}

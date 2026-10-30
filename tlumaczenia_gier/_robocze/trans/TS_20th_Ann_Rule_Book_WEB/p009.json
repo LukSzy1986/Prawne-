@@ -1,0 +1,50 @@
+{
+ "u2": {
+  "paras": [
+   "F. Sprawdzenie zatrzymanej karty Rozstrzygnięcia:",
+   "Jeśli którykolwiek z graczy ma zatrzymaną kartę Rozstrzygnięcia (is holding a Scoring card), natychmiast przegrywa grę.",
+   "G. Przygotowanie <i><sc>Karty Chińskiej (The China Card)</sc></i>:",
+   "Jeśli w trakcie Etapu (turn) <b><i><sc>Karta Chińska (The China Card)</sc></i></b> została przekazana zakryta, odwróć ją teraz odkrytą stroną do góry.",
+   "H. Postęp na torze Etapów (Advance Turn Marker):",
+   "Przesuń znacznik Etapu (Turn marker) na następny Etap (turn). Jeśli to koniec Etapu 3, wtasuj karty Eskalacji (Mid War) do talii do dobierania. Jeśli to koniec Etapu 7, wtasuj karty Apogeum (Late War) do talii do dobierania.",
+   "I. Rozstrzygnięcie Końcowe (Final Scoring):",
+   "Na koniec Etapu 10 (Turn 10) przeprowadź Rozstrzygnięcie Końcowe (Final Scoring; zob. 10.3.2)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "5.0 ZAGRYWANIE KART (CARD PLAY)"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<f MyriadPro-BlackCond>5.1</f> Karty można zagrywać albo jako Wydarzenia (Events), albo jako Operacje (Operations). Zwykle na koniec Etapu (turn) gracze zatrzymują (hold) na ręce jedną kartę. Gracze nie mogą zrezygnować ze swojej kolejki, odmawiając zagrania karty ani odrzucając (discarding) kartę z ręki. Gracze mogą zagrywać karty powiązane (associated) z własnym supermocarstwem albo z oboma supermocarstwami – jako Operacje (zob. 6.0) albo jako Wydarzenie (zob. 7.0). Karty powiązane wyłącznie z supermocarstwem przeciwnika można zagrywać tylko jako Operacje, ale Wydarzenie zajdzie automatycznie (zob. 5.2).",
+   "5.2 Wydarzenia powiązane z przeciwnikiem:",
+   "Jeśli zagrywasz kartę jako Operacje (Operations), a jej Wydarzenie (Event) jest powiązane wyłącznie z przeciwnikiem, Wydarzenie i tak zachodzi (a karta, jeśli po tytule Wydarzenia ma gwiazdkę (*), zostaje usunięta). <i>Aktywny Gracz (Phasing Player) zawsze decyduje, czy Wydarzenie zajdzie przed przeprowadzeniem Operacji, czy po nim.</i>"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA:</f> Gdy zagrywasz kartę jako Operacje (Operations), a zainicjuje ona (triggers) Wydarzenie (Event) przeciwnika, przeciwnik wykonuje tekst Wydarzenia tak, jakby sam zagrał tę kartę."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "• Jeśli Wydarzenie (Event) przeciwnika ma warunek wstępny – wcześniejsze zagranie karty albo inny warunek – który nie został spełniony, Wydarzenie nie zachodzi.",
+   "• Jeśli zagranie Wydarzenia (Event) przeciwnika zostało zakazane lub anulowane przez inną kartę Wydarzenia, Wydarzenie nie zachodzi – do końca gry to Wydarzenie będzie można zagrywać tylko jako Operacje (Operations).",
+   "• Wydarzenia (Events) przeciwnika usuwane z gry po rozpatrzeniu (removed after being resolved) – te oznaczone gwiazdką (*) – usuwa się tylko wtedy, gdy Wydarzenie faktycznie zajdzie. Jeśli Wydarzenie zostanie zagrane, ale nie zajdzie, wraca na stos kart odrzuconych (discard pile), zamiast – jak zwykle – zostać usunięte z gry.",
+   "• Jeśli Wydarzenie (Event) nie wywoła żadnego efektu, i tak uznaje się, że zaszło, i jeśli ma gwiazdkę (*), nadal zostaje usunięte."
+  ]
+ },
+ "u7": "skip",
+ "u8": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD 1:</f> Gracz ZSRR zagrywa kartę <b><sc>NATO</sc></b>, zanim zagrano karty <b><sc>Plan Marshalla (Marshall Plan)</sc></b> lub <b><sc>Utworzenie Układu Warszawskiego (Warsaw Pact Formed)</sc></b>. Gracz ZSRR otrzymuje 4 Punkty Operacyjne (Operations points), ale <b><sc>NATO</sc></b> nie zachodzi. Mimo że karta <b><sc>NATO</sc></b> jest oznaczona gwiazdką (*), kładzie się ją na stos kart odrzuconych (discard pile), a nie usuwa na stałe z gry (permanently removed from play)."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD 2:</f> Gracz USA zagrywa kartę <b><sc>Wojna arabsko-izraelska (Arab-Israeli War)</sc></b> jako Operacje o wartości 2 (for 2 Operations). Jednak w swojej poprzedniej Rundzie (Action Round) zagrał kartę <b><sc>Porozumienia z Camp David (Camp David Accords)</sc></b>, która zakazuje zagrania karty <b><sc>Wojna arabsko-izraelska</sc></b> jako Wydarzenia (Event). Gracz USA i tak otrzyma 2 Punkty Operacyjne (Operations points), ale Wydarzenie nie zachodzi."
+  ]
+ }
+}

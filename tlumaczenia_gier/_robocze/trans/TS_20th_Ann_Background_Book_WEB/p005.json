@@ -1,0 +1,146 @@
+{
+ "u2": {
+  "paras": [
+   "<u>AR4 (ZSRR)</u>"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Karta: <b><i><sc>Rządy socjalistów</sc></i></b> (<b><i><sc>Socialist Governments</sc></i></b>, Wydarzenie ZSRR)",
+   "Usuń 3 Punkty Wpływów USA (US Influence) z Europy Zachodniej.",
+   "• Włochy (Italy): (2/0) <b><c #0072aa>Kontrola USA (US Control)</c></b>",
+   "• Francja (France): (0/0)"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> „De Gaulle jest wrogiem, ale jego polityka ma tę zaletę, że osłabia pozycję USA.”"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<u>AR4 (USA)</u>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Karta: <b><i><sc>Rozstrzygnięcie w Europie</sc></i></b> (Wydarzenie neutralne)",
+   "Obie strony mają Obecność (Presence, 3) + dwa Państwa Strategiczne (Battlegrounds, 2), co daje razem 5. Nie przyznaje się żadnych VP."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>KENNEDY:</b> Tak, tak, Nikita, już wiem, że „Ich bin ein Berliner” robi ze mnie pączka z konfiturą."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<u>AR5 (ZSRR)</u>"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "Karta: <b><i><sc>RWPG</sc></i></b> (<b><i><sc>COMECON</sc></i></b>, Wydarzenie ZSRR)",
+   "Dodaj po 1 Punkcie Wpływów (Influence) w czterech państwach Europy Wschodniej (Eastern Europe).",
+   "• Niemcy Wschodnie (East Germany): (0/4) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "• Czechosłowacja (Czechoslovakia): (0/2)",
+   "• Węgry (Hungary): (0/2)",
+   "• Finlandia (Finland): (0/2)",
+   "<b><i><sc>RWPG</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Gdy chodzi o walkę z imperializmem, możemy z przekonaniem stwierdzić, że wszyscy jesteśmy stalinowcami."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<u>AR5 (USA)</u>"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "Karta: <b><i><sc>Padnij i kryj się</sc></i></b> (<b><i><sc>Duck and Cover</sc></i></b>, USA, 3 Ops → 2 Ops pod działaniem <b><i><sc>Czerwonej paniki (Red Scare)</sc></i></b>)",
+   "<u>Przewrót w Pakistanie (Coup in Pakistan)</u>",
+   "• Stabilizacja Pakistanu (Pakistan Stability): 2",
+   "• Rzut kością: 4",
+   "• Siła Przewrotu (Coup strength) = 4 + 2 − 4 = 2",
+   "• Pakistan: 1/0",
+   "• DEFCON: 4 → 3",
+   "• Operacje Wojskowe USA (US Military Ops): 2"
+  ]
+ },
+ "u15": {
+  "paras": [
+   "<b>KENNEDY:</b> Czasem jedno pchnięcie sprawia, że drzwi pozostają otwarte."
+  ]
+ },
+ "u16": "keep",
+ "u17": {
+  "paras": [
+   "<u>AR6 (ZSRR)</u>"
+  ]
+ },
+ "u18": {
+  "paras": [
+   "Karta: <b><i><sc>Rozstrzygnięcie na Bliskim Wschodzie</sc></i></b> (<b><i><sc>Middle East Scoring</sc></i></b>, Wydarzenie neutralne)",
+   "ZSRR ma Dominację (Domination) – kontroluje (control) więcej Państw Strategicznych (Battlegrounds) i więcej państw niż USA, a także co najmniej jedno państwo niestrategiczne (non-Battleground). Daje to ZSRR 5 VP + jedno Państwo Strategiczne (1), razem 6 VP.",
+   "• USA nie mają Obecności (Presence, 0).",
+   "• ZSRR zyskuje 6 VP.",
+   "• Wynik: ZSRR 6."
+  ]
+ },
+ "u19": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Sześć Punktów Zwycięstwa, Jack! Weźmiemy łopatę, wykopiemy grób i pogrzebiemy kolonializm tak głęboko, jak tylko się da."
+  ]
+ },
+ "u20": {
+  "paras": [
+   "<u>AR6 (USA)</u>"
+  ]
+ },
+ "u21": {
+  "paras": [
+   "Karta: <b><i><sc>Zakaz prób jądrowych</sc></i></b> (<b><i><sc>Nuclear Test Ban</sc></i></b>, neutralna, 4 Ops → 3 Ops pod działaniem <b><i><sc>Czerwonej paniki (Red Scare)</sc></i></b>)",
+   "<u>Przewrót w Iranie (Coup in Iran)</u>",
+   "• Stabilizacja Iranu (Iran Stability): 2",
+   "• Rzut kością: 1",
+   "• Siła Przewrotu (Coup strength) = 1 + 3 − 4 = 0",
+   "• DEFCON: 3 → 2",
+   "• Operacje Wojskowe USA (US Military Ops): 5",
+   "Kennedy, widząc wynik rzutu, ciężko wzdycha..."
+  ]
+ },
+ "u22": {
+  "paras": [
+   "<b>KENNEDY:</b> Działanie wiąże się z ryzykiem i kosztami. Są one jednak znacznie mniejsze niż długofalowe ryzyko wygodnej bezczynności."
+  ]
+ },
+ "u23": {
+  "paras": [
+   "KONIEC ETAPU PIERWSZEGO"
+  ]
+ },
+ "u26": {
+  "paras": [
+   "Wymóg Operacji Wojskowych (Military Operations requirement, DEFCON 2 → wymagane 2)",
+   "ZSRR: 5 Operacji Wojskowych (Military Ops) <b>☑</b>",
+   "USA: 5 Operacji Wojskowych (Military Ops) <b>☑</b>",
+   "Zatrzymane karty:",
+   "ZSRR: <b><i><sc>Blokada (Blockade)</sc></i></b>",
+   "<f MinionPro-Cn>USA:</f> <b><i><sc>Powstrzymywanie (Containment)</sc></i></b>",
+   "Wynik na koniec Etapu 1 (Turn 1): <b>ZSRR 6 VP</b>."
+  ]
+ },
+ "u901": "keep",
+ "u902": "keep",
+ "u903": "keep",
+ "u904": "keep",
+ "u905": "keep",
+ "u906": "keep",
+ "u907": "keep",
+ "u908": "keep",
+ "_u901": "u901…: białe prostokąty (łatka) zakrywające linie podkreśleń z tła – podkreślenia składają się znacznikiem <u> pod polskim tekstem; „keep” = złożyć bez zmian"
+}

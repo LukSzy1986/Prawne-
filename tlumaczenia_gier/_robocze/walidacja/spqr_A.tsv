@@ -1,0 +1,18 @@
+dok	strona	cytat_PL	poprawka_PL	gdzie	id	uwagi
+SPQR_Deluxe_Rule_book_WEB	27	zeszły z drogi, przed testami TQ	zeszły z drogi przed testami TQ	json	spqr_25_31#1	interpunkcja/I
+SPQR_Deluxe_Rule_book_WEB	25	(Front hexes; 3622/3721/3821)	(frontal hexes; 3622/3721/3821)	json	spqr_25_31#2	termin/D
+SPQR_Deluxe_Rule_book_WEB	033	Wszystkie oddziały atakujące w starciu (Shock attack) wyłącznie harcowników (Skirmishers) nie muszą wykonywać testu jakości wojsk przed starciem (Pre-Shock TQ), nawet jeśli mają znaczniki	Żaden oddział atakujący w starciu (Shock attack) wyłącznie harcowników (Skirmishers) nie musi wykonywać testu jakości wojsk przed starciem (Pre-Shock TQ), nawet jeśli ma znaczniki	md	spqr_32_38#1	skladnia/I
+SPQR_Deluxe_Rule_book_WEB	033	Wszystkie oddziały atakujące w starciu (Shock attack) wyłącznie harcowników nie muszą wykonywać testu TQ przed starciem (Pre-Shock TQ), nawet ze znacznikami	Żaden oddział atakujący w starciu (Shock attack) wyłącznie harcowników nie musi wykonywać testu TQ przed starciem (Pre-Shock TQ), nawet ze znacznikami	json	spqr_32_38#2	skladnia/I
+SPQR_Deluxe_Rule_book_WEB	033	dzieli się na pół (w dół), najwyżej do 1 ubytku.	dzieli się na pół (zaokrąglając w dół), najwyżej do 1 ubytku.	json	spqr_32_38#3	skladnia/I
+SPQR_Deluxe_Rule_book_WEB	036	z oddziałem CH stojącym samotnie w heksie, oddział ten zostaje natychmiast wyeliminowany	z oddziałem CH stojącym samotnie w heksie, oddział CH zostaje natychmiast wyeliminowany	json	spqr_32_38#4	skladnia/I
+SPQR_Deluxe_Rule_book_WEB	033	Jeśli oddział jazdy jest rozbity (routed), zostaje automatycznie wyeliminowany	Jeśli oddział jazdy ulegnie rozbiciu (routed), zostaje automatycznie wyeliminowany	md	spqr_32_38#5	kontekst/D
+SPQR_Deluxe_Rule_book_WEB	034	Oddziały muszą się cofnąć (retreat) na oddzielne heksy.	Oddziały muszą uciekać (retreat) na oddzielne heksy.	oba	spqr_32_38#6	kontekst/D
+SPQR_Deluxe_Rule_book_WEB	036	w którą miejscowi zdają się wkładać	w którą miejscowi zdawali się wkładać	oba	spqr_32_38#7	gramatyka/D
+SPQR_Deluxe_Rule_book_WEB	037	otrzymują ubytki spójności (cohesion Hits) za nadmierny ruch i/lub walkę	otrzymują ubytki spójności (cohesion Hits) wskutek nadmiernego ruchu i/lub walki	json	spqr_32_38#8	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	037	nie kosztuje punktów ruchu (MP) ani ubytków spójności (Cohesion Hits)	nie kosztuje punktów ruchu (MP) ani nie powoduje ubytków spójności (Cohesion Hits)	json	spqr_32_38#9	kolokacja/D
+SPQR_Deluxe_Rule_book_WEB	035	mieć odstępy; zob. 4.32.	mieć między sobą odstępy; zob. 4.32.	json	spqr_32_38#10	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	032	jeśli nie zaszło nic z powyższych	jeśli nie zaszło żadne z powyższych	json	spqr_32_38#11	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	032	jego gracz rzuca kością	jego właściciel rzuca kością	json	spqr_32_38#12	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	038	Po zakończeniu cofania się (retreat)	Po zakończeniu ucieczki rozbitych (retreat)	oba	spqr_32_38#13	kontekst/D
+SPQR_Deluxe_Rule_book_WEB	038	(routing/ retreating units)	(routing/retreating units)	md	spqr_32_38#14	typografia/D
+SPQR_Deluxe_Rule_book_WEB	40	10.4 ZWIĄZANIE WALKĄ (OPCJONALNE)	10.4 ZWIĄZANIE WALKĄ (ZASADA OPCJONALNA)	json	SEED-1	ujednolicenie z s. 11 i DECYZJE_WALIDACJA pkt 1; mieści się w jednym wierszu (test fit hdrtest)

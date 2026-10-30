@@ -1,0 +1,155 @@
+{
+ "u2": {
+  "paras": [
+   "<u>AR3 (ZSRR)</u>"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Karta: <b><i><sc>Wojna indyjsko-pakistańska</sc></i></b> (<b><i><sc>Indo‑Pakistani War</sc></i></b>, Wydarzenie neutralne)",
+   "• Cel: Pakistan",
+   "• Modyfikator rzutu: −1 (Kontrola Iranu przez USA)",
+   "• Rzut kością: 3 (modyfikator −1 = 2) <i>Wojna kończy się porażką, Wpływy (influence) bez zmian</i>",
+   "• Operacje Wojskowe ZSRR (USSR Military Ops): 2"
+  ]
+ },
+ "u4": "skip",
+ "_u4": "punktor wiersza „Die roll…” – w tekście akapitu u3[3] (łatka: u5 dołączone do u3)",
+ "u6": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Subkontynent opiera się uproszczeniom."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>KENNEDY:</b> To chyba najmądrzejsze słowa, jakie padły w tym tygodniu."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<u>AR3 (USA)</u>"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "Karta: <b><i><sc>Niezależni czerwoni</sc></i></b> (<b><i><sc>Independent Reds</sc></i></b>, Wydarzenie USA)",
+   "Dodaj Wpływy USA (US Influence) w Jugosławii (Yugoslavia), Rumunii (Romania), Bułgarii (Bulgaria), na Węgrzech (Hungary) albo w Czechosłowacji (Czechoslovakia), tak aby zrównały się z Wpływami ZSRR (USSR Influence) w tym państwie. Jack wybiera Węgry.",
+   "• Węgry (Hungary): (2/2)",
+   "<b><i><sc>Niezależni czerwoni (Independent Reds)</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "<b>KENNEDY:</b> Nie każdy socjalista uważa, że Moskwie nie sposób się oprzeć."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Jeśli pęknie jedno ogniwo łańcucha, cały obóz socjalistyczny może się rozpaść."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<u>AR4 (ZSRR)</u>"
+  ]
+ },
+ "u13": {
+  "paras": [
+   "Karta: <b><i><sc>Abdykacja w Rumunii</sc></i></b> (<b><i><sc>Romanian Abdication</sc></i></b>, Wydarzenie ZSRR)",
+   "Usuń wszystkie Wpływy USA (US Influence) z Rumunii. Następnie dodaj tyle Punktów Wpływów ZSRR (USSR Influence), ile potrzeba do Kontroli (Control).",
+   "• Rumunia (Romania): (0/3) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "<b><i><sc>Abdykacja w Rumunii (Romanian Abdication)</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Kolejny król poznaje różnicę między ceremoniałem a władzą."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "<b>KENNEDY:</b> Wasze pożegnania emerytów mają więcej pistoletów niż nasze."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<u>AR4 (USA)</u>"
+  ]
+ },
+ "u17": {
+  "paras": [
+   "Karta: <b><i><sc>Pakt o wzajemnej obronie USA/Japonia</sc></i></b> (Wydarzenie USA)",
+   "USA dodają w Japonii (Japan) tyle Punktów Wpływów (Influence), ile potrzeba do Kontroli (Control). ZSRR nie może już podejmować tam prób Przewrotu (Coups) ani rzutów na Wywieranie Presji (Realignments).",
+   "• Japonia (Japan): (4/0) <b><c #0072aa>Kontrola USA (US Control)</c></b>",
+   "<b><i><sc>Pakt o wzajemnej obronie USA/Japonia</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry (jego znacznik przypomina o efekcie)."
+  ]
+ },
+ "u18": {
+  "paras": [
+   "<b>KENNEDY:</b> Japonia to kotwica na Pacyfiku. Kotwice nie są opcjonalne."
+  ]
+ },
+ "u19": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Kotwice są też ciężkie. Uważaj, co za sobą ciągniesz."
+  ]
+ },
+ "u20": {
+  "paras": [
+   "<u>AR5 (ZSRR)</u>"
+  ]
+ },
+ "u21": {
+  "paras": [
+   "Karta: <b><i><sc>Plan pięcioletni</sc></i></b> (<b><i><sc>Five‑Year Plan</sc></i></b>, USA, 3 Ops)",
+   "<u>Próba awansu w Wyścigu Kosmicznym</u>",
+   "• Do tej próby trzeba wykorzystać kartę wartą co najmniej 2 Operacje (Operations).",
+   "• Wymagany wynik: 1–3",
+   "• Rzut kością: 3 → sukces",
+   "• ZSRR awansuje o jedno pole na torze Wyścigu Kosmicznego (Space Race track) i jako pierwszy gracz, który tego dokonał, zyskuje 2 VP.",
+   "• Wynik: ZSRR 6 → ZSRR 8"
+  ]
+ },
+ "u22": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Jack, nawet nasza papierkowa robota dociera na orbitę."
+  ]
+ },
+ "u23": {
+  "paras": [
+   "<b>KENNEDY:</b> Żaden naród, który chce przewodzić innym narodom, nie może sobie pozwolić na pozostanie w tyle w tym wyścigu o kosmos. Dziś prowadzicie, ale wyścig się jeszcze nie skończył."
+  ]
+ },
+ "u24": {
+  "paras": [
+   "<u>AR5 (USA)</u>"
+  ]
+ },
+ "u25": {
+  "paras": [
+   "Karta: <b><i><sc>Interwencja ONZ</sc></i></b> (<b><i><sc>UN Intervention</sc></i></b>, neutralna, 1 Op)",
+   "<u>Poszerzanie Strefy Wpływów (Influence placement)</u>",
+   "• Malezja (Malaysia): (1/1)"
+  ]
+ },
+ "_u25": "u25[2] „• Malaysia: (1/1)” – dawna jednostka u26 (łatka: dołączona do u25)",
+ "u27": {
+  "paras": [
+   "<b>KENNEDY:</b> Wolę, żeby moje interwencje były krótkie, legalne i owocne."
+  ]
+ },
+ "u28": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Wy, imperialiści, nie zdołacie zgasić płomienia wolności w Azji."
+  ]
+ },
+ "u901": "keep",
+ "u902": "keep",
+ "u903": "keep",
+ "u904": "keep",
+ "u905": "keep",
+ "u906": "keep",
+ "u907": "keep",
+ "u908": "keep",
+ "_u901": "u901…: białe prostokąty (łatka) zakrywające linie podkreśleń z tła – podkreślenia składają się znacznikiem <u> pod polskim tekstem; „keep” = złożyć bez zmian"
+}

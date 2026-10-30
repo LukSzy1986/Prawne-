@@ -1,0 +1,70 @@
+{
+ "_uwagi": "s. 13 (sp10_18): przykład do 5.53 dzielony u12[3] → s. 14 u2[0] jak w oryginale; ▲ w 5.51 krojem TeX Gyre Pagella (<f Palatino-Roman>; duży ▲ bez szerokich świateł, metryki nie rozpychają wiersza): Liberation Serif ma mały ▲ z szerokimi światłami, wyglądało jak „[ ▲ ]”",
+ "u2": {
+  "paras": [
+   "<b><i>Wyjątek:</i></b> Dowódca po raz pierwszy aktywowany na mocy zasady elitarnego wodza (5.5), gdy zostanie ponownie aktywowany w dalszej części tury gry, może mimo to wykonać rzut na jeden dodatkowy impet (Momentum)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "5.4 OPCJA PRZEBICIA"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Ta mechanika gry ma symulować skutki przewagi w dowodzeniu. Dlatego zapewne będzie z niej korzystał niemal wyłącznie gracz z wyraźnie lepszymi dowódcami (np. Hannibalem i Scypionem). „Słabszy” gracz często uzna, że dla niego najlepiej sprawdza się ona wtedy, gdy obraca się przeciw jego rzekomo lepszemu przeciwnikowi. Gracze powinni więc pamiętać, że sama dostępność tej opcji nie oznacza, że należy jej używać bezkrytycznie."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>5.41 Opcja przebicia gracza aktywnego (Active Player Trump Option):</b> Gracz, który zwykle aktywowałby teraz swojego dowódcę o najniższym współczynniku, może zamiast tego spróbować aktywować dowolnego innego nieaktywnego (inactive) własnego dowódcę o wyższym współczynniku inicjatywy (Initiative rating). W tym celu musi wyrzucić wynik nie większy niż współczynnik inicjatywy tego dowódcy. Jeśli mu się uda, ten dowódca zostaje aktywowany; jeśli nie, aktywowany zostaje dowódca pierwotnie wyznaczony, a próbujący przebicia (Trump) staje się zakończony (Finished).",
+   "PRZYKŁAD: Pod Kannami gracz rzymski mógłby zamiast aktywować Serwiliusza spróbować aktywować Paulusa przez przebicie (Trumping). Wynik 0–5 oznaczałby sukces, a 6–9 – nieudane przebicie: aktywowany zostaje Serwiliusz, a Paulus staje się zakończony (Finished).",
+   "<b>5.42 Opcje przebicia gracza nieaktywnego (Inactive Player Trump Options):</b> Przeciwnik ma dwie opcje przebicia (Trump), każdą do użycia w innych okolicznościach.",
+   "<b>1. Przebicie przebicia (Trumping the Trump):</b> Wtedy i tylko wtedy, gdy przebicie gracza aktywnego się powiedzie (5.41), przeciwnik może spróbować przebić – własnym nieaktywnym (inactive) dowódcą – tę pierwszą aktywację uzyskaną przebiciem – jeśli ma on równy lub wyższy współczynnik inicjatywy (Initiative rating). Jeśli się uda, ten dowódca zostaje natychmiast aktywowany, a przebity (trumped) dowódca staje się zakończony (Finished); jeśli nie, działa dowódca aktywowany pierwszym przebiciem, a próbujący przebicia staje się zakończony.",
+   "PRZYKŁAD: Wróćmy do przykładu z 5.41: gracz rzymski z powodzeniem aktywuje Paulusa zamiast Serwiliusza. Gracz kartagiński próbuje teraz przebić to przebicie (trump-the-trump) rzutem dla Maharbala (ini­cja­ty­wa 6). Wyrzuca jednak 7, więc aktywowany pozostaje Paulus, a Maharbal staje się zakończony (Finished).",
+   "<b>2. Przebicie impetu (Momentum Trump):</b> Jeśli próba uzyskania impetu (Momentum) przez gracza aktywnego się powiedzie (5.32), prze­ciw­nik może spróbować przebicia (trump) tak jak w 5.42 pkt 1.",
+   "PRZYKŁAD: W nawiązaniu do powyższych przykładów gracz rzymski uzyskuje dla Paulusa drugą fazę rozkazów (impet – Momentum). Gracz kartagiński próbuje przebić (trump) fazę impetu Paulusa Hannibalem. Wyrzuca 6 i zamiast Paulusa działa teraz w swojej fazie rozkazów Hannibal, a Paulus staje się zakończony (Finished).",
+   "Gdy dowódca, który skutecznie przebił (trumping), zakończy swoje fazy rozkazów (Orders Phases), gra wraca do standardowej procedury: działa dowódca o najniższym współczynniku.",
+   "<b>5.43</b> Każda strona może podjąć tylko jedną próbę przebicia (Trump) na jedną aktywację dowódcy."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>5.44</b> Dowódca, któremu nie powiodła się próba przebicia (Trump) albo który został przebity (trumped) przez dowódcę przeciwnika (5.42), staje się zakończony (Finished). Nieaktywny (inactive) dowódca <i>dowolnej ze stron</i> pominięty przez udane przebicie (tzn. o współczynniku ini­cja­ty­wy równym lub niższym niż u dowódcy przebijającego) – dowódca pominięty (Bypassed Leader) – nadal może zostać aktywowany (zapewne i tak będzie następny w kolejce jako dowódca o najniższym współczynniku), ale nie może korzystać z impetu (Momentum). Oznaczają to znaczniki Przebity/Bez impetu (TRUMPED/NO MOMENTUM)."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Ograniczenie „bez impetu” oznacza, że gdyby pod Zamą Leliusz spróbował uzyskać impet (Momentum), uzyskał go, a potem został przebity (Trumped) przez Hannibala, to nie tylko Leliusz stałby się zakończony (Finished) – także wszyscy pozostali dowódcy rzymscy (i kartagińscy), którzy jeszcze nie działali, otrzymaliby tylko po jednej fazie rozkazów (po zakończeniu faz rozkazów Hannibala). Nie mogliby próbować uzyskać impetu! To ważna okoliczność przy opracowywaniu taktyki „na potrzeby gry”."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>5.45</b> Dowódca, który skutecznie przebił (trumps), musi coś zrobić: wydać oddziałowi rozkaz ruchu, ostrzału, odzyskania spójności (recover) itp. albo użyć zasięgu dowodzenia (Command Range) do wywołania ataku w starciu (Shock attack).",
+   "<b>5.46</b> Dowódca w strefie kontroli (ZOC) wroga może próbować przebicia (Trump). Jeśli mu się uda, musi zastosować się do 5.45 – inaczej przebicie uważa się za niebyłe."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "5.5 INICJATYWA ELITARNEGO WODZA"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Ta zasada symuluje wyraźną przewagę niektórych wodzów – takich jak Hannibal, Pyrrus i Scypion – którzy potrafili „ruszyć do działania” przed przeciwnikiem."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>5.51</b> Gracz mający elitarnego wodza naczelnego (Elite Overall Commander; oznaczonego trójkątem [<c #ed1f24><f Palatino-Roman>▲</f></c>] obok współczynnika inicjatywy) może rozpocząć każdą turę gry (Game Turn) pojedynczą fazą rozkazów inicjatywy elitarnej (Elite Initiative Orders (EIO) Phase). Tę fazę EIO może przeprowadzić wódz naczelny albo dowolny inny własny dowódca wskazany przez gracza, bez względu na jego współczynnik inicjatywy (Initiative Rating). Aby dowódca ten mógł wykorzystać fazę EIO, musi być w zasięgu dowodzenia (Command Range) wodza naczelnego (OC). W pierwszej turze gry gracz mający elitarnego wodza (Elite Commander) może przekazać swoją fazę EIO dowolnemu własnemu dowódcy, bez względu na jego położenie.",
+   "<b>5.52</b> Wyznaczony dowódca nie może użyć impetu (Momentum), aby kontynuować fazę EIO. Po jej zakończeniu wybrany dowódca wraca do stanu nieaktywnego (inactive), a nie zakończonego (Finished). Na potrzeby 5.14 przeprowadził tylko jedną fazę rozkazów i może zostać ponownie aktywowany według zwykłych zasad aktywacji.",
+   "<b>5.53</b> Jeśli obaj gracze mają elitarnych wodzów naczelnych (Elite OC), jak pod Zamą, na początku każdej tury gry (Game Turn) każdy gracz rzuca kością i dodaje do wyniku współczynnik inicjatywy (Initiative Rating) swojego elitarnego wodza. Z fazy EIO korzysta ten, kto uzyska wyższy wynik. Przy równych zmodyfikowanych wynikach żaden z graczy nie może skorzystać z fazy EIO.",
+   "PRZYKŁAD: [Zama] Scypion uzyskuje inicjatywę elitarną i przekazuje ją Leliuszowi, który jest trzy heksy od Scypiona, aby ten wydał rozkazy jeździe rzymskiej. Leliusz przeprowadza tę jedną fazę rozkazów, po czym jest „chwilowo zakończony” (temporarily finished) – dopóki jego współczynnik „4” nie uprawni go do przeprowadzenia kolejnej fazy rozkazów w normalnym toku zdarzeń. Za drugim razem Leliusz ma"
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "_uwagi": "sp1_9. u9[2] – początek 4.56; dalszy ciąg w carry/…/p010.json (podział jak w oryginale: „…gdy dwaj” | „pozostali konsulowie…”). Nagłówek 4.5 bez EN (nie mieści się w dwóch wierszach).",
+ "u2": {
+  "paras": [
+   "<b>4.34</b> Dowódca, który wydał rozkaz liniowy (Line Command), może – ale nie musi – wykonać ruch w ramach tego rozkazu liniowego. Jeśli wykona ruch, musi go zakończyć w odległości nie większej niż jego zasięg dowodzenia (Command Range) od jednego z oddziałów tej linii.",
+   "<b>4.35</b> Niektórzy dowódcy mogą wydawać rozkazy wyłącznie oddziałom typu (type) wskazanego na ich żetonach. Jeśli pod imieniem dowódcy widnieje słowo ograniczenia dowodzenia (Command Restriction), może on dowodzić (wydawać rozkazy, umożliwiać starcie – Shock – itd.) wyłącznie takimi oddziałami. Przykładem jest Maharbal, słynny dowódca jazdy numidyjskiej pod Kannami (Cannae). Zob. też 4.5."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Gracze szybko się przekonają, że rozkazy liniowe (Line Commands) to bardzo skuteczny sposób poruszania dużą liczbą oddziałów. Ograniczają one jednak możliwości dowódcy. Na przykład dowódca wydający rozkaz liniowy ruchu nie może w tej samej fazie rozkazów zbierać (rally) oddziałów. Co więcej, w miarę rozwoju bitwy, gdy oddziały bojowe przemieszają się w walce wręcz, coraz trudniej wydawać rozkazy liniowe więcej niż kilku oddziałom."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "4.4 WODZOWIE NACZELNI",
+   "Wodzowie naczelni (OC) dowodzą całą armią – zgodnie ze wskazaniem dla każdej bitwy. Wszyscy pozostali dowódcy są dowódcami podległymi (SC). Wodzowie naczelni działają jak pozostali dowódcy, z tym że po aktywowaniu mogą:",
+   "1. opuszczać strefy kontroli (ZOC) wroga, wydając sobie rozkaz indywidualny ruchu (IO Move order).",
+   "2. wydawać rozkazy indywidualne (IO) nakazujące ruch innym własnym dowódcom – raz na każdego dowódcę w fazie rozkazów. Jeśli dowódca, który ma wykonać ruch, zaczyna go w strefie kontroli wroga, kosztuje to wodza naczelnego (OC) 2 rozkazy indywidualne.",
+   "3. wydawać w dowolnej fazie rozkazów rozkazy liniowe (LC) dowolnym liniom (Lines)",
+   "4. rozkazem indywidualnym (IO) zastąpić wyeliminowanego dowódcę.",
+   "5. wydać jeden rozkaz indywidualny (IO), aby poruszyć wszystkie oddziały bojowe/dowódców w stosie w tym samym heksie (6.64).",
+   "6. przeznaczyć całą swoją fazę rozkazów na przegrupowanie i powrót (Regroup and Return) jazdy prowadzącej pościg poza mapą (8.64)"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "UWAGA HISTORYCZNA (Historical Note): Aż do pojawienia się Scypiona (ok. 210 p.n.e.) Rzymianie uważali, że wódz naczelny to ktoś, kto jest specjalistą od musztrowania legionów. Ponieważ znajomość strategii, sztuki operacyjnej i taktyki nie należała do wymaganych kwalifikacji, rzymscy konsulowie rzadko ją mieli. O wielu konsulach, którzy wyruszali w pole w latach poprzedzających Scypiona (Afrykańskiego), można powiedzieć najwyżej tyle, że kilku z nich podchodziło do bieżących problemów „rzemieślniczo”. Wielka siła Rzymu tkwiła w jego jedności politycznej, poczuciu dyscypliny i zasobach ludzkich – a nie w jego wodzach. Odzwierciedlają to współczynniki rzymskich wodzów naczelnych (OC)."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "4.5 DOWODZENIE RZYMSKIE: PROKONSULOWIE, TRYBUNI I PREFEKCI",
+   "W większości scenariuszy niższy szczebel rzymskiej hierarchii dowodzenia reprezentują trybuni (Tribunes) i prefekci. Każdy legion miał sześciu trybunów dowodzących piechotą, każda ala – sześciu (później trzech) prefektów sprzymierzeńców (allied Praefects) dowodzących piechotą, a jazdą dowodził zwykle prefekt jazdy (Praefectus Equitum). Oczywiście to o wiele za dużo dowódców dla płynnej gry, więc zastosowaliśmy brzytwę Ockhama (choć w mniej metafizyczny sposób).",
+   "<b>4.51</b> Każda armia rzymska otrzymuje jednego lub więcej z następujących dowódców: trybunów (Tribunes) i prefektów sprzymierzeńców (Praefects Sociorum) – jednych i drugich dla piechoty – oraz prefektów jazdy (Praefects Equitum) dla jazdy. Trybunom i prefektom nadaliśmy niehistoryczne imiona, służące wyłącznie do identyfikacji. Ich liczba w każdej armii zależy od scenariusza. Trybuni i prefekci sprzymierzeńców mogą dowodzić wyłącznie piechotą, a prefekci jazdy – wyłącznie jazdą.",
+   "<b>4.52</b> Trybuni (Tribunes) i prefekci sprzymierzeńców (Praefects Sociorum) mogą w pojedynczej fazie rozkazów wydawać rozkazy indywidualne (Individual Orders) oddziałom jednej dowolnej klasy (Class) z jednego dowolnego legionu lub jednej dowolnej ali. O ile scenariusz nie stanowi inaczej, trybuni mogą wydawać rozkazy indywidualne wyłącznie oddziałom piechoty legionowej (Legion infantry), a prefekci sprzymierzeńców – wyłącznie oddziałom piechoty ali (Ala infantry). Tak więc aktywowany trybun może wydać rozkazy oddziałom hastati legionu III albo principes legionu V, ale nie w tej samej fazie rozkazów. Ograniczenia dotyczące klasy i legionu/ali (Legion/Ala) nie mają zastosowania na potrzeby 7.33. Trybun może umożliwić starcie (Shock) każdemu oddziałowi piechoty legionowej, a prefekt sprzymierzeńców – każdemu oddziałowi piechoty ali.",
+   "<b><i>Wyjątek:</i></b> Trybun (Tribune) lub prefekt może wydawać rozkazy indywidualne (IO) wszystkim welitom (Velites), bez względu na oznaczenie legionu lub ali na ich żetonach – traktując ich jako swoją jedną klasę.",
+   "<b>4.53</b> Trybuni (Tribunes) i prefekci sprzymierzeńców (Praefects Sociorum) mogą wydać rozkaz liniowy (Line Command) jednej dowolnej linii (line) piechoty wymienionej w tabeli uprawnień do rozkazów liniowych (Line Command Eligibility Chart) danej bitwy. Na przykład pod Zamą trybun może wydać rozkaz liniowy wszystkim oddziałom hastati oraz dowolnym dodatkowym kohortom ali; prefekt sprzymierzeńców mógłby wydać rozkaz liniowy linii z kohort ali i triarii itd."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI (Play Note): Ważne jest odróżnienie, którym oddziałom trybun (Tribune) lub prefekt może wydawać rozkazy indywidualne (IO), a którym może wydać rozkaz liniowy (LC). To drugie podlega mniejszym ograniczeniom."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>4.54</b> Prefekci jazdy (Praefects Equitum) mogą wydawać rozkazy indywidualne (Individual Orders) albo jeździe legionów (Legion cavalry), albo jeździe ali (Ala cavalry), ale w pojedynczej fazie rozkazów (Orders Phase) tylko jednej z tych grup. Mogą jednak wydać rozkaz liniowy (Line Command) linii (line) złożonej z jazdy legionów i ali, jeśli wyraźnie zezwala na to tabela uprawnień do rozkazów liniowych (Line Command Eligibility Chart) – np. pod Kannami (Cannae) jest to niedozwolone. Ograniczenia dotyczące legionu/ali (Legion/Ala) nie mają zastosowania na potrzeby 7.33. Prefekt jazdy może umożliwić starcie (Shock) każdemu oddziałowi jazdy rzymskiej (Roman cavalry).",
+   "<b>4.55</b> Jeden z trybunów (Tribunes) i jeden z prefektów jazdy (Praefects Equitum) nie dorównują swoim towarzyszom. Gracz rzymski może wybrać trybunów/prefektów o wyższych współczynnikach, jeśli ma wybór.",
+   "<b>4.56</b> Prokonsulowie (Proconsuls) – obecni pod Kannami (Cannae) – byli zwykle byłymi konsulami, którzy pomagali w obowiązkach dowódczych; niekiedy wyznaczano ich do poprowadzenia trzeciej armii, gdy dwaj"
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "_uwagi": "s. 38 (redaktor sp37_44) – u2[0] = dalszy ciąg 10.15 (po ramce WAŻNE ze s. 37); przykłady i uwagi: nawiasy EN tylko z listy ZAWSZE (K.5).",
+ "u2": {
+  "paras": [
+   "Jeśli po jednej (lub obu) stronach walczy więcej niż jeden oddział, a co najmniej jeden z nich ma mniej ubytków spójności (Cohesion Hits), niż wynosi jego TQ, to wszystkie oddziały, które tego warunku nie spełniają, ulegają rozbiciu (rout) wg 10.2.",
+   "PRZYKŁAD NR 1: [Kanny] Oddział hastati o TQ 6 z 4 ubytkami (Hits) atakuje celtycką średnią piechotę (Medium Infantry) o TQ 5 z 1 ubytkiem. Celtowie stoją w terenie otwartym, bez różnicy wysokości. Wynik starcia (Shock Result) to 2(2), ale ubytki Celtów się podwaja, bo oddział hastati ma przewagę atakującego (Attack Superior). Hastati mają więc teraz 6 ubytków, a Celtowie 5. Posunięcie (advance) nie dałoby oddziałowi hastati dodatkowych ubytków, bo teren jest otwarty i płaski. Oba oddziały osiągnęły swój próg rozbicia (rout threshold), ale w tym przypadku rozbiciu ulegają tylko Celtowie. Ubytki oddziału hastati zmniejsza się do 5 i wykonuje on posunięcie po walce.",
+   "PRZYKŁAD NR 2: [Beneventum] Oddział najemnych hoplitów (Mercenary Hoplite) o TQ 6 z 3 ubytkami (Hits) atakuje oddział hastati o TQ 6 z 4 ubytkami. Nie ma przewagi (superiority) – to atak od frontu – ale hastati stoją w heksie lasu na poziomie 2, a hoplici atakują z heksu na poziomie 1. Wynik starcia (Shock Result) to 3(2), co daje hastati 6 ubytków, a hoplitom 6. Gdyby oddział najemnych hoplitów wykonał posunięcie (advance), otrzymałby ubytek za las i ubytek za zmianę poziomu, co podniosłoby łączną liczbę jego ubytków do 8, czyli o 2 więcej, niż wynosi jego TQ. Dlatego najemni hoplici ulegają rozbiciu (routs), a hastati pozostaliby na miejscu, z ubytkami zmniejszonymi do 5.",
+   "<b>10.16 Odzyskiwanie spójności (Recovery):</b> W fazie rozkazów (Orders Phase) można wydać rozkaz indywidualny (Individual Order), by usunąć 2 ubytki spójności (Cohesion Hits) z oddziału w heksie terenu otwartego (Clear), o ile oddział ten <i>nie</i> jest:",
+   "• w sąsiedztwie oddziału bojowego wroga <i>ani</i>",
+   "• w zasięgu i linii widzenia (LOS) oddziału wroga, który ma pociski (także ostrzał nękania i rozproszenia, H&D) i nie jest związany walką (Engaged, 10.4).",
+   "<b><i>Wyjątek:</i></b> Oddziały piechoty barbarzyńskiej (Barbarian Infantry) mogą usunąć tylko 1 ubytek spójności (Cohesion Hit).",
+   "Jeśli oddział nie sąsiaduje z oddziałem bojowym wroga, można z niego usunąć 1 ubytek spójności (Cohesion Hit) w terenie otwartym bez względu na niesąsiadujące oddziały strzelające wroga. Z oddziału nie można usunąć więcej niż 2 ubytków spójności na fazę rozkazów. Z oddziałów rozbitych (Routed) i zebranych (Rallied, 10.28) w tej turze gry (Game Turn) nie można usuwać ubytków spójności. Oddział, z którego usunięto ubytki, nie może w tej samej fazie rozkazów poruszać się ani strzelać, a z oddziału, który się poruszał lub strzelał, nie można usuwać ubytków (hits)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "10.2 ROZBICIE I ZEBRANIE ODDZIAŁÓW"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Rozbite (Routed) oddziały zazwyczaj uciekały. Jednak w miarę jak armie stawały się lepiej wyszkolone i bardziej zawodowe, wszechogarniająca ucieczka na złamanie karku w stylu „ratuj się, kto może”, nieodłącznie związana ze sposobem walki greckich hoplitów, uległa pewnemu złagodzeniu."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>10.21</b> Skutek rozbicia (rout) zależy od typu oddziału (Type):",
+   "• Oddziały harcowników (Skirmisher), uszczuplonej piechoty barbarzyńskiej (Depleted Barbarian Infantry) i skorpionów (Scorpio) zostają wyeliminowane.",
+   "• Oddziały słoni (Elephant) wpadają w szał (Rampage) wg 9.14.",
+   "• Wszystkie pozostałe oddziały wykonują wg 10.22 ucieczkę rozbitych (rout move)."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>10.22</b> Oddział, który musi wykonać ucieczkę rozbitych (rout move), natychmiast zwraca się frontem ku krawędzi odwrotu (Retreat Edge) swojej strony, określonej w zasadach scenariusza bitwy, i przesuwa się o 2 heksy w jej kierunku. Musi iść najkrótszą niezablokowaną drogą do swojej krawędzi odwrotu. Drogę ucieczki blokują:",
+   "• heks zajęty przez wroga <i>albo</i>",
+   "• nieprzekraczalne (impassible) heksy lub boki heksów <i>albo</i>",
+   "• strefa kontroli (ZOC) wroga, chyba że zajmuje ją własny oddział.",
+   "Mając wybór spośród niezablokowanych heksów, oddział idzie drogą najmniejszego oporu w tej kolejności:",
+   "1. Pusty heks poza ZOC wroga (nawet w terenie trudnym – Rough), <i>następnie</i>",
+   "2. Heks z własnym oddziałem poza ZOC wroga; następnie",
+   "3. Heks z własnym oddziałem w ZOC wroga.",
+   "Uciekający oddział (routing unit) zawsze wejdzie na heks „1” przed „2” itd., stale zmierzając ku swojej krawędzi odwrotu. Gdy możliwe drogi mają ten sam priorytet, wybiera właściciel oddziału.",
+   "Oddział falangi (Phalanx), rozpoczynając ucieczkę rozbitych (rout move), musi albo zachować obecne ustawienie frontu (facing), albo odwrócić front (reverse face) w kierunku, który przybliży go do jego krawędzi odwrotu. Jeśli ten kierunek jest zablokowany, oddział porusza się w kierunku przeciwnym. W obu przypadkach musi przejść 2 heksy w tym kierunku, przesuwając obie połówki żetonu do nowych heksów. Nie może wykonywać obrotów (pivot), aby ominąć zablokowane heksy lub własne oddziały. Jeśli nie może przejść 2 heksów w ustalonym kierunku, zostaje wyeliminowany.",
+   "W przypadku wszystkich pozostałych oddziałów, jeśli oba heksy w kierunku krawędzi odwrotu są zablokowane, gracz zmienia ustawienie frontu (facing) uciekającego oddziału (routing unit) w dowolną stronę, po jednym wierzchołku naraz, aż oddział będzie mógł wejść na niezablokowany heks. Jeśli takiego heksu nie ma, oddział zostaje wyeliminowany.",
+   "Po zakończeniu ucieczki rozbitych (retreat) połóż na oddziale znacznik Rozbity (ROUTED), oznaczający ten stan, i usuń wszystkie znaczniki ubytków spójności (Cohesion Hit)."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Uciekające oddziały (Routing units) mają w głowie tylko jedno: jak najszybciej wydostać się z tego miejsca. Jeśli ktoś stoi im na drodze, to jego problem. Dlatego ucieczki w bezładzie w starożytnych wojnach często porywały ze sobą inne wojska, zwłaszcza jeśli były to mało wartościowe oddziały tyłowe. Choć uciekające/cofające się oddziały (routing/retreating units) zazwyczaj kierują się prosto na tyły własnych linii, zdarzą się sytuacje, w których nie będzie to wykonalne, a nawet możliwe. W takich razach przy przesuwaniu oddziałów kieruj się zdrowym rozsądkiem oraz świadomością, że oddziały te próbują uciec przed wrogiem. Jeśli więc rozbity oddział musi najpierw oddalić się od krawędzi odwrotu z powodu oddziałów wroga, ZOC wroga lub terenu nieprzekraczalnego, to tak właśnie należy postąpić. Nie traktuj tego jednak jako zaproszenia do krążenia po mapie w celu uniknięcia krawędzi odwrotu."
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "_uwagi": "s. 16 (sp10_18): u2[0] – dokończenie 6.51 ze s. 15 (u10[0])",
+ "u2": {
+  "paras": [
+   "oddziałów, oddalając się od poruszającego się oddziału. „Oddalanie się” (Away) oznacza, że wycofujący się oddział musi wejść na heks dalszy od poruszającego się oddziału (licząc w heksach) niż heks, który opuszcza. Wycofanie musi nastąpić w chwili, gdy oddział wroga wejdzie w zasięg 2 heksów (lub zacznie w nim ruch) – tymczasowo wstrzymaj jego ruch; inaczej możliwość przepada. Falangi używają swojej MA 4, gdy próbują się wycofać, ale MA 5, gdy próbuje się wycofać oddział przeciwnika.",
+   "Wyjątki:",
+   "• Oddziały harcowników (Skirmisher, SK) mogą wykonać uporządkowany odwrót (Orderly Withdraw) o maksymalnie 2 heksy – nie MP – przed każdym oddziałem o równej lub niższej MA, niezależnie od różnicy MA.",
+   "• Oddziały rozbite (Routed) oraz oddziały, których MA podniesiono ponad nadrukowaną wartość (np. ruchem w kolumnie – Column Movement), nie mogą wykonywać uporządkowanego odwrotu (Orderly Withdrawal).",
+   "Oddział wroga, który zaczyna ruch w odległości 2 heksów, może prowadzić ostrzał (Missile Fire) przed jakimkolwiek wycofaniem. Jeśli wchodzi w zasięg 2 heksów, wszelki ostrzał następuje po wycofaniu."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Tak, mowa o odległości do 2 heksów, więc każdy (uprawniony) własny oddział może się wycofać, gdy oddział wroga zbliży się na 2 heksy – nawet jeśli nie idzie w jego stronę. Gracz musi więc zdecydować o wycofaniu, zanim poruszający się wróg w pełni ujawni swoje zamiary!"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "PRZYKŁAD NR 1: Oddział welitów (Velites, MA 6), do którego zbliża się falanga (MA 5), może się wycofać (Withdraw) o 1 heks terenu otwartego (6–5 = 1 MP). Oddział hastati nie mógłby wykonać uporządkowanego odwrotu (OW), gdy zbliża się do niego falanga, ponieważ oba mają taką samą MA.",
+   "PRZYKŁAD NR 2: Oddział jazdy (MA 8) nie może wycofać się pod górę przed poruszającym się oddziałem słoni (MA 7), bo kosztowałoby to jazdę 2 MP."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "PRZYKŁAD NR 3: Na powyższym diagramie do harcowników zbliża się oddział od tyłu (Rear), więc za wycofanie otrzymaliby 1 ubytek spójności (Cohesion Hit). Harcownicy mogą się wycofać na zacienione heksy – każdy z nich leży „dalej” (Away) od zbliżającego się oddziału principes."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>6.52</b> Wycofujący się oddział przez cały czas wycofania zachowuje pierwotne ustawienie frontu (facing), bez kosztów zmiany frontu w MP czy spójności. Płaci jednak wszelkie zwykłe koszty ruchu w spójności i MP. Po wycofaniu może zmienić front, ponosząc związane z tym koszty w spójności i MP. Są trzy dodatkowe sytuacje karne:",
+   "1. Po wycofaniu rzymskie oddziały piechoty legionowej (LG) natychmiast przechodzą test TQ. Jeśli wynik (DR) jest wyższy od TQ oddziału, otrzymuje on 1 ubytek spójności (Cohesion Hit).",
+   "2. Wszystkie pozostałe wycofujące się oddziały <i>piechoty</i>, z wyjątkiem harcowników (Skirmishers) i rzymskich welitów (Velites), otrzymują po wycofaniu automatyczny 1 ubytek spójności (Cohesion Hit).",
+   "3. Jeśli do wycofującego się oddziału zbliżano się z heksu tylnego (Rear) lub skrzydłowego (Flank), oddział otrzymuje przed wycofaniem 1 ubytek spójności (Cohesion Hit), <i>który sumuje się z pkt 1 i 2 powyżej</i>. Harcownicy (Skirmisher) <i>nie</i> otrzymują tej kary, jeśli zbliżano się do nich z heksu skrzydłowego – tylko z tylnego. Aby ustalić, czy heks, z którego następuje zbliżenie, jest heksem frontowym (Front), skrzydłowym czy tylnym, zob. diagram nad przykładem nr 3."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Uporządkowany odwrót (OW) to „cofnięcie się” (retreat) przed nadciągającym wrogiem, na długo zanim ten zdoła się zbliżyć. Dlatego wycofujący się oddział może wrócić (przy minimalnym koszcie w spójności) do ustawienia frontu sprzed zbliżenia się wroga. W kategoriach gry po prostu przesuwasz żeton do tyłu. Ponadto taktyka manipularna i wyszkolenie legionów pozwalały im wykonywać ten manewr nieco łatwiej."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>6.53</b> Jeśli wycofujący się oddział otrzyma ubytki spójności (Cohesion Hits) w liczbie równej swojej jakości wojsk (TQ rating) lub większej, zostaje natychmiast rozbity (Routs, 10.2).",
+   "<b>6.54</b> Oddział może się wycofywać nieograniczoną liczbę razy w turze gry (Game Turn); kary z 6.52 stosuje się jednak do każdego wycofania osobno. Na potrzeby zdolności ruchu (Movement Allowances, 6.1) nie wydaje się przy tym MP – dotyczy to także dowódców – i nie są potrzebne rozkazy.",
+   "<b>6.55</b> Oddział nie może się wycofać do strefy kontroli (ZOC) wroga, na heks lasu (Woods) lub bagna (Marsh) ani na heks lub przez bok heksu niedostępny dla wycofującego się oddziału. Podczas wycofania obowiązują ograniczenia i kary za łączenie w stosy (Stacking, 6.6).",
+   "Łucznicy konni (Mounted Archers) – i tylko oni, żaden inny typ oddziału strzelającego – mogą prowadzić ostrzał (Missile Fire) podczas wycofania. Zasięg przyjmuje się zawsze jako 2 heksy. Wycofujący się oddział może prowadzić ostrzał najwyżej <i>raz</i> do każdego wywołującego wycofanie oddziału wroga w każdej fazie rozkazów (Orders Phase)."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Jak zaznaczono w 6.51, zbliżający się oddział w rzeczywistości nie wchodzi do strefy kontroli wycofującego się oddziału – ten ostatni wykonał ruch, zanim mogło do tego dojść. Oznacza to, że jeśli zbliżający się oddział może prowadzić ostrzał podczas ruchu, ostrzał ten musi nastąpić z odległości 2 lub więcej heksów."
+  ]
+ }
+}

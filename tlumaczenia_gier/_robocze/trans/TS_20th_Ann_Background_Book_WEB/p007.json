@@ -1,0 +1,164 @@
+{
+ "u2": {
+  "paras": [
+   "FAZA WYDARZEŃ KLUCZOWYCH (HEADLINE PHASE)"
+  ]
+ },
+ "u27": {
+  "paras": [
+   "USA: <b><i><sc>Plan Marshalla</sc></i></b> (<b><i><sc>Marshall Plan</sc></i></b>, Wydarzenie USA)",
+   "USA dodają po 1 Punkcie Wpływów (Influence) w siedmiu państwach Europy Zachodniej (Western Europe), które nie są kontrolowane przez ZSRR (non‑USSR Controlled).",
+   "• Francja (France): (1/0)",
+   "• Beneluks (Benelux): (1/0)",
+   "• Włochy (Italy): (3/0) <b><c #0072aa>Kontrola USA (US Control)</c></b>",
+   "• Hiszpania/Portugalia (Spain/Portugal): (1/0)",
+   "• Grecja (Greece): (1/0)",
+   "• Turcja (Turkey): (1/0)",
+   "• Austria: (1/0)",
+   "<b><i><sc>Plan Marshalla (Marshall Plan)</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry. Użyj jego znacznika jako przypomnienia, że umożliwia ono <b><i><sc>NATO</sc></i></b>."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<b>KENNEDY:</b> Nasza pomoc dla Europy nie była jałmużną – była inwestycją w pokój i stabilność."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "ZSRR: <b><i><sc>Fidel</sc></i></b> (Wydarzenie ZSRR)",
+   "Usuń wszystkie Wpływy USA (US Influence) z Kuby (Cuba). Następnie dodaj tyle Punktów Wpływów ZSRR (USSR Influence), ile potrzeba do Kontroli (Control). Na Kubie nie ma Wpływów USA, więc ZSRR po prostu dodaje 3 Punkty Wpływów.",
+   "• Kuba (Cuba): (0/3) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "<b><i><sc>Fidel</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Towarzysz Castro przesyła pozdrowienia z Hawany."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>KENNEDY:</b> Z twoją pomocą, Nikita, Kuba stała się bazą komunistycznej działalności wywrotowej na całej półkuli zachodniej."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "RUNDY GRACZY (ACTION ROUNDS)"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<u>AR1 (ZSRR)</u>"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "Karta: <b><i><sc>Dekolonizacja</sc></i></b> (<b><i><sc>Decolonization</sc></i></b>, Wydarzenie ZSRR)",
+   "Dodaj po 1 Punkcie Wpływów ZSRR (USSR Influence) w dowolnych czterech państwach w Afryce (Africa) i/lub w Azji Południowo-Wschodniej (Southeast Asia).",
+   "• Angola: (0/1) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "• Tajlandia (Thailand): (0/1)",
+   "• Malezja (Malaysia): (0/1)",
+   "• Laos/Kambodża (Laos/Cambodia): (0/1) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Kolonialne mapy rysuje się ołówkiem, Jack. Czas posługuje się gumką."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<b>KENNEDY:</b> Popieramy niepodległość wszystkich narodów i sprzeciwiamy się panowaniu jednego narodu nad drugim – takie podejście powinien pan rozważyć w Europie Wschodniej, panie pierwszy sekretarzu."
+  ]
+ },
+ "u12": "keep",
+ "u13": {
+  "paras": [
+   "<u>AR1 (USA)</u>"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "Karta: <b><i><sc>Utworzenie CIA</sc></i></b> (<b><i><sc>CIA Created</sc></i></b>, Wydarzenie USA)",
+   "ZSRR ujawnia pozostałe karty na ręce:",
+   "◊  <sc>Blokada (Blockade)</sc>",
+   "◊  <sc>Naser (Nasser)</sc>",
+   "◊  <sc>Wojna indyjsko-pakistańska (Indo‑Pakistani War)</sc>",
+   "◊  <sc>Abdykacja w Rumunii (Romanian Abdication)</sc>",
+   "◊  <sc>Utworzenie Układu Warszawskiego (Warsaw Pact Formed)</sc>",
+   "◊  <sc>Plan pięcioletni (Five‑Year Plan)</sc>",
+   "Jack wykorzystuje 1 Punkt Operacyjny (Operations point), aby wzmocnić Koreę Południową (South Korea).",
+   "• Korea Południowa (South Korea): (2/0)",
+   "<b><i><sc>Utworzenie CIA (CIA Created)</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u17": {
+  "paras": [
+   "<b>KENNEDY:</b> Dziękuję za przejrzystość, Nikita."
+  ]
+ },
+ "u18": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Ciesz się nią, póki trwa."
+  ]
+ },
+ "u19": {
+  "paras": [
+   "<u>AR2 (ZSRR)</u>"
+  ]
+ },
+ "u20": {
+  "paras": [
+   "Karta: <b><i><sc>Blokada</sc></i></b> (<b><i><sc>Blockade</sc></i></b>, Wydarzenie ZSRR)",
+   "USA muszą natychmiast odrzucić kartę o Wartości Operacyjnej (Operations value) 3 lub wyższej albo stracić wszystkie Wpływy USA (US Influence) w Niemczech Zachodnich (West Germany). Jack odrzuca kartę Powstrzymywanie (Containment), nie inicjując jej Wydarzenia (Event).",
+   "<b><i><sc>Blokada</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u21": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Kiedy ściskam Berlin, słyszę, jak kaszle Waszyngton."
+  ]
+ },
+ "u22": {
+  "paras": [
+   "<b>KENNEDY:</b> Wolność ma wiele trudności, a demokracja nie jest doskonała. Ale nigdy nie musieliśmy stawiać muru, by nie wypuścić naszych ludzi."
+  ]
+ },
+ "u23": {
+  "paras": [
+   "<u>AR2 (USA)</u>"
+  ]
+ },
+ "u28": {
+  "paras": [
+   "Karta: <b><i><sc>Powstanie w Wietnamie</sc></i></b> (<b><i><sc>Vietnam Revolts</sc></i></b>, ZSRR, 2 Ops)",
+   "<u>Przewrót w Iranie (Coup in Iran)</u>",
+   "Ponieważ to karta przypisana przeciwnikowi, USA decydują, czy Wydarzenie (Event) zajdzie przed Operacjami (Operations), czy po nich. Jack najpierw rozpatruje Wydarzenie.",
+   "• Wietnam (Vietnam): (0/2) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "Do końca Etapu (turn) karty ZSRR zagrane w całości w Azji Południowo-Wschodniej (Southeast Asia) otrzymują +1 do Operacji (Operations)<f MinionPro-Cn>.</f>",
+   "• Stabilizacja Iranu (Iran Stability): 2",
+   "• Rzut kością: 6",
+   "• Siła Przewrotu (Coup strength) = 6 + 2 − 4 = 4",
+   "• Iran: 2/0 (<b><c #0072aa>Kontrola USA, US Control</c></b>)",
+   "• DEFCON: 3 → 2",
+   "• Operacje Wojskowe USA (US Military Ops): 2",
+   "<b><i><sc>Powstanie w Wietnamie (Vietnam Revolts)</sc></i></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u24": {
+  "paras": [
+   "<b>KENNEDY:</b> Nie możesz oczekiwać, że zostawię ci całą ropę i całą retorykę."
+  ]
+ },
+ "u25": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Masz głośniejszą retorykę, Jack. My – lepszą geografię."
+  ]
+ },
+ "u901": "keep",
+ "u902": "keep",
+ "u903": "keep",
+ "u904": "keep",
+ "u905": "keep",
+ "_u901": "u901…: białe prostokąty (łatka) zakrywające linie podkreśleń z tła – podkreślenia składają się znacznikiem <u> pod polskim tekstem; „keep” = złożyć bez zmian"
+}

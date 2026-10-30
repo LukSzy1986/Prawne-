@@ -1,0 +1,152 @@
+{
+ "_uwagi": "s. 11 (tb9_12): dokończenie AR2 (USA) – dialog ze s. 10 md; AR3–AR4 (USA) do „Siła Przewrotu”; dalszy ciąg AR4 (USA) na s. 12 (jak w oryginale). u11 – pagina, u13 – punktor (keep).",
+ "u2": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Presja to tylko siła z lepszymi manierami."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<u>AR3 (ZSRR)</u>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Karta: <b><i><sc>Wojna w Korei</sc></i></b> (<b><i><sc>Korean War</sc></i></b>, Wydarzenie ZSRR)",
+   "• Cel: Korea Południowa (South Korea)",
+   "Zgodnie z tekstem karty ZSRR rzuca kością i odejmuje 1 za każde państwo sąsiadujące z Koreą Południową, kontrolowane przez USA (US Controlled). Japonia (Japan) jest kontrolowana przez USA i sąsiaduje z Koreą Południową, więc modyfikator wynosi –1.",
+   "• Rzut kością: 3 (modyfikator −1 = 2) → Wojna kończy się porażką, Wpływy (Influence) bez zmian",
+   "• Operacje Wojskowe ZSRR (USSR Military Ops): 2",
+   "<b><sc>Wojna w Korei</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Korea była lekcją, że takie wojny mogą doprowadzić do czegoś znacznie groźniejszego."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>KENNEDY:</b> Co się stało z „Pogrzebiemy was”, panie sekretarzu?"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<u>AR3 (USA)</u>"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Karta: <b><i><sc>Rozstrzygnięcie w Azji</sc></i></b> (<b><i><sc>Asia Scoring</sc></i></b>, Wydarzenie neutralne)",
+   "USA kontrolują (US controls):",
+   "• Japonia (Japan) – Państwo Strategiczne (Battleground)",
+   "• Korea Południowa (South Korea) – Państwo Strategiczne",
+   "• Tajlandia (Thailand) – Państwo Strategiczne",
+   "• Australia – państwo niestrategiczne (non-Battleground)",
+   "ZSRR kontroluje (USSR controls):",
+   "• Korea Północna (North Korea) – Państwo Strategiczne",
+   "• Wietnam (Vietnam) – państwo niestrategiczne",
+   "• Laos/Kambodża – państwo niestrategiczne",
+   "USA kontrolują (Controls) więcej Państw Strategicznych (Battlegrounds, 3 do 1), więcej państw ogółem (4 do 3) oraz co najmniej jedno państwo niestrategiczne (non-Battleground country) w tym Regionie (Australię). Dlatego USA mają Dominację (Domination) w Azji. ZSRR ma Obecność (Presence)."
+  ]
+ },
+ "u9": {
+  "lines": [
+   "Rozstrzygnięcie (Scoring):"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "Wynik USA:",
+   "• Dominacja (Domination) = 7 VP",
+   "• Kontrolowane Państwa Strategiczne = +3 VP",
+   "• Państwa sąsiadujące z supermocarstwem przeciwnika = 0",
+   "• Razem USA = 10 VP",
+   "Wynik ZSRR:",
+   "• Obecność (Presence) = 3 VP",
+   "• Kontrolowane Państwa Strategiczne = +1 VP",
+   "• Państwa sąsiadujące z supermocarstwem przeciwnika = 0"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<f MyriadPro-BlackCond>BACKGROUND BOOK</f>"
+  ]
+ },
+ "u12": {
+  "paras": [
+   "Razem ZSRR = 4 VP",
+   "• Wynik netto: USA zyskują 6 VP.",
+   "• Wynik: 0."
+  ]
+ },
+ "u13": "keep",
+ "u14": {
+  "paras": [
+   "<b>KENNEDY:</b> Wielkim polem bitwy w obronie i szerzeniu wolności jest dziś cała południowa połowa globu."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> [Zaczyna zdejmować but] Wobec tego może nie powinieneś okazywać takiego zdziwienia, kiedy ona oddaje cios."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<u>AR4 (ZSRR)</u>"
+  ]
+ },
+ "u17": {
+  "paras": [
+   "Karta: <b><i><sc>Plan pięcioletni</sc></i></b> (<b><i><sc>Five‑Year Plan</sc></i></b>, USA, 3 Ops)"
+  ]
+ },
+ "u21": {
+  "paras": [
+   "<u>Poszerzanie Strefy Wpływów (Influence placement)</u>",
+   "Ponieważ to karta przypisana przeciwnikowi, ZSRR decyduje, czy Wydarzenie (Event) zajdzie przed Operacjami (Operations), czy po nich. Nikita postanawia najpierw rozpatrzyć Wydarzenie.",
+   "ZSRR musi losowo odrzucić kartę z ręki. Losowo odrzucona karta: <b>NATO</b>.",
+   "Ponieważ <b>NATO</b> to Wydarzenie powiązane z USA (US-associated Event), jego Wydarzenie zachodzi natychmiast. <b><sc>Plan Marshalla (Marshall Plan)</sc></b> i <b><sc>Utworzenie Układu Warszawskiego (Warsaw Pact Formed)</sc></b> zostały już zagrane, więc <b>NATO</b> można teraz zagrać jako Wydarzenie. <b>NATO</b> zaczyna obowiązywać. Kontrolowane przez USA (US Controlled) państwa w Europie (Europe) nie mogą już być celem Przewrotów ZSRR (Soviet Coups) ani jego rzutów na Wywieranie Presji (Realignments).",
+   "<b>NATO</b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry (jego znacznik przypomina o efekcie).",
+   "Nikita wykorzystuje następnie 3 Punkty Operacyjne (Operations points) na Bliskim Wschodzie (Middle East):",
+   "• Liban (Lebanon): (0/1) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "• Jordania (Jordan): (0/2) <b><c #b90e31>Kontrola ZSRR</c></b>"
+  ]
+ },
+ "u18": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Jedne plany zawodzą, inne po prostu odsłaniają lepszą okazję."
+  ]
+ },
+ "u19": {
+  "paras": [
+   "<u>AR4 (USA)</u>"
+  ]
+ },
+ "u22": {
+  "paras": [
+   "Karta: <b><i><sc>Kryzys sueski</sc></i></b> (<b><i><sc>Suez Crisis</sc></i></b>, ZSRR, 3 Ops)"
+  ]
+ },
+ "u23": {
+  "paras": [
+   "<u>Przewrót w Iraku (Coup in Iraq)</u>",
+   "Ponieważ to karta przypisana przeciwnikowi, USA decydują, czy Wydarzenie (Event) zajdzie przed Operacjami (Operations), czy po nich. Jack postanawia najpierw rozpatrzyć Wydarzenie.",
+   "Usuń łącznie 4 Punkty Wpływów USA (US Influence) z Francji (France), Wielkiej Brytanii (United Kingdom) i Izraela (Israel), nie więcej niż 2 z jednego państwa.",
+   "• Wielka Brytania (UK): (3/0)",
+   "• Francja (France): (0/0)",
+   "• Izrael (Israel): (0/0)",
+   "Jack wykorzystuje następnie 3 Punkty Operacyjne (Operations points) do przeprowadzenia Przewrotu (Coup) w Iraku (Iraq).",
+   "• Stabilizacja Iraku (Iraq Stability): 3",
+   "• Rzut kością: 5",
+   "• Siła Przewrotu (Coup strength) = 5 + 3 − 6 = 2"
+  ]
+ },
+ "u901": "keep",
+ "u902": "keep",
+ "u903": "keep",
+ "u904": "keep",
+ "u905": "keep",
+ "u906": "keep",
+ "_u901": "u901…: białe łatki (łatka; twarde spacje na białym tle) zakrywające podkreślenia z tła – podkreślenia składa <u>"
+}

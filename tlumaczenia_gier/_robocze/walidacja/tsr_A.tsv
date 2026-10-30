@@ -1,0 +1,24 @@
+dok	strona	cytat_PL	poprawka_PL	gdzie	id	uwagi
+TS_20th_Ann_Rule_Book_WEB	2	Ops – Punkty Operacyjne (Operations points); w Przykładzie rozgrywki AR – Runda (Action Round).	Ops – Punkty Operacyjne (Operations points).	json	tsr_1_8#1	kontekst/D
+TS_20th_Ann_Rule_Book_WEB	5	Gra ma 110 kart.	W grze używa się 110 kart.	json	tsr_1_8#2	sens/D
+TS_20th_Ann_Rule_Book_WEB	6	, kładąc <b>15 znaczników</b>	, rozmieszczając <b>15 znaczników</b>	json	tsr_1_8#3	kolokacja/D
+TS_20th_Ann_Rule_Book_WEB	6	, kładąc <b>25 znaczników</b>	, rozmieszczając <b>25 znaczników</b>	json	tsr_1_8#4	kolokacja/D
+TS_20th_Ann_Rule_Book_WEB	6	Znaczniki Wyścigu Kosmicznego USA i ZSRR	Znaczniki Wyścigu Kosmicznego (Space Race) USA i ZSRR	json	tsr_1_8#5	termin/D
+TS_20th_Ann_Rule_Book_WEB	8	A. Poprawa sytuacji na torze DEFCON:	A. Poprawa sytuacji na torze DEFCON (Improve DEFCON Status):	json	tsr_1_8#6	termin/D
+TS_20th_Ann_Rule_Book_WEB	8	F. Sprawdzenie zatrzymanej karty Rozstrzygnięcia	F. Sprawdzenie zatrzymanej karty Rozstrzygnięcia (Check for Held Scoring Card)	json	tsr_1_8#7	termin/D
+TS_20th_Ann_Rule_Book_WEB	8	I. Rozstrzygnięcie Końcowe (tylko po Etapie 10)	I. Rozstrzygnięcie Końcowe (Final Scoring; tylko po Etapie 10)	json	tsr_1_8#8	termin/D
+TS_20th_Ann_Rule_Book_WEB	9	kładzie się ją na stos kart odrzuconych (discard pile) i nie zostaje na stałe usunięta z gry	kładzie się ją na stos kart odrzuconych (discard pile), a nie usuwa na stałe z gry	oba	tsr_9_16#1	skladnia/D
+TS_20th_Ann_Rule_Book_WEB	12	jest za mało, by je usunąć, dodaj własne znaczniki Wpływów (Influence markers)	jest za mało do usunięcia, dodaj własne znaczniki Wpływów (Influence markers)	md	tsr_9_16#2	skladnia/I
+TS_20th_Ann_Rule_Book_WEB	12	(2x2=4)	(2×2=4)	oba	tsr_9_16#3	typografia/D
+TS_20th_Ann_Rule_Book_WEB	12	radziecki znacznik 2 zostaje usunięty	znacznik ZSRR 2 zostaje usunięty	md	tsr_9_16#4	termin/D
+TS_20th_Ann_Rule_Book_WEB	12	mogą pozwolić graczom odrzucić (discard) wiele kart	mogą pozwolić graczom odrzucić (discard) więcej niż jedną kartę	md	tsr_9_16#5	sens/D
+TS_20th_Ann_Rule_Book_WEB	12	mogą pozwolić graczom odrzucić wiele kart	mogą pozwolić graczom odrzucić więcej niż jedną kartę	json	tsr_9_16#6	sens/D
+TS_20th_Ann_Rule_Book_WEB	12	ani w sąsiednim	ani w sąsiadującym	json	tsr_9_16#7	termin/D
+TS_20th_Ann_Rule_Book_WEB	13	przyznaje się natychmiast i sumują się	są przyznawane natychmiast i sumują się	oba	tsr_9_16#8	skladnia/D
+TS_20th_Ann_Rule_Book_WEB	13	a karta trafia na stos kart odrzuconych	a kartę kładzie się na stos kart odrzuconych	json	tsr_9_16#9	kontekst/D
+TS_20th_Ann_Rule_Book_WEB	13	którą zabrał on z ręki swojego przeciwnika	którą zabrał on z ręki tego gracza	md	tsr_9_16#10	skladnia/D
+TS_20th_Ann_Rule_Book_WEB	14	modyfikują ją do wszystkich celów	modyfikują ją we wszystkich zastosowaniach	md	tsr_9_16#11	kolokacja/D
+TS_20th_Ann_Rule_Book_WEB	14	czynią to do wszystkich celów	czynią to we wszystkich zastosowaniach	json	tsr_9_16#12	kolokacja/D
+TS_20th_Ann_Rule_Book_WEB	14	na swoim maksymalnym poziomie „pokoju”, 5, i	na maksymalnym poziomie „pokoju” równym 5 i	oba	tsr_9_16#13	skladnia/I
+TS_20th_Ann_Rule_Book_WEB	14	nie ma innego wyjścia, niż zagrać kartę	nie ma innego wyjścia niż zagrać kartę	oba	tsr_9_16#14	interpunkcja/D
+TS_20th_Ann_Rule_Book_WEB	15	Gdy mówią „obniż” (“degrade”)	Gdy mówią „obniżyć” (“degrade”)	oba	tsr_9_16#15	gramatyka/D

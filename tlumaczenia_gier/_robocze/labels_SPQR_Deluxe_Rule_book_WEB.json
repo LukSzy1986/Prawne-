@@ -1,0 +1,246 @@
+{
+ "_uwagi": "SPQR_Deluxe_Rule_book_WEB s. 16 i 22: podpisy heksów Flank/Rear na diagramach (generator patches_SPQR_Deluxe_Rule_book_WEB/spec_spqr.py); „Front” bez zmian",
+ "pages": {
+  "16": {
+   "labels": [
+    {
+     "win": [
+      177,
+      1495,
+      250,
+      1522
+     ],
+     "x": 214.0,
+     "y": 1517,
+     "t": "Skrzydło",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#231f20",
+     "cover": "auto",
+     "en": "Flank"
+    },
+    {
+     "win": [
+      294,
+      1495,
+      367,
+      1522
+     ],
+     "x": 331.0,
+     "y": 1517,
+     "t": "Skrzydło",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#231f20",
+     "cover": "auto",
+     "en": "Flank"
+    },
+    {
+     "win": [
+      527,
+      1494,
+      600,
+      1521
+     ],
+     "x": 564.0,
+     "y": 1517,
+     "t": "Skrzydło",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#231f20",
+     "cover": "auto",
+     "en": "Flank"
+    },
+    {
+     "win": [
+      644,
+      1494,
+      717,
+      1521
+     ],
+     "x": 680.5,
+     "y": 1517,
+     "t": "Skrzydło",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#231f20",
+     "cover": "auto",
+     "en": "Flank"
+    },
+    {
+     "win": [
+      235,
+      1596,
+      308,
+      1623
+     ],
+     "x": 272.0,
+     "y": 1618,
+     "t": "Skrzydło",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#231f20",
+     "cover": "auto",
+     "en": "Flank"
+    },
+    {
+     "win": [
+      586,
+      1595,
+      658,
+      1623
+     ],
+     "x": 622.5,
+     "y": 1618,
+     "t": "Skrzydło",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#231f20",
+     "cover": "auto",
+     "en": "Flank"
+    },
+    {
+     "win": [
+      357,
+      1595,
+      421,
+      1623
+     ],
+     "x": 389.0,
+     "y": 1618,
+     "t": "Tył",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#ed1c24",
+     "cover": "auto",
+     "en": "Rear"
+    },
+    {
+     "win": [
+      473,
+      1595,
+      537,
+      1623
+     ],
+     "x": 506.0,
+     "y": 1618,
+     "t": "Tył",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#ed1c24",
+     "cover": "auto",
+     "en": "Rear"
+    },
+    {
+     "win": [
+      415,
+      1698,
+      479,
+      1724
+     ],
+     "x": 447.5,
+     "y": 1720,
+     "t": "Tył",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#ed1c24",
+     "cover": "auto",
+     "en": "Rear"
+    },
+    {
+     "win": [
+      533,
+      1698,
+      596,
+      1724
+     ],
+     "x": 564.5,
+     "y": 1720,
+     "t": "Tył",
+     "al": "c",
+     "fs": 9.2,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#ed1c24",
+     "cover": "auto",
+     "en": "Rear"
+    },
+    {
+     "win": [
+      303,
+      1657,
+      362,
+      1678
+     ],
+     "x": 329.0,
+     "y": 1672,
+     "t": "Tył",
+     "al": "c",
+     "fs": 8.8,
+     "st": "font-family:LSerif;font-weight:700",
+     "color": "#ed1c24",
+     "cover": "none",
+     "en": "Rear (nad żetonem LG)"
+    }
+   ],
+   "patches": [
+    {
+     "png": "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",
+     "x": 250,
+     "y": 1625,
+     "note": "„Rear” nad żetonem LG – w masce napisu kopia z przesunięcia (116.7, 0.0) px, obszar [250, 1625, 325, 1700]"
+    },
+    {
+     "png": "iVBORw0KGgoAAAANSUhEUgAAADIAAABLCAYAAAAyEtS4AAAHf0lEQVR42u2ayXMb1xGHvzcz2AcrsZHgblqUJTv3JK4slXIluaUq91ycfyr/RK65piqVg1OuVE4uOpJIbCRWAgNgMMCsLweSEilFGymLQxf7/AYzH7rfr/v1ayGl5MJ6vQH1RoNnh0f86hdfUq1WUBSFu2B34yvvQe5B7kHuQe5B7kHuQe5B7kHCAyIEiPNqVygCIcTdAgmCANd1mZkmhmFgWRajscHcsu4MiOY4Dpa1wJgYtNrH9PsDbNum2WyBlFQqZVLJFNFoBFVVQwsiBoMhh/UGBwcHjMcGQRAQj8exrDnpdJrNzQ0+e/iQUrFIMpkILYj6sy+/5NmzI3w/YH29xmcP99nf/5REMoHjOPT7Q7rdDvO5BUKg6zqI8O0f9avf/o5kIsHmxgY7OztsbNQolYokk0li0SiBlMxmJjNzxmKxOHtI1dBUNVShpn799Z959OgRjx4+oFwuk0oliWga2UyGQqFAPp9HAoYx4fT0lOl0hqZpqJqGqqqIc7m7bQ+JXn9ANpNG0yIoL0luEAT4vo/juHR6XRqNFo1GkyDwKRVLbG6sU1uvkc2kicVitwviOC6RiPbWhXPLwjAm9AdDDGOMaVp4rosW0cjlslTKZVarVZLJxK2EnLjcDnqb+b6P6/lMJhM63S6dkw6D4ZAgkBQKOba2tqhWKmQyaWLRKOIjhtx7gVy2IAiYWxb1epODg+/pD/qoqsrD/X12d3eolMtEItpHg7k2iJQS3/dZLJcYxlkyPTqqM51OyeVyrNdq7Oxss1IokEjEwwty2VzPYzQa0b6AMU1URaW4UmBtbY3VaoVCofDcQ6EFuVyvtY87HNWPaLePmUwm5PN5tre22PvkE7K5DNFoFFVRPngr9oOBXPyO53nMLYvh8JSjozonnS6e55HL5XjwYI9yuUQ2nSYej4cT5GV1W9o208mUsWEwGhsYhoFt28RiUTLpDMVikWq1jK7rRCORcIJc2T+uizGZ0ul0abaaTCZTfN8nkUiwvr7G2uoapWKRRCJ+o/3zg4Nc9pI5n3N4WOfJ06c0m000TWN3d5cvHj+mVltF064v1x8N5Ipcjw063S71Rov53CQej7Ozvc3mxjqFlQLxa5Q7Hw3ksjmOi2madHt92u0W3V4fgHKpRKVaoVouk8vliMWi76xutwJy4aEgCOh0uzx58ozDw0Ncz0PXdWq1GtubmxRWCqTOa7e3hdtlkJeJ3vTk6+jFu647f6/0/YDFYiE63R5H9TonJyeYpkmxWOLBp3vs7myTy2XfCeRtLhHv8GE3Ms/zWC6XzMy5mBgG44nBZDLDsW0URSGTyVCplCmXSuTzuWuDfFRzXVdYlkWvP6TVatHt9bBth3w+x2qlylptlXwuRyIRR9O08IJcjoLBYEi90eD7/z5hODxF0zQqlQqfP37EarVCOq0/P/uEFQRAuK6LtVgym05pNFu02scMh0N0PcXe3h57n+xQrVTCD3JWjJ7ln7Fh0O/36XS69AcDFEUhl8tSW1ujXC6HH+Rq/nGYzkyePjuk0Wgwm05J6jpbmxt3C+Qi9/i+T6fbo90+pn18gmnOwr3Z33RcWC6XWNaCuWUxGo1CCfJeFaOUEtOchwrkRmdg5ccAESYQfiwg8t4j9yD3ILcPIj6EPP7Q8qtZliU+1stuRCoUVFV5bctIq//nm9CHjQAcPyCS0MmUqpRXV4lGo1fX/OVPX90JkK4xQy1tsv3T3/D7P/yR/MrKVY/80h6EGkIiEQF8OzM4USOMT4f4vvfqHlkVbrhBpAQk2cCh41jMTRNzPke3bSLnN8sAGu9wEXqrYSUlSIkSiSARWIsFp6dj9EyOtP6i+XBn8og4axUxnkxoHx8zHht4nnf3EuKF3EopkUHwSp2pSS8IzV8uFHE2NPYGGEUIFFVFUZQruUTDDd6rphYfqu5++W2KAE1BKLwR5rWZnf0ttEsB5kvw/P/f0VYFaOdDDa4PnvyAG9q1UY0ZYmlfq4bQ+ntfsLQcFPXsaU1T0VPx87mUFwuDQGJZNuOJRURTSetx9FTs5p4RCvg+YnKK8t0BLJYgxXsXRVqnvMdRa8RiuSAWi1LJZvlst4SmnsXjc8XwA05ORvyr1yaVjPO4VGJ/awX/pltMUcFzUXotZL0F8noJWnMsiydPm/z9H9/wYG+XX//8J8R38wQ+cNFgEaAhmIwnfPvv78imU1TSgs+3snhe8GLddUF8H3zvRr+j5PQYxXwKe2kTjSjkMnFimriiy6oiiEcEeiJCOpVAEQpIeeb5kHSTtEQ8QjoVR1EU4jGNVCKKqgqELxESAimZmA4CmC9cNO1iei5cKUiTnH3shRJK+UKxhADb9jk4GuH6Pq3OmKlpkc/qZ5eUIRprVF53dFJVmC89vm8M+evf/sl4PKGykiaXTaOFcGxWOa/JXjFVEcwsm/rxiHqzg/RdsnqceCxyllUJlUNQAinxg+D8Ql/in+upIgS242FMLSxrgeM6+EEACHzfx/MDwtT91nw/wHY8pATvfNTvwkOJWISsHsd1HJ42R9hBDGthM58vmJoLlk6AEOEQrv8Blwe8zjX92AAAAAAASUVORK5CYII=",
+     "x": 325,
+     "y": 1625,
+     "note": "„Rear” nad żetonem LG – w masce napisu kopia z przesunięcia (116.7, 0.0) px, obszar [325, 1625, 375, 1700]"
+    }
+   ]
+  },
+  "22": [
+   {
+    "win": [
+     157,
+     923,
+     213,
+     943
+    ],
+    "x": 184.0,
+    "y": 940,
+    "t": "Skrzydło",
+    "al": "c",
+    "fs": 7.0,
+    "st": "font-family:LSerif;font-weight:700",
+    "color": "#231f20",
+    "cover": "auto",
+    "en": "Flank"
+   },
+   {
+    "win": [
+     740,
+     923,
+     796,
+     943
+    ],
+    "x": 767.5,
+    "y": 940,
+    "t": "Skrzydło",
+    "al": "c",
+    "fs": 7.0,
+    "st": "font-family:LSerif;font-weight:700",
+    "color": "#231f20",
+    "cover": "auto",
+    "en": "Flank"
+   }
+  ]
+ }
+}

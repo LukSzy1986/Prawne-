@@ -1,0 +1,35 @@
+{
+ "_uwagi": "s. 39 (redaktor sp37_44) – przykład: nawiasy EN tylko z listy ZAWSZE (K.5); 10.23 dzielony między u2[1] i u4[0] jak w oryginale.",
+ "u2": {
+  "paras": [
+   "PRZYKŁAD: [Kynoskefalaj] Na początku kroku załamania (Collapse) lekka piechota tracka (LI) <b>A</b>, falanga (Phalanx) <b>B</b>, falanga <b>C</b> i lekka piechota tracka <b>E</b> przekroczyły progi TQ. Lekka piechota tracka <b>D</b> nie jest w ZOC Rzymian i ma 1 ubytek spójności (Cohesion Hit) – znaczników ubytków nie pokazano. Starcia (Shock Combats) rozstrzygano od dołu do góry, więc pierwszy ulega rozbiciu (routs) tracki oddział <b>E</b>. Heksy na bezpośredniej drodze do jego krawędzi odwrotu (lewa strona ilustracji) blokują welici (Velites) <b>Y</b> i ich ZOC, więc oddział cofa się (retreats), obchodząc welitów <b>Y</b>. Następna jest falanga <b>C</b>. Gracz macedoński rzuca kością, by sprawdzić, czy falanga utrzyma pozycję, ale test się nie udaje, więc musi ona wykonać ucieczkę rozbitych (rout move). Oddział odwraca front i porusza się w stronę krawędzi odwrotu. ZOC welitów <b>Y</b> blokuje wejście do jednego z pustych heksów (heks N), więc falanga <b>C</b> musi przejść przez tracki oddział <b>D</b>. Gracz macedoński musi teraz wykonać test TQ trackiego oddziału <b>D</b>; wynik rzutu to 9, więc 4 ubytki (Hits) wystarczają do osiągnięcia jego progu TQ. Oddział natychmiast wykonuje ucieczkę rozbitych. Tracki oddział <b>D</b> ma niezablokowaną drogę do swojej krawędzi odwrotu. Następna jest falanga <b>B</b>. Jazda rzymska (Roman Cavalry) <b>U</b> miała przewagę pozycyjną (Position Superiority), więc nie ma testu TQ na utrzymanie pozycji; oddział ulega rozbiciu. Jego bezpośrednia droga do krawędzi odwrotu jest zablokowana, musi więc ruszyć naprzód. Na koniec cofa się tracki oddział <b>A</b>. Jego bezpośrednią drogę blokują lekka jazda etolska (LC) <b>T</b> i jej ZOC, więc omija on oddział <b>T</b>, kierując się ku swojej krawędzi odwrotu. Po tych ucieczkach rozbitych oddziały rzymskie wykonałyby posunięcie (advance) do opuszczonych heksów.",
+   "<b>10.23</b> W etapie ucieczki rozbitych (Rout Movement Segment) fazy rozbicia i uzupełniania pocisków (Rout and Reload Phase, D/1) wszystkie rozbite (Routed) oddziały falangi (Phalanx) zostają wyeliminowane."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Wszystkie pozostałe oddziały rozbite przesuwa się o pełną, nadrukowaną zdolność ruchu (MA) w tym samym kierunku i w ten sam sposób co w 10.22 – nawet jeśli wcześniej w tej turze gry (Game Turn) się poruszały. Oddziały rozbite stosują zwykłe zasady ruchu, ale nie mogą wchodzić do stref kontroli (ZOC) wroga niezajętych przez własne oddziały. Nie otrzymują ubytków spójności (Cohesion Hits) za ruch.",
+   "<b>10.24</b> Oddział, który zejdzie z mapy (z dowolnego powodu) lub nie może dokończyć ucieczki rozbitych (rout movement) z powodu obecności oddziałów wroga/ich stref kontroli (ZOC) albo terenu nieprzekraczalnego (impassable), zostaje na stałe usunięty z gry i przy wycofaniu armii (Army Withdrawal) liczy się jako wyeliminowany.",
+   "<b>10.25</b> Ruch uciekających oddziałów (routing units) przez inne oddziały i na ich heksy opisuje tabela łączenia w stosy (Stacking Chart, 6.69). Zasadniczo oddziały rozbite (Routed) mogą przechodzić przez własny oddział, ale nie mogą kończyć ruchu w stosie z nim. Gdyby oddział rozbity miał zakończyć ucieczkę rozbitych (rout movement) na heksie z własnym oddziałem (także w ZOC wroga), zgodnie z tabelą przechodzi zamiast tego o jeszcze jeden heks (a oddział, który nie wykonuje ruchu, ponosi kary wg tabeli). Uciekający oddział zostaje wyeliminowany, jeśli ten heks jest zajęty przez jakikolwiek oddział, w ZOC wroga lub nieprzekraczalny (impassible). Jeśli heks zajmuje własny oddział, ponosi on kary „Zatrzymanie w…” (Stopping In) z tabeli.",
+   "<b>10.26</b> Jeśli dowódca jest w stosie z uciekającym oddziałem (routing unit), może wykonać ucieczkę rozbitych (rout move) razem z nim. Poza tym rozbicie (rout) nie ma na niego wpływu.",
+   "<b>10.27</b> Skutki rozbicia (Rout) są następujące:",
+   "• Oddziały rozbite (Routed) mają automatycznie jakość wojsk (TQ) 1. Inne współczynniki się nie zmieniają.",
+   "• Rozbite (Routed) piesze oddziały strzelające mają automatycznie „Brak pocisków” (Missile No). Nie dotyczy to strzelców konnych.",
+   "• Oddziały rozbite (Routed) nie mogą otrzymywać ani wykonywać rozkazów innych niż zebranie (Rally) i nie mogą z żadnego powodu strzelać.",
+   "• Oddziały wykonujące ucieczkę rozbitych (Rout-moving) nie ponoszą żadnych kar w spójności za teren.",
+   "• Oddziały rozbite (Routed), które otrzymają jakikolwiek dodatkowy ubytek spójności (Cohesion Hit), zostają natychmiast wyeliminowane i usunięte z gry.",
+   "<b>10.28 Zebranie (Rally):</b> W fazie rozkazów (Orders Phase) gracz może spróbować zebrać oddział rozbity (Routed), który jest w terenie otwartym (Clear) i nie jest:",
+   "• w sąsiedztwie oddziału bojowego wroga <i>ani</i>",
+   "• w zasięgu i linii widzenia (LOS) oddziału wroga, który ma pociski (także ostrzał nękania i rozproszenia, H&D) i nie jest związany walką (Engaged, 10.4).",
+   "Dany dowódca może próbować zebrać (Rally) określony oddział tylko raz na turę gry (Game Turn). Ograniczenie dotyczy dowódcy, nie oddziału, który w tej samej turze może zebrać inny dowódca. Aby zebrać oddział rozbity (Routed), gracz rzuca kością:",
+   "• Jeśli wynik rzutu kością (DR) nie przekracza współczynnika inicjatywy (Initiative Rating) dowódcy +1, oddział zostaje zebrany (Rallied). Odwróć jego znacznik Rozbity (ROUTED) na stronę Zebrany (RALLIED).",
+   "• Jeśli wynik (DR) jest większy od inicjatywy dowódcy +1, oddział wykonuje ucieczkę rozbitych (rout moves) o pełną zdolność ruchu (MA) wg procedury z 10.22, chyba że wynik był też większy od nadrukowanej TQ oddziału – wtedy zamiast tego zostaje wyeliminowany.",
+   "Słoni w szale (Rampaging Elephants) nigdy się nie zbiera (Rally)."
+  ]
+ }
+}

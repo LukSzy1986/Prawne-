@@ -1,0 +1,43 @@
+{
+ "u2": {
+  "paras": [
+   "KONIEC ETAPU TRZECIEGO",
+   "Wymóg Operacji Wojskowych (DEFCON 2 → wymagane 2)<br>ZSRR: 4 Operacje Wojskowe (Military Ops) <b>☑</b>",
+   "USA: 3 Operacje Wojskowe <b>☑</b>",
+   "Zatrzymane karty (Held cards):",
+   "ZSRR: brak",
+   "<f MinionPro-Cn>USA:</f> <sc>Piątka z Cambridge (The Cambridge Five)</sc>"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Wynik na koniec Etapu 3 (Turn 3): <b>USA 1 VP</b>."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "Sytuacja na planszy jest teraz dużo mniej stabilna, niż sugeruje tor Punktacji. W Azji zrobiło się ciasno, Europa jest politycznie rozchwiana, a Bliski Wschód pozostaje pytaniem, na które żadne supermocarstwo nie ma jasnej odpowiedzi."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "Kennedy zakłada ręce na piersi."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>KENNEDY:</b> Ciągle nazywamy to równowagą."
+  ]
+ },
+ "u5": {
+  "lines": [
+   "Chruszczow uśmiecha się półgębkiem."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Równowaga, Jack, to tylko to, co mówią ludzie, kiedy żadna ze stron nie skończyła jeszcze swoich posunięć."
+  ]
+ },
+ "u7": "keep"
+}

@@ -1,0 +1,25 @@
+# Raport walidacji – TS Background Book, s. 25–32 (hasła kart 11–71), TAG tsbb_25_32
+
+**Zgłoszenia: 25** (K 0, I 5, D 20) – plik `/home/claude/work/val_ts/val_tsbb_25_32.tsv`. Wg kategorii: skladnia 6, sens 5, oryginal 5, gramatyka 3, kolokacja 2, ortografia 2, interpunkcja 1, termin 1. Skrypty: `/home/claude/work/val_ts/w_tsbb_25_32/` (cmp_md_trans.py, liczby.py, zakazane.py, tytuly.py, sprawdz_tsv.py).
+
+**Najpoważniejsze (strona: cytat → poprawka):**
+1. s. 25: „wywołana inwazją Korei Północnej przez 38. równoleżnik” → „wywołana północnokoreańską inwazją przez 38. równoleżnik” (dopełniacz odwraca kierunek: inwazja NA Koreę Płn.).
+2. s. 26 (karta 21, md; to samo w R p009): „Zagraj po Plan Marshalla (…) lub Utworzenie Układu Warszawskiego (…)” → „Zagraj po Wydarzeniu Plan Marshalla (…) lub …” – „po” bez miejscownika, tytułów nie odmieniamy (0.7.2).
+3. s. 27: „najwyraźniej uwidoczniły to próba…” → „najdobitniej uwidoczniły to…” („najwyraźniej” = widocznie, zapewne; EN most visibly).
+4. s. 29: „W epoce pozornie rosnącej radzieckiej pychy” → „W epoce rosnącej, jak się zdawało, radzieckiej pychy” (pozornie = na pozór, EN seemingly).
+5. s. 31: „ambiwalencję wobec użycia siły zbrojnej, która była skutkiem…” → „…, będącą skutkiem…” (zaimek przyczepia się do „siły zbrojnej”).
+6. s. 28: „Przez 14 dni października 1962 roku” → „Przez 14 dni w październiku 1962 roku”; „mógł nigdy nie zdać sobie sprawy” → „być może nigdy nie zdał sobie sprawy” (kalka may have).
+7. s. 27: „Rezolucja zapadła” → „Rezolucję przyjęto”; „nieograniczone w czasie uprawnienia” → „nieograniczone uprawnienia” (open-ended).
+8. s. 32: „w konkretnym celu promowania” → „z wyraźnym celem promowania”; „bywała niekiedy” → „bywała”; „karty OPA” → „Karty OPA” (×2); „zabójstw popieranych” → „sponsorowanych przez państwo”.
+
+**Ocena:** wierność 5/5 – wszystkie 61 nagłówków haseł (nr + tytuł PL/EN) zgodne z glosariuszem 5.1 (wariant EN „Nixon Plays The China Card” wg 5.5); daty, liczby, listy lat i numery identyczne z EN (różnice tylko: 1950s→lat 50., 20th→XX, 16th→XVI, numery stron); nazwy własne wg sekcji 7 (Naser, Chomeini, Pahlawi, Ceaușescu, Gheorghiu-Dej, Dźwina, Kominform, XX Zjazd KPZR, Cieśnina Tajwańska, Sharpeville i Langa, komunikat szanghajski); cytaty 7.8 („proszę nie czekać na tłumaczenie, panie Zorin!”, „Pogrzebiemy was”) zgodne; żadnych pominięć ani dodatków zdań. Polszczyzna 4/5 – naturalna, bez kalk terminologicznych; usterki to pojedyncze dwuznaczne odniesienia zaimków, dwa przysłówki zmieniające modalność („pozornie”, „najwyraźniej”) i drobne kolokacje. Słowa zakazane (sekcja 10): tylko uzasadnione historyczne „zamach stanu” (s. 25, 30) i „polem bitwy” (s. 29).
+
+**Skład (trans JSON vs md):** tekst identyczny poza świadomymi przestawieniami szyku bez zmiany sensu (s. 25 ×3, s. 26 NATO, s. 28 „Ostatecznie Chruszczow”, s. 29 „Dr Strangelove”, s. 30 „i”→„oraz”); nic nie skrócono, nawiasów nie usunięto. Uwaga: pole `_uwagi` w trans p025–p032 mówi „tekst z md bez zmian” – nieaktualne po tych przestawieniach. Twarde spacje w nagłówkach („Suez Crisis”, „Red Scare/Purge”) – formatowanie, nie błąd. Raportów składu dla s. 25–36 w katalogu runda3 nie ma.
+
+**Problemy systemowe (mogą wystąpić w innych partiach):** (a) zaimki względne „która/które” i imiesłowy przyczepione do najbliższego rzeczownika zamiast do właściwego (s. 26, 31) oraz dopełniacz podmiotowy/przedmiotowy („inwazja X”) – sprawdzać kierunek działania; (b) seemingly/most visibly oddawane przez „pozornie”/„najwyraźniej”, które po polsku znaczą co innego; (c) teksty kart z „Play after TYTUŁ” → „Zagraj po + mianownik” – wspólne dla R i BB, do poprawy jednym brzmieniem w obu dokumentach; (d) wielka litera w nazwach dokumentów (Karta OPA) – brak ustalenia w glosariuszu 7.3; (e) mieszanie 3. osoby i trybu rozkazującego w tekstach kart (karta 34) odziedziczone z EN.
+
+**Glosariusz a Phalanx (terminy w tym zakresie):** Phalanx „Traktat USA-Tajwan” / glosariusz „Rezolucja formozańska” (w treści Phalanx też „rezolucja” – zostawić glosariusz); Phalanx „Dvina” / glosariusz „Dźwina” [PWN] – zostawić; Phalanx „Antonio Salazar” / glosariusz „António de Oliveira Salazar” – zostawić; Phalanx „Zestrzelenie”, „Neokolonializm”, „Nixon w Chinach” itp. – nieprzejęte zgodnie z decyzją 0.1.4. Rozbieżności wymagających zmiany glosariusza nie znalazłem.
+
+**Błędy oryginału oddane wiernie (kat. oryginal, D):** „second presidency” de Gaulle’a (s. 25), „Soviet Premier” Chruszczow w 1956 (s. 29), „Socialist Democratic party” (s. 30 – przekład po cichu dał poprawną nazwę SPD), uwolnienie Mandeli „za rządu Bothy” (s. 30), „foreign minister Zhou Enlai” w 1971 (s. 32); wcześniej odnotowane: „Marshall Tito” (s. 26), data „(1970)” przy Kanale Panamskim (s. 31).
+
+**Do decyzji użytkownika:** (1) „partię socjaldemokratyczną” – zostawić poprawną nazwę (rekomendacja) czy oddać błąd oryginału z dopiskiem; (2) „Zagraj po Wydarzeniu …” – wprowadzić jednakowo w BB s. 26 i R s. 9; (3) „Karta OPA” wielką literą (rekomendacja: tak, jak Karta NZ) – ewentualnie dopisać do glosariusza 7.3; (4) „amerykańskiej armii” → „sił zbrojnych” (s. 31, wydłużenie +8) – kosmetyka.

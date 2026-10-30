@@ -1,0 +1,67 @@
+{
+ "u2": {
+  "paras": [
+   "<b>6.4.3</b> Awans na torze Wyścigu Kosmicznego (Space Race track) daje Punkty Zwycięstwa (Victory Points), zdolność specjalną albo jedno i drugie. Pięć pól (boxes) toru Wyścigu Kosmicznego oznaczono dwiema liczbami rozdzielonymi ukośnikiem (na przykład 3/1). Liczba po lewej oznacza, ile Punktów Zwycięstwa przyznaje się pierwszemu graczowi, który dotrze do tego pola; liczba po prawej – ile drugiemu graczowi, który do niego dotrze. Punkty Zwycięstwa są przyznawane natychmiast i sumują się.",
+   "<b>6.4.4</b> Zdolności specjalne otrzymuje tylko pierwszy gracz, który dotrze do danego pola. Zdolność specjalna zostaje natychmiast anulowana, gdy do tego pola dotrze drugi gracz.",
+   "• Po dotarciu do pola 2 (<b>Zwierzę w kosmosie</b>, <b>Animal in Space</b>) możesz zagrywać dwie karty na poczet Wyścigu Kosmicznego w Etapie (turn).",
+   "• Po dotarciu do pola 4 (<b>Człowiek na orbicie ziemskiej</b>, <b>Man in Earth Orbit</b>) wybierasz i ujawniasz swoją kartę Wydarzenia Kluczowego (Headline card) po przeciwniku.",
+   "• Po dotarciu do pola 6 (<b>Orzeł/Niedźwiedź wylądował</b>, <b>Eagle/Bear has Landed</b>) możesz na koniec Etapu (turn) odrzucić (discard) jedną zatrzymaną kartę (held card).",
+   "• Po dotarciu do pola 8 (<b>Stacja kosmiczna</b>, <b>Space Station</b>) możesz rozegrać 8 Rund (Action Rounds) w Etapie (turn)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz ZSRR dociera do pola 2. W swojej następnej Rundzie (Action Round) może zagrać drugą kartę na poczet Wyścigu Kosmicznego. Jeśli gracz ZSRR dotrze do pola 4, zanim gracz USA dotrze do pola 2, może zagrywać 2 karty na poczet Wyścigu Kosmicznego w Etapie (turn) i sprawić, że gracz USA pokaże swoją kartę Wydarzenia Kluczowego (Headline card), zanim ZSRR wybierze własną."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>6.4.5</b> Gdy kartę zagrano na poczet Wyścigu Kosmicznego, jej Wydarzenie (Event) nie zachodzi, a kartę kładzie się na stos kart odrzuconych."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA PROJEKTANTA:</f> Wyścig Kosmiczny to twój wentyl bezpieczeństwa. Jeśli chcesz choćby tymczasowo uwolnić się od Wydarzenia (Event) korzystnego dla przeciwnika, pozbądź się tej karty na poczet Wyścigu Kosmicznego – o ile ma Wartość Operacyjną (Operations value) wystarczającą, by podjąć próbę awansu."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>6.4.6</b> Jeśli gracz dotrze do ostatniego pola Wyścigu Kosmicznego, do końca gry nie może już zagrywać kart na jego poczet."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "7.0 WYDARZENIA (EVENTS)"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "„Czy pan, ambasadorze Zorin, zaprzecza, że ZSRR rozmieścił i wciąż rozmieszcza na Kubie pociski rakietowe średniego i pośredniego zasięgu oraz ich stanowiska? Tak czy nie? Proszę nie czekać na tłumaczenie! Tak czy nie?”",
+   "– Adlai Stevenson, ambasador USA przy ONZ",
+   "<f MyriadPro-BlackCond>7.1</f> Gracz może zagrać kartę powiązaną (associated) z własnym supermocarstwem albo z oboma supermocarstwami jako Wydarzenie (Event) zamiast jako Operacje (Operations). Wydarzenie zachodzi zgodnie z tekstem karty."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<f MyriadPro-BlackCond>7.2</f> Gwiazdkę (asterisk) ma karta <b><i><sc>Rozstrzygnięcie w Azji Południowo-Wschodniej (Southeast Asia Scoring)</sc></i></b> – jedyna karta Rozstrzygnięcia (Scoring card), którą po zagraniu usuwa się z gry na stałe.",
+   "7.3 Trwałe Wydarzenia (Lasting Events):",
+   "Niektóre tytuły Wydarzeń (Event titles) są podkreślone, np. <b><i><sc><u>Siła kwiatów (Flower Power)</u></sc></i></b>. Oznacza to, że efekty tych Wydarzeń trwają do końca gry lub do ich anulowania. Gdy te karty zostaną zagrane jako Wydarzenia, połóż je obok mapy albo umieść ich znaczniki na torze Etapów (Turn track) lub w innym miejscu planszy jako przypomnienie o ich trwających efektach.",
+   "<f MyriadPro-BlackCond>7.4</f> Niektóre karty Wydarzeń (Event cards) modyfikują Wartość Operacyjną (Operations value) kolejnych kart. Te modyfikatory sumują się i mogą modyfikować <b><i><sc>Kartę Chińską (The China Card)</sc></i></b>."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz USA zagrywa kartę <b><sc>Czerwona panika/Czystka (Red Scare/Purge)</sc></b> jako Wydarzenie (Event) w fazie Wydarzeń Kluczowych (Headline Phase). Zwykle do końca Etapu (turn) od wszystkich kart ZSRR odejmowano by 1 Punkt Operacyjny (Operations point). Jednak ZSRR jako swoją kartę Wydarzenia Kluczowego zagrał <b><sc>Powstanie w Wietnamie (Vietnam Revolts)</sc></b>, które dodaje 1 do wszystkich Operacji (Operations) ZSRR w Azji Południowo-Wschodniej. W swojej pierwszej Rundzie (Action Round) ZSRR wybiera <b><sc>Kartę Chińską (The China Card)</sc></b>. Wykorzystuje wszystkie punkty w Azji Południowo-Wschodniej, umieszczając 5 Punktów Wpływów (Influence). Karta <b><sc>Powstanie w Wietnamie</sc></b> dodaje 1 punkt, ale karta <b><sc>Czerwona panika/Czystka</sc></b> odejmuje 1 punkt. Wzajemnie się znoszą i ZSRR zagrywa 5 Punktów Operacyjnych."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>7.4.1</b> Wydarzenia (Events) modyfikujące Wartość Operacyjną (Operations value) karty dotyczą tylko jednego gracza. Modyfikator nie przechodzi na przeciwnika wraz z kartą zabraną przez niego z ręki gracza."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz ZSRR zagrał kartę <b><sc>Doktryna Breżniewa (Brezhnev Doctrine)</sc></b> jako Wydarzenie (Event), dzięki czemu otrzymuje modyfikator Wartości Operacyjnej (Operations value) +1 dla wszystkich swoich kart. Jeśli gracz USA zabierze kartę, na przykład zagrywając kartę <b><sc>Sprzedaż zboża Sowietom (Grain Sales To Soviets)</sc></b>, nie korzysta z modyfikatora Wartości Operacyjnej +1 dla tej karty."
+  ]
+ }
+}

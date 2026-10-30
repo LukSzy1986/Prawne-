@@ -1,0 +1,222 @@
+{
+ "_uwagi": "s. 10 (tb9_12): Etap 3 – Ręka USA, faza Wydarzeń Kluczowych, AR1–AR2; dialog „Presja to tylko siła…” – na s. 11 (jak w oryginale). Nagłówki AR/„Ręka USA” między ikonami (łatka hdr), podkreślenia <u> nad białymi łatkami u901….",
+ "u2": {
+  "paras": [
+   "<u>Ręka USA</u>"
+  ]
+ },
+ "u3": {
+  "lines": [
+   "◊",
+   "<sc>Rozstrzygnięcie w Azji (Asia Scoring)</sc>",
+   "◊",
+   "<sc>De Gaulle na czele Francji (De Gaulle Leads France)</sc>",
+   "◊",
+   "<sc>Piątka z Cambridge (The Cambridge Five)</sc>",
+   "◊",
+   "<sc>Niepokoje w Europie Wschodniej (East European Unrest)</sc>",
+   "◊",
+   "<sc>Rezolucja formozańska (Formosan Resolution)</sc>",
+   "◊",
+   "<sc>Kryzys sueski (Suez Crisis)</sc>",
+   "◊",
+   "<sc>Interwencja ONZ (UN Intervention)</sc>",
+   "◊",
+   "<sc>Wojna indyjsko-pakistańska (Indo‑Pakistani War)</sc>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Jack przegląda karty i zatrzymuje się na karcie Rozstrzygnięcie w Azji."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>KENNEDY:</b> Nie módlcie się o łatwe karty, lecz by być silniejszymi graczami."
+  ]
+ },
+ "u6": {
+  "lines": [
+   "Nikita uśmiecha się nieznacznie."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Módl się do swego Boga, Jack. My zdamy się na nasze rakiety."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "FAZA WYDARZEŃ KLUCZOWYCH (HEADLINE PHASE)"
+  ]
+ },
+ "u35": {
+  "paras": [
+   "USA: <b><i><sc>Rezolucja formozańska</sc></i></b> (<b><i><sc>Formosan Resolution</sc></i></b>, 2 Ops)",
+   "Tajwan (Taiwan) liczy się przy Rozstrzygnięciu (Scoring) jako Państwo Strategiczne (Battleground), jeśli w chwili zagrania karty <b><sc>Rozstrzygnięcie w Azji (Asia Scoring)</sc></b> USA go kontrolują. Wydarzenie (Event) obowiązuje, dopóki USA nie anulują go, zagrywając <b><sc>Kartę Chińską (The China Card)</sc></b>.",
+   "<b><sc>Rezolucja formozańska</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry (jego znacznik przypomina o efekcie)."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>KENNEDY:</b> Zamierzamy jasno określić nasze zobowiązania."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "ZSRR: <b><i><sc>Pojmany nazistowski naukowiec</sc></i></b> (1 Op)"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "ZSRR awansuje o jedno pole na torze Wyścigu Kosmicznego.",
+   "<b><sc>Pojmany nazistowski naukowiec (Captured Nazi Scientist)</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Nasze rakiety mogą dostarczyć dowolny ładunek w dowolne miejsce na Ziemi."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "RUNDY GRACZY (ACTION ROUNDS)"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<u>AR1 (ZSRR)</u>"
+  ]
+ },
+ "u15": {
+  "paras": [
+   "Karta: <b><i><sc>Naser</sc></i></b> (<b><i><sc>Nasser</sc></i></b>, Wydarzenie ZSRR)",
+   "Dodaj 2 Punkty Wpływów ZSRR (USSR Influence) w Egipcie. Usuń stamtąd połowę Wpływów USA (US Influence), zaokrąglając w górę.",
+   "• Egipt (Egypt): (0/2) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "<b><sc>Naser</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Użycie naszych wpływów, by powstrzymać agresję Anglii, Francji i Izraela na Egipt w 1956 roku, było historycznym punktem zwrotnym."
+  ]
+ },
+ "u17": {
+  "paras": [
+   "<u>AR1 (USA)</u>"
+  ]
+ },
+ "u18": {
+  "paras": [
+   "Karta: <b><i><sc>Wojna indyjsko-pakistańska</sc></i></b> (neutralna, 2 Ops)"
+  ]
+ },
+ "u36": {
+  "paras": [
+   "<u>Poszerzanie Strefy Wpływów (Influence placement)</u>",
+   "• Tajlandia (Thailand): (3/1) <b><c #0072aa>Kontrola USA (US Control)</c></b>"
+  ]
+ },
+ "u19": {
+  "paras": [
+   "<b>KENNEDY:</b> W Laosie, Wietnamie, Kambodży i Tajlandii musimy okazać naszą determinację i wsparcie tym, na których opierają się nasze nadzieje na stawienie oporu komunistycznej fali."
+  ]
+ },
+ "u20": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Opór w czyim imieniu? Ich dawnych kolonialnych panów?"
+  ]
+ },
+ "u21": {
+  "paras": [
+   "<u>AR2 (ZSRR)</u>"
+  ]
+ },
+ "u22": {
+  "paras": [
+   "Karta: <b><i><sc>Igrzyska olimpijskie</sc></i></b> (<b><i><sc>Olympic Games</sc></i></b>, Wydarzenie neutralne)",
+   "Nikita organizuje igrzyska olimpijskie. Jack, zamiast je zbojkotować, postanawia wziąć w nich udział."
+  ]
+ },
+ "u23": {
+  "lines": [
+   "Rzuty:"
+  ]
+ },
+ "u24": {
+  "paras": [
+   "ZSRR: 1 + 2 = 3",
+   "USA: 4",
+   "• USA wygrywają i zyskują 2 VP",
+   "• Wynik: ZSRR 6"
+  ]
+ },
+ "u25": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> W waszych rękach nawet sport staje się propagandą."
+  ]
+ },
+ "u26": {
+  "paras": [
+   "<b>KENNEDY:</b> Spróbuj powiedzieć Cassiusowi Clayowi, że jego lewy sierpowy to amerykańska propaganda."
+  ]
+ },
+ "u27": {
+  "paras": [
+   "<u>AR2 (USA)</u>"
+  ]
+ },
+ "u28": {
+  "paras": [
+   "Karta: <b><i><sc>Interwencja ONZ</sc></i></b> (<b><i><sc>UN Intervention</sc></i></b>, neutralna, 1 Op)"
+  ]
+ },
+ "u29": {
+  "lines": [
+   "<u>Wywieranie Presji (Realignment)</u>",
+   "•",
+   "Cel: Egipt (Egypt)"
+  ]
+ },
+ "u30": {
+  "paras": [
+   "Przed rzutem kośćmi starannie sprawdza się modyfikatory Wywierania Presji:",
+   "Więcej Wpływów (Influence) w państwie będącym celem:",
+   "• ZSRR ma więcej Wpływów w Egipcie → +1 dla ZSRR",
+   "Sąsiadujące kontrolowane państwa (Controlled):",
+   "• Egipt sąsiaduje z Libią, Izraelem (Israel) i Sudanem",
+   "• Żadna ze stron nie kontroluje żadnego z tych państw → brak modyfikatora za sąsiedztwo dla żadnej ze stron.",
+   "Ostateczne modyfikatory Wywierania Presji:",
+   "USA: +0",
+   "ZSRR: +1"
+  ]
+ },
+ "u31": {
+  "lines": [
+   "Rzuty:",
+   "•",
+   "USA: 5"
+  ]
+ },
+ "u32": {
+  "paras": [
+   "• ZSRR: 2 (modyfikator +1 = 3)",
+   "• Różnica: 2",
+   "Strona przegrywająca usuwa tyle Punktów Wpływów (Influence), ile wynosi różnica. ZSRR usuwa 2 Punkty Wpływów z Egiptu.",
+   "• Egipt (Egypt): (0/0)"
+  ]
+ },
+ "u33": {
+  "paras": [
+   "<b>KENNEDY:</b> Presja działa lepiej niż siła częściej, niż żołnierze chcieliby przyznać."
+  ]
+ },
+ "u901": "keep",
+ "u902": "keep",
+ "u903": "keep",
+ "u904": "keep",
+ "u905": "keep",
+ "u906": "keep",
+ "u907": "keep",
+ "_u901": "u901…: białe łatki (łatka; twarde spacje na białym tle) zakrywające podkreślenia z tła – podkreślenia składa <u>"
+}

@@ -1,0 +1,56 @@
+{
+ "_uwagi": "s. 22 (sp19_27) – 8.15 przechodzi z lewego łamu (u5, ostatni wiersz justowany) do prawego (u7[0]); punktor oszczepników u9[4] scalony z u9[5] (łatka: lastbase, wycięcie obu znaczników).",
+ "u2": {
+  "paras": [
+   "<b>8.12</b> Ostrzał (Missile Fire) może nastąpić na podstawie rozkazu (8.11, 8.3), w reakcji na działania wroga (ostrzał reakcyjny – Reaction Fire, 8.2) albo w ramach uporządkowanego odwrotu (Orderly Withdrawal) łuczników konnych (6.55). Ostrzał skorpionów – zob. 9.85–9.86.",
+   "<b>8.13</b> Oddział strzelający może ostrzelać dowolny pojedynczy oddział wroga, który znajduje się w jego zasięgu ostrzału (Missile Range) i do którego może wyznaczyć linię widzenia (Line of Sight, 8.14) przez jeden ze swoich heksów frontowych (Front) lub skrzydłowych (Flank). Oddziały strzelające muszą strzelać pojedynczo – nie mogą łączyć ostrzału. Jeśli w heksie celu znajduje się więcej niż jeden oddział bojowy, ostrzał prowadzony przez heks frontowy lub skrzydłowy dotyczy oddziału wierzchniego, a ostrzał prowadzony przez heks tylny (Rear) – oddziału spodniego."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<b>8.14</b> Oddział strzelający może ostrzelać oddział wroga tylko wtedy, gdy ma do niego niezablokowaną linię widzenia (Line of Sight, LOS). Linię widzenia wyznacza się, prowadząc ścieżkę heksów od środka heksu oddziału strzelającego do środka heksu oddziału będącego celem, przez frontowe lub skrzydłowe boki heksu (front or flank hexsides) oddziału strzelającego. LOS blokują lasy (woods), miasta (towns) i oddziały bojowe (ale nie słonie dowódców – leader elephants – bez innych oddziałów), chyba że znajdują się w heksach położonych niżej niż zarówno oddział strzelający, jak i cel. LOS jest również zablokowana, jeśli między oboma oddziałami znajduje się jakakolwiek część heksu położonego wyżej. Jeśli LOS biegnie wzdłuż boku heksu oddzielającego heks blokujący od nieblokującego, uważa się ją za zablokowaną. Oddziały strzelające mogą jednak zawsze strzelać do sąsiednich heksów.",
+   "Wyjątki:",
+   "• Jeśli oddział strzelający to łucznicy (Archer, klasa A), oddział bojowy nie blokuje LOS, jeżeli znajduje się bliżej oddziału strzelającego niż cel (położenie w połowie drogi nie oznacza „bliżej”).",
+   "• Przy wyznaczaniu LOS na potrzeby rozkazów liniowych (Line Commands) oddziały słoni (Elephant) nie blokują LOS."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Linia widzenia (LOS), choć w większości tych bitew nie stanowi poważnego problemu ze względu na płaski teren, często bywa źródłem „napięć między graczami”."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>8.15 Rozstrzyganie ostrzału (Missile Fire Resolution):</b> Skutek ostrzału ustala się za pomocą tabeli zasięgu i wyników ostrzału (Missile Range and Results Chart, MRRC). Każdy oddział strzelający ma siłę ostrzału zależną od zasięgu, zgodnie z tabelą. Przy każdym ostrzale wykonuje się rzut kością. Jeśli wynik rzutu (DR) jest równy sile ostrzału oddziału na danym zasięgu lub od niej mniejszy, cel otrzymuje 1 ubytek spójności (Cohesion Hit) – w niektórych przypadkach 2. Modyfikatory rzutu podaje tabela MRRC. Wszystkie modyfikatory rzutu kością (DRM) sumują się, chyba że tabela stanowi inaczej. Wszystkie skutki walki na dystans"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "(missile combat) są natychmiastowe i następują przed ruchem lub ostrzałem jakiegokolwiek innego oddziału.",
+   "Modyfikatory rzutu kością (DRM) nie wymagają objaśnień, z jednym wyjątkiem: kara za ruch nie dotyczy zmiany frontu bez opuszczania heksu. Dotyczy natomiast ostrzału w ramach nękania i rozproszenia (H&D)."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Piesi oszczepnicy (foot javelinists) nie otrzymują kary za ruch, ponieważ wykorzystują go do nadania rozpędu swoim pociskom. Jeśli chcesz być drobiazgowy, przyjmij, że nie otrzymują kary tylko wtedy, gdy cały ich ruch jest (był) wykonywany naprzód. Pamiętaj, że oddziały piesze i konni oszczepnicy nie mogą strzelać podczas uporządkowanego odwrotu (Orderly Withdrawal). Oszczepnicy są też łagodniej karani, gdy strzelają przez front oddziałów falangi lub ciężkiej piechoty (Phalanx/Heavy Infantry). Odzwierciedla to fakt, że lżejsze pociski łuczników i procarzy typu harcowniczego były najskuteczniejsze przeciwko groźnemu murowi tarcz i pancerzom ciężkiej piechoty wtedy, gdy spadały „z góry” w głąb szyku; z bliskiej odległości nie mogły tak razić."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "PRZYKŁAD: [Kanny] Procarze balearscy (Balearic slingers) znajdują się w odległości 2 heksów od rzymskiego oddziału jazdy. Na zasięgu 2 heksów siła ostrzału procarzy wynosi 2. Gracz kartagiński ostrzeliwuje oddział rzymski i wyrzuca 2. Rzymska jazda otrzymuje 1 ubytek spójności (Cohesion Hit). Gdyby procarze wykonali ruch, aby znaleźć się w zasięgu, modyfikator rzutu kością +1 za ruch sprawiłby, że ostrzał byłby nieskuteczny. Gdyby gracz wyrzucił, powiedzmy, 6, ostrzał nie przyniósłby skutku. Gdyby wyrzucił 9, ostrzał nie przyniósłby skutku, A DO TEGO gracz musiałby położyć na procarzach znacznik Mało pocisków (MISSILE LOW, 8.17).",
+   "<b>8.16 Zasięg rozszerzony (Extended Range):</b> Gdy oddział strzelający ostrzeliwuje cel położony niżej (lower elevation), jego zasięg zwiększa się o 1 heks. Przy ostrzale na zasięgu rozszerzonym oddział, aby zadać ubytek (Hit), potrzebuje wyniku rzutu (DR) 0.",
+   "<b>8.17 Zapas pocisków (Missile Supply):</b> Oddział strzelający może prowadzić ostrzał, dopóki nie wyczerpie pocisków. Każdy rodzaj pocisków ma własny poziom dostępności:",
+   "• Łucznicy (Archers), procarze (Slingers) i osłony słoni (Elephant Screens) przechodzą w stan Mało pocisków (Missile Low), ilekroć przy rozstrzyganiu dowolnego ostrzału wypadnie <i>niezmodyfikowany</i> wynik rzutu (DR) 9; wówczas kładzie się na oddziale znacznik Mało pocisków, wskazujący, że pozostał mu jeszcze jeden ostrzał.",
+   "• Oszczepnicy (Javelinists), z wyjątkiem oddziałów typu LG, przechodzą w stan Mało pocisków (Missile Low), ilekroć przy rozstrzyganiu dowolnego ostrzału wypadnie <i>niezmodyfikowany</i> wynik rzutu (DR) 7, 8 lub 9; wówczas kładzie się na nich znacznik Mało pocisków, wskazujący, że pozostał im jeszcze jeden ostrzał.",
+   "",
+   "• Oddziały piechoty legionowej (LG) automatycznie wyczerpują pociski po pierwszym ostrzale. Na strzelającym oddziale kładzie się znacznik Brak pocisków (MISSILE NO).",
+   "• Każdy uzbrojony w oszczepy oddział <i>piechoty</i>, który brał udział w starciu (Shock Combat), po jego zakończeniu automatycznie przechodzi w stan Brak pocisków (MISSILE NO).",
+   "• Jeśli strzela oddział ze znacznikiem Mało pocisków (MISSILE LOW), znacznik odwraca się na stronę Brak pocisków (MISSILE NO), aby zaznaczyć, że oddziałowi nie zostały już żadne pociski."
+  ]
+ }
+}

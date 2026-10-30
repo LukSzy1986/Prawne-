@@ -1,0 +1,321 @@
+id	dok	strona	gdzie	status	było	jest
+spqr_25_31#1	SPQR_Deluxe_Rule_book_WEB	27	json	OK(1)	zeszły z drogi, przed testami TQ	zeszły z drogi przed testami TQ
+spqr_25_31#2	SPQR_Deluxe_Rule_book_WEB	25	json	OK(1)	(Front hexes; 3622/3721/3821)	(frontal hexes; 3622/3721/3821)
+spqr_32_38#1	SPQR_Deluxe_Rule_book_WEB	33	md	OK(1)	Wszystkie oddziały atakujące w starciu (Shock attack) wyłącznie harcowników (Skirmishers) nie muszą wykonywać testu jakości wojsk przed starciem (Pre-Shock TQ), nawet jeśli mają znaczniki	Żaden oddział atakujący w starciu (Shock attack) wyłącznie harcowników (Skirmishers) nie musi wykonywać testu jakości wojsk przed starciem (Pre-Shock TQ), nawet jeśli ma znaczniki
+spqr_32_38#2	SPQR_Deluxe_Rule_book_WEB	33	json	OK(1)	Wszystkie oddziały atakujące w starciu (Shock attack) wyłącznie harcowników nie muszą wykonywać testu TQ przed starciem (Pre-Shock TQ), nawet ze znacznikami	Żaden oddział atakujący w starciu (Shock attack) wyłącznie harcowników nie musi wykonywać testu TQ przed starciem (Pre-Shock TQ), nawet ze znacznikami
+spqr_32_38#3	SPQR_Deluxe_Rule_book_WEB	33	json	OK(1)	dzieli się na pół (w dół), najwyżej do 1 ubytku.	dzieli się na pół (zaokrąglając w dół), najwyżej do 1 ubytku.
+spqr_32_38#4	SPQR_Deluxe_Rule_book_WEB	36	json	OK(1)	z oddziałem CH stojącym samotnie w heksie, oddział ten zostaje natychmiast wyeliminowany	z oddziałem CH stojącym samotnie w heksie, oddział CH zostaje natychmiast wyeliminowany
+spqr_32_38#5	SPQR_Deluxe_Rule_book_WEB	33	md	OK(1)	Jeśli oddział jazdy jest rozbity (routed), zostaje automatycznie wyeliminowany	Jeśli oddział jazdy ulegnie rozbiciu (routed), zostaje automatycznie wyeliminowany
+spqr_32_38#6	SPQR_Deluxe_Rule_book_WEB	34	md	OK(1)	Oddziały muszą się cofnąć (retreat) na oddzielne heksy.	Oddziały muszą uciekać (retreat) na oddzielne heksy.
+spqr_32_38#6	SPQR_Deluxe_Rule_book_WEB	34	json	OK(1)	Oddziały muszą się cofnąć (retreat) na oddzielne heksy.	Oddziały muszą uciekać (retreat) na oddzielne heksy.
+spqr_32_38#7	SPQR_Deluxe_Rule_book_WEB	36	md	OK(1)	w którą miejscowi zdają się wkładać	w którą miejscowi zdawali się wkładać
+spqr_32_38#7	SPQR_Deluxe_Rule_book_WEB	36	json	OK(1)	w którą miejscowi zdają się wkładać	w którą miejscowi zdawali się wkładać
+spqr_32_38#8	SPQR_Deluxe_Rule_book_WEB	37	json	OK(1)	otrzymują ubytki spójności (cohesion Hits) za nadmierny ruch i/lub walkę	otrzymują ubytki spójności (cohesion Hits) wskutek nadmiernego ruchu i/lub walki
+spqr_32_38#9	SPQR_Deluxe_Rule_book_WEB	37	json	OK(1)	nie kosztuje punktów ruchu (MP) ani ubytków spójności (Cohesion Hits)	nie kosztuje punktów ruchu (MP) ani nie powoduje ubytków spójności (Cohesion Hits)
+spqr_32_38#10	SPQR_Deluxe_Rule_book_WEB	35	json	OK(1)	mieć odstępy; zob. 4.32.	mieć między sobą odstępy; zob. 4.32.
+spqr_32_38#11	SPQR_Deluxe_Rule_book_WEB	32	json	OK(1)	jeśli nie zaszło nic z powyższych	jeśli nie zaszło żadne z powyższych
+spqr_32_38#12	SPQR_Deluxe_Rule_book_WEB	32	json	OK(1)	jego gracz rzuca kością	jego właściciel rzuca kością
+spqr_32_38#13	SPQR_Deluxe_Rule_book_WEB	38	md	OK(1)	Po zakończeniu cofania się (retreat)	Po zakończeniu ucieczki rozbitych (retreat)
+spqr_32_38#13	SPQR_Deluxe_Rule_book_WEB	38	json	OK(1)	Po zakończeniu cofania się (retreat)	Po zakończeniu ucieczki rozbitych (retreat)
+spqr_32_38#14	SPQR_Deluxe_Rule_book_WEB	38	md	OK(1)	(routing/ retreating units)	(routing/retreating units)
+SEED-1	SPQR_Deluxe_Rule_book_WEB	40	json	OK(1)	10.4 ZWIĄZANIE WALKĄ (OPCJONALNE)	10.4 ZWIĄZANIE WALKĄ (ZASADA OPCJONALNA)
+tsr_1_8#1	TS_20th_Ann_Rule_Book_WEB	2	json	OK(1)	Ops – Punkty Operacyjne (Operations points); w Przykładzie rozgrywki AR – Runda (Action Round).	Ops – Punkty Operacyjne (Operations points).
+tsr_1_8#2	TS_20th_Ann_Rule_Book_WEB	5	json	OK(1)	Gra ma 110 kart.	W grze używa się 110 kart.
+tsr_1_8#3	TS_20th_Ann_Rule_Book_WEB	6	json	OK(1)	, kładąc <b>15 znaczników</b>	, rozmieszczając <b>15 znaczników</b>
+tsr_1_8#4	TS_20th_Ann_Rule_Book_WEB	6	json	OK(1)	, kładąc <b>25 znaczników</b>	, rozmieszczając <b>25 znaczników</b>
+tsr_1_8#5	TS_20th_Ann_Rule_Book_WEB	6	json	OK(1)	Znaczniki Wyścigu Kosmicznego USA i ZSRR	Znaczniki Wyścigu Kosmicznego (Space Race) USA i ZSRR
+tsr_1_8#6	TS_20th_Ann_Rule_Book_WEB	8	json	OK(1)	A. Poprawa sytuacji na torze DEFCON:	A. Poprawa sytuacji na torze DEFCON (Improve DEFCON Status):
+tsr_1_8#7	TS_20th_Ann_Rule_Book_WEB	8	json	OK(1)	F. Sprawdzenie zatrzymanej karty Rozstrzygnięcia	F. Sprawdzenie zatrzymanej karty Rozstrzygnięcia (Check for Held Scoring Card)
+tsr_1_8#8	TS_20th_Ann_Rule_Book_WEB	8	json	OK(1)	I. Rozstrzygnięcie Końcowe (tylko po Etapie 10)	I. Rozstrzygnięcie Końcowe (Final Scoring; tylko po Etapie 10)
+tsr_9_16#1	TS_20th_Ann_Rule_Book_WEB	9	md	OK(1)	kładzie się ją na stos kart odrzuconych (discard pile) i nie zostaje na stałe usunięta z gry	kładzie się ją na stos kart odrzuconych (discard pile), a nie usuwa na stałe z gry
+tsr_9_16#1	TS_20th_Ann_Rule_Book_WEB	9	json	OK(1)	kładzie się ją na stos kart odrzuconych (discard pile) i nie zostaje na stałe usunięta z gry	kładzie się ją na stos kart odrzuconych (discard pile), a nie usuwa na stałe z gry
+tsr_9_16#2	TS_20th_Ann_Rule_Book_WEB	12	md	OK(1)	jest za mało, by je usunąć, dodaj własne znaczniki Wpływów (Influence markers)	jest za mało do usunięcia, dodaj własne znaczniki Wpływów (Influence markers)
+tsr_9_16#3	TS_20th_Ann_Rule_Book_WEB	12	md	OK(1)	(2x2=4)	(2×2=4)
+tsr_9_16#3	TS_20th_Ann_Rule_Book_WEB	12	json	OK(1)	(2x2=4)	(2×2=4)
+tsr_9_16#4	TS_20th_Ann_Rule_Book_WEB	12	md	OK(1)	radziecki znacznik 2 zostaje usunięty	znacznik ZSRR 2 zostaje usunięty
+tsr_9_16#5	TS_20th_Ann_Rule_Book_WEB	12	md	OK(1)	mogą pozwolić graczom odrzucić (discard) wiele kart	mogą pozwolić graczom odrzucić (discard) więcej niż jedną kartę
+tsr_9_16#6	TS_20th_Ann_Rule_Book_WEB	12	json	OK(1)	mogą pozwolić graczom odrzucić wiele kart	mogą pozwolić graczom odrzucić więcej niż jedną kartę
+tsr_9_16#7	TS_20th_Ann_Rule_Book_WEB	12	json	OK(1)	ani w sąsiednim	ani w sąsiadującym
+tsr_9_16#8	TS_20th_Ann_Rule_Book_WEB	13	md	OK(1)	przyznaje się natychmiast i sumują się	są przyznawane natychmiast i sumują się
+tsr_9_16#8	TS_20th_Ann_Rule_Book_WEB	13	json	OK(1)	przyznaje się natychmiast i sumują się	są przyznawane natychmiast i sumują się
+tsr_9_16#9	TS_20th_Ann_Rule_Book_WEB	13	json	OK(1)	a karta trafia na stos kart odrzuconych	a kartę kładzie się na stos kart odrzuconych
+tsr_9_16#10	TS_20th_Ann_Rule_Book_WEB	13	md	OK(1)	którą zabrał on z ręki swojego przeciwnika	którą zabrał on z ręki tego gracza
+tsr_9_16#11	TS_20th_Ann_Rule_Book_WEB	14	md	OK(1)	modyfikują ją do wszystkich celów	modyfikują ją we wszystkich zastosowaniach
+tsr_9_16#12	TS_20th_Ann_Rule_Book_WEB	14	json	OK(1)	czynią to do wszystkich celów	czynią to we wszystkich zastosowaniach
+tsr_9_16#13	TS_20th_Ann_Rule_Book_WEB	14	md	OK(1)	na swoim maksymalnym poziomie „pokoju”, 5, i	na maksymalnym poziomie „pokoju” równym 5 i
+tsr_9_16#13	TS_20th_Ann_Rule_Book_WEB	14	json	OK(1)	na swoim maksymalnym poziomie „pokoju”, 5, i	na maksymalnym poziomie „pokoju” równym 5 i
+tsr_9_16#14	TS_20th_Ann_Rule_Book_WEB	14	md	OK(1)	nie ma innego wyjścia, niż zagrać kartę	nie ma innego wyjścia niż zagrać kartę
+tsr_9_16#14	TS_20th_Ann_Rule_Book_WEB	14	json	OK(1)	nie ma innego wyjścia, niż zagrać kartę	nie ma innego wyjścia niż zagrać kartę
+tsr_9_16#15	TS_20th_Ann_Rule_Book_WEB	15	md	OK(1)	Gdy mówią „obniż” (“degrade”)	Gdy mówią „obniżyć” (“degrade”)
+tsr_9_16#15	TS_20th_Ann_Rule_Book_WEB	15	json	OK(1)	Gdy mówią „obniż” (“degrade”)	Gdy mówią „obniżyć” (“degrade”)
+tsr_17_24#1	TS_20th_Ann_Rule_Book_WEB	18	md	OK(1)	które mogły doprowadzić do zupełnie innej zimnej wojny	które mogły doprowadzić do zasadniczo innej zimnej wojny
+tsr_17_24#1	TS_20th_Ann_Rule_Book_WEB	18	json	OK(1)	które mogły doprowadzić do zupełnie innej zimnej wojny	które mogły doprowadzić do zasadniczo innej zimnej wojny
+tsr_17_24#2	TS_20th_Ann_Rule_Book_WEB	18	md	OK(1)	pięć kart Sztuki Rządzenia (Statecraft cards) oznaczonych swoją stroną	pięć kart Sztuki Rządzenia (Statecraft cards) oznaczonych jego stroną
+tsr_17_24#2	TS_20th_Ann_Rule_Book_WEB	18	json	OK(1)	pięć kart Sztuki Rządzenia (Statecraft cards) oznaczonych swoją stroną	pięć kart Sztuki Rządzenia (Statecraft cards) oznaczonych jego stroną
+tsr_17_24#3	TS_20th_Ann_Rule_Book_WEB	18	md	OK(1)	(Chinese Civil War variant), odłóż kartę Kryzysu (Crisis card)	(Chinese Civil War variant), odłóżcie kartę Kryzysu (Crisis card)
+tsr_17_24#4	TS_20th_Ann_Rule_Book_WEB	18	json	OK(1)	Jeśli używacie wariantu „Chińska wojna domowa”, odłóż kartę Kryzysu	Jeśli używacie wariantu „Chińska wojna domowa”, odłóżcie kartę Kryzysu
+tsr_17_24#6	TS_20th_Ann_Rule_Book_WEB	19	md	OK(1)	Skróty użyte na tym torze odnoszą się do różnych rodzajów techniki wojskowej	Wszystkie skróty użyte na tym torze odnoszą się do różnych rodzajów techniki wojskowej
+tsr_17_24#6	TS_20th_Ann_Rule_Book_WEB	19	json	OK(1)	Skróty użyte na tym torze odnoszą się do różnych rodzajów techniki wojskowej	Wszystkie skróty użyte na tym torze odnoszą się do różnych rodzajów techniki wojskowej
+tsr_17_24#7	TS_20th_Ann_Rule_Book_WEB	19	json	OK(1)	co może mieć dramatyczny wpływ na grę	co może mieć dramatyczne skutki dla gry
+tsr_17_24#8	TS_20th_Ann_Rule_Book_WEB	19	json	OK(1)	ograniczyć wpływ tych kart na moment tasowania	ograniczyć działanie tych kart na moment tasowania
+tsr_17_24#9	TS_20th_Ann_Rule_Book_WEB	20	md	OK(1)	niewskazaną w żadnej z ofert (bid), otrzymuje dodatkowe Wpływy (additional Influence)	niewskazaną w żadnej z ofert (bid), otrzymuje wtedy te dodatkowe Wpływy (additional Influence)
+tsr_17_24#10	TS_20th_Ann_Rule_Book_WEB	20	json	OK(1)	niewskazaną w żadnej z ofert, otrzymuje dodatkowe Wpływy	niewskazaną w żadnej z ofert, otrzymuje wtedy te dodatkowe Wpływy
+tsbb_1_8#1	TS_20th_Ann_Background_Book_WEB	2	md	OK(1)	Dwie centralne postaci zimnej wojny	Dwie z głównych postaci zimnej wojny
+tsbb_1_8#1	TS_20th_Ann_Background_Book_WEB	2	json	OK(1)	Dwie centralne postaci zimnej wojny	Dwie z głównych postaci zimnej wojny
+tsbb_1_8#4	TS_20th_Ann_Background_Book_WEB	2	json	OK(1)	Jack bada Europę Zachodnią	Jack studiuje Europę Zachodnią
+tsbb_1_8#5	TS_20th_Ann_Background_Book_WEB	3	md	OK(1)	otrzymują –1 do Operacji (Operations, minimum 1)	otrzymują −1 do Operacji (Operations, minimum 1)
+tsbb_1_8#6	TS_20th_Ann_Background_Book_WEB	3	json	OK(1)	–1 do Operacji (min. 1)	−1 do Operacji (Operations, min. 1)
+tsbb_1_8#7	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	(Wojna nieudana, Wpływy (Influence) bez zmian)	(Wojna kończy się porażką, Wpływy (Influence) bez zmian)
+tsbb_1_8#11	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	państwo kontrolowane przez USA nie daje	państwo kontrolowane przez USA (US Controlled) nie daje
+tsbb_1_8#12	TS_20th_Ann_Background_Book_WEB	4	json	OK(1)	a Kanada jest kontrolowana	a Kanada (Canada) jest kontrolowana
+tsbb_1_8#13	TS_20th_Ann_Background_Book_WEB	5	json	OK(1)	z Europy Zachodniej.	z Europy Zachodniej (Western Europe).
+tsbb_1_8#14	TS_20th_Ann_Background_Book_WEB	7	json	OK(1)	FAZA WYDARZEŃ KLUCZOWYCH	FAZA WYDARZEŃ KLUCZOWYCH (HEADLINE PHASE)
+tsbb_1_8#15	TS_20th_Ann_Background_Book_WEB	7	json	OK(1)	by zatrzymać naszych ludzi	by nie wypuścić naszych ludzi
+tsbb_1_8#16	TS_20th_Ann_Background_Book_WEB	8	md	OK(1)	Modyfikator rzutu: -1	Modyfikator rzutu: −1
+tsbb_1_8#17	TS_20th_Ann_Background_Book_WEB	8	json	OK(1)	Modyfikator rzutu: -1 (Kontrola Iranu przez USA)	Modyfikator rzutu: −1 (Kontrola Iranu przez USA, US control of Iran)
+tsbb_1_8#18	TS_20th_Ann_Background_Book_WEB	8	md	OK(1)	(modyfikator -1 = 2)	(modyfikator −1 = 2)
+tsbb_1_8#18	TS_20th_Ann_Background_Book_WEB	8	json	OK(1)	(modyfikator -1 = 2)	(modyfikator −1 = 2)
+tsbb_1_8#19	TS_20th_Ann_Background_Book_WEB	8	json	OK(1)	Wasze przyjęcia emerytalne mają więcej pistoletów niż nasze.	Wasze pożegnania emerytów mają więcej pistoletów niż nasze.
+tsbb_1_8#20	TS_20th_Ann_Background_Book_WEB	8	json	OK(1)	USA/Japonia</sc></i></b> (Wydarzenie USA)	USA/Japonia</sc></i></b> (<b><i><sc>US/Japan Mutual Defense Pact</sc></i></b>, Wydarzenie USA)
+REV-tsbb_1_8#6	TS_20th_Ann_Background_Book_WEB	3	json	OK(1)	−1 do Operacji (Operations, min. 1)	−1 do Operacji (min. 1)
+REV-tsbb_1_8#13	TS_20th_Ann_Background_Book_WEB	5	json	OK(1)	z Europy Zachodniej (Western Europe).	z Europy Zachodniej.
+REV-tsbb_1_8#17	TS_20th_Ann_Background_Book_WEB	8	json	OK(1)	Modyfikator rzutu: −1 (Kontrola Iranu przez USA, US control of Iran)	Modyfikator rzutu: −1 (Kontrola Iranu przez USA)
+REV-tsbb_1_8#20	TS_20th_Ann_Background_Book_WEB	8	json	OK(1)	USA/Japonia</sc></i></b> (<b><i><sc>US/Japan Mutual Defense Pact</sc></i></b>, Wydarzenie USA)	USA/Japonia</sc></i></b> (Wydarzenie USA)
+tsr_17_24#11	TS_20th_Ann_Rule_Book_WEB	21	md	OK(1)	przyznaje się zgodnie ze zwykłymi zasadami	następują zgodnie ze zwykłymi zasadami
+tsr_17_24#11	TS_20th_Ann_Rule_Book_WEB	21	json	OK(1)	przyznaje się zgodnie ze zwykłymi zasadami	następują zgodnie ze zwykłymi zasadami
+spqr_39_44#2	SPQR_Deluxe_Rule_book_WEB	41	md	OK(1)	punkty rozbicia (Rout Points), które zgromadził z powodu swoich wyeliminowanych oddziałów	punkty rozbicia (Rout Points) zgromadzone za swoje wyeliminowane oddziały
+spqr_39_44#2	SPQR_Deluxe_Rule_book_WEB	41	json	OK(1)	punkty rozbicia (Rout Points), które zgromadził z powodu swoich wyeliminowanych oddziałów	punkty rozbicia (Rout Points) zgromadzone za swoje wyeliminowane oddziały
+spqr_39_44#3	SPQR_Deluxe_Rule_book_WEB	40	md	OK(1)	związane walką (engaged) z oddziałami, których	związani walką (engaged) z oddziałami, których
+spqr_39_44#3	SPQR_Deluxe_Rule_book_WEB	40	json	OK(1)	związane walką (engaged) z oddziałami, których	związani walką (engaged) z oddziałami, których
+spqr_39_44#4	SPQR_Deluxe_Rule_book_WEB	40	json	OK(1)	bez kosztu w MP ani ubytkach spójności	bez kosztu w MP i ubytkach spójności
+spqr_39_44#5	SPQR_Deluxe_Rule_book_WEB	39	md	OK(1)	automatycznie mają status „Brak pocisków” (Missile No)	automatycznie mają stan „Brak pocisków” (Missile No)
+spqr_39_44#6	SPQR_Deluxe_Rule_book_WEB	42	json	OK(1)	gdy falanga trwa zamiast ulec rozbiciu	gdy falanga utrzymuje się zamiast ulec rozbiciu
+spqr_39_44#8	SPQR_Deluxe_Rule_book_WEB	40	md	OK(1)	zostają wyeliminowane, jeśli ulegną rozbiciu (rout)	zostają wyeliminowane, jeśli ulegną rozbiciu (rout).
+spqr_39_44#8	SPQR_Deluxe_Rule_book_WEB	40	json	OK(1)	zostają wyeliminowane, jeśli ulegną rozbiciu (rout)	zostają wyeliminowane, jeśli ulegną rozbiciu (rout).
+spqr_9_16#1	SPQR_Deluxe_Rule_book_WEB	9	md	OK(1)	nie dorównuje swoim towarzyszom	nie dorównują swoim towarzyszom
+spqr_9_16#1	SPQR_Deluxe_Rule_book_WEB	9	json	OK(1)	nie dorównuje swoim towarzyszom	nie dorównują swoim towarzyszom
+spqr_9_16#2	SPQR_Deluxe_Rule_book_WEB	9	md	OK(1)	hierarchii dowodzenia przedstawiają trybuni	hierarchii dowodzenia reprezentują trybuni
+spqr_9_16#2	SPQR_Deluxe_Rule_book_WEB	9	json	OK(1)	hierarchii dowodzenia przedstawiają trybuni	hierarchii dowodzenia reprezentują trybuni
+spqr_9_16#3	SPQR_Deluxe_Rule_book_WEB	10	md	OK(1)	Dzięki gruntownym odprawom i wspólnie odbytym kampaniom	Dzięki gruntownym odprawom i kampaniom
+spqr_9_16#4	SPQR_Deluxe_Rule_book_WEB	10	md	OK(1)	są oddziałami bojowymi), albo gdy heks	są oddziałami bojowymi) albo gdy heks
+spqr_9_16#6	SPQR_Deluxe_Rule_book_WEB	12	md	OK(1)	podjąć próbę uzyskania fazy rozkazów uzyskanej dzięki impetowi (Momentum Orders Phase, 5.3)	spróbować uzyskać fazę rozkazów dzięki impetowi (Momentum Orders Phase, 5.3)
+spqr_9_16#7	SPQR_Deluxe_Rule_book_WEB	13	json	OK(1)	przebić tę pierwszą aktywację uzyskaną przebiciem własnym nieaktywnym (inactive) dowódcą	przebić – własnym nieaktywnym (inactive) dowódcą – tę pierwszą aktywację uzyskaną przebiciem
+spqr_9_16#11	SPQR_Deluxe_Rule_book_WEB	16	json	OK(1)	przed nadciągającym wrogiem na długo, zanim ten zdoła	przed nadciągającym wrogiem, na długo zanim ten zdoła
+spqr_17_24#1	SPQR_Deluxe_Rule_book_WEB	19	json	OK(1)	a tylna – heks zajmowany wcześniej przez przednią połowę	a tylna – do heksu zajmowanego wcześniej przez przednią połowę
+spqr_17_24#2	SPQR_Deluxe_Rule_book_WEB	23	md	OK(1)	ilu oszczepów pilum używali	ile oszczepów pilum używali
+spqr_17_24#2	SPQR_Deluxe_Rule_book_WEB	23	json	OK(1)	ilu oszczepów pilum używali	ile oszczepów pilum używali
+spqr_17_24#3	SPQR_Deluxe_Rule_book_WEB	23	json	OK(1)	Harcownicy-łucznicy i łucznicy lekkiej piechoty (klasa A; Skirmisher and Light Infantry Archers)	Łucznicy (klasy A) spośród harcowników i lekkiej piechoty (Skirmisher and Light Infantry Archers)
+spqr_17_24#4	SPQR_Deluxe_Rule_book_WEB	20	json	OK(1)	Kosztuje to 1 punkt ruchu (MP) za każdy wierzchołek obrotu, z następującymi wyjątkami	Kosztuje to 1 punkt ruchu (MP) za każdy wierzchołek, o który się obraca, z następującymi wyjątkami
+spqr_17_24#5	SPQR_Deluxe_Rule_book_WEB	20	json	OK(1)	(w przypadku falangi (Phalanx) – 3)	(3 w przypadku falangi – Phalanx)
+spqr_17_24#6	SPQR_Deluxe_Rule_book_WEB	20	json	OK(1)	(w tym celu dla falangi (Phalanx) przyjmuje się rozszerzoną zdolność ruchu, równą 5)	(w tym celu dla falangi – Phalanx – przyjmuje się rozszerzoną zdolność ruchu, równą 5)
+spqr_17_24#7	SPQR_Deluxe_Rule_book_WEB	22	json	OK(1)	(ale nie słonie dowódców (leader elephants) bez innych oddziałów)	(ale nie słonie dowódców – leader elephants – bez innych oddziałów)
+spqr_17_24#9	SPQR_Deluxe_Rule_book_WEB	18	json	OK(1)	nie mogą korzystać z ruchu w kolumnie.	nie mogą korzystać z ruchu w kolumnie (Column).
+spqr_17_24#10	SPQR_Deluxe_Rule_book_WEB	21	json	OK(1)	Harcownicy, skorpiony, łucznicy lekkiej piechoty i lekkiej jazdy nie są zdolni	Harcownicy (SK), skorpiony, łucznicy lekkiej piechoty (LI) i lekkiej jazdy (LC) nie są zdolni
+spqr_17_24#11	SPQR_Deluxe_Rule_book_WEB	18	md	OK(1)	„Growa” zdolność tych oddziałów do łączenia w stosy pozwala	Zdolność tych oddziałów do łączenia w stosy „w grze” pozwala
+spqr_17_24#11	SPQR_Deluxe_Rule_book_WEB	18	json	OK(1)	„Growa” zdolność tych oddziałów do łączenia w stosy pozwala	Zdolność tych oddziałów do łączenia w stosy „w grze” pozwala
+REV-spqr_17_24#10	SPQR_Deluxe_Rule_book_WEB	21	json	OK(1)	Harcownicy (SK), skorpiony, łucznicy lekkiej piechoty (LI) i lekkiej jazdy (LC) nie są zdolni	Harcownicy, skorpiony, łucznicy lekkiej piechoty i lekkiej jazdy nie są zdolni
+spqr_17_24#4b	SPQR_Deluxe_Rule_book_WEB	20	json	OK(1)	bez względu na liczbę wierzchołków obrotu.	bez względu na liczbę wierzchołków, o które się obracają.
+tsbb_9_16#1	TS_20th_Ann_Background_Book_WEB	16	md	OK(1)	bywa podchwytliwe: może do tego dojść	bywa niełatwe: może do tego dojść
+tsbb_9_16#2	TS_20th_Ann_Background_Book_WEB	16	json	OK(1)	bywa pod­chwy­tliwe: może do tego	bywa niełatwe: może do tego
+tsbb_9_16#3	TS_20th_Ann_Background_Book_WEB	16	md	OK(1)	DEFCON może zmniejszyć bezpośrednio samo Wydarzenie (Event)	DEFCON może zostać zmniejszony bezpośrednio przez samo Wydarzenie (Event)
+tsbb_9_16#4	TS_20th_Ann_Background_Book_WEB	16	json	OK(1)	DEFCON może bez­po­śre­dnio zmniej­szyć samo Wy­da­rze­nie (Event)	DEFCON może zostać zmniejszony przez samo Wydarzenie (Event)
+tsbb_9_16#5	TS_20th_Ann_Background_Book_WEB	16	md	OK(1)	To bolesny sposób na uniknięcie pułapki DEFCON	To może być bolesny sposób na uniknięcie pułapki DEFCON
+tsbb_9_16#5	TS_20th_Ann_Background_Book_WEB	16	json	OK(1)	To bolesny sposób na uniknięcie pułapki DEFCON	To może być bolesny sposób na uniknięcie pułapki DEFCON
+tsbb_9_16#6	TS_20th_Ann_Background_Book_WEB	16	md	OK(1)	Współautor gry Jason Matthews	Współprojektant gry Jason Matthews
+tsbb_9_16#6	TS_20th_Ann_Background_Book_WEB	16	json	OK(1)	Współautor gry Jason Matthews	Współprojektant gry Jason Matthews
+tsbb_9_16#7	TS_20th_Ann_Background_Book_WEB	11	md	OK(1)	(modyfikator -1 = 2)	(modyfikator −1 = 2)
+tsbb_9_16#7	TS_20th_Ann_Background_Book_WEB	11	json	OK(1)	(modyfikator -1 = 2)	(modyfikator −1 = 2)
+tsbb_9_16#8	TS_20th_Ann_Background_Book_WEB	11	json	OK(1)	Wojna w Korei</sc></b> to Wydarzenie z gwiazdką (*) – zostaje usunięte z gry.	Wojna w Korei</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry.
+tsbb_9_16#9	TS_20th_Ann_Background_Book_WEB	9	json	OK(1)	KONIEC ETAPU DRUGIEGO (END OF TURN TWO)	KONIEC ETAPU DRUGIEGO
+tsbb_9_16#10	TS_20th_Ann_Background_Book_WEB	10	json	OK(1)	Sąsiadujące państwa kontrolowane (Controlled):	Sąsiadujące kontrolowane państwa (Controlled):
+tsbb_9_16#11	TS_20th_Ann_Background_Book_WEB	10	json	OK(1)	Wojna indyjsko-pakistańska</sc></i></b> (neutralna, 2 Ops)	Wojna indyjsko-pakistańska</sc></i></b> (<b><i><sc>Indo‑Pakistani War</sc></i></b>, neutralna, 2 Ops)
+tsbb_9_16#13	TS_20th_Ann_Background_Book_WEB	12	json	OK(1)	Wojna arabsko-izraelska</sc></i></b> (Wydarzenie ZSRR)	Wojna arabsko-izraelska</sc></i></b> (<b><i><sc>Arab‑Israeli War</sc></i></b>, Wydarzenie ZSRR)
+tsbb_25_32#1	TS_20th_Ann_Background_Book_WEB	25	md	OK(1)	wywołana inwazją Korei Północnej przez 38. równoleżnik	wywołana północnokoreańską inwazją przez 38. równoleżnik
+tsbb_25_32#1	TS_20th_Ann_Background_Book_WEB	25	json	OK(1)	wywołana inwazją Korei Północnej przez 38. równoleżnik	wywołana północnokoreańską inwazją przez 38. równoleżnik
+tsbb_25_32#4	TS_20th_Ann_Background_Book_WEB	26	md	OK(1)	sporom między służbami, które w czasie II wojny światowej szkodziły	międzysłużbowym sporom, które w czasie II wojny światowej szkodziły
+tsbb_25_32#4	TS_20th_Ann_Background_Book_WEB	26	json	OK(1)	sporom między służbami, które w czasie II wojny światowej szkodziły	międzysłużbowym sporom, które w czasie II wojny światowej szkodziły
+tsbb_25_32#5	TS_20th_Ann_Background_Book_WEB	26	md	OK(1)	przez Nasera Izrael, Francja	przez Nasera, Izrael, Francja
+tsbb_25_32#5	TS_20th_Ann_Background_Book_WEB	26	json	OK(1)	przez Nasera Izrael, Francja	przez Nasera, Izrael, Francja
+tsbb_25_32#6	TS_20th_Ann_Background_Book_WEB	27	md	OK(1)	najwyraźniej uwidoczniły to próba wyprowadzenia Węgier	najdobitniej uwidoczniły to próba wyprowadzenia Węgier
+tsbb_25_32#6	TS_20th_Ann_Background_Book_WEB	27	json	OK(1)	najwyraźniej uwidoczniły to próba wyprowadzenia Węgier	najdobitniej uwidoczniły to próba wyprowadzenia Węgier
+tsbb_25_32#7	TS_20th_Ann_Background_Book_WEB	27	md	OK(1)	nieograniczone w czasie uprawnienia do obrony siłą zbrojną Tajwanu	nieograniczone uprawnienia do obrony siłą zbrojną Tajwanu
+tsbb_25_32#7	TS_20th_Ann_Background_Book_WEB	27	json	OK(1)	nieograniczone w czasie uprawnienia do obrony siłą zbrojną Tajwanu	nieograniczone uprawnienia do obrony siłą zbrojną Tajwanu
+tsbb_25_32#8	TS_20th_Ann_Background_Book_WEB	27	md	OK(1)	Rezolucja zapadła w czasie, gdy	Rezolucję przyjęto w czasie, gdy
+tsbb_25_32#8	TS_20th_Ann_Background_Book_WEB	27	json	OK(1)	Rezolucja zapadła w czasie, gdy	Rezolucję przyjęto w czasie, gdy
+tsbb_25_32#9	TS_20th_Ann_Background_Book_WEB	27	md	OK(1)	a następnie podnieś (improve) DEFCON o dwa poziomy	a następnie podnosi (improve) DEFCON o dwa poziomy
+tsbb_25_32#10	TS_20th_Ann_Background_Book_WEB	28	md	OK(1)	Przez 14 dni października 1962 roku	Przez 14 dni w październiku 1962 roku
+tsbb_25_32#10	TS_20th_Ann_Background_Book_WEB	28	json	OK(1)	Przez 14 dni października 1962 roku	Przez 14 dni w październiku 1962 roku
+tsbb_25_32#11	TS_20th_Ann_Background_Book_WEB	28	md	OK(1)	Choć amerykański rząd mógł nigdy nie zdać sobie sprawy	Choć amerykański rząd być może nigdy nie zdał sobie sprawy
+tsbb_25_32#11	TS_20th_Ann_Background_Book_WEB	28	json	OK(1)	Choć amerykański rząd mógł nigdy nie zdać sobie sprawy	Choć amerykański rząd być może nigdy nie zdał sobie sprawy
+tsbb_25_32#12	TS_20th_Ann_Background_Book_WEB	29	md	OK(1)	W epoce pozornie rosnącej radzieckiej pychy	W epoce rosnącej, jak się zdawało, radzieckiej pychy
+tsbb_25_32#12	TS_20th_Ann_Background_Book_WEB	29	json	OK(1)	W epoce pozornie rosnącej radzieckiej pychy	W epoce rosnącej, jak się zdawało, radzieckiej pychy
+tsbb_25_32#13	TS_20th_Ann_Background_Book_WEB	29	md	OK(1)	zadaną przez z pozoru słabsze siły	zadaną przez pozornie słabsze siły
+tsbb_25_32#13	TS_20th_Ann_Background_Book_WEB	29	json	OK(1)	zadaną przez z pozoru słabsze siły	zadaną przez pozornie słabsze siły
+tsbb_25_32#14	TS_20th_Ann_Background_Book_WEB	29	md	OK(1)	przewija się przez całą ówczesną literaturę i dał początek	przewijał się przez całą ówczesną literaturę i dał początek
+tsbb_25_32#14	TS_20th_Ann_Background_Book_WEB	29	json	OK(1)	przewija się przez całą ówczesną literaturę i dał początek	przewijał się przez całą ówczesną literaturę i dał początek
+tsbb_25_32#18	TS_20th_Ann_Background_Book_WEB	31	md	OK(1)	ogólną ambiwalencję wobec użycia siły zbrojnej, która była skutkiem amerykańskich doświadczeń w Wietnamie	ogólną ambiwalencję wobec użycia siły zbrojnej, będącą skutkiem amerykańskich doświadczeń w Wietnamie
+tsbb_25_32#18	TS_20th_Ann_Background_Book_WEB	31	json	OK(1)	ogólną ambiwalencję wobec użycia siły zbrojnej, która była skutkiem amerykańskich doświadczeń w Wietnamie	ogólną ambiwalencję wobec użycia siły zbrojnej, będącą skutkiem amerykańskich doświadczeń w Wietnamie
+tsbb_25_32#19	TS_20th_Ann_Background_Book_WEB	31	md	OK(1)	jego przydatność dla amerykańskiej armii znacznie zmalała	jego przydatność dla amerykańskich sił zbrojnych znacznie zmalała
+tsbb_25_32#19	TS_20th_Ann_Background_Book_WEB	31	json	OK(1)	jego przydatność dla amerykańskiej armii znacznie zmalała	jego przydatność dla amerykańskich sił zbrojnych znacznie zmalała
+tsbb_25_32#20	TS_20th_Ann_Background_Book_WEB	32	md	OK(1)	założona w konkretnym celu promowania demokracji	założona z wyraźnym celem promowania demokracji
+tsbb_25_32#20	TS_20th_Ann_Background_Book_WEB	32	json	OK(1)	założona w konkretnym celu promowania demokracji	założona z wyraźnym celem promowania demokracji
+tsbb_25_32#21	TS_20th_Ann_Background_Book_WEB	32	md	OK(1)	bywała niekiedy użytecznym narzędziem	bywała użytecznym narzędziem
+tsbb_25_32#21	TS_20th_Ann_Background_Book_WEB	32	json	OK(1)	bywała niekiedy użytecznym narzędziem	bywała użytecznym narzędziem
+tsbb_25_32#22	TS_20th_Ann_Background_Book_WEB	32	md	OK(1)	do karty OPA dopisano	do Karty OPA dopisano
+tsbb_25_32#22	TS_20th_Ann_Background_Book_WEB	32	json	OK(1)	do karty OPA dopisano	do Karty OPA dopisano
+tsbb_25_32#23	TS_20th_Ann_Background_Book_WEB	32	md	OK(1)	Rewizja karty ustanowiła	Rewizja Karty ustanowiła
+tsbb_25_32#23	TS_20th_Ann_Background_Book_WEB	32	json	OK(1)	Rewizja karty ustanowiła	Rewizja Karty ustanowiła
+tsbb_25_32#24	TS_20th_Ann_Background_Book_WEB	32	md	OK(1)	przykładami zabójstw popieranych przez państwo	przykładami zabójstw sponsorowanych przez państwo
+tsbb_25_32#24	TS_20th_Ann_Background_Book_WEB	32	json	OK(1)	przykładami zabójstw popieranych przez państwo	przykładami zabójstw sponsorowanych przez państwo
+tsbb_33_40#1	TS_20th_Ann_Background_Book_WEB	33	md	OK(1)	stać jedną nogą w każdym z obozów	zachować oparcie w obu obozach
+tsbb_33_40#1	TS_20th_Ann_Background_Book_WEB	33	json	OK(1)	stać jedną nogą w każdym z obozów	zachować oparcie w obu obozach
+tsbb_33_40#2	TS_20th_Ann_Background_Book_WEB	33	md	OK(1)	przedsięwzięć nadawania międzynarodowego	międzynarodowych przedsięwzięć nadawczych
+tsbb_33_40#2	TS_20th_Ann_Background_Book_WEB	33	json	OK(1)	przedsięwzięć nadawania międzynarodowego	międzynarodowych przedsięwzięć nadawczych
+tsbb_33_40#3	TS_20th_Ann_Background_Book_WEB	34	md	OK(1)	Nowo zainstalowany przywódca irańskiej teokracji	Nowo osadzony u władzy przywódca irańskiej teokracji
+tsbb_33_40#3	TS_20th_Ann_Background_Book_WEB	34	json	OK(1)	Nowo zainstalowany przywódca irańskiej teokracji	Nowo osadzony u władzy przywódca irańskiej teokracji
+tsbb_33_40#4	TS_20th_Ann_Background_Book_WEB	34	md	OK(1)	Na domiar upokorzenia Cartera zakładników formalnie przekazano	Jako ostatni policzek dla Cartera zakładników formalnie przekazano
+tsbb_33_40#4	TS_20th_Ann_Background_Book_WEB	34	json	OK(1)	Na domiar upokorzenia Cartera zakładników formalnie przekazano	Jako ostatni policzek dla Cartera zakładników formalnie przekazano
+tsbb_33_40#5	TS_20th_Ann_Background_Book_WEB	34	md	OK(1)	radzieckiej gazety *Czerwona Gwiazda*	radzieckiej gazety „Czerwona Gwiazda”
+tsbb_33_40#6	TS_20th_Ann_Background_Book_WEB	34	json	OK(1)	radzieckiej gazety <i>Czerwona Gwiazda</i>	radzieckiej gazety „Czerwona Gwiazda”
+tsbb_33_40#7	TS_20th_Ann_Background_Book_WEB	35	md	OK(1)	następca krótkotrwałych rządów Konstantina Czernienki	który objął władzę po krótkotrwałych rządach Konstantina Czernienki
+tsbb_33_40#7	TS_20th_Ann_Background_Book_WEB	35	json	OK(1)	następca krótkotrwałych rządów Konstantina Czernienki	który objął władzę po krótkotrwałych rządach Konstantina Czernienki
+tsbb_33_40#8	TS_20th_Ann_Background_Book_WEB	35	md	OK(1)	dokładna odpowiedzialność pozostaje nieustalona	kto dokładnie ponosi odpowiedzialność, nie ustalono
+tsbb_33_40#8	TS_20th_Ann_Background_Book_WEB	35	json	OK(1)	dokładna odpowiedzialność pozostaje nieustalona	kto dokładnie ponosi odpowiedzialność, nie ustalono
+tsbb_33_40#9	TS_20th_Ann_Background_Book_WEB	35	md	OK(1)	Działali też terroryści z siedzibą na Zachodzie, powiązani z komunistami, tacy jak	Byli też terroryści działający na Zachodzie, powiązani z komunistami, tacy jak
+tsbb_33_40#9	TS_20th_Ann_Background_Book_WEB	35	json	OK(1)	Działali też terroryści z siedzibą na Zachodzie, powiązani z komunistami, tacy jak	Byli też terroryści działający na Zachodzie, powiązani z komunistami, tacy jak
+tsbb_33_40#10	TS_20th_Ann_Background_Book_WEB	36	md	OK(1)	Na fali skutków wzrostu znaczenia bliskowschodniej ropy	Na fali wzrostu znaczenia bliskowschodniej ropy
+tsbb_33_40#10	TS_20th_Ann_Background_Book_WEB	36	json	OK(1)	Na fali skutków wzrostu znaczenia bliskowschodniej ropy	Na fali wzrostu znaczenia bliskowschodniej ropy
+tsbb_33_40#11	TS_20th_Ann_Background_Book_WEB	36	md	OK(1)	nadal zaciągały zadłużenie zagraniczne	nadal powiększały zadłużenie zagraniczne
+tsbb_33_40#11	TS_20th_Ann_Background_Book_WEB	36	json	OK(1)	nadal zaciągały zadłużenie zagraniczne	nadal powiększały zadłużenie zagraniczne
+tsbb_33_40#13	TS_20th_Ann_Background_Book_WEB	36	md	OK(1)	że Sowieci przeprowadzili zmasowany atak	że Sowieci rozpoczęli zmasowany atak
+tsbb_33_40#15	TS_20th_Ann_Background_Book_WEB	36	md	OK(1)	by w razie przeprowadzania przez przeciwnika zmasowanego uderzenia jądrowego odpalić własną broń	by w razie zmasowanego uderzenia jądrowego przeciwnika odpalić własną broń
+tsbb_33_40#17	TS_20th_Ann_Background_Book_WEB	38	md	OK(1)	Głośne ryzyko polityczne związane z tą transakcją	Nagłośnione ryzyko polityczne związane z tą transakcją
+tsbb_33_40#17	TS_20th_Ann_Background_Book_WEB	38	json	OK(1)	Głośne ryzyko polityczne związane z tą transakcją	Nagłośnione ryzyko polityczne związane z tą transakcją
+tsbb_33_40#18	TS_20th_Ann_Background_Book_WEB	39	md	OK(1)	przelewając ogromne bogactwa mineralne na prywatne konta	wyprowadzając ogromne bogactwa mineralne na prywatne konta
+tsbb_33_40#18	TS_20th_Ann_Background_Book_WEB	39	json	OK(1)	przelewając ogromne bogactwa mineralne na prywatne konta	wyprowadzając ogromne bogactwa mineralne na prywatne konta
+tsbb_33_40#19	TS_20th_Ann_Background_Book_WEB	39	md	OK(1)	rąk do pracy, prawomocności i perspektyw	rąk do pracy, legitymizacji i perspektyw
+tsbb_33_40#19	TS_20th_Ann_Background_Book_WEB	39	json	OK(1)	rąk do pracy, prawomocności i perspektyw	rąk do pracy, legitymizacji i perspektyw
+tsbb_33_40#20	TS_20th_Ann_Background_Book_WEB	39	md	OK(1)	co podważało gospodarczą i polityczną zdolność do przetrwania kraju, który	co podważało gospodarczą i polityczną żywotność kraju, który
+tsbb_33_40#20	TS_20th_Ann_Background_Book_WEB	39	json	OK(1)	co podważało gospodarczą i polityczną zdolność do przetrwania kraju, który	co podważało gospodarczą i polityczną żywotność kraju, który
+tsbb_33_40#21	TS_20th_Ann_Background_Book_WEB	39	md	OK(1)	równie bezlitosnymi, co	równie bezlitosnymi jak
+tsbb_33_40#21	TS_20th_Ann_Background_Book_WEB	39	json	OK(1)	równie bezlitosnymi, co	równie bezlitosnymi jak
+tsbb_33_40#22	TS_20th_Ann_Background_Book_WEB	40	md	OK(1)	niebezpiecznie podatny na zachodni przymus	niebezpiecznie narażony na zachodni przymus
+tsbb_33_40#22	TS_20th_Ann_Background_Book_WEB	40	json	OK(1)	niebezpiecznie podatny na zachodni przymus	niebezpiecznie narażony na zachodni przymus
+tsbb_33_40#23	TS_20th_Ann_Background_Book_WEB	40	md	OK(1)	lub dla swojego Wydarzenia (for its Event)	lub jako Wydarzenie (for its Event)
+tsbb_41_48#1	TS_20th_Ann_Background_Book_WEB	41	md	OK(1)	zmusiło Hiszpanów do zważenia suwerenności i neutralności wobec obietnicy	zmusiło Hiszpanów do wyboru między suwerennością i neutralnością a obietnicą
+tsbb_41_48#1	TS_20th_Ann_Background_Book_WEB	41	json	OK(1)	zmusiło Hiszpanów do zważenia suwerenności i neutralności wobec obietnicy	zmusiło Hiszpanów do wyboru między suwerennością i neutralnością a obietnicą
+tsbb_41_48#2	TS_20th_Ann_Background_Book_WEB	41	md	OK(1)	Choć stan wojenny zdławił otwarty opór i czasowo ustabilizował reżim, nie zdołał zniszczyć	Stan wojenny zdławił wprawdzie otwarty opór i czasowo ustabilizował reżim, nie zdołał jednak zniszczyć
+tsbb_41_48#2	TS_20th_Ann_Background_Book_WEB	41	json	OK(1)	Choć stan wojenny zdławił otwarty opór i czasowo ustabilizował reżim, nie zdołał zniszczyć	Stan wojenny zdławił wprawdzie otwarty opór i czasowo ustabilizował reżim, nie zdołał jednak zniszczyć
+tsbb_41_48#3	TS_20th_Ann_Background_Book_WEB	41	md	OK(1)	wyciągnęli surowe wnioski z szybkiego upadku Francji	wyciągnęli gorzkie wnioski z szybkiego upadku Francji
+tsbb_41_48#3	TS_20th_Ann_Background_Book_WEB	41	json	OK(1)	wyciągnęli surowe wnioski z szybkiego upadku Francji	wyciągnęli gorzkie wnioski z szybkiego upadku Francji
+tsbb_41_48#4	TS_20th_Ann_Background_Book_WEB	41	md	OK(1)	m.in. w operacjach psychologicznych i do tajnego wspierania sił antykomunistycznych	m.in. do operacji psychologicznych i tajnego wspierania sił antykomunistycznych
+tsbb_41_48#4	TS_20th_Ann_Background_Book_WEB	41	json	OK(1)	m.in. w operacjach psychologicznych i do tajnego wspierania sił antykomunistycznych	m.in. do operacji psychologicznych i tajnego wspierania sił antykomunistycznych
+tsbb_41_48#6	TS_20th_Ann_Background_Book_WEB	42	md	OK(1)	napięte stosunki na południowo-wschodniej flance NATO i trwałą lekcję o tym	napięte stosunki na południowo-wschodniej flance NATO i niezatartą lekcję o tym
+tsbb_41_48#6	TS_20th_Ann_Background_Book_WEB	42	json	OK(1)	napięte stosunki na południowo-wschodniej flance NATO i trwałą lekcję o tym	napięte stosunki na południowo-wschodniej flance NATO i niezatartą lekcję o tym
+tsbb_41_48#7	TS_20th_Ann_Background_Book_WEB	42	md	OK(1)	nasilił operacje przeciwpartyzanckie przeciwko wiejskim ruchom partyzanckim w Guerrero, kierowanym przez	nasilił operacje przeciwpartyzanckie wymierzone w wiejskie ruchy partyzanckie w Guerrero, kierowane przez
+tsbb_41_48#7	TS_20th_Ann_Background_Book_WEB	42	json	OK(1)	nasilił operacje przeciwpartyzanckie przeciwko wiejskim ruchom partyzanckim w Guerrero, kierowanym przez	nasilił operacje przeciwpartyzanckie wymierzone w wiejskie ruchy partyzanckie w Guerrero, kierowane przez
+tsbb_41_48#8	TS_20th_Ann_Background_Book_WEB	42	md	OK(1)	lecz także znamię kraju, który niegdyś uczynił rewolucję	lecz także piętno kraju, który niegdyś uczynił rewolucję
+tsbb_41_48#8	TS_20th_Ann_Background_Book_WEB	42	json	OK(1)	lecz także znamię kraju, który niegdyś uczynił rewolucję	lecz także piętno kraju, który niegdyś uczynił rewolucję
+tsbb_41_48#9	TS_20th_Ann_Background_Book_WEB	43	md	OK(1)	Powiedzenie „Terrorysta dla jednego jest bojownikiem o wolność dla drugiego” stało się	Powiedzenie „Dla jednych terrorysta, dla innych bojownik o wolność” stało się
+tsbb_41_48#9	TS_20th_Ann_Background_Book_WEB	43	json	OK(1)	Powiedzenie „Terrorysta dla jednego jest bojownikiem o wolność dla drugiego” stało się	Powiedzenie „Dla jednych terrorysta, dla innych bojownik o wolność” stało się
+tsbb_41_48#10	TS_20th_Ann_Background_Book_WEB	43	md	OK(1)	ruchy te były notorycznie trudne do zaklasyfikowania	ruchy te były wyjątkowo trudne do zaklasyfikowania
+tsbb_41_48#10	TS_20th_Ann_Background_Book_WEB	43	json	OK(1)	ruchy te były notorycznie trudne do zaklasyfikowania	ruchy te były wyjątkowo trudne do zaklasyfikowania
+tsbb_41_48#12	TS_20th_Ann_Background_Book_WEB	44	md	OK(1)	łączyło indonezyjski samorząd z zachodnimi gwarancjami	łączyło autonomię Indonezji z zachodnimi gwarancjami
+tsbb_41_48#12	TS_20th_Ann_Background_Book_WEB	44	json	OK(1)	łączyło indonezyjski samorząd z zachodnimi gwarancjami	łączyło autonomię Indonezji z zachodnimi gwarancjami
+tsbb_41_48#13	TS_20th_Ann_Background_Book_WEB	44	md	OK(1)	Z historycznego punktu widzenia Chiny jako mocarstwo regionalne byłyby	W rzeczywistej historii Chiny jako mocarstwo regionalne byłyby
+tsbb_41_48#14	TS_20th_Ann_Background_Book_WEB	45	json	OK(1)	Z historycznego punktu widzenia Chiny jako mocarstwo regionalne byłyby	W rzeczywistej historii Chiny jako mocarstwo regionalne byłyby
+tsbb_41_48#15	TS_20th_Ann_Background_Book_WEB	45	md	OK(1)	początkowo niechętnie naciskał dalej na świat zachodni, nie chcąc ryzykować już osiągniętych zdobyczy	początkowo wzbraniał się przed dalszym naciskaniem na świat zachodni, by nie ryzykować już osiągniętych zdobyczy
+tsbb_41_48#15	TS_20th_Ann_Background_Book_WEB	45	json	OK(1)	początkowo niechętnie naciskał dalej na świat zachodni, nie chcąc ryzykować już osiągniętych zdobyczy	początkowo wzbraniał się przed dalszym naciskaniem na świat zachodni, by nie ryzykować już osiągniętych zdobyczy
+tsbb_41_48#18	TS_20th_Ann_Background_Book_WEB	46	md	OK(1)	kruchość relacji z państwami klientami, opartych na władzy osobistej	kruchość relacji z państwami klienckimi, opartych na władzy osobistej
+tsbb_41_48#18	TS_20th_Ann_Background_Book_WEB	46	json	OK(1)	kruchość relacji z państwami klientami, opartych na władzy osobistej	kruchość relacji z państwami klienckimi, opartych na władzy osobistej
+tsbb_41_48#17	TS_20th_Ann_Background_Book_WEB	46	md	OK(1)	ważąc wieloletnie więzi wobec prawomocności ludowego protestu	rozdarta między wieloletnimi więziami a legitymizacją ludowego protestu
+tsbb_41_48#17	TS_20th_Ann_Background_Book_WEB	46	json	OK(1)	ważąc wieloletnie więzi wobec prawomocności ludowego protestu	rozdarta między wieloletnimi więziami a legitymizacją ludowego protestu
+LEG-42	TS_20th_Ann_Background_Book_WEB	42	md	OK(1)	rewolucyjną prawomocnością	rewolucyjną legitymizacją
+LEG-42	TS_20th_Ann_Background_Book_WEB	42	json	OK(1)	rewolucyjną prawomocnością	rewolucyjną legitymizacją
+LEG-43a	TS_20th_Ann_Background_Book_WEB	43	md	OK(1)	argumentów o prawomocności	argumentów o legitymizacji
+LEG-43a	TS_20th_Ann_Background_Book_WEB	43	json	OK(1)	argumentów o prawomocności	argumentów o legitymizacji
+LEG-43b	TS_20th_Ann_Background_Book_WEB	43	md	OK(1)	Ta prawomocność przetrwała	Ta legitymizacja przetrwała
+LEG-43b	TS_20th_Ann_Background_Book_WEB	43	json	OK(1)	Ta prawomocność przetrwała	Ta legitymizacja przetrwała
+LEG-43c	TS_20th_Ann_Background_Book_WEB	43	md	OK(1)	kwestię prawomocności	kwestię legitymizacji
+LEG-43c	TS_20th_Ann_Background_Book_WEB	43	json	OK(1)	kwestię prawomocności	kwestię legitymizacji
+LEG-44	TS_20th_Ann_Background_Book_WEB	44	md	OK(1)	ciągłość i prawomocność	ciągłość i legitymizację
+LEG-44	TS_20th_Ann_Background_Book_WEB	44	json	OK(1)	ciągłość i prawomocność	ciągłość i legitymizację
+tsbb_25_32#3-R	TS_20th_Ann_Rule_Book_WEB	9	md	OK(1)	Zagraj po Plan Marshalla (Marshall Plan)	Zagraj po Wydarzeniu Plan Marshalla (Marshall Plan)
+tsbb_25_32#3	TS_20th_Ann_Background_Book_WEB	26	md	OK(1)	Zagraj po Plan Marshalla (Marshall Plan)	Zagraj po Wydarzeniu Plan Marshalla (Marshall Plan)
+spqr_1_8#1	SPQR_Deluxe_Rule_book_WEB	1	md	OK(1)	Seria The Great Battles of History – tom II	Seria The Great Battles of History — tom II
+spqr_1_8#3	SPQR_Deluxe_Rule_book_WEB	2	md	OK(1)	(rzekomo) sprawujący władzę w państwie	(rzekomo) sprawujące władzę w państwie
+spqr_1_8#3	SPQR_Deluxe_Rule_book_WEB	2	json	OK(1)	(rzekomo) sprawujący władzę w państwie	(rzekomo) sprawujące władzę w państwie
+spqr_1_8#4	SPQR_Deluxe_Rule_book_WEB	2	md	OK(1)	trudną do opanowania, zrozumienia ani prowadzenia rozgrywki	trudną do opanowania, zrozumienia ani rozegrania
+spqr_1_8#4	SPQR_Deluxe_Rule_book_WEB	2	json	OK(1)	trudną do opanowania, zrozumienia ani prowadzenia rozgrywki	trudną do opanowania, zrozumienia ani rozegrania
+spqr_1_8#5	SPQR_Deluxe_Rule_book_WEB	2	md	OK(1)	najlepszego wykorzystania różnych rodzajów uzbrojenia	najlepszego wykorzystania różnych systemów uzbrojenia
+spqr_1_8#5	SPQR_Deluxe_Rule_book_WEB	2	json	OK(1)	najlepszego wykorzystania różnych rodzajów uzbrojenia	najlepszego wykorzystania różnych systemów uzbrojenia
+spqr_1_8#6	SPQR_Deluxe_Rule_book_WEB	2	md	OK(1)	Odpowiednio postąpiliśmy z alae	Podobnie postąpiliśmy z alae
+spqr_1_8#7	SPQR_Deluxe_Rule_book_WEB	3	json	OK(1)	Odpowiednio postąpiliśmy z alae	Podobnie postąpiliśmy z alae
+spqr_1_8#8	SPQR_Deluxe_Rule_book_WEB	3	md	OK(1)	służąca do rozróżnienia różnych rodzajów uzbrojenia w ramach jednego typu	służąca do rozróżnienia różnych systemów uzbrojenia (weapons systems) w ramach jednego typu
+spqr_1_8#9	SPQR_Deluxe_Rule_book_WEB	3	json	OK(1)	służąca do rozróżnienia różnych rodzajów uzbrojenia w ramach jednego typu	służąca do rozróżnienia różnych systemów uzbrojenia w ramach jednego typu
+spqr_1_8#10	SPQR_Deluxe_Rule_book_WEB	3	json	OK(1)	Nazwa/ozn.	Nazwa/oznacz.
+spqr_1_8#11	SPQR_Deluxe_Rule_book_WEB	4	md	OK(1)	przeciwstawnych rodzajów uzbrojenia zaczepnego i ochronnego	przeciwstawnych systemów uzbrojenia zaczepnego i ochronnego
+spqr_1_8#11	SPQR_Deluxe_Rule_book_WEB	4	json	OK(1)	przeciwstawnych rodzajów uzbrojenia zaczepnego i ochronnego	przeciwstawnych systemów uzbrojenia zaczepnego i ochronnego
+spqr_1_8#12	SPQR_Deluxe_Rule_book_WEB	4	md	OK(1)	bezładna kotłowanina, w której się rąbie	kotłowanina, w której się rąbie
+spqr_1_8#12	SPQR_Deluxe_Rule_book_WEB	4	json	OK(1)	bezładna kotłowanina, w której się rąbie	kotłowanina, w której się rąbie
+spqr_1_8#13	SPQR_Deluxe_Rule_book_WEB	5	md	OK(1)	często różnił się w zależności od kraju – zależnie od rodzaju uzbrojenia	często różnił się w poszczególnych krajach – zależnie od rodzaju uzbrojenia
+spqr_1_8#13	SPQR_Deluxe_Rule_book_WEB	5	json	OK(1)	często różnił się w zależności od kraju – zależnie od rodzaju uzbrojenia	często różnił się w poszczególnych krajach – zależnie od rodzaju uzbrojenia
+spqr_1_8#14	SPQR_Deluxe_Rule_book_WEB	5	md	OK(1)	gdyż nie mieli broni, którą mogliby to robić	gdyż nie mieli do tego odpowiedniej broni
+spqr_1_8#14	SPQR_Deluxe_Rule_book_WEB	5	json	OK(1)	gdyż nie mieli broni, którą mogliby to robić	gdyż nie mieli do tego odpowiedniej broni
+spqr_1_8#15	SPQR_Deluxe_Rule_book_WEB	5	md	OK(1)	nosiła oszczep lub dwa, którymi rzucali przed zwarciem	nosiła oszczep lub dwa, które rzucała przed zwarciem
+spqr_1_8#15	SPQR_Deluxe_Rule_book_WEB	5	json	OK(1)	nosiła oszczep lub dwa, którymi rzucali przed zwarciem	nosiła oszczep lub dwa, które rzucała przed zwarciem
+spqr_1_8#16	SPQR_Deluxe_Rule_book_WEB	5	md	OK(1)	wystrzeliwujące około 30 i więcej strzał	wystrzeliwujące 30 i więcej strzał
+spqr_1_8#16	SPQR_Deluxe_Rule_book_WEB	5	json	OK(1)	wystrzeliwujące około 30 i więcej strzał	wystrzeliwujące 30 i więcej strzał
+spqr_1_8#17	SPQR_Deluxe_Rule_book_WEB	6	md	OK(1)	Każdy heks ma ok. 70 i więcej kroków (jardów) szerokości	Każdy heks ma 70 i więcej kroków (jardów) szerokości
+spqr_1_8#17	SPQR_Deluxe_Rule_book_WEB	6	json	OK(1)	Każdy heks ma ok. 70 i więcej kroków (jardów) szerokości	Każdy heks ma 70 i więcej kroków (jardów) szerokości
+spqr_1_8#18	SPQR_Deluxe_Rule_book_WEB	6	md	OK(1)	by zobaczyć wyniki swoich EKG	by zobaczyć wyniki ich EKG
+spqr_1_8#18	SPQR_Deluxe_Rule_book_WEB	6	json	OK(1)	by zobaczyć wyniki swoich EKG	by zobaczyć wyniki ich EKG
+spqr_1_8#19	SPQR_Deluxe_Rule_book_WEB	7	md	OK(1)	szans dowódcy na uzyskanie fazy rozkazów uzyskanej dzięki impetowi	szans dowódcy na dodatkową fazę rozkazów dzięki impetowi
+spqr_1_8#19	SPQR_Deluxe_Rule_book_WEB	7	json	OK(1)	szans dowódcy na uzyskanie fazy rozkazów uzyskanej dzięki impetowi	szans dowódcy na dodatkową fazę rozkazów dzięki impetowi
+spqr_1_8#20	SPQR_Deluxe_Rule_book_WEB	8	md	OK(1)	Wódz naczelny (OC) znajdujący się w strefie kontroli (ZOC) wroga może wydać tylko jeden rozkaz indywidualny (IO): rozkaz ruchu samemu sobie.	Jedynym rozkazem indywidualnym (IO), jaki wódz naczelny (OC) znajdujący się w strefie kontroli (ZOC) wroga może wydać, jest rozkaz ruchu samemu sobie.
+tsbb_17_24#1	TS_20th_Ann_Background_Book_WEB	18	md	OK(1)	zagrać tę kartę i pozwolić USA obejrzeć swoje karty na ręce	zagrać tę kartę i pokazać USA swoje karty na ręce
+tsbb_17_24#1	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	zagrać tę kartę i pozwolić USA obejrzeć swoje karty na ręce	zagrać tę kartę i pokazać USA swoje karty na ręce
+tsbb_17_24#2	TS_20th_Ann_Background_Book_WEB	18	md	OK(1)	więc nie zdołasz zagrać jej na poczet Wyścigu Kosmicznego (Space Race)	więc nie zdołasz zagrać karty *[Samotny strzelec (Lone Gunman)]{.smallcaps}* na poczet Wyścigu Kosmicznego (Space Race)
+tsbb_17_24#3	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	więc nie zdołasz zagrać jej na poczet Wyścigu Kosmicznego.	więc nie zdołasz zagrać karty <b><i><sc>Samotny strzelec</sc></i></b> na poczet Wyścigu Kosmicznego.
+tsbb_17_24#4	TS_20th_Ann_Background_Book_WEB	19	md	OK(1)	*[Sprzedaż zboża (Grain Sales)]{.smallcaps}* Sowietom daje USA Operacje (Operations)	*[Sprzedaż zboża Sowietom (Grain Sales to Soviets)]{.smallcaps}* daje USA Operacje (Operations)
+tsbb_17_24#5	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	<b><i><sc>Sprzedaż zboża (Grain Sales)</sc></i></b> Sowietom daje USA Operacje (Operations)	<b><i><sc>Sprzedaż zboża Sowietom</sc></i></b> daje USA Operacje (Operations)
+tsbb_17_24#6	TS_20th_Ann_Background_Book_WEB	19	md	OK(1)	To w dużej mierze te 14 pułapek DEFCON (DEFCON traps) nadaje *Twilight Struggle* niepowtarzalny charakter i treściwą, wymagającą rozgrywkę.	To w dużej mierze tym 14 pułapkom DEFCON (DEFCON traps) *Twilight Struggle* zawdzięcza niepowtarzalny charakter i treściwą, wymagającą rozgrywkę.
+tsbb_17_24#7	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	To w dużej mie­rze te 14 pu­ła­pek DEFCON na­daje <b><i>Twilight Strug­gle</i></b> nie­po­wta­rzalny cha­ra­kter i tre­ściwą, wy­ma­ga­jącą roz­gry­wkę.	To w dużej mie­rze tym 14 pu­łap­kom DEFCON <b><i>Twilight Strug­gle</i></b> za­wdzię­cza nie­po­wta­rzalny cha­ra­kter i tre­ściwą, wy­ma­ga­jącą roz­gry­wkę.
+tsbb_17_24#8	TS_20th_Ann_Background_Book_WEB	19	md	OK(1)	USA nie tylko mogą ograniczyć je wszystkimi zwykłymi sposobami; jeśli nie mają Wpływów (Influence) na Kubie (Cuba), kartę można też zagrać	USA nie tylko mogą ograniczyć je wszystkimi zwykłymi sposobami, ale też, jeśli nie mają Wpływów (Influence) na Kubie (Cuba), kartę można zagrać
+tsbb_17_24#9	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	USA nie tylko mogą ograniczyć je wszystkimi zwykłymi sposobami; jeśli nie mają Wpływów (Influence) na Kubie, kartę można też zagrać	USA nie tylko mogą ograniczyć je wszystkimi zwykłymi sposobami, ale też, jeśli nie mają Wpływów (Influence) na Kubie, kartę można zagrać
+tsbb_17_24#10	TS_20th_Ann_Background_Book_WEB	18	md	OK(1)	albo dopóki w końcu nie zdecydują się pozbyć się jej (dump) w fazie	albo dopóki w końcu nie zdecydują się jej pozbyć (dump) w fazie
+tsbb_17_24#11	TS_20th_Ann_Background_Book_WEB	19	md	OK(1)	— *generał Douglas MacArthur*	– *generał Douglas MacArthur*
+tsbb_17_24#12	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	— <b>generał Douglas MacArthur</b>	– <b>generał Douglas MacArthur</b>
+tsbb_17_24#13	TS_20th_Ann_Background_Book_WEB	19	md	OK(1)	by spróbować przejąć Kontrolę (Control) w Europie (Europe)	by spróbować przejąć Kontrolę (Control) Europy (Europe)
+tsbb_17_24#14	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	prze­jąć Kon­trolę (Con­trol) w Eu­ro­pie	prze­jąć Kon­trolę (Con­trol) Eu­ropy
+tsbb_17_24#15	TS_20th_Ann_Background_Book_WEB	20	md	OK(1)	USA pompują sprzęt, doradców, lotników, pożyczki, logistykę i czas.	USA pakują w to sprzęt, doradców, lotników, pożyczki, logistykę i czas.
+tsbb_17_24#15	TS_20th_Ann_Background_Book_WEB	20	json	OK(1)	USA pompują sprzęt, doradców, lotników, pożyczki, logistykę i czas.	USA pakują w to sprzęt, doradców, lotników, pożyczki, logistykę i czas.
+tsbb_17_24#16	TS_20th_Ann_Background_Book_WEB	20	md	OK(1)	z wizerunkiem, jaki Ameryka najchętniej ma o sobie	z wyobrażeniem, jakie Ameryka najchętniej ma o sobie
+tsbb_17_24#16	TS_20th_Ann_Background_Book_WEB	20	json	OK(1)	z wizerunkiem, jaki Ameryka najchętniej ma o sobie	z wyobrażeniem, jakie Ameryka najchętniej ma o sobie
+tsbb_17_24#17	TS_20th_Ann_Background_Book_WEB	21	md	OK(1)	(Co dziwne, wygląda na to, że nikt nie przejął rzutów na Wywieranie Presji (realignment rolls).)	(Co dziwne, wygląda na to, że nikt nie przejął rzutów na Wywieranie Presji – realignment rolls.)
+tsbb_17_24#17	TS_20th_Ann_Background_Book_WEB	21	json	OK(1)	(Co dziwne, wygląda na to, że nikt nie przejął rzutów na Wywieranie Presji (realignment rolls).)	(Co dziwne, wygląda na to, że nikt nie przejął rzutów na Wywieranie Presji – realignment rolls.)
+tsbb_17_24#18	TS_20th_Ann_Background_Book_WEB	22	md	OK(1)	Niczym współczesny Łazarz gry wojenne napędzane kartami wskrzesiły nasze hobby.	Gry wojenne napędzane kartami wskrzesiły nasze hobby niczym współczesnego Łazarza.
+tsbb_17_24#18	TS_20th_Ann_Background_Book_WEB	22	json	OK(1)	Niczym współczesny Łazarz gry wojenne napędzane kartami wskrzesiły nasze hobby.	Gry wojenne napędzane kartami wskrzesiły nasze hobby niczym współczesnego Łazarza.
+tsbb_17_24#19	TS_20th_Ann_Background_Book_WEB	22	md	OK(1)	codzienny świat pracy „nuklearnej” rodziny	codzienny świat pracy rodziny „nuklearnej”
+tsbb_17_24#19	TS_20th_Ann_Background_Book_WEB	22	json	OK(1)	codzienny świat pracy „nuklearnej” rodziny	codzienny świat pracy rodziny „nuklearnej”
+tsbb_17_24#20	TS_20th_Ann_Background_Book_WEB	22	md	OK(1)	środowiska akademickiego i głównych mediów	środowiska akademickiego i prasy głównego nurtu
+tsbb_17_24#20	TS_20th_Ann_Background_Book_WEB	22	json	OK(1)	środowiska akademickiego i głównych mediów	środowiska akademickiego i prasy głównego nurtu
+tsbb_17_24#21	TS_20th_Ann_Background_Book_WEB	23	md	OK(1)	nie stawiamy was za naszymi francuskimi sojusznikami	nie stawiamy was niżej niż naszych francuskich sojuszników
+tsbb_17_24#21	TS_20th_Ann_Background_Book_WEB	23	json	OK(1)	nie stawiamy was za naszymi francuskimi sojusznikami	nie stawiamy was niżej niż naszych francuskich sojuszników
+tsbb_17_24#22	TS_20th_Ann_Background_Book_WEB	23	md	OK(1)	Załomoczmy więc raz jeszcze butami	Walnijmy więc raz jeszcze butem w stół
+tsbb_17_24#22	TS_20th_Ann_Background_Book_WEB	23	json	OK(1)	Załomoczmy więc raz jeszcze butami	Walnijmy więc raz jeszcze butem w stół
+tsbb_17_24#23	TS_20th_Ann_Background_Book_WEB	24	md	OK(1)	które kosztowało miliony istnień, niezliczone biliony dolarów i konflikty na całym globie	które kosztowało miliony istnień i niezliczone biliony dolarów oraz przyniosło konflikty na całym globie
+tsbb_17_24#23	TS_20th_Ann_Background_Book_WEB	24	json	OK(1)	które kosztowało miliony istnień, niezliczone biliony dolarów i konflikty na całym globie	które kosztowało miliony istnień i niezliczone biliony dolarów oraz przyniosło konflikty na całym globie
+tsbb_17_24#24	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	wy­ma­ga­jącą roz­gry­wkę. Choć ten	wy­ma­ga­jącą roz­gry­wkę.
+tsbb_17_24#25	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	przegląd nie jest miarodajnym	Choć ten przegląd nie jest miarodajnym
+tsbb_17_24#26	TS_20th_Ann_Background_Book_WEB	19	md	OK(1)	*[Zburzcie ten mur (Tear Down this Wall)]{.smallcaps}* – ostatnią z pułapek	Kartę *[Zburzcie ten mur (Tear Down this Wall)]{.smallcaps}* – ostatnią z pułapek
+tsbb_17_24#27	TS_20th_Ann_Background_Book_WEB	19	json	OK(1)	<b><i><sc>Zburzcie ten mur (Tear Down this Wall)</sc></i></b> – ostatnią	Kartę <b><i><sc>Zburzcie ten mur (Tear Down this Wall)</sc></i></b> – ostatnią
+REV-tsbb_9_16#11	TS_20th_Ann_Background_Book_WEB	10	json	OK(1)	Wojna indyjsko-pakistańska</sc></i></b> (<b><i><sc>Indo‑Pakistani War</sc></i></b>, neutralna, 2 Ops)	Wojna indyjsko-pakistańska</sc></i></b> (neutralna, 2 Ops)
+REV-tsbb_9_16#13	TS_20th_Ann_Background_Book_WEB	12	json	OK(1)	Wojna arabsko-izraelska</sc></i></b> (<b><i><sc>Arab‑Israeli War</sc></i></b>, Wydarzenie ZSRR)	Wojna arabsko-izraelska</sc></i></b> (Wydarzenie ZSRR)
+REV-tsbb_17_24#3	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	więc nie zdołasz zagrać karty <b><i><sc>Samotny strzelec</sc></i></b> na poczet Wyścigu Kosmicznego.	więc nie zdołasz zagrać tej karty na poczet Wyścigu Kosmicznego.
+DASH-R	TS_20th_Ann_Rule_Book_WEB	2,4,10,12,13,14,15	oba	OK(7+7)	—Autor (epigrafy)	– Autor (półpauza wg INSTRUKCJA_NOWE; jak BB s. 19)
+FIT-18	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	zazwyczaj nie będziesz mieć dostępu do karty	zwykle nie będziesz mieć dostępu do karty
+FIT-18b	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	to najlepiej jest prawdopodobnie po prostu zagrać tę kartę	to najlepiej chyba po prostu zagrać tę kartę
+FIT-18c	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	grozi tym, że ZSRR zagra	grozi, że ZSRR zagra
+FIT-18d	TS_20th_Ann_Background_Book_WEB	18	json	OK(1)	to najlepiej chyba po prostu zagrać tę kartę	to chyba najlepiej zagrać tę kartę
+IDX-42	SPQR_Deluxe_Rule_book_WEB	42	json	OK(1)	gdy falanga utrzymuje się zamiast ulec rozbiciu	gdy falanga stoi zamiast ulec rozbiciu

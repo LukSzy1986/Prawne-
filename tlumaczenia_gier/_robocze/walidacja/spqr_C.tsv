@@ -1,0 +1,20 @@
+dok	strona	cytat_PL	poprawka_PL	gdzie	id	uwagi
+SPQR_Deluxe_Rule_book_WEB	1	Seria The Great Battles of History – tom II	Seria The Great Battles of History — tom II	md	spqr_1_8#1	typografia/D
+SPQR_Deluxe_Rule_book_WEB	2	(rzekomo) sprawujący władzę w państwie	(rzekomo) sprawujące władzę w państwie	oba	spqr_1_8#3	gramatyka/D
+SPQR_Deluxe_Rule_book_WEB	2	trudną do opanowania, zrozumienia ani prowadzenia rozgrywki	trudną do opanowania, zrozumienia ani rozegrania	oba	spqr_1_8#4	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	2	najlepszego wykorzystania różnych rodzajów uzbrojenia	najlepszego wykorzystania różnych systemów uzbrojenia	oba	spqr_1_8#5	termin/D
+SPQR_Deluxe_Rule_book_WEB	2	Odpowiednio postąpiliśmy z alae	Podobnie postąpiliśmy z alae	md	spqr_1_8#6	sens/D
+SPQR_Deluxe_Rule_book_WEB	3	Odpowiednio postąpiliśmy z alae	Podobnie postąpiliśmy z alae	json	spqr_1_8#7	sens/D
+SPQR_Deluxe_Rule_book_WEB	3	służąca do rozróżnienia różnych rodzajów uzbrojenia w ramach jednego typu	służąca do rozróżnienia różnych systemów uzbrojenia (weapons systems) w ramach jednego typu	md	spqr_1_8#8	termin/I
+SPQR_Deluxe_Rule_book_WEB	3	służąca do rozróżnienia różnych rodzajów uzbrojenia w ramach jednego typu	służąca do rozróżnienia różnych systemów uzbrojenia w ramach jednego typu	json	spqr_1_8#9	termin/I
+SPQR_Deluxe_Rule_book_WEB	3	Nazwa/ozn.	Nazwa/oznacz.	json	spqr_1_8#10	typografia/D
+SPQR_Deluxe_Rule_book_WEB	4	przeciwstawnych rodzajów uzbrojenia zaczepnego i ochronnego	przeciwstawnych systemów uzbrojenia zaczepnego i ochronnego	oba	spqr_1_8#11	termin/I
+SPQR_Deluxe_Rule_book_WEB	4	bezładna kotłowanina, w której się rąbie	kotłowanina, w której się rąbie	oba	spqr_1_8#12	termin/D
+SPQR_Deluxe_Rule_book_WEB	5	często różnił się w zależności od kraju – zależnie od rodzaju uzbrojenia	często różnił się w poszczególnych krajach – zależnie od rodzaju uzbrojenia	oba	spqr_1_8#13	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	5	gdyż nie mieli broni, którą mogliby to robić	gdyż nie mieli do tego odpowiedniej broni	oba	spqr_1_8#14	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	5	nosiła oszczep lub dwa, którymi rzucali przed zwarciem	nosiła oszczep lub dwa, które rzucała przed zwarciem	oba	spqr_1_8#15	gramatyka/D
+SPQR_Deluxe_Rule_book_WEB	5	wystrzeliwujące około 30 i więcej strzał	wystrzeliwujące 30 i więcej strzał	oba	spqr_1_8#16	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	6	Każdy heks ma ok. 70 i więcej kroków (jardów) szerokości	Każdy heks ma 70 i więcej kroków (jardów) szerokości	oba	spqr_1_8#17	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	6	by zobaczyć wyniki swoich EKG	by zobaczyć wyniki ich EKG	oba	spqr_1_8#18	sens/D
+SPQR_Deluxe_Rule_book_WEB	7	szans dowódcy na uzyskanie fazy rozkazów uzyskanej dzięki impetowi	szans dowódcy na dodatkową fazę rozkazów dzięki impetowi	oba	spqr_1_8#19	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	8	Wódz naczelny (OC) znajdujący się w strefie kontroli (ZOC) wroga może wydać tylko jeden rozkaz indywidualny (IO): rozkaz ruchu samemu sobie.	Jedynym rozkazem indywidualnym (IO), jaki wódz naczelny (OC) znajdujący się w strefie kontroli (ZOC) wroga może wydać, jest rozkaz ruchu samemu sobie.	md	spqr_1_8#20	sens/I

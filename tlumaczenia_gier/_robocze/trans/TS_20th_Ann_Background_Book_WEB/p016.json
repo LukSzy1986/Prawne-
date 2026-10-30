@@ -1,0 +1,92 @@
+{
+ "u2": {
+  "paras": [
+   "PUŁAPKI DEFCON W TWILIGHT STRUGGLE"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Autor: Jason Carr",
+   "Jeśli zdarzyło ci się grać w <b><i>Twilight Struggle</i></b>, zapewne znasz sytuację, w której trzymasz na ręce kartę, ale jej zagranie zmniejszyłoby DEFCON do 1, a to oznaczałoby przegraną. Gratulacje! Udało ci się odkryć jedną z „pułapek DEFCON” (“DEFCON traps”). Wierz lub nie, ale te pułapki powstały przypadkiem w trakcie rozwoju gry. Współprojektant gry Jason Matthews wyjaśnia: „Pułapki DEFCON odkryliśmy podczas wczesnych testów, a potem nauczyliśmy się je lubić. Naszym zdaniem przedstawiają one najbardziej prawdopodobną drogę do wojny nuklearnej – nieprzewidziane wydarzenia, które zbyt szybko się zaostrzają. Dlatego bardzo świadomie zostawiliśmy to jako element rozgrywki”. Niezależnie od tego, jak trafiły do gry, pułapki DEFCON są jednym ze znaków rozpoznawczych <b><i>Twilight Struggle</i></b>.",
+   "Mówiąc najprościej, pułapka DEFCON to sytuacja, w której zmuszasz przeciwnika do zagrania w <i>jego</i> Rundzie (Action Round) karty, która zmniejszy DEFCON do 1. Nie ma znaczenia, czy dzieje się tak dlatego, że przeciwnik zagrał <i>twoje</i> Wydarzenie (Event), czy nawet dlatego, że to <i>ty</i> używasz zagranego przez <i>niego</i> Wydarzenia do przeprowadzenia Przewrotu (Coup) w dozwolonym Państwie Strategicznym (Battleground country). Wina zawsze spada na <i>Aktywnego Gracza (Phasing Player)</i>. Wojna termonuklearna wybuchła, że tak powiem, na jego zmianie.",
+   "Choć to wyjątkowo ponury sposób na wygraną, skutecznie oddaje",
+   "na­pię­cia zi­mnej wojny. DEFCON może zostać zmniejszony przez samo Wydarzenie (Event) – jak w przy­padku karty <b><i><sc>Pa­dnij i kryj się (Duck and Cover)</sc></i></b> – albo Ope­ra­cje (Op­er­a­tions) za­pe­wniane przez kartę, jeśli zo­staną użyte do Prze­wrotu (Coup) w do­wol­nym do­zwo­lo­nym Pań­stwie Stra­te­gicz­nym (Bat­tle­ground coun­try). Zmu­sze­nie przeciw­nika do za­gra­nia karty bę­dą­cej pu­łapką DEFCON bywa niełatwe: może do tego",
+   "dojść, gdy zagrywając Wydarzenie, zmniejszysz liczbę kart na jego ręce, gdy przeciwnik zagra kartę-pułapkę jako Wydarzenie Kluczowe (Headlined), ale twoje Wydarzenie Kluczowe zajdzie pierwsze i zmniejszy DEFCON do 2, albo wskutek zwykłego błędu w śledzeniu, które karty już zagrano."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "W <b><i>Twilight Struggle</i></b> pułapkę DEFCON może zainicjować 14 kart (w kolejności numerów kart). W tym wydaniu <b><i>Twilight Struggle</i></b> w prawym dolnym rogu tych 14 kart – wymienionych poniżej wraz z powiązaniem ze stroną – oznaczono sym⁠bo⁠lem"
+  ]
+ },
+ "u4": {
+  "lines": [
+   "",
+   "dla przypomnienia:",
+   "•",
+   "•",
+   "•",
+   "•"
+  ]
+ },
+ "u5": {
+  "lines": [
+   "<sc>Padnij i kryj się (Duck and Cover, USA)</sc>",
+   "<sc>Plan pięcioletni (Five Year Plan, USA)</sc>",
+   "<sc>Igrzyska olimpijskie (Olympic Games, obie strony)</sc>",
+   "<sc>Utworzenie CIA (CIA Created, USA)</sc>"
+  ]
+ },
+ "u6": {
+  "lines": [
+   "•",
+   "<sc>Rozmowy na szczycie (Summit, obie strony)</sc>",
+   "•",
+   "<sc>Zazdrość o rakiety (Missile Envy, obie strony)</sc>",
+   "•",
+   "•",
+   "<sc>„Samotny strzelec” (“Lone Gunman”, ZSRR)</sc>",
+   "•",
+   "•",
+   "<sc>Gwiezdne wojny (Star Wars, USA)</sc>",
+   "•",
+   "•",
+   "•"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<sc>„Pogrzebiemy was” (“We Will Bury You”, ZSRR)</sc>"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<sc>Sprzedaż zboża Sowietom (Grain Sales to Soviets, USA)</sc>"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<sc>Sowieci zestrzeliwują KAL‑007 (Soviets Shoot Down KAL‑007, USA)</sc>"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "<sc>Ortega wybrany w Nikaragui (Ortega Elected in Nicaragua, ZSRR)</sc>"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<sc>Zburzcie ten mur (Tear Down this Wall, USA)</sc>"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "Każda z nich niesie inne ryzyko i każde z tych ryzyk można w trakcie gry ograniczać na nieco inne sposoby. Pierwszy sposób jest najbardziej oczywisty: nie zagrywaj z ręki Wydarzenia (Event), które zmniejszyłoby DEFCON, jeśli DEFCON wynosi 2! Żeby jednak nie znaleźć się w sytuacji, w której musisz to zrobić, trzeba myśleć z wyprzedzeniem; przy zarządzaniu kartami na ręce może ci pomóc kilka ogólnych zasad:",
+   "• Po pierwsze, jeśli Wydarzenie (Event) jest powiązane z tobą, karta jest bezpieczna. Zawsze możesz zagrać ją jako Operacje (Operations) i nie zainicjować Wydarzenia obniżającego (degrading) DEFCON. To samo dotyczy trzech kart z listy powiązanych z oboma supermocarstwami (<b><i><sc>Igrzyska olimpijskie (Olympic Games)</sc></i></b>, <b><i><sc>Rozmowy na szczycie (Summit)</sc></i></b> i <b><i><sc>Zazdrość o rakiety (Missile Envy)</sc></i></b>), które znalazły się na liście ze względu na Wydarzenia Kluczowe (Headline) – więcej o tym dalej.",
+   "• Po drugie, w każdym Etapie (turn) możesz zagrać jedną z tych kart na poczet Wyścigu Kosmicznego (Space Race). Czasem nie będzie innego sposobu, żeby poradzić sobie z jakąś kartą, ale jeśli masz na ręce więcej niż jedną pułapkę DEFCON, musisz wymyślić, jak sobie z nimi poradzić. Uważaj, gdy liczysz na Wyścig Kosmiczny – żeby zagrać tam kartę, musi ona mieć dość Punktów Operacyjnych (Operations points), by spełnić wymagania następnego pola toru! Pod koniec gry bywa frustrujące, gdy chcesz zagrać na poczet Wyścigu Kosmicznego kartę o Wartości Operacyjnej 2 (2 Operations value card), a nie możesz tego zrobić.",
+   "• Inne oczywiste rozwiązanie to zagranie karty <b><i><sc>Interwencja ONZ (UN Intervention)</sc></i></b>, jeśli masz szczęście ją dobrać. Wadą jest to, że zagrywając dwie karty w jednej Rundzie (Action Round), zatrzymasz między Rundami o jedną kartę mniej (jeśli masz <b><i><sc>Kartę Chińską (The China Card)</sc></i></b>, może to nie mieć większego znaczenia).",
+   "• Możesz rozważyć zmuszenie samego siebie do odrzucenia karty (zagrywając przeciwko sobie kartę <b><i><sc>Grzęzawisko (Quagmire)</sc></i></b> lub <b><i><sc>Niedźwiedź w potrzasku (Bear Trap)</sc></i></b> albo – jako gracz USA – kartę <b><i><sc>Blokada (Blockade)</sc></i></b>). To może być bolesny sposób na uniknięcie pułapki DEFCON, ale potencjalnie użyteczny.",
+   "• Kilka kart, np. <b><i><sc>Negocjacje SALT (SALT Negotiations)</sc></i></b> i <b><i><sc>Zakaz prób jądrowych (Nuclear Test Ban)</sc></i></b>, może podnieść (improve) poziom DEFCON, ale nie zdziw się, jeśli przeciwnik spróbuje Przewrotu (Coup), gdy dasz mu szansę na działanie w Europie, Azji albo na Bliskim Wschodzie. Czasem to wszystko, co możesz zrobić, żeby przetrwać."
+  ]
+ }
+}

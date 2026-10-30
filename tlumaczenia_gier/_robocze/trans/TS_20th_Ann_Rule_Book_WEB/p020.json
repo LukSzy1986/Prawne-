@@ -1,0 +1,66 @@
+{
+ "u2": {
+  "paras": [
+   "Wyścig Kosmiczny (The Space Race)",
+   "Gracz, który „pozbywa się” (“dumps”) karty na poczet Wyścigu Kosmicznego (Space Race), może postanowić, że nie rzuca kością (rezygnując tym samym z jakiejkolwiek szansy na awans na torze).",
+   "13.4 Licytacja stron (Bidding for Sides)",
+   "Doświadczeni gracze mogą chcieć wybierać stronę i ustalać handicap Wpływów (Influence handicap) za pomocą ofert (bids). Gracze, którzy chcą licytować, powinni wykonać następujące kroki:",
+   "1. Każdy gracz powinien w tajemnicy zapisać na kartce nazwę strony i liczbę.",
+   "2. Następnie obie oferty zostają ujawnione:",
+   "a. Jeśli oferty wskazują różne strony, każdy gracz obejmuje stronę, którą zapisał, i gra się rozpoczyna.",
+   "b. Jeśli oferty wskazują tę samą stronę, obejmuje ją gracz, który zapisał wyższą liczbę. Przeciwnik tego gracza otrzymuje wtedy liczbę Punktów Wpływów (Influence) równą wyższej liczbie; rozmieszcza je podczas przygotowania gry, po umieszczeniu wszystkich pozostałych Wpływów (zob. niżej). Jeśli liczby są równe, strony ustala się losowo (rzutem kośćmi); gracz, który obejmie stronę niewskazaną w żadnej z ofert, otrzymuje wtedy te dodatkowe Wpływy.",
+   "Dodatkowe Wpływy (Additional Influence) otrzymane w ten sposób można umieszczać wyłącznie w państwach, w których gracz ma już Wpływy z przygotowania gry (według stanu na koniec zwykłej fazy przygotowania gry), i nie mogą one przekroczyć o więcej niż 2 liczby potrzebnej do Kontroli (Control) nad danym państwem."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Przygotowanie gry zostało zakończone, a gracz USA umieszcza dodatkowe Wpływy (additional Influence) z licytacji. USA mają 3 Punkty Wpływów w państwie o Poziomie Stabilizacji (Stability Number) 3, a ZSRR – 1. Ponieważ do Kontroli (Control) potrzeba 4 Punktów Wpływów, w chwili rozpoczęcia gry USA nie mogą mieć w tym państwie więcej niż 6 (4+2) Punktów Wpływów."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "SCENARIUSZ APOGEUM"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<f MyriadPro-BlackCond>do</f> Twilight Struggle",
+   "Autor: Volko Ruhnke",
+   "z magazynu C3i #19, prawa autorskie: RBM Studio",
+   "Jeśli korzystałeś ze swojego egzemplarza TS tak często jak ja, być może zauważyłeś, że karty Wydarzeń z Preludium i Eskalacji (Early and Mid War) wyglądają na nieco zużyte w porównaniu z rzadziej używanymi Wydarzeniami z Apogeum (Late War Events). Dla tych z was, którzy chcieliby od razu wskoczyć w okres po Grzęzawisku (Quagmire) i wypróbować świetne możliwości, jakie dają <b>Orzeł, który wylądował (Landed Eagle)</b>, karty <b><i><sc>Gwiezdne wojny (Star Wars)</sc></i></b> i <b><i><sc>Czarnobyl (Chernobyl)</sc></i></b> albo <b><i><sc>Aldrich Ames</sc></i></b>, <b><i><sc>Kryzys zakładników (Hostage Crisis)</sc></i></b> i <b><i><sc>Terroryzm (Terrorism)</sc></i></b>, oto scenariusz, który od razu przechodzi do rzeczy.",
+   "Moim zdaniem w strukturze Etapów gry (game-turn structure) poszczególne Etapy odpowiadają mniej więcej następującym latom:"
+  ]
+ },
+ "u7": {
+  "lines": [
+   "◊",
+   "Etap 1 (Turn 1) = 1945–1948",
+   "◊",
+   "Etap 2 (Turn 2) = 1949–1952",
+   "◊",
+   "Etap 3 (Turn 3) = 1953–1956",
+   "◊",
+   "Etap 4 (Turn 4) = 1957–1960",
+   "◊",
+   "Etap 5 (Turn 5) = 1961–1964",
+   "◊",
+   "Etap 6 (Turn 6) = 1965–1969",
+   "◊",
+   "Etap 7 (Turn 7) = 1970–1974",
+   "◊",
+   "Etap 8 (Turn 8) = 1975–1979",
+   "◊",
+   "Etap 9 (Turn 9) = 1980–1984",
+   "◊",
+   "Etap 10 (Turn 10) = 1985–1989"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Okres Apogeum (Late War period) zaczynałby się więc, powiedzmy, w 1975 roku, wraz z upadkiem Sajgonu. Tę właśnie datę (oraz pewną dawkę interpretacji, przekładającej historię na tkankę TS) wykorzystałem, by ustalić Wydarzenia (Events) i Wpływy (Influence) na otwarcie Scenariusza Apogeum.",
+   "Ku mojemu zaskoczeniu okazuje się, że w kategoriach gry USA zaczynają epokę po wojnie wietnamskiej w zdecydowanie silnej pozycji. Czy kostki domina się przewróciły, czy nie, USA nadal na przykład dominują (dominates) w Azji. Rozgrywki tego scenariusza pokazały, że automatyczne zwycięstwo USA jest całkiem w zasięgu, dlatego gracz ZSRR wygrywa w tym scenariuszu już za samo doprowadzenie do godniejszego schyłku socjalistycznego eksperymentu.",
+   "Miłej zabawy i spróbujcie, proszę, uniknąć <b>Nazajutrz</b>…"
+  ]
+ },
+ "_uwagi": "tr17_20 (2026-10-26): przekład z out/TS_20th_Ann_Rule_Book_WEB/p020.md; nawiasy EN wg GLOSARIUSZ.md K i GLOSARIUSZ_TS.md 0.4"
+}

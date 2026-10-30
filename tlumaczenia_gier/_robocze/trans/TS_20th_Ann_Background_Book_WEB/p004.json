@@ -1,0 +1,174 @@
+{
+ "_uwagi": "Nagłówki AR z ikonami: podkreślenie w tle (bez <u>). Łatką podzielone: u10/u36, u16/u32, u19/u33, u22/u34, u27/u31/u35. Ramka „Przewrót w Iranie”: wiersze wyśrodkowane; bez EN przy „Iran: 0/2 (Kontrola ZSRR)” i „Operacje Wojskowe ZSRR: 3” (szerokość białej ramki). u32: bez (Canada) i (US Influence); u25: bez (US Controlled); u35[2]: tytuł bez EN (EN w wierszu „Karta:” tego samego punktu, K.6 a).",
+ "u2": {
+  "paras": [
+   "RUNDY GRACZY (ACTION ROUNDS)"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "AR1 (ZSRR)"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Karta: <b><i><sc>Destalinizacja</sc></i></b> (<b><i><sc>De‑Stalinization</sc></i></b>, ZSRR, <b>3</b> Ops)"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "PRZEWRÓT W IRANIE (COUP IN IRAN)"
+  ]
+ },
+ "u6": {
+  "lines": [
+   "Poziom Stabilizacji (Stability Number)"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "Stabilizacja Iranu (Iran Stability): <f MyriadPro-Cond>2</f>"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Rzut kością:"
+  ]
+ },
+ "u9": "keep",
+ "u10": {
+  "paras": [
+   "<b>Siła Przewrotu (Coup strength)</b><br>= 4 + 3 − 4 = <b>3</b>"
+  ]
+ },
+ "u36": {
+  "paras": [
+   "<b>Iran:</b> 0/2 (Kontrola ZSRR)"
+  ]
+ },
+ "u11": "keep",
+ "u12": {
+  "paras": [
+   "Operacje Wojskowe ZSRR: <f MyriadPro-Cond>3</f>"
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> W Teheranie szanują siłę."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b>KENNEDY:</b> Ci, którzy uniemożliwiają pokojową rewolucję, sprawiają, że gwałtowna rewolucja staje się nieunikniona."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "AR1 (USA)"
+  ]
+ },
+ "u16": {
+  "paras": [
+   "Karta: <b><i>NORAD</i></b> (Wydarzenie USA)"
+  ]
+ },
+ "u32": {
+  "paras": [
+   "<b>NORAD</b> zaczyna obowiązywać. Jeśli w Rundzie (Action Round) DEFCON osiągnie 2, a Kanada (Canada) jest kontrolowana przez USA (US Controlled), USA mogą dodać 1 Punkt Wpływów (Influence) w dowolnym państwie zawierającym Wpływy USA. <b>NORAD</b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry (jego znacznik przypomina o efekcie)."
+  ]
+ },
+ "u17": {
+  "paras": [
+   "<b>KENNEDY:</b> Wczesne ostrzeganie nigdy nie szkodzi – może poza agresorem."
+  ]
+ },
+ "u18": {
+  "paras": [
+   "AR2 (ZSRR)"
+  ]
+ },
+ "u19": {
+  "paras": [
+   "Karta: <b><i><sc>Kryzys sueski</sc></i></b> (<b><i><sc>Suez Crisis</sc></i></b>, ZSRR, <b>3</b> Ops)"
+  ]
+ },
+ "u33": {
+  "paras": [
+   "<u>Poszerzanie Strefy Wpływów (Influence placement)</u>",
+   "• Syria: (0/2) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "• Irak (Iraq): (0/2)",
+   "• Pakistan: (0/1)"
+  ]
+ },
+ "u20": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Narody świata arabskiego budzą się i biorą swój los we własne ręce."
+  ]
+ },
+ "u21": {
+  "paras": [
+   "AR2 (USA)"
+  ]
+ },
+ "u22": {
+  "paras": [
+   "<f MinionPro-Cn>Karta:</f> <b><sc>Rezolucja formozańska</sc></b> (<b><sc>Formosan Resolution</sc></b>, USA, 2 Ops → 1 Op pod działaniem <b><sc>Czerwonej paniki</sc></b> (<b><sc>Red Scare</sc></b>))"
+  ]
+ },
+ "u34": {
+  "paras": [
+   "<u>Poszerzanie Strefy Wpływów (Influence placement)</u>",
+   "• Włochy (Italy): (4/0) <b><c #0072aa>Kontrola USA (US Control)</c></b>"
+  ]
+ },
+ "u23": {
+  "paras": [
+   "<b>KENNEDY:</b> Gdy tu dziś rywalizujemy, zamieszki i strajki pustoszą Półwysep Apeniński. Jeśli mamy ocalić Włochy, musimy działać natychmiast."
+  ]
+ },
+ "u24": {
+  "paras": [
+   "AR3 (ZSRR)"
+  ]
+ },
+ "u25": {
+  "paras": [
+   "Karta: <b><i><sc>Wojna arabsko-izraelska</sc></i></b> (<b><i><sc>Arab‑Israeli War</sc></i></b>, Wydarzenie ZSRR).",
+   "Żadne sąsiadujące państwo kontrolowane przez USA (US Controlled) nie daje modyfikatora.",
+   "<f MinionPro-Cn>•</f> <f MinionPro-Cn>Rzut kością: 3</f> (Wojna kończy się porażką, Wpływy (Influence) bez zmian)",
+   "• Operacje Wojskowe ZSRR (USSR Military Ops): 5"
+  ]
+ },
+ "u26": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> „Wysyłamy karabiny, a oni przysyłają nam wymówki.”"
+  ]
+ },
+ "u27": {
+  "paras": [
+   "AR3 (USA)"
+  ]
+ },
+ "u31": {
+  "paras": [
+   "Karta: <b><i><sc>Doktryna Trumana</sc></i></b> (<b><i><sc>Truman Doctrine</sc></i></b>, Wydarzenie USA)"
+  ]
+ },
+ "u35": {
+  "paras": [
+   "Usuwa wszystkie Wpływy ZSRR (USSR Influence) z jednego niekontrolowanego (uncontrolled) państwa europejskiego.",
+   "• Rumunia (Romania): (0/0)",
+   "<b><sc>Doktryna Trumana</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry."
+  ]
+ },
+ "u28": {
+  "paras": [
+   "<b>KENNEDY:</b> Narody Europy Wschodniej zasługują na prawo do decydowania o własnym losie!"
+  ]
+ },
+ "u29": {
+  "paras": [
+   "<b>CHRUSZCZOW</b> śmieje się: Myślisz, że Rumunia porzuci socjalizm? Jack, będziesz na to czekał, aż krewetka nauczy się gwizdać."
+  ]
+ }
+}

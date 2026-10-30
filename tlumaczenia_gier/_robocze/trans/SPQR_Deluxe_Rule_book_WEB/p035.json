@@ -1,0 +1,56 @@
+{
+ "_uwagi": "s. 35 – 9.6–9.72; akapit 9.66 przechodzi z u7[0] (lewa łama) do u9[0] (prawa łama).",
+ "u2": {
+  "paras": [
+   "9.6 RZYMSKI LEGION MANIPULARNY"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Największym postępem w dziedzinie taktyki wojskowej w tej epoce był legion „manipularny”, który Rzymianie zaczęli rozwijać gdzieś pod koniec III wieku p.n.e. Pozwalał on przełożyć rzymskie atuty – wyszkolenie i dyscyplinę – na elastyczność taktyczną, która często dawała Rzymowi przewagę, nawet gdy jego wodzowie jej nie mieli. Dlatego armie rzymskie mają pewne zalety, z których większość omówiono już wyżej; w tym podrozdziale zebrano je w skrócie."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>9.61</b> Korzyści legionów przy łączeniu w stosy (stacking) zestawiono w tabelach łączenia w stosy (Stacking Charts). W przypadku Rzymian praktyczna zasada brzmi: dwa oddziały rzymskiej piechoty o tym samym kolorze obramowania (border color) mogą tworzyć stos bez kar. Istnieją wyjątki, np. welici (Velites). Stos rzymski (Roman stack) może poruszać się razem, gdy jest to konieczne lub pożądane. Ruch dwóch oddziałów w stosie wymaga dwóch rozkazów indywidualnych (Individual Orders) – tylko jednego, jeśli stos jest razem z wodzem naczelnym (OC), który wydaje rozkazy – ale tylko jednego rozkazu liniowego (LC), jeśli oba oddziały są do niego uprawnione. Rzymska piechota może też przy ustalaniu linii (lines) mieć między sobą odstępy; zob. 4.32.",
+   "<b>9.62</b> Rzymskie oddziały w stosie sumują liczebność (Size) w ataku i w obronie, ale wszystkie pozostałe współczynniki, zwłaszcza TQ, są współczynnikami oddziału wierzchniego (top unit). Rzymianie w stosie muszą atakować w starciu (Shock attack) ten sam heks; zob. 8.42. Strzelać może tylko oddział wierzchni. Każdy oddział wykonuje własny test TQ, ale z TQ oddziału wierzchniego. Automatyczne ubytki spójności (Cohesion Hits, 6.68) otrzymuje każdy oddział w stosie. Ubytki spójności z kroku 4 rozstrzygania starcia (8.46) przydziela się zgodnie z 10.13.",
+   "<b>9.63</b> Rzymskie oddziały w stosie o różnych kolorach obramowania albo o tym samym kolorze, lecz różnych klasach, otrzymują DRM +1 do wszystkich testów TQ.",
+   "<b>9.64</b> Kolejność w stosie rzymskim (Roman Stacking order) można zmienić/zamienić tylko rozkazem indywidualnym (Individual Order); <i>nie</i> może to być częścią ruchu ani rozkazu liniowego (Line Command), choć front (facing) można zmienić rozkazem liniowym (LC). Jeśli gracz chce poruszyć tylko jednym oddziałem ze stosu, może się poruszyć tylko oddział wierzchni.",
+   "<b>9.65</b> Rzymska piechota płaci 1 MP za zmianę frontu (facing), ale – w odróżnieniu od większości innych oddziałów – może się obrócić o dowolną liczbę wierzchołków."
+  ]
+ },
+ "u5": {
+  "lines": [
+   "Rozstawienie wyjściowe"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Po manipularnym wydłużeniu linii"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>9.66 Manipularne wydłużenie linii (Manipular Line Extension):</b> Rzymskie oddziały w stosach, mające niezajęte heksy skrzydłowe, mogą wydłużyć swoją linię w ramach rozkazu liniowego (Line Command) albo w reakcji na ruch wroga, zamiast wykonywać uporządkowany odwrót (Orderly Withdrawal). Aby przeprowadzić manipularne wydłużenie linii (MLE), oddziały wierzchnie (top units) wszystkich"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "stosów należących do tej samej linii (Line; zob. 4.32) <i>mogą</i> przesunąć się w bok na wolne heksy skrzydłowe (zob. diagram powyżej). Jeśli heks skrzydłowy (Flank hex) jest zajęty, manipularnego wydłużenia linii (MLE) <i>nie można</i> użyć do umieszczenia oddziału w tym heksie. Heks, na który oddział wchodzi w ramach MLE, musi być terenem otwartym (Clear) i <i>nie</i> może leżeć w strefie kontroli (ZOC) wroga. Ustawienie frontu (facing) pozostaje bez zmian. Zasada ta dotyczy wyłącznie rozłączania stosów; nie dotyczy łączenia oddziałów w stosy.",
+   "<b>9.67</b> W reakcji na ruch wroga manipularne wydłużenie linii (MLE) można przeprowadzić w chwili, gdy oddział bojowy wroga znajdzie się w odległości do 2 heksów od linii (line) rzymskich oddziałów w stosach. Gracz rzymski może dokonać wyboru w dowolnym momencie, w którym jakikolwiek oddział wroga znajdzie się w takim położeniu (tzn. nie musi korzystać ze swojego prawa do MLE, gdy tylko pojawi się ono po raz pierwszy). Jeśli ruch wroga uruchamia zarówno uporządkowany odwrót (Orderly Withdrawal), jak i manipularne wydłużenie linii (MLE), można przeprowadzić oba jednocześnie, ale nie tymi samymi oddziałami.",
+   "PRZYKŁAD: Oddział welitów (Velites) stojący między dwoma stosami hastati może – gdy zbliża się do niego, powiedzmy, falanga (Phalanx) wroga – wycofać się (withdraw) przez luki w linii (line) hastati, a gdy tylko przejdzie przez lukę, linia hastati może przeprowadzić manipularne wydłużenie linii (MLE).",
+   "<b>9.68</b> Manipularne wydłużenie linii (MLE) można też przeprowadzić w ramach rozkazu liniowego (Line Command) – wyłącznie takiego rozkazu. Jeśli przeprowadza się je w ramach rozkazu liniowego (LC), oba oddziały mogą po MLE kontynuować ruch, ale ze zdolnością ruchu (MA) zmniejszoną o 2. Za manipularne wydłużenie linii nie nalicza się ubytków spójności (Cohesion Hits). Oddziały w kolumnie (Units in Column) nie mogą korzystać z MLE.",
+   "9.7 DOKTRYNA TAKTYCZNA RZYMSKICH TRIARII",
+   "Tę zasadę trzeba stosować w każdej bitwie z udziałem Rzymian, która rozegrała się przed 200 r. p.n.e. i w której Scypion Afrykański nie występuje jako wódz naczelny (Overall Commander) – i tak, choć historycznie Scypion był pod Kannami (Cannae), na potrzeby gry go tam nie było, więc pod Kannami należy ją stosować. Odzwierciedla ona sposób, w jaki Rzymianie wykorzystywali swoich triarii, a doktryna była dla Rzymu odpowiednikiem niepodważalnego dogmatu.",
+   "<b>9.71</b> Oddziały triarii <i>nie mogą</i> się poruszać, ale mogą zmieniać ustawienie frontu (facing), dopóki nie zajdzie jedna z następujących sytuacji:",
+   "• w odległości do 3 heksów od któregokolwiek oddziału linii triarii (Triarii line) i w jego linii widzenia (LOS) znajduje się oddział bojowy wroga inny niż oddział słoni (Elephant), <i>albo</i>",
+   "• oddziały triarii znajdują się w odległości co najmniej 6 heksów od wszystkich pozostałych linii piechoty rzymskiej lub piechoty ali (Ala) – ale <i>nie</i> piechoty sprzymierzeńców (allied) – czy to hastati, principes, czy jakiejkolwiek innej.",
+   "<b>9.72</b> Oddziały triarii <i>nie mogą</i> poruszać się i atakować w starciu (Shock attack), dopóki armia rzymska nie zgromadzi punktów rozbicia (Rout Points) w liczbie równej co najmniej połowie swojego progu wycofania armii (Army Withdrawal Level), z zaokrągleniem w dół. Zawsze mogą jednak atakować w starciu – bez ruchu – oddziały wroga w swojej strefie kontroli (ZOC)."
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_uwagi": "sp1_9. u2: nagłówek 4.3 wydzielony łatką z akapitu 4.31 (w units scalone). Nawiasy zagnieżdżone z md rozwiązane wg K.4 (4.32: harcownicy/welici bez EN w nawiasie wyjątku; „two-space or three-space Line”; 4.33: „Initial, non-Momentum Orders Phase”; „Line Commands” zamiast „Line Command(s)”).",
+ "u2": {
+  "paras": [
+   "4.2 MOŻLIWOŚCI DOWÓDCÓW: ROZKAZY INDYWIDUALNE",
+   "<b>4.21</b> Dowódca może wydawać rozkazy indywidualne (Individual Orders, IO) dowolnym własnym oddziałom bojowym w swoim zasięgu dowodzenia (Command Range). Zasięg dowodzenia mierzy się niezablokowaną ścieżką heksów między dowódcą a oddziałem, nie dłuższą niż ten zasięg. Wlicza się heks oddziału, ale nie dowódcy. Ścieżkę blokuje:",
+   "• heks zajęty przez oddział wroga;",
+   "• heks w strefie kontroli (Zone of Control, ZOC) wroga;",
+   "• albo teren, którego dowódca nie mógłby przekroczyć lub na który nie mógłby wejść.",
+   "Przy wyznaczaniu ścieżek rozkazów własne oddziały znoszą strefy kontroli wroga. Wszystkie pozostałe ścieżki uważa się za niezablokowane. Zasięgi dowodzenia ustala się w chwili wydawania rozkazu.",
+   "<b>4.22</b> Rozkaz indywidualny (IO) pozwala jednemu własnemu oddziałowi wykonać ruch i/lub ostrzał (Missile Fire), zostać zebranym (rallied) itd. zgodnie z 5.22. W każdej fazie rozkazów (Orders Phase) dowódca może wydać tyle rozkazów indywidualnych, ile wynosi jego współczynnik inicjatywy. Gdy dowódca nie może już wydawać rozkazów ani zostać ponownie aktywowany, odwróć jego żeton na stronę „zakończony” (Finished).",
+   "<b>4.23</b> Dowódca może wydać rozkaz indywidualny (IO) samemu sobie, aby wykonać ruch; rozkaz ten wlicza się do liczby rozkazów, jakie może wydać w danej fazie rozkazów. Dowódca może zamiast tego wydać rozkaz indywidualny oddziałowi, z którym jest połączony w stos, i poruszać się razem z nim. Musi wówczas pozostawać przy poruszającym się oddziale bojowym i zakończyć ruch w tym samym heksie.",
+   "<b>4.24</b> Dowódca inny niż wódz naczelny (OC), znajdujący się w strefie kontroli (ZOC) wroga, nie może wydawać rozkazów ani oddziałom bojowym, ani sobie, a zatem nie może jej opuścić, dopóki nie zostanie z niej wyprowadzony rozkazem indywidualnym (IO) wodza naczelnego (4.4). Jedynym rozkazem indywidualnym (IO), jaki wódz naczelny (OC) znajdujący się w strefie kontroli (ZOC) wroga może wydać, jest rozkaz ruchu samemu sobie. Zob. też 5.26.",
+   "<b>4.25</b> Dowódca zakończony (Finished, 5.15) nie może wydawać rozkazów. Może jednak wykonać ruch, ale tylko na rozkaz wodza na­czel⁠nego (OC).",
+   "4.3 MOŻLIWOŚCI DOWÓDCÓW: ROZKAZY LINIOWE",
+   "<b>4.31</b> Uprawniony dowódca może – <i>zamiast</i> wydawać rozkazy indywidualne (Individual Orders) – wydać jeden lub więcej rozkazów liniowych (Line Commands), w liczbie określonej przez współczynnik rozkazów liniowych. Każdy rozkaz liniowy pozwala dowódcy wydać rozkaz niektórym lub wszystkim oddziałom bojowym tworzącym linię (Line, 4.32). Oddziały mogące tworzyć linię wymieniono w tabeli uprawnień do rozkazów liniowych (Line Command Eligibility Chart) każdego scenariusza. Liczba oddziałów linii objętych takim rozkazem jest nieograniczona, a w działaniu <i>nie</i> muszą brać udziału wszystkie uprawnione oddziały linii. Oddziały linii nie muszą podczas ruchu trzymać się razem, choć rozdzielanie ich to proszenie się o katastrofę organizacyjną.",
+   "<b>4.32 Skład linii (Line Composition):</b> Aby odzwierciedlić poziom wyszkolenia i dyscypliny, a także sposób taktycznego użycia, oddziały większości linii muszą ze sobą sąsiadować. Każda przerwa między oddziałami kończy linię. W niektórych innych liniach każdy oddział musi się znajdować w odległości nie większej niż 2 (a niekiedy 3) heksy od co najmniej jednego innego oddziału linii. Jeśli między oddziałami jest wolna przestrzeń, nie może jej zajmować oddział wroga ani własny oddział z innej linii (wyjątkiem są harcownicy i welici, zob. 9.2) i nie może ona leżeć w strefie kontroli (ZOC) wroga. Oddziały, które mogą tworzyć linię z odstępami do 2 (lub 3) heksów (two-space or three-space Line), wskazano w tabeli uprawnień do rozkazów liniowych (Line Command Eligibility Chart) scenariusza."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Linia (Line) może mieć dowolną długość, pod warunkiem że oddziały spełniają wymogi sąsiedztwa, a wszystkie oddziały linii mają to samo ustawienie – albo skrzydłem do skrzydła (Flank-to-Flank), albo (ale nie: <i>i</i>) frontem do tyłu (Front-to-Rear; zob. 7.1). Dla oddziałów w kolumnie (In Column) heksy skrzydłowe (Flank hexes) przylegające do heksu tylnego (Rear hex) traktuje się jak heksy tylne. Jeśli oddziały spełniają wymogi sąsiedztwa, ale nie mają tego samego ustawienia, do linii można włączyć tylko te z nich, które są w zasięgu dowodzenia dowódcy.",
+   "PRZYKŁAD (Example): W początkowym rozstawieniu bitwy pod Kannami (Cannae) jazda kartagińskiego lewego skrzydła (Left Wing) spełnia warunki tworzenia linii (Line eligibility requirements), ponieważ wszystkie jej oddziały sąsiadują ze sobą i znajdują się w zasięgu dowodzenia Hazdrubala. Rzymscy welici sąsiadują ze sobą i stoją skrzydłem do skrzydła, więc wszystkich można włączyć do linii, nawet jeśli nie znajdują się w zasięgu dowodzenia żadnego dowódcy."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Zmiany tej zasady w poszczególnych scenariuszach odzwierciedlają teorię taktyczną różnych okresów. Na przykład pod Beneventum triarii nie mogą tworzyć linii z odstępami do 2 heksów (two-space Line) ze względu na teorię, że byli ostatnią linią obrony na wzór falangi. Przed bitwą nad Bagradasem Rzymianie przekonali się już, co słonie potrafią zrobić z taką linią, i dostosowali się mądrze (choć niekoniecznie dobrze)."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>4.33 Uprawnienia do rozkazów liniowych (Line Command Eligibility):</b> Możliwość wydania przez dowódcę rozkazu liniowego zależy od jego miejsca w hierarchii dowodzenia i od rodzaju fazy rozkazów (Orders Phase). Wydając rozkaz liniowy, dowódca musi rozpocząć swoją fazę rozkazów w odległości do 2 heksów od co najmniej jednego oddziału tej linii i mieć do niego wolną linię widzenia (LOS, 8.14). Słonie nie blokują w tym przypadku linii widzenia. Dowódca nie może znajdować się w strefie kontroli (ZOC) wroga. Wodzowie naczelni (OC) mający zdolność wydania 2 rozkazów liniowych (2 LC capability), np. Hannibal, muszą rozpocząć fazę rozkazów w odległości do 2 heksów od <i>obu</i> linii (Lines), którym wydają rozkazy liniowe. <i>Nie</i> mogą wydać jednego rozkazu liniowego, wykonać ruchu, a następnie wydać drugiego.",
+   "Wodzowie naczelni (Overall Commanders)",
+   "Wódz naczelny (OC) może wydawać rozkazy liniowe (Line Commands) w swoich fazach rozkazów: początkowej (Initial) oraz uzyskanych dzięki impetowi (Momentum-generated).",
+   "Dowódcy podlegli (Subordinate Commanders)",
+   "Dowódca podległy (SC) może wydawać rozkazy liniowe (Line Commands) w swojej początkowej fazie rozkazów, niewynikającej z impetu (non-Momentum), jeśli:",
+   "1. rozpoczyna swoją fazę rozkazów w zasięgu dowodzenia (Command Range) swojego wodza naczelnego (OC); <i>albo</i>",
+   "2. znajduje się poza zasięgiem dowodzenia swojego wodza naczelnego (OC), a gracz, do którego należy dowódca, wykona rzut kością – stosując modyfikator (DRM) +1, jeśli którykolwiek z oddziałów proponowanej linii znajduje się w strefie kontroli wroga – i wynik będzie równy współczynnikowi strategicznemu (Strategy Rating) wodza naczelnego lub od niego niższy. Jeśli będzie wyższy, dowódca może wydawać wyłącznie rozkazy indywidualne (Individual Orders).",
+   "<b><i>Wyjątek nr 1:</i></b> Tylko w pierwszej turze gry dowódca może automatycznie wydawać rozkazy liniowe (LC) niezależnie od odległości od wodza naczelnego (OC).",
+   "<b><i>Wyjątek nr 2:</i></b> Zob. dowodzenie kartagińskie (Carthaginian Command, 4.6), które zastępuje wszystkie powyższe postanowienia.",
+   "Dowódca podległy (SC) może wydać rozkaz liniowy (Line Command) w fazie rozkazów uzyskanej dzięki impetowi (Momentum-generated) tylko wtedy, gdy gracz wykona rzut na współczynnik strategiczny wodza naczelnego (OC) zgodnie z pkt 2 powyżej. Dowódca nie może wydać rozkazu liniowego, jeśli nie wydał go w początkowej fazie rozkazów."
+  ]
+ }
+}

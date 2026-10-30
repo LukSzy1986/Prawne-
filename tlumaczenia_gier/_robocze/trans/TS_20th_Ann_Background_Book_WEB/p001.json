@@ -1,0 +1,55 @@
+{
+ "_uwagi": "Okładka i spis treści (tb1_4). Kropki wiodące z tła zakrywa u11 (łatka); kropki składa trans (Schola, siatka do x 419,5). Pozycje spisu co 23 pt, poz. 3 w dwóch wierszach (QA r3). Tytuły spisu bez nawiasów EN (K.4). Tytuł zeszytu: KSIĘGA TŁA HISTORYCZNEGO + (BACKGROUND BOOK) – drugi akapit dodany łatką (glosariusz TS 4.4).",
+ "u1": {
+  "lines": [
+   "Przykład rozgrywki<f CenturySchoolbook> ......................................................</f>"
+  ]
+ },
+ "u2": {
+  "paras": [
+   "Pułapki DEFCON w <b><i>Twilight Struggle</i></b><f MinionPro-Cn> </f><f CenturySchoolbook>...............................</f>"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<b><i>Wschodzące czerwone słońce:</i></b> historia alternatywna<br>i uwagi projektanta<f MyriadPro-Cond> </f><f CenturySchoolbook>.......................................................</f>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Dwadzieścia lat zmagań<f CenturySchoolbook> ................................................</f>"
+  ]
+ },
+ "u5": {
+  "lines": [
+   "<f MyriadPro-Cond>Uwagi projektantów</f> Twilight Struggle<f MyriadPro-Cond> </f><f CenturySchoolbook>................................</f>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Karty: tło i historia<f CenturySchoolbook> .......................................................</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "KSIĘGA TŁA HISTORYCZNEGO",
+   "(BACKGROUND BOOK)"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "SPIS TREŚCI"
+  ]
+ },
+ "u9": "keep",
+ "u11": {
+  "lines": [
+   "<hl #f7e1c8>                                                                                  </hl>",
+   "<hl #f7e1c8>                                                                                  </hl>",
+   "<hl #f7e1c8>                                                                                  </hl>",
+   "<hl #f7e1c8>                                                                                  </hl>",
+   "<hl #f7e1c8>                                                                                  </hl>",
+   "<hl #f7e1c8>                                                                                  </hl>"
+  ]
+ }
+}

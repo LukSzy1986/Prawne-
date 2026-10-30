@@ -1,0 +1,66 @@
+dok	strona	cytat_PL	poprawka_PL	gdzie	id	uwagi
+TS_20th_Ann_Background_Book_WEB	16	bywa podchwytliwe: może do tego dojść	bywa niełatwe: może do tego dojść	md	tsbb_9_16#1	sens/I
+TS_20th_Ann_Background_Book_WEB	16	bywa pod­chwy­tliwe: może do tego	bywa niełatwe: może do tego	json	tsbb_9_16#2	sens/I
+TS_20th_Ann_Background_Book_WEB	16	DEFCON może zmniejszyć bezpośrednio samo Wydarzenie (Event)	DEFCON może zostać zmniejszony bezpośrednio przez samo Wydarzenie (Event)	md	tsbb_9_16#3	skladnia/I
+TS_20th_Ann_Background_Book_WEB	16	DEFCON może bez­po­śre­dnio zmniej­szyć samo Wy­da­rze­nie (Event)	DEFCON może zostać zmniejszony przez samo Wydarzenie (Event)	json	tsbb_9_16#4	skladnia/I
+TS_20th_Ann_Background_Book_WEB	16	To bolesny sposób na uniknięcie pułapki DEFCON	To może być bolesny sposób na uniknięcie pułapki DEFCON	oba	tsbb_9_16#5	sens/D
+TS_20th_Ann_Background_Book_WEB	16	Współautor gry Jason Matthews	Współprojektant gry Jason Matthews	oba	tsbb_9_16#6	termin/D
+TS_20th_Ann_Background_Book_WEB	11	(modyfikator -1 = 2)	(modyfikator −1 = 2)	oba	tsbb_9_16#7	typografia/D
+TS_20th_Ann_Background_Book_WEB	11	Wojna w Korei</sc></b> to Wydarzenie z gwiazdką (*) – zostaje usunięte z gry.	Wojna w Korei</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry.	json	tsbb_9_16#8	pominiecie/D
+TS_20th_Ann_Background_Book_WEB	9	KONIEC ETAPU DRUGIEGO (END OF TURN TWO)	KONIEC ETAPU DRUGIEGO	json	tsbb_9_16#9	termin/D
+TS_20th_Ann_Background_Book_WEB	10	Sąsiadujące państwa kontrolowane (Controlled):	Sąsiadujące kontrolowane państwa (Controlled):	json	tsbb_9_16#10	termin/D
+TS_20th_Ann_Background_Book_WEB	10	Wojna indyjsko-pakistańska</sc></i></b> (neutralna, 2 Ops)	Wojna indyjsko-pakistańska</sc></i></b> (<b><i><sc>Indo‑Pakistani War</sc></i></b>, neutralna, 2 Ops)	json	tsbb_9_16#11	termin/D
+TS_20th_Ann_Background_Book_WEB	12	Wojna arabsko-izraelska</sc></i></b> (Wydarzenie ZSRR)	Wojna arabsko-izraelska</sc></i></b> (<b><i><sc>Arab‑Israeli War</sc></i></b>, Wydarzenie ZSRR)	json	tsbb_9_16#13	termin/D
+TS_20th_Ann_Background_Book_WEB	25	wywołana inwazją Korei Północnej przez 38. równoleżnik	wywołana północnokoreańską inwazją przez 38. równoleżnik	oba	tsbb_25_32#1	sens/I
+TS_20th_Ann_Background_Book_WEB	26	sporom między służbami, które w czasie II wojny światowej szkodziły	międzysłużbowym sporom, które w czasie II wojny światowej szkodziły	oba	tsbb_25_32#4	skladnia/D
+TS_20th_Ann_Background_Book_WEB	26	przez Nasera Izrael, Francja	przez Nasera, Izrael, Francja	oba	tsbb_25_32#5	interpunkcja/D
+TS_20th_Ann_Background_Book_WEB	27	najwyraźniej uwidoczniły to próba wyprowadzenia Węgier	najdobitniej uwidoczniły to próba wyprowadzenia Węgier	oba	tsbb_25_32#6	sens/I
+TS_20th_Ann_Background_Book_WEB	27	nieograniczone w czasie uprawnienia do obrony siłą zbrojną Tajwanu	nieograniczone uprawnienia do obrony siłą zbrojną Tajwanu	oba	tsbb_25_32#7	sens/D
+TS_20th_Ann_Background_Book_WEB	27	Rezolucja zapadła w czasie, gdy	Rezolucję przyjęto w czasie, gdy	oba	tsbb_25_32#8	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	27	a następnie podnieś (improve) DEFCON o dwa poziomy	a następnie podnosi (improve) DEFCON o dwa poziomy	md	tsbb_25_32#9	gramatyka/D
+TS_20th_Ann_Background_Book_WEB	28	Przez 14 dni października 1962 roku	Przez 14 dni w październiku 1962 roku	oba	tsbb_25_32#10	skladnia/D
+TS_20th_Ann_Background_Book_WEB	28	Choć amerykański rząd mógł nigdy nie zdać sobie sprawy	Choć amerykański rząd być może nigdy nie zdał sobie sprawy	oba	tsbb_25_32#11	skladnia/D
+TS_20th_Ann_Background_Book_WEB	29	W epoce pozornie rosnącej radzieckiej pychy	W epoce rosnącej, jak się zdawało, radzieckiej pychy	oba	tsbb_25_32#12	sens/I
+TS_20th_Ann_Background_Book_WEB	29	zadaną przez z pozoru słabsze siły	zadaną przez pozornie słabsze siły	oba	tsbb_25_32#13	skladnia/D
+TS_20th_Ann_Background_Book_WEB	29	przewija się przez całą ówczesną literaturę i dał początek	przewijał się przez całą ówczesną literaturę i dał początek	oba	tsbb_25_32#14	gramatyka/D
+TS_20th_Ann_Background_Book_WEB	31	ogólną ambiwalencję wobec użycia siły zbrojnej, która była skutkiem amerykańskich doświadczeń w Wietnamie	ogólną ambiwalencję wobec użycia siły zbrojnej, będącą skutkiem amerykańskich doświadczeń w Wietnamie	oba	tsbb_25_32#18	skladnia/I
+TS_20th_Ann_Background_Book_WEB	31	jego przydatność dla amerykańskiej armii znacznie zmalała	jego przydatność dla amerykańskich sił zbrojnych znacznie zmalała	oba	tsbb_25_32#19	termin/D
+TS_20th_Ann_Background_Book_WEB	32	założona w konkretnym celu promowania demokracji	założona z wyraźnym celem promowania demokracji	oba	tsbb_25_32#20	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	32	bywała niekiedy użytecznym narzędziem	bywała użytecznym narzędziem	oba	tsbb_25_32#21	skladnia/D
+TS_20th_Ann_Background_Book_WEB	32	do karty OPA dopisano	do Karty OPA dopisano	oba	tsbb_25_32#22	ortografia/D
+TS_20th_Ann_Background_Book_WEB	32	Rewizja karty ustanowiła	Rewizja Karty ustanowiła	oba	tsbb_25_32#23	ortografia/D
+TS_20th_Ann_Background_Book_WEB	32	przykładami zabójstw popieranych przez państwo	przykładami zabójstw sponsorowanych przez państwo	oba	tsbb_25_32#24	sens/D
+TS_20th_Ann_Background_Book_WEB	33	stać jedną nogą w każdym z obozów	zachować oparcie w obu obozach	oba	tsbb_33_40#1	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	33	przedsięwzięć nadawania międzynarodowego	międzynarodowych przedsięwzięć nadawczych	oba	tsbb_33_40#2	skladnia/D
+TS_20th_Ann_Background_Book_WEB	34	Nowo zainstalowany przywódca irańskiej teokracji	Nowo osadzony u władzy przywódca irańskiej teokracji	oba	tsbb_33_40#3	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	34	Na domiar upokorzenia Cartera zakładników formalnie przekazano	Jako ostatni policzek dla Cartera zakładników formalnie przekazano	oba	tsbb_33_40#4	skladnia/I
+TS_20th_Ann_Background_Book_WEB	34	radzieckiej gazety *Czerwona Gwiazda*	radzieckiej gazety „Czerwona Gwiazda”	md	tsbb_33_40#5	typografia/D
+TS_20th_Ann_Background_Book_WEB	34	radzieckiej gazety <i>Czerwona Gwiazda</i>	radzieckiej gazety „Czerwona Gwiazda”	json	tsbb_33_40#6	typografia/D
+TS_20th_Ann_Background_Book_WEB	35	następca krótkotrwałych rządów Konstantina Czernienki	który objął władzę po krótkotrwałych rządach Konstantina Czernienki	oba	tsbb_33_40#7	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	35	dokładna odpowiedzialność pozostaje nieustalona	kto dokładnie ponosi odpowiedzialność, nie ustalono	oba	tsbb_33_40#8	kolokacja/I
+TS_20th_Ann_Background_Book_WEB	35	Działali też terroryści z siedzibą na Zachodzie, powiązani z komunistami, tacy jak	Byli też terroryści działający na Zachodzie, powiązani z komunistami, tacy jak	oba	tsbb_33_40#9	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	36	Na fali skutków wzrostu znaczenia bliskowschodniej ropy	Na fali wzrostu znaczenia bliskowschodniej ropy	oba	tsbb_33_40#10	skladnia/D
+TS_20th_Ann_Background_Book_WEB	36	nadal zaciągały zadłużenie zagraniczne	nadal powiększały zadłużenie zagraniczne	oba	tsbb_33_40#11	kolokacja/I
+TS_20th_Ann_Background_Book_WEB	36	że Sowieci przeprowadzili zmasowany atak	że Sowieci rozpoczęli zmasowany atak	md	tsbb_33_40#13	sens/D
+TS_20th_Ann_Background_Book_WEB	36	by w razie przeprowadzania przez przeciwnika zmasowanego uderzenia jądrowego odpalić własną broń	by w razie zmasowanego uderzenia jądrowego przeciwnika odpalić własną broń	md	tsbb_33_40#15	skladnia/D
+TS_20th_Ann_Background_Book_WEB	38	Głośne ryzyko polityczne związane z tą transakcją	Nagłośnione ryzyko polityczne związane z tą transakcją	oba	tsbb_33_40#17	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	39	przelewając ogromne bogactwa mineralne na prywatne konta	wyprowadzając ogromne bogactwa mineralne na prywatne konta	oba	tsbb_33_40#18	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	39	rąk do pracy, prawomocności i perspektyw	rąk do pracy, legitymizacji i perspektyw	oba	tsbb_33_40#19	termin/I
+TS_20th_Ann_Background_Book_WEB	39	co podważało gospodarczą i polityczną zdolność do przetrwania kraju, który	co podważało gospodarczą i polityczną żywotność kraju, który	oba	tsbb_33_40#20	skladnia/D
+TS_20th_Ann_Background_Book_WEB	39	równie bezlitosnymi, co	równie bezlitosnymi jak	oba	tsbb_33_40#21	interpunkcja/D
+TS_20th_Ann_Background_Book_WEB	40	niebezpiecznie podatny na zachodni przymus	niebezpiecznie narażony na zachodni przymus	oba	tsbb_33_40#22	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	40	lub dla swojego Wydarzenia (for its Event)	lub jako Wydarzenie (for its Event)	md	tsbb_33_40#23	termin/I
+TS_20th_Ann_Background_Book_WEB	41	zmusiło Hiszpanów do zważenia suwerenności i neutralności wobec obietnicy	zmusiło Hiszpanów do wyboru między suwerennością i neutralnością a obietnicą	oba	tsbb_41_48#1	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	41	Choć stan wojenny zdławił otwarty opór i czasowo ustabilizował reżim, nie zdołał zniszczyć	Stan wojenny zdławił wprawdzie otwarty opór i czasowo ustabilizował reżim, nie zdołał jednak zniszczyć	oba	tsbb_41_48#2	skladnia/D
+TS_20th_Ann_Background_Book_WEB	41	wyciągnęli surowe wnioski z szybkiego upadku Francji	wyciągnęli gorzkie wnioski z szybkiego upadku Francji	oba	tsbb_41_48#3	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	41	m.in. w operacjach psychologicznych i do tajnego wspierania sił antykomunistycznych	m.in. do operacji psychologicznych i tajnego wspierania sił antykomunistycznych	oba	tsbb_41_48#4	skladnia/D
+TS_20th_Ann_Background_Book_WEB	42	napięte stosunki na południowo-wschodniej flance NATO i trwałą lekcję o tym	napięte stosunki na południowo-wschodniej flance NATO i niezatartą lekcję o tym	oba	tsbb_41_48#6	skladnia/D
+TS_20th_Ann_Background_Book_WEB	42	nasilił operacje przeciwpartyzanckie przeciwko wiejskim ruchom partyzanckim w Guerrero, kierowanym przez	nasilił operacje przeciwpartyzanckie wymierzone w wiejskie ruchy partyzanckie w Guerrero, kierowane przez	oba	tsbb_41_48#7	skladnia/D
+TS_20th_Ann_Background_Book_WEB	42	lecz także znamię kraju, który niegdyś uczynił rewolucję	lecz także piętno kraju, który niegdyś uczynił rewolucję	oba	tsbb_41_48#8	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	43	Powiedzenie „Terrorysta dla jednego jest bojownikiem o wolność dla drugiego” stało się	Powiedzenie „Dla jednych terrorysta, dla innych bojownik o wolność” stało się	oba	tsbb_41_48#9	skladnia/D
+TS_20th_Ann_Background_Book_WEB	43	ruchy te były notorycznie trudne do zaklasyfikowania	ruchy te były wyjątkowo trudne do zaklasyfikowania	oba	tsbb_41_48#10	kolokacja/I
+TS_20th_Ann_Background_Book_WEB	44	łączyło indonezyjski samorząd z zachodnimi gwarancjami	łączyło autonomię Indonezji z zachodnimi gwarancjami	oba	tsbb_41_48#12	sens/D
+TS_20th_Ann_Background_Book_WEB	44	Z historycznego punktu widzenia Chiny jako mocarstwo regionalne byłyby	W rzeczywistej historii Chiny jako mocarstwo regionalne byłyby	md	tsbb_41_48#13	sens/D
+TS_20th_Ann_Background_Book_WEB	45	Z historycznego punktu widzenia Chiny jako mocarstwo regionalne byłyby	W rzeczywistej historii Chiny jako mocarstwo regionalne byłyby	json	tsbb_41_48#14	sens/D
+TS_20th_Ann_Background_Book_WEB	45	początkowo niechętnie naciskał dalej na świat zachodni, nie chcąc ryzykować już osiągniętych zdobyczy	początkowo wzbraniał się przed dalszym naciskaniem na świat zachodni, by nie ryzykować już osiągniętych zdobyczy	oba	tsbb_41_48#15	sens/I
+TS_20th_Ann_Background_Book_WEB	46	kruchość relacji z państwami klientami, opartych na władzy osobistej	kruchość relacji z państwami klienckimi, opartych na władzy osobistej	oba	tsbb_41_48#18	termin/I

@@ -1,0 +1,73 @@
+{
+ "_uwagi": "s. 11 (sp10_18): 5.11 dzielone u6[1] → u8[0] jak w oryginale; 4.91 „Order Phase” – błąd oryginału (EN jak w oryginale)",
+ "u2": {
+  "paras": [
+   "<b>4.85</b> Słonie dowódców (Leader Elephants) mogą bez dodatkowego kosztu tworzyć stos z dowolnymi innymi własnymi oddziałami poza jazdą. Automatycznie przyjmują ustawienie frontu (facing) oddziału bojowego, z którym tworzą stos. Mogą też bez kosztów zmieniać front.",
+   "4.9 DOWODZENIE SŁONIAMI<br>(ZASADA OPCJONALNA)",
+   "<b>4.91</b> Gdy oddziały słoni (Elephant units) po raz pierwszy w bitwie otrzymują rozkazy, odbywa się to normalnie. Potem są jednak tylko dwa sposoby wydania słoniom rozkazów indywidualnych lub liniowych (IO/LC) do ruchu:"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "5.0 AKTYWACJA DOWÓDCÓW I ROZKAZY"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Oddziały bojowe mogą wykonywać ruch i walczyć tylko na rozkaz swoich dowódców. Dowódcy wydają w fazie rozkazów (Orders Phase) rozkazy indywidualne (Individual Orders) lub liniowe (Line Commands). Nie mogą wydawać rozkazów, dopóki nie zostaną aktywowani. Dzięki zasadzie impetu (Momentum) gracze mogą dać aktywowanemu dowódcy do dwóch dodatkowych faz rozkazów. Mogą też użyć opcji przebicia (Trump Option), by aktywować dowódcę wcześniej niż zwykle."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b><c #ed1f24>WAŻNE:</c></b> Dla zwięzłości słowo „rozkazy” oznacza także rozkaz liniowy (LC), chyba że zasada wyraźnie używa terminu rozkaz indywidualny (IO), by odróżnić go od rozkazu liniowego."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "5.1 JAK AKTYWOWAĆ DOWÓDCÓW",
+   "<b>5.11</b> Wszyscy dowódcy rozpoczynają turę jako nieaktywni (Inactive) i każdy z nich może stać się aktywny (Active) i wydawać rozkazy."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Gdy skończą wydawać rozkazy, stają się zakończeni (Finished). W rzadkich przypadkach zakończeni dowódcy mogą zostać ponownie aktywowani (Re-Activated, 5.33).",
+   "<b>5.12</b> Faza aktywacji (Activation Phase) zaczyna się od aktywowania przez gracza jednego z jego dowódców. Dowódców aktywuje się w kolejności ich współczynników inicjatywy (Initiative Rating), od dowódcy o najniższym współczynniku. Przy remisie obaj gracze rzucają kością; wyższy wynik (DR) zaczyna. Następnie gracze na zmianę aktywują pozostałych dowódców o tym samym współczynniku. Jeśli dwaj dowódcy tej samej strony mają ten sam współczynnik inicjatywy, o kolejności decyduje ich gracz. Dowódca w strefie kontroli (ZOC) wroga może, gdy przychodzi jego kolej, aktywować się (5.26) albo pozostać nieaktywny (inactive).",
+   "<b>5.13</b> Do aktywacji uprawnieni są wyłącznie dowódcy nieaktywni (Inactive), którzy nie byli jeszcze aktywowani w danej turze gry (Game Turn).",
+   "<b><i>Wyjątki:</i></b> impet (Momentum, 5.3), ponowna aktywacja (Re-activation, 5.33) i elitarni wodzowie (Elite Commanders, 5.5).",
+   "PRZYKŁAD KOLEJNOŚCI AKTYWACJI: Na początku pierwszej tury bitwy nad Bagradasem wszyscy dowódcy są dostępni do aktywacji. Gdy obaj prefekci sprzymierzeńców (Praefects Sociorum) zostaną aktywowani i skończą wydawać rozkazy, jako następni zostaną aktywowani trybuni/prefekci jazdy (Tribunes/Praefects Equitum), a po nich Bostar i Hamilkar. Gdy przychodzi kolej na kolejnego dowódcę, zarówno Regulus, jak i Hazdrubal mają współczynnik inicjatywy 5, wykonuje się więc rzut kością, aby ustalić, kto działa następny.",
+   "<b>5.14</b> Dowódcę można aktywować w jednej turze gry (Game Turn) najwyżej 3 razy z rzędu, przy czym dwa ostatnie razy – dzięki impetowi (Momentum).",
+   "<b><i>Wyjątki:</i></b> ponowna aktywacja (Reactivation, 5.33), a co do wymogu „z rzędu” – inicjatywa elitarna (Elite Initiative, 5.5).",
+   "<b>5.15</b> Dowódca staje się zakończony (Finished), gdy zajdzie jedna z następujących okoliczności:",
+   "• dowódca zakończył fazę rozkazów (Orders Phase) i nie podejmuje (lub nie może podjąć) próby uzyskania impetu (Momentum);",
+   "• dowódca zostaje przebity (Trumped) przez dowódcę wroga;",
+   "• dowódcy nie powiedzie się próba przebicia (Trump) lub uzyskania impetu (Momentum);",
+   "• gracz rezygnuje z użycia tego dowódcy, tzn. pasuje (passes) – zob. jednak 5.26;",
+   "• zostają spełnione warunki wymienione w 5.26;",
+   "• następuje – gdy jest dozwolone – wcześniej zaplanowane wycofanie (Pre-Arranged Withdrawal, zob. 6.8).",
+   "Gdy dowódca staje się zakończony, odwróć jego żeton na stronę „zakończony” (Finished). Zakończony dowódca nie może już w tej turze gry (Game Turn) przeprowadzić żadnej fazy rozkazów (Orders Phase).",
+   "<b><i>Wyjątek:</i></b> ponowna aktywacja (Re-activation, 5.33)",
+   "5.2 FAZA ROZKAZÓW",
+   "<b>5.21</b> Aktywowany dowódca może wydać oddziałom w swoim zasięgu dowodzenia (Command Range, 4.2) tyle rozkazów indywidualnych (Individual Orders), ile wynosi jego współczynnik inicjatywy (Initiative rating), albo może wydać rozkazy liniowe (Line Commands, 4.3).",
+   "PRZYKŁAD: Tak więc aktywowany Hannibal może w ramach tej aktywacji wydać albo do 7 rozkazów indywidualnych (Individual Orders), albo 2 rozkazy liniowe (LC). Może postanowić wydać ich mniej (albo nie wydać żadnego); nie może wydać ich więcej w tej fazie rozkazów.",
+   "<b>5.22 Rozkazy indywidualne (Individual Orders):</b> Każdy rozkaz indywidualny pozwala graczowi wykonać <i>jedną</i> z następujących czynności:"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "• może je poruszyć dowódca – rozkazami indywidualnymi (Individual Orders) albo liniowymi (Line Commands) – jeśli tworzy stos z jednym z poruszanych w ten sposób oddziałów słoni i pozostaje z nim w stosie przez całą fazę rozkazów (Order Phase); <i>albo</i>",
+   "• na koniec fazy rozbicia i uzupełniania pocisków (Rout and Reload Phase) gracz, do którego należą oddziały, może położyć specjalne żetony dowódców słoni (Elephant Leader) na dowolnych oddziałach słoni. Dowódca słoni ma inicjatywę (Initiative) 1, co wskazuje żeton, więc zwykle będzie działał pierwszy w następnej turze gry (Game Turn).",
+   "<b>4.92</b> Gdy ten dowódca słoni (Elephant Leader) zostanie aktywowany, może – bez względu na odległość od wodza naczelnego (OC) – wydać rozkaz liniowy (Line Command) linii (line) słoni, do której musi należeć oddział słoni, na którym go położono. Oddziały słoni w tej linii:",
+   "• muszą wykorzystać całą swoją zdolność ruchu (jeśli to możliwe; wejście do strefy kontroli (ZOC) wroga oczywiście je zatrzyma), <i>oraz</i>",
+   "• nie mogą zmieniać frontu (facing), z wyjątkiem heksu, w którym zaczynają, przed jakimkolwiek ruchem, <i>oraz</i>",
+   "• przechodzą przez każdy własny oddział na swojej drodze zgodnie z zasadami łączenia w stosy (Stacking rules).",
+   "Słonie mogą prowadzić ostrzał (Missile Fire), jeśli są do tego uprawnione.",
+   "<b>4.93</b> Dowódcy słoni (Elephant Leaders) nie mogą korzystać z impetu (Momentum), nie wydają rozkazów indywidualnych (Individual Orders) – tylko rozkaz liniowy (LC) – i nie mają żadnego innego zadania poza wydaniem rozkazu liniowego tej linii (line) słoni.",
+   "<b>4.94</b> Gracz nie może mieć w grze jednocześnie więcej niż dwóch dowódców słoni (Elephant Leaders). Gracz, do którego należą, może w fazie rozbicia i uzupełniania pocisków (Rout and Reload) usunąć dowolnych dowódców słoni przed położeniem nowego dowódcy słoni."
+  ]
+ }
+}

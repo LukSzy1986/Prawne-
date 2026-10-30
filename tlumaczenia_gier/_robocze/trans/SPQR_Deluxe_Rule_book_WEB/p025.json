@@ -1,0 +1,55 @@
+{
+ "_uwagi": "s. 25 (sp19_27) – przegląd procedury 8.4 w zwięzłym brzmieniu PDF GBJC (te same zdania EN); nagłówki ROZSTRZYGNIĘCIE STARCIA i „Przegląd…” bez EN (K.4).",
+ "u2": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Zalecamy wykonywanie każdego kroku osobno, od lewej do prawej strony mapy. Gracze mogą w dowolny sposób odnotowywać, co się wydarzyło wzdłuż linii natarcia. Aby przyspieszyć grę, mogą traktować 8.45–8.46 jako jeden krok."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Łatwiej byłoby rozstrzygać każdą walkę osobno, „w jednym kawałku”. Prowadzi to jednak do efektu w rodzaju „blitzkriegu”: atakujący może wybierać, które ataki przeprowadzi najpierw, aby uzyskać „przełamania”. Mimo swojej prostoty takie rozwiązanie byłoby tak dalekie od rzeczywistości, że system – a wraz z nim gra – przestałby wiernie ją oddawać; odosobnione starcia (shocks) można jednak z powodzeniem rozstrzygać „w jednym kawałku”, jeśli nie wpłynie to na inne ataki. Wybierając sposób postępowania, pamiętaj o tej intencji."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>8.41 Wyznaczenie do starcia (Shock Designation):</b> Umieść znaczniki Starcie: bez testu TQ (SHOCK NO TQ CHECK) na oddziałach, które nie wykonywały ruchu, a zgodnie z 7.33 decydują się na starcie (oddziały, które wykonały ruch, mają już znaczniki Starcie: obowiązkowy test TQ – SHOCK MUST CHECK TQ). Atakować w starciu mogą wyłącznie oddziały ze znacznikami starcia (Shock markers).",
+   "<b>8.42 Podstawowa procedura przed starciem (The Basic Pre-Shock Procedure):</b> Oddziały atakujące w starciu (Shock) muszą za­ata­ko­wać wszystkie oddziały znajdujące się w ich strefach kontroli (ZOC), chyba że dany oddział broniący się jest w tym samym etapie starcia (Shock Combat Segment) atakowany przez inny własny oddział. Atakujący wyznacza, które oddziały wezmą udział w poszczególnych rozstrzygnięciach walki, z zachowaniem następujących ograniczeń:",
+   "• Oddział może atakować tylko raz w jednym etapie starcia.",
+   "• Oddział broniący się może zostać za­ata­ko­wany w starciu tylko raz w jednym etapie starcia – wyjątkiem jest pościg jazdy (Cavalry Pursuit, 8.6).",
+   "• Własny oddział może atakować więcej niż jeden oddział, jeśli wszystkie atakowane oddziały znajdują się w jego strefie kontroli (ZOC).",
+   "• Oddział atakujący (nawet falanga – Phalanx) nie może dzielić swoich zdolności bojowych, choć dwa (lub więcej) oddziały mogą wspólnie za­ata­ko­wać <i>jeden</i> broniący się oddział lub stos.",
+   "• Jeśli broni się i/lub atakuje więcej niż jeden oddział, zsumuj ich liczebności (Sizes).",
+   "• Oddziały połączone w stos muszą atakować w starciu ten sam heks.",
+   "Poza powyższymi ograniczeniami gracz atakujący może dowolnie rozdzielać ataki między swoje oddziały.",
+   "PRZYKŁAD NR 1: [Kanny] Oddział falangi (Phalanx) w heksach 3722/3822 ma przed sobą trzy oddziały welitów (Velites) – po jednym w każdym z trzech heksów frontowych (frontal hexes; 3622/3721/3821). Musi za­ata­ko­wać wszystkie broniące się oddziały (których liczebność się sumuje) jako jeden oddział. Gdyby w heksie 3920 stał oddział piechoty celtyckiej, zdolny za­ata­ko­wać oddział rzymski w heksie 3821, falanga musiałaby walczyć tylko z dwoma pozostałymi oddziałami welitów. Ewentualnie – o ile Celtowie nie mieliby znacznika starcia – mogliby przeczekać tę walkę, podczas gdy falangici rozprawiliby się ze wszystkimi. Pierwsze rozwiązanie da lepsze wyniki, ale drugie może okazać się konieczne, jeśli Celtowie mają już liczbę ubytków (Hits) bliską wartości swojej jakości wojsk (TQ).",
+   "PRZYKŁAD NR 2: [Kanny] Oddział jazdy rzymskiej (RC) wykonuje ruch i staje w heksie 2419, obok procarzy balearskich w heksie 2518. Na nieszczęście dla biednych procarzy w heksie 2618 stoi także oddział hastati. Gracz rzymski może albo połączyć w ataku jazdę i piechotę – o ile nieruchomy oddział hastati otrzyma znacznik starcia (Shock marker) – albo pozwolić, by jazda za­ata­ko­wała sama (co musi zrobić), a sąsiedni oddział hastati jedynie się przyglądał."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "ROZSTRZYGNIĘCIE STARCIA",
+   "Przegląd procedury rozstrzygania starcia.",
+   "Podrozdziały 8.43–8.47 opisują kolejność i procedurę rozstrzygania starcia (Shock Combat). Kroki są następujące:",
+   "1. Oddziały atakujące ze znacznikiem <sc>Starcie: obowiązkowy test</sc> TQ (<sc>Shock Must Check</sc> TQ) i ich obrońcy wykonują test TQ przed starciem (Pre-Shock TQ check, 8.43).",
+   "2. Sprawdź straty wśród dowódców (Leader casualties, 8.44).",
+   "3. Za pomocą tabeli szczęku włóczni i mieczy (Clash of Spears and Swords Chart) ustal kolumnę tabeli wyników starcia (Shock CRT, 8.45).",
+   "4. Ustal, czy teren, dowódcy i/lub względna siła i możliwości oddziałów mają jakiś wpływ (8.46).",
+   "5. Rozstrzygnij starcie w tabeli wyników starcia (Shock CRT, 8.46).",
+   "6. Sprawdź, czy dochodzi do rozbicia (Rout, 8.47).",
+   "<b>8.43 Szarża (The Charge):</b> Wszystkie oddziały ze znacznikiem Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ) <i>oraz</i> ich zamierzone cele wykonują test TQ przed starciem (Pre-Shock TQ check) – gracze rzucają kością za każdy oddział (wszystkie takie testy są jednoczesne). Oddziały atakujące ze znacznikami Starcie: bez testu TQ (SHOCK NO TQ CHECK) – oraz <i>ich</i> obrońcy – <i>nie</i> wykonują tego testu. Jeśli oddział atakują oddziały obu rodzajów (z testem i bez testu – Shock Check i Shock No Check), obrońca wykonuje test TQ.",
+   "Testu TQ przed starciem (Pre-Shock TQ check) nie wykonują następujące oddziały:",
+   "• każdy oddział atakujący oddział harcowników (SK);",
+   "• każdy oddział atakujący oddział rozbity (Routed);",
+   "• falangi (PH), ciężka piechota (HI) i piechota legionowa (LG) atakowane od frontu przez lekką piechotę (LI).",
+   "Jeśli wynik rzutu (DR) jest <i>wyższy</i> niż TQ oddziału, otrzymuje on ubytki spójności (Cohesion Hits) w liczbie równej różnicy między wynikiem a swoją TQ:",
+   "• Jeśli oddział <i>broniący się</i> zgromadził ubytki spójności (Cohesion Hits) równe swojej TQ lub większe, zostaje natychmiast rozbity (routs) zgodnie z 10.21 (zob. wyjątek poniżej). Oddział atakujący musi wykonać posunięcie (advance, 8.5), chyba że jest w ZOC innego oddziału wroga.",
+   "• Jeśli oddział <i>atakujący</i> zgromadził ubytki spójności (Cohesion Hits) równe swojej TQ lub większe, zostaje natychmiast rozbity (routs) zgodnie z 10.21 (zob. wyjątek poniżej); obrońca (obrońcy) nie wykonuje posunięcia (advance).",
+   "• Jeśli <i>wszystkie walczące oddziały atakujące i broniące się</i> zostają rozbite (rout) wskutek swoich testów TQ, zastosuj procedurę z 10.15, aby ustalić, które oddziały zostaną rozbite."
+  ]
+ }
+}

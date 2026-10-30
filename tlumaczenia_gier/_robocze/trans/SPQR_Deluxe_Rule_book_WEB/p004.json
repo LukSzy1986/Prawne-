@@ -1,0 +1,57 @@
+{
+ "_uwagi": "sp1_9. 2.4 (cd.): nawiasy EN – hasło z EN; w treści hasła ZAWSZE raz na akapit, pozostałe przy pierwszym użyciu w 2.4. u4[8] „Triarii” – podział ze s. 5 (src/splits.py).",
+ "u2": {
+  "paras": [
+   "<b>DRM:</b> Modyfikator rzutu kością (die roll modifier).",
+   "<b>Dowódca zakończony (Finished Leader):</b> Dowódca, który w danej turze gry (Game Turn) był już aktywowany, jest „zakończony” i (zwykle) nie może zostać ponownie aktywowany. Dowódca może stać się zakończony także z innych przyczyn, np. wskutek nieudanej próby przebicia (Trump) itp.",
+   "<b>Dowódca nieaktywny (Inactive Leader):</b> Dowódca, który nie był jeszcze aktywowany i nadal może zostać aktywowany.",
+   "<b>Dowódca (Leader):</b> Określenie używane zamiennie ze słowem „wódz” (Commander). Dowódcami byli wodzowie, konsulowie, trybuni i królowie, którzy dowodzili wojskami i wpływali na ich postawę.",
+   "<b>Linia (Line):</b> Wszystkie oddziały wymienione w tabeli uprawnień do rozkazów liniowych (Line Command Eligibility chart) danej bitwy jako uprawnione do ruchu na podstawie jednego rozkazu liniowego (Line Command).",
+   "<b>MA:</b> Skrót oznaczający podstawową zdolność ruchu (Movement Allowance) oddziału. Współczynnik ten wyraża także zwrotność oddziału w porównaniu z innymi oddziałami w grze.",
+   "<b>Ostrzał (Missile Fire):</b> Rzucanie oszczepami, strzelanie z łuków lub miotanie kamieni z proc przez własne oddziały do oddziałów wroga.",
+   "<b>Impet (Momentum):</b> Mechanizm, dzięki któremu dowódca może przeprowadzić w jednej turze gry więcej niż jedną fazę rozkazów.",
+   "<b>MP:</b> Punkt ruchu (Movement Point).",
+   "<b>Rozkaz/rozkaz liniowy (Order/Line Command):</b> Dwa sposoby, za pomocą których dowódcy sprawiają, że ich wojska wykonują ruch i walczą. Rozkazy indywidualne (Individual Orders, IO) dotyczą pojedynczych oddziałów, rozkazy liniowe (Line Commands, LC) – całych linii (lines) oddziałów. Kwestię, czy dowódca może wydać rozkaz indywidualny, czy rozkaz liniowy, rozpatruje się dla każdego z tych rodzajów rozkazów osobno. Dla zwięzłości słowo „rozkazy” oznacza zarówno rozkaz liniowy, jak i rozkazy indywidualne.",
+   "<b>Faza rozkazów (Orders Phase):</b> Część tury gry, w której dowódca wydaje swoim wojskom rozkazy ruchu i walki.",
+   "<b>Starcie (Shock Combat):</b> Walka w bezpośrednim zwarciu (często dosłownie oko w oko) – kotłowanina, w której się rąbie i kłuje, tnie i tłucze.",
+   "<b>Liczebność (Size):</b> Współczynnik odzwierciedlający liczbę ludzi w oddziale. Liczebność harcowników (niezmiennie 1) nie odzwierciedla ich liczby (i tak zwykle niewielkiej), lecz fakt, że oddział działa w rozproszeniu (prawie bez szyku), a zatem liczba ludzi nie wpływa na jego siłę.",
+   "<b>Przewaga (Superiority):</b> Względne możliwości i skuteczność „zabijania” przeciwstawnych systemów uzbrojenia zaczepnego i ochronnego, wzmocnione (u kohort) wyszkoleniem i doświadczeniem oddziału. Uzyskana przewaga znacznie zwiększa ubytki spójności przeciwnika.",
+   "<b>TQ:</b> Skrót oznaczający kluczowy współczynnik jakości wojsk (Troop Quality). Współczynnik jakości wojsk jest bez wątpienia najważniejszą liczbą, jaką ma oddział bojowy. Sprawdza się go za każdym razem, gdy oddział robi coś, co zagraża jego spójności. Tabela ubytków spójności i testów TQ (Cohesion Hit and TQ Check Chart, 8.75) zestawia sytuacje, w których gracz korzysta ze współczynnika jakości wojsk.",
+   "<b>Przebicie (Trump):</b> Mechanizm, za pomocą którego dowódca prze­ciw­nika może uniemożliwić dowódcy gracza przeprowadzenie fazy rozkazów i przejąć tę fazę dla siebie. Z przebicia może też skorzystać dowódca gracza, aby działać przed innym własnym dowódcą o niższym współczynniku."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>Typ (Type):</b> Ogólna kategoria oddziału bojowego, służąca zwykle do ustalania jego skuteczności w walce i jej wyników. <i>Przykłady: HI (ciężka piechota), SK (harcownicy) itp.</i>",
+   "<b>Strefa kontroli (Zone of Control, ZOC):</b> Heksy – zwykle położone bezpośrednio przed frontem oddziału – na które oddział ten samą swoją obecnością wywiera „wpływ” wystarczający do ograniczenia swobody ruchu.",
+   "Znajomość poniższych rodzajów oddziałów bojowych i związanych z nimi terminów przyda się podczas rozgrywki.",
+   "<b>Armia konsularna (Consular Army):</b> Podstawowa armia polowa epoki republikańskiej. Na każdy rok wybierano dwóch konsulów, a każdemu z nich przydzielano armię złożoną (zwykle) z dwóch legionów i dwóch odpowiadających im alae. Taką organizację – legiony i alae – zwykle nazywa się „podwójnym legionem”. Jej współczesnym odpowiednikiem byłby czterodywizyjny korpus o rzeczywistym stanie około 19 000 żołnierzy, dowodzony przez konsula. Niestety, urząd konsula był urzędem politycznym, który (w owym czasie) wymagał niewielkich umiejętności wojskowych – co często wychodziło na jaw na polu bitwy. Choć legion wywodził się z obywateli, był dobrze wyszkoloną, zawodową siłą zbrojną; to samo dotyczyło odpowiadających mu alae. O sukcesie lub porażce często decydowały nie wojska i system manipularny, lecz to, jak używali ich dowodzący nimi konsulowie. Armie rzymskie w pełni pokazały, na co je stać, dopiero gdy do głosu doszły umiejętności wojskowe i przenikliwość Scypiona Afrykańskiego (Publiusza Korneliusza Scypiona).",
+   "<b>Legion:</b> Słowo to pochodzi od łacińskiego wyrazu oznaczającego „zaciąg”. Każdy legion rekrutowano spośród obywateli rzymskich, a na polu bitwy składał się on z czterech odrębnych linii; żołnierzy przydzielano do poszczególnych linii według ich przynależności do klasy społecznej w Rzymie (podział ten w okresie obejmowanym przez grę stopniowo się zacierał)."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<b>Welici (Velites):</b> Lekka piechota z hełmem i tarczą. Choć mieli miecze, ich podstawową bronią był oszczep; używano ich jako harcowników do nękania wroga i maskowania ruchów wojsk."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>Hastati:</b> Żołnierze drugiej linii mieli lekkie uzbrojenie ochronne oraz charakterystyczną, łatwo rozpoznawalną rzymską tarczę (scutum) z tego okresu. W walce na rozkaz uderzali oszczepami o tarcze, podnosząc przy tym głośną wrzawę, i ruszali naprzód, aż znaleźli się około 75 jardów od linii wroga; wtedy przechodzili w szybki trucht, rzucali pila (oszczepy), a potem z całą siłą uderzali na wroga, posługując się mieczami w zabójczej walce w zwarciu. Rzymski miecz (gladius) – zwany niekiedy „mieczem hiszpańskim” – był szczególnie skuteczną bronią, zdolną zadawać ciężkie rany. Grecy uważali, że to nieuczciwe. Jak na ironię, nazwa tych oddziałów pochodzi od słowa oznaczającego włócznię – hasta – której już nie używali."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>Principes:</b> Trzecia linia legionu manipularnego – i najlepsze wojska (z najwyższej klasy społecznej) – uzbrojona zasadniczo podobnie jak hastati (zob. jednak uwagę powyżej o uzbrojeniu w legionie). W gruncie rzeczy wojska przeznaczone do atakowania i niszczenia wroga."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>Triarii:</b> Tylna, obronna linia legionu; triarii stanowili w istocie szczątkową pozostałość dawnej falangi o obronnym charakterze. Była to ciężka piechota uzbrojona we"
+  ]
+ }
+}

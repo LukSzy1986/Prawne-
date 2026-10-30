@@ -1,0 +1,89 @@
+{
+ "_uwagi": "sp1_9. Sekwencja gry: w krokach b. i d. nawias EN z oryginału scalony z nazwą kroku (K.4: „Szarża (The Charge): test TQ przed starciem (Pre-Shock TQ Check)”). Nagłówki faz C. i D. bez EN (nie mieszczą się w wierszu).",
+ "u2": {
+  "paras": [
+   "B. Faza rozkazów (Orders Phase)",
+   "1. Etap ruchu i ostrzału (Movement and Missile Fire Segment)",
+   "a. Za każdy wydany rozkaz indywidualny (Individual Order) gracz może wykonać jedną dowolną czynność wymienioną w 5.22 jednym oddziałem, <i>albo</i>",
+   "b. Za każdy wydany rozkaz liniowy (Line Command) cała linia (Line) uprawnionych oddziałów może wykonać ruch (Move) i/lub ostrzał (Fire Missiles, 5.23).",
+   "Oddziały przeciwnika zdolne do uporządkowanego odwrotu (Orderly Withdrawal, 6.5), manipularnego wydłużenia linii (Manipular Line Extension, 9.66) i/lub ostrzału reakcyjnego (Reaction Fire, 8.2) mogą z tych możliwości korzystać przez cały ten etap.",
+   "2. Etap starcia (Shock Combat Segment)",
+   "Gdy dowódca skończy wydawać rozkazy, uprawnione oddziały prowadzą starcie (Shock Combat, 8.4) w następującej kolejności:",
+   "a. Wyznaczenie do starcia (Shock Designation): umieść znaczniki Starcie: bez testu TQ (SHOCK-NO TQ CHECK) zgodnie z 7.33. Gracz atakujący wskazuje, które oddziały wezmą udział w każdej poszczególnej walce.",
+   "b. Szarża (The Charge): test TQ przed starciem (Pre-Shock TQ Check).",
+   "c. Rozstrzygnięcie ewentualnych strat wśród dowódców (Resolution of Possible Leader Casualties).",
+   "d. Szczęk włóczni i mieczy (The Clash of Spears and Swords): ustalenie przewagi (Superiority) i kolumny tabeli starcia (Shock col⁠umn).",
+   "e. Rozstrzygnięcie starcia (Resolve the Shock).",
+   "f. Sprawdzenie, czy nastąpiło załamanie (Collapse), rozbicie (Rout) i pościg jazdy (Cavalry Pursuit).",
+   "C. Faza impetu albo powrót do A",
+   "Gracz może – w odniesieniu do dowódcy aktywowanego w bezpośrednio poprzedzającej fazie rozkazów – wykonać rzut kością na impet (Momentum DR), aby dać temu dowódcy kolejną fazę rozkazów (fazę B), <i>albo</i> gra wraca do fazy A dla dowódców, którzy nie byli jeszcze aktywowani. Jeśli próba uzyskania impetu się powiedzie, przeciwnik może podjąć próbę przebicia impetu (Momentum Trump, 5.42).",
+   "D. Faza rozbicia i uzupełniania pocisków",
+   "<b>1. Ucieczka rozbitych (Rout Movement):</b> oddziały rozbite (Routed) muszą wykonać ucieczkę rozbitych (10.23).",
+   "<b>2. Etap uzupełniania pocisków (Reload Segment):</b> uprawnione oddziały strzelające mogą uzupełnić zapas pocisków (8.18).",
+   "<b>3. Odwrócenie i usunięcie (Flip and Remove):</b> odwróć wszystkich zakończonych (Finished) dowódców z powrotem na awers. Usuń wszystkie znaczniki Wykonał ruch (MOVED), Wykonał ostrzał (FIRED), Zebrany (RALLIED), Pościg/​Zakończony (PURSUIT/​FINISHED) i/lub Przebity (TRUMPED).",
+   "E. Faza wycofania (Withdrawal Phase)",
+   "Każdy gracz sumuje punkty rozbicia (Rout Points) wszystkich wyeliminowanych oddziałów bojowych i dowódców, aby sprawdzić, czy jego armia osiągnęła próg wycofania (Withdrawal Level). Jeśli armia żadnego z graczy się nie wycofuje, tura gry (Game Turn) się kończy i zaczyna się kolejna tura gry. Bitwa trwa, dopóki armia jednej ze stron się nie wycofa."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "4.0 DOWÓDCY (LEADERS)"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Oddziały bojowe nie mogą wykonywać ruchu ani prowadzić ostrzału bez rozkazu dowódcy. Każdy żeton dowódcy ma dwie strony: „aktywowany” (Activated) i „zakończony” (Finished). Dowódca, który nie był jeszcze aktywowany albo jest właśnie aktywowany, leży stroną „aktywowany” do góry. Dowódcę, który zakończył aktywację, odwraca się na stronę „zakończony”."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "Przykładowy żeton dowódcy"
+  ]
+ },
+ "u7": {
+  "lines": [
+   "Imię",
+   "Współczynnik strategiczny",
+   "elitarnej",
+   "Charyzma",
+   "Zasięg",
+   "dowodzenia",
+   "Współczynnik",
+   "Inicjatywa",
+   "rozkazów liniowych"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Oznaczenie inicjatywy"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "4.1 ŻETONY DOWÓDCÓW",
+   "Każdy dowódca ma kilka współczynników:",
+   "<b>Zasięg dowodzenia (Command Range):</b> Odległość w heksach, na jaką dowódca może oddziaływać swoją inicjatywą. Określa jego ogólną obecność na polu bitwy, obecność jego podwładnych i adiutantów, a także skuteczność jego umiejętności.",
+   "<b>Elitarny wódz (Elite Commander):</b> Dotyczy dowódców, którzy obok inicjatywy mają symbol trójkąta (<c #ed1f24>▲</c>); zastosowanie – zob. 5.5.",
+   "<b>Inicjatywa (Initiative):</b> Określa podstawową zdolność dowódcy do panowania nad wojskami i szybkiego podejmowania decyzji. Inicjatywa służy do ustalania kolejności aktywacji dowódców oraz szans dowódcy na dodatkową fazę rozkazów dzięki impetowi (Momentum Orders Phase). Określa też liczbę rozkazów indywidualnych (individual orders), jakie dowódca może wydać w każdej fazie rozkazów (Orders Phase). Im wyższy współczynnik, tym lepszy dowódca.",
+   "<b>Rozkaz liniowy (Line Command):</b> Liczba w ramce na prawo od współczynnika inicjatywy oznacza, że dowódca – zamiast wydawać serię rozkazów indywidualnych (Individual Orders) określonej liczbie oddziałów – może wydać taką liczbę rozkazów liniowych.",
+   "<b>Współczynnik strategiczny (Strategy):</b> Tylko u wodzów naczelnych (OC); ułatwia korzystanie z rozkazów liniowych (Line Commands) przez dowódców podległych (Subordinate Commanders).",
+   "<b>Charyzma (Charisma):</b> Określa zdolność dowódcy do mobilizowania żołnierzy do większego wysiłku w walce. Służy do modyfikowania na korzyść dowódcy wyniku rzutu kością w tabeli wyników starcia (Shock Combat Results Table) w walce oddziałów bojowych, z którymi dowódca jest połączony w stos."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "UWAGA PROJEKTANTA (Design Note): W <f TimesNewRomanPSMT>SPQR</f> ten współczynnik jest zwykle dość niski. Wodzowie tej epoki – z wyjątkiem Macedończyków starej daty – porzucili styl przywództwa polegający na osobistym prowadzeniu wojsk z pierwszej linii na rzecz skuteczniejszej metody dowodzenia zza linii bojowych. Dzięki temu widzieli (a zatem kontrolowali) więcej."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<b>Zdolność ruchu (Movement Allowance):</b> Liczba punktów ruchu (MP) dostępnych dowódcy w fazie rozkazów. Zdolność ruchu (MA) – 9 dla wszystkich dowódców – nie jest nadrukowana na żetonie. Wodzowie mający słonie dowódców (Leader Elephants; tu: tylko Hannibal) mają tę samą MA 9, niezależnie od MA ich słonia.",
+   "<b>Ograniczenie dowodzenia (Command Restriction):</b> Niektórzy dowódcy mają na żetonie oznaczenie typu (Type) oddziałów. Wtedy dowódca nie może w żaden sposób wpływać na oddziały żadnego innego typu (np. umożliwiać im starcia – Shock)."
+  ]
+ }
+}

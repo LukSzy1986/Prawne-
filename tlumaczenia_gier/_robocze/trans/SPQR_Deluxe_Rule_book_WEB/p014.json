@@ -1,0 +1,88 @@
+{
+ "_uwagi": "s. 14 (sp10_18): u2[0] – dokończenie przykładu do 5.53 ze s. 13 (u12[3])",
+ "u2": {
+  "paras": [
+   "do dyspozycji jedną pewną fazę i jedną fazę „ewentualnego impetu” („possible Momentum”). Przekazując inicjatywę Leliuszowi, Scypion zachowuje możliwość przeprowadzenia trzech faz; przekazanie inicjatywy nie zużywa żadnej z jego faz."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "6.0 RUCH (MOVEMENT)"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "6.1 ZDOLNOŚĆ RUCHU"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Zdolności ruchu odzwierciedlają nie tylko czas potrzebny oddziałowi na przejście z punktu A do punktu B, lecz także jego zwrotność względem oddziałów innych typów oraz doktryny taktyczne stosowane przy ich rozwijaniu."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>6.11</b> Nadrukowana zdolność ruchu (Movement Allowance, MA) oddziału bojowego to podstawowa zdolność ruchu na jeden rozkaz. Oddział bojowy, który otrzymał rozkaz, może przejść maksymalnie tyle, ile wynosi jego nadrukowana MA. Oddziały zawsze mogą przejść mniej, niż wynosi nadrukowana MA.",
+   "<b>6.12</b> Liczba ruchów oddziału bojowego w jednej turze gry (Game Turn) nie jest ograniczona; może on jednak wykonać ruch tylko <i>raz</i> w danej fazie rozkazów (Orders Phase).",
+   "PRZYKŁAD: Linia (line) hastati, której trybun (Tribune) rozkazał ruch w pierwszej fazie rozkazów tego trybuna, może więc poruszyć się ponownie; musi jednak czekać na rozkaz innego dowódcy albo tego trybuna w kolejnej fazie rozkazów uzyskanej dzięki impetowi (Momentum Orders Phase).",
+   "<b>6.13</b> Jeśli oddział bojowy, który wykonał ruch we wcześniejszej fazie rozkazów (Orders Phase), porusza się znów w tej samej turze gry (Game Turn), po zakończeniu ruchu otrzymuje 1 ubytek spójności (Cohesion Hit, 10.1). Ta kara dotyczy wyłącznie oddziałów, którym rozkazano ruch (Move; 5.22 pkt 1 lub 5.23 pkt 1); nie dotyczy żadnego innego rodzaju ruchu.",
+   "<b><i>Wyjątek:</i></b> Powyższa kara w spójności nie dotyczy oddziałów harcowników (Skirmisher)."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Znaczniki Wykonał ruch (MOVED) przypominają, kto wykonał ruch, a kto nie."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<b>6.14 Dowódcy</b> (oraz słonie dowódców – Leader Elephants) mogą wykonywać ruch dowolną liczbę razy w turze gry (Game Turn), ale w jednej fazie rozkazów (Orders Phase) nie mogą przekroczyć swojej zdolności ruchu (MA) równej 9. Obowiązują wszystkie pozostałe ograniczenia i możliwości, w tym zdolność dowódców do uporządkowanego odwrotu (Orderly Withdrawal) przed każdym oddziałem przeciwnika. Dowódca, który wykorzystał w fazie rozkazów swoje 9 MP, nie staje się zakończony (Finished); po prostu nie może już poruszać się w tej fazie rozkazów, choć nadal może się wycofać (withdraw, 4.72).",
+   "<b>6.15</b> Dowódcy płacą koszty ruchu jazdy (Cavalry), chyba że mają słonia dowódcy (Leader Elephant) – wtedy płacą koszty ruchu słoni (Elephant). Dowódcy nie mają ustawienia frontu (facing) i nie płacą za jego zmianę. Słonie dowódców mają natomiast ustawienie frontu, ale za jego zmianę nic nie płacą."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "6.2 TEREN (TERRAIN)"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Podobnie jak we wcześniejszych epokach, ze względu na trudności z poruszaniem się zwartych szyków niemal wszystkie bitwy toczono na możliwie najbardziej płaskim i otwartym terenie, jaki udało się znaleźć. Ciekawym wyjątkiem od tego dogmatu jest bitwa pod Kynoskefalaj. Starano się też wykorzystywać przeszkody naturalne, takie jak rzeki, do osłony skrzydeł."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>6.21</b> Oddział wydaje punkty ruchu (Movement Points, MP) za każdy heks, na który wchodzi, zgodnie z tabelą kosztów ruchu (Movement Cost Chart, 6.27). Większość oddziałów płaci też dodatkowe MP za wejście na heks położony wyżej. Oddziały bojowe płacą również MP – i ewentualnie ponoszą kary w spójności – za zmianę frontu (change facing, 7.1).",
+   "PRZYKŁAD: Tak więc oddział ciężkiej piechoty stojący pod Kynoskefalaj na heksie 2322 wydałby 4 MP, aby wejść na heks 2523 (po 1 za każdy heks terenu otwartego i za każdy wyższy poziom terenu).",
+   "<b>6.22</b> Niewiele trzeba było, by zdezorganizować szyk, który musiał wejść na teren inny niż płaski i gładki. Niektóre oddziały – zależnie od typu – otrzymują ubytki spójności (Cohesion Hits) za każdym razem, gdy wchodzą na określone rodzaje terenu – zwykle każdy inny niż teren otwarty (Clear) – lub zmieniają na nim front, i/lub gdy zmieniają wysokość terenu. Niektóre oddziały otrzymują jednak ubytki spójności przy ruchu pod górę tylko wtedy, gdy w jednym ruchu zmieniają wysokość o więcej niż jeden poziom (zob. tabelę kosztów ruchu – Movement Cost Chart). Wszystkie ubytki spójności za ruch i zmiany frontu nalicza się natychmiast, w chwili ich powstania. Dowódcy i oddziały rozbite (Routed) nigdy nie otrzymują ubytków spójności.",
+   "PRZYKŁAD: W przykładzie z 6.21 ten oddział ciężkiej piechoty (HI) otrzymałby dwa ubytki spójności (Cohesion Hits) za ruch o dwa poziomy w górę, natomiast oddział średniej piechoty (MI) – tylko jeden."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Gracze nigdy nie powinni lekceważyć szkód, jakie trudny, pagórkowaty teren może wyrządzić szykowi. Zarówno Beneventum, jak i Kynoskefalaj są doskonałymi przykładami problemów z manewrowaniem w terenie innym niż płaski i pozbawiony przeszkód."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b>6.23</b> Heks z dwoma rodzajami terenu traktuje się jako heks terenu przeważającego. Dlatego heks 2900 pod Kannami, choć zawiera fragment rzeki, jest w kategoriach gry heksem terenu otwartego (Clear).",
+   "<b>6.24</b> Niektóre heksy są nieprzekraczalne (impassable): żaden oddział nie może na nie wejść. Przykładami takich heksów są rzeka Aufidus i miasto Kanny – oba na mapie Kann. Obóz rzymski (Roman Camp) na mapie Beneventum ma własną tabelę skutków terenu (Terrain Effects Chart). Droga gruntowa (dirt road) na mapie Zamy nie ma żadnego wpływu; droga rzymska (Roman Road) pod Beneventum ma jednak niewielki wpływ na ruch. Heksy lasu (Woods), terenu nierównego (Broken) i bagna (Marsh) uważa się za teren trudny (Rough Terrain)."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Miasto Kanny było w tym czasie właściwie ruiną, niedawno bowiem „puszczono je z dymem”. Jako takie nie było obszarem dostępnym dla ruchów wojsk."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<b>6.25</b> Poruszający się oddział musi mieć dość MP, by zapłacić koszt terenu za wejście na heks; jeśli ich nie ma, nie może na ten heks wejść.",
+   "<b>6.26</b> Teren może też wpływać na wyniki starcia (Shock Combat), zmieniając kolumnę (column), w której gracze rzucają w celu ustalenia strat (8.74). Oddziały w lesie (Woods) zyskują też pewną ochronę przed ostrzałem (Missile Fire) wroga."
+  ]
+ }
+}

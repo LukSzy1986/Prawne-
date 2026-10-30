@@ -1,0 +1,120 @@
+{
+ "_uwagi": "sp1_9. u2[0] – dokończenie 2.23 ze s. 2 (podział: src/splits.py). Diagram 2.25: podpisy wg glosariusza 2.6; „Nazwa/ozn.” w ciasnych miejscach (piechota, jazda). Nagłówki 2.3 i 2.25 bez EN (nie mieszczą się w wierszu).",
+ "u2": {
+  "paras": [
+   "w odniesieniu do poszczególnych bitew. W odróżnieniu od legionów Cesarstwa rzymskiego legiony republiki z epoki wojen punickich zwykle wystawiano co roku od nowa, toteż ich ciągłość była niewielka. Zróżnicowaliśmy jednak poziomy wyszkolenia tych ośmiu legionów – zarówno dlatego, że wymagają tego scenariusze, jak i po to, by gracze mogli trochę poeksperymentować. Podobnie postąpiliśmy z alae, choć nie ma wśród nich „doborowych” alae, a różnice między poziomami wyszkolenia nie są tak wyraźne. Poziomy wyszkolenia są następujące:",
+   "• doborowy/elitarny (Crack/Elite): legion I",
+   "• weterani (Veteran): legion/ala X, ala I",
+   "• standardowy (Standard): legiony/alae III, V",
+   "• rekruci (Recruits): legiony/alae VII, XIV, XV i XIX",
+   "Oddziały legionowe (Legion units) mają na żetonie nadrukowany numer legionu, np. III. Oddziały alae sociorum mają oprócz numeru oznaczenie „AS”, np. AS/XIX.",
+   "Każdy legion i odpowiadająca mu ala mają to samo, indywidualne kolorowe obramowanie; ułatwi to identyfikację przy stosowaniu rzymskich zasad łączenia w stosy (stacking).",
+   "<b>2.24 Oddziały legionowe (Legion Units).</b> W tym okresie historii legion – i oddziały tworzące jego manipuły – przechodził przemiany, zarówno pod względem tego, czym walczyli żołnierze, jak i sposobu używania oddziałów. Wydaje się na przykład, że przejście większości piechoty legionowej od włóczni do oszczepów do rzucania (pila) nie nastąpiło nagle. Nie było też całkowite. Spotyka się więc wzmianki o niektórych oddziałach principes uzbrojonych w pila i o innych – we włócznie. Z pewnością w czasach Scypiona – a następnie Mariusza i Cezara – principes stali się praktycznie nieodróżnialni od hastati. Do tego dochodzi kwestia jazdy rzymskiej. Polibiusz twierdzi, że była uzbrojona na sposób „gre­cki”, co czyniłoby z niej ciężką jazdę; zarazem jednak Polibiusz zaznacza, że była uzbrojona jedynie w małe tarcze i włócznie – a to niezupełnie ciężka jazda. Stwierdzenie, że setki historyków próbowały się zmierzyć z tym zagadnieniem, byłoby niedopowiedzeniem. Nasz zestaw żetonów zapewnia tobie, graczowi, typy (types) oddziałów, które uważamy za najbardziej odpowiednie. Jeśli twoja ostatnia wyprawa archeologiczna do Etrurii przyniosła inne ustalenia, śmiało wprowadź poprawki.",
+   "<b>Dowódcy (Leaders)</b> mają szereg współczynników określających ich inicjatywę (Initiative) i umiejętności dowódcze (Command). Omówiono je w 4.1.",
+   "<b>Znaczniki informacyjne (Informational Markers),</b> takie jak Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ), znaczniki liczbowe („#’s”, oznaczające ubytki spójności – Cohesion Hits), Rozbity, TQ=1 (ROUTED TQ=1), Mało pocisków (MISSILE LOW) itp., służą do odnotowywania określonych stanów w grze, zgodnie z opisem poniżej."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "2.25 Przykładowe oddziały bojowe",
+   "Piechota na podwójnych żetonach (falanga)",
+   "Nazwa/oznaczenie oddziału",
+   "Typ oddziału",
+   "Rozszerzona zdolność ruchu",
+   "Zdolność ruchu"
+  ]
+ },
+ "u5": {
+  "lines": [
+   "Liczebność",
+   "Jakość wojsk"
+  ]
+ },
+ "u6": {
+  "lines": [
+   "Piechota"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "Nazwa/oznacz.",
+   "Klasa oddziału",
+   "Rodzaj pocisku",
+   "Typ oddziału",
+   "Zdolność ruchu<br>Jakość wojsk (TQ)"
+  ]
+ },
+ "u8": {
+  "lines": [
+   "Liczebność"
+  ]
+ },
+ "u9": {
+  "lines": [
+   "Jazda"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "Nazwa/oznacz.",
+   "Rodzaj pocisku",
+   "Typ oddziału",
+   "Zdolność ruchu<br>Jakość wojsk (TQ)"
+  ]
+ },
+ "u11": {
+  "lines": [
+   "Klasa oddziału",
+   "Liczebność"
+  ]
+ },
+ "u12": {
+  "lines": [
+   "Słonie"
+  ]
+ },
+ "u13": {
+  "lines": [
+   "Skorpion"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "Osłona łuczników<br>Rodzaj pocisku"
+  ]
+ },
+ "u15": {
+  "lines": [
+   "Typ oddziału",
+   "Zasięg"
+  ]
+ },
+ "u16": {
+  "lines": [
+   "Jeźdźcy na<br>wielbłądach",
+   "Rydwan",
+   "Dowódca",
+   "Łucznicy",
+   "Dowódca",
+   "słoni"
+  ]
+ },
+ "u17": {
+  "paras": [
+   "2.3 TABELE, ZESTAWIENIA I KOŚĆ",
+   "Sposób korzystania z poszczególnych tabel i zestawień objaśniono w zasadach. W grze używa się kości dziesięciościennej. Wynik 0 traktuje się jako 0 (a nie 10).",
+   "2.4 TERMINOLOGIA (TERMINOLOGY)",
+   "Znajomość poniższych terminów przyda się podczas rozgrywki.",
+   "<b>Dowódca aktywny (Active Leader):</b> Dowódca, który w danej chwili wydaje rozkazy swoim wojskom. W danym momencie aktywny może być tylko jeden dowódca.",
+   "<b>Klasa (Class):</b> Podkategoria w obrębie typu (type), służąca do rozróżnienia różnych systemów uzbrojenia w ramach jednego typu. <i>Przykład: HA (klasa hastati w obrębie piechoty typu LG).</i>",
+   "<b>Spójność (Cohesion):</b> Zdolność oddziału do zachowania uporządkowanego szyku bojowego. W grze mierzy się ją ubytkami spójności (Cohesion Hits), w skrócie „ubytkami” (Hit/Hits).",
+   "<b>Uszczuplenie (Depletion):</b> Utrata części stanu osobowego, nieznacznie obniżająca ogólną skuteczność oddziału.",
+   "<b>DR:</b> Rzut kością (die roll)."
+  ]
+ }
+}

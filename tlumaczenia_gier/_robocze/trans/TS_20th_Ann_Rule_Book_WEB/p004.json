@@ -1,0 +1,30 @@
+{
+ "_uwagi": "s. 4 (tr1_8): 2.1–2.1.6. Uwagi projektanta – bez nawiasów EN (K.5).",
+ "u2": {
+  "paras": [
+   "2.1 MAPA GRY",
+   "„Od Szczecina nad Bałtykiem po Triest nad Adriatykiem w poprzek kontynentu opadła żelazna kurtyna.” <f MinionPro-Cn>– </f><f MinionPro-SemiboldCn>Winston Churchill</f>",
+   "Plansza jest dwustronna: na jednej stronie znajduje się klasyczna mapa <b><i>Twilight Struggle</i></b>, a na drugiej – nowa mapa wydania <b><i>20th Anniversary</i></b>. Gracze mogą wybrać mapę, którą wolą; obie działają identycznie. Wszystkie grafiki w tej księdze zasad przedstawiają mapę <b><i>20th Anniversary</i></b>.",
+   "<b>2.1.1</b> Mapę podzielono na sześć Regionów: Europę, Azję, Amerykę Środkową (Central America), Amerykę Południową (South America), Afrykę i Bliski Wschód (Middle East). Region to grupa powiązanych geopolitycznie państw, zwykle położonych blisko siebie. Europa dzieli się na dwa podregiony (sub-Regions): Europę Wschodnią (Eastern Europe) i Europę Zachodnią (Western Europe). Dwa historycznie neutralne państwa – Austria i Finlandia – liczą się jako należące zarówno do Europy Wschodniej, jak i do Europy Zachodniej. Azja także zawiera podregion: Azję Południowo-Wschodnią (Southeast Asia). Państwa jednego Regionu mają na mapie ten sam kolor. Podregiony mają odcienie tych kolorów."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA PROJEKTANTA:</f> Choć nie jest to całkiem zgodne z geografią, ze względów politycznych Bliski Wschód obejmuje Libię i Egipt, a Kanada i Turcja należą do Europy."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>2.1.2</b> Wydarzenie (Event), zasada lub karta odnosząca się do „Europy” (“Europe”) lub „Azji” (“Asia”) obejmuje też ich podregiony.",
+   "<b>2.1.3</b> Każde pole na mapie (map space) przedstawia państwo lub blok państw (zwane dalej po prostu państwem). Każde państwo ma Poziom Stabilizacji (Stability Number), który odzwierciedla ogólną stabilność, niezależność i siłę państwa.",
+   "<b>2.1.4 Państwa Strategiczne (Battleground Countries):</b> Nazwy większości państw są na białym tle, a nazwy Państw Strategicznych – na fioletowym. Działają one tak samo jak zwykłe państwa, ale mają specjalne zasady Rozstrzygnięcia (Scoring, zob. 10.1) i prób Przewrotu (Coup attempts, zob. 6.3).",
+   "<b>2.1.5</b> Na mapie są dwa pola przedstawiające geograficzne położenie USA i ZSRR. Nie umieszcza się na nich znaczników Wpływów (Influence markers), ale na potrzeby Wydarzeń (Events) i rzutów na Wywieranie Presji (Realignment rolls, 6.2.2) liczą się jako „sąsiadujące kontrolowane państwa” (“adjacent Controlled countries”).",
+   "<b>2.1.6</b> Państwa łączą na mapie brązowe, czerwone i czarne linie. Brązowe linie łączą państwa w obrębie Regionu. Czerwone linie przerywane łączą państwa w różnych Regionach. Czarne linie łączą państwa z supermocarstwami. Państwo uważa się za sąsiadujące (adjacent) ze wszystkimi państwami, z którymi jest połączone."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA PROJEKTANTA:</f> Sąsiedztwo nie w pełni odzwierciedla geografię. Kilka państw, które w rzeczywistości graniczą ze sobą, nie jest połączonych w grze. Nie jest to błąd mapy, lecz wynika z mechaniki gry i z sytuacji politycznej tamtych czasów."
+  ]
+ }
+}

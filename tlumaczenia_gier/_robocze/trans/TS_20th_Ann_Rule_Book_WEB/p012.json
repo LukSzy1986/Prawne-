@@ -1,0 +1,34 @@
+{
+ "u2": {
+  "paras": [
+   "6.3 PRÓBY PRZEWROTU (COUP ATTEMPTS)",
+   "<b>6.3.1</b> Przewrót (Coup) przedstawia działania niebędące jeszcze wojną na pełną skalę, mające zmienić skład rządu państwa będącego celem. Aby podjąć próbę Przewrotu, nie musisz mieć żadnych Wpływów (Influence) w państwie będącym celem ani w sąsiadującym. Przeciwnik musi jednak mieć znaczniki Wpływów (Influence markers) w państwie będącym celem.",
+   "<b>6.3.2</b> Aby rozpatrzyć próbę Przewrotu (Coup attempt), pomnóż Poziom Stabilizacji (Stability Number) państwa będącego celem przez 2. Następnie rzuć kością i dodaj do wyniku Punkty Operacyjne (Operations points) z karty. Jeśli tak zmodyfikowany wynik rzutu jest większy od podwojonego Poziomu Stabilizacji, Przewrót się udaje; w przeciwnym razie się nie udaje. Jeśli się udał, usuń z państwa będącego celem tyle znaczników Wpływów (Influence markers) przeciwnika, ile wynosi różnica między zmodyfikowanym wynikiem rzutu a podwojonym Poziomem Stabilizacji. Jeśli znaczników Wpływów przeciwnika jest za mało do usunięcia, dodaj własne, aby uzupełnić różnicę.",
+   "<b>6.3.3</b> Przesuń swój znacznik na torze Operacji Wojskowych (Military Operations track marker) o liczbę pól równą Wartości Operacyjnej (Operations value) zagranej karty."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz USA zagrywa kartę o Wartości Operacyjnej 3 (3 Operations card), aby przeprowadzić próbę Przewrotu (Coup attempt) w Meksyku (Mexico). Nie ma Wpływów (Influence) w Meksyku; gracz ZSRR ma tam 2 Punkty Wpływów. Najpierw przesuwa swój znacznik na torze Operacji Wojskowych (Military Operations track), aby zaznaczyć, że w tym Etapie (this turn) wydał 3 punkty na Operacje Wojskowe (zob. 8.2). Następnie uzyskuje w rzucie 4 i dodaje swoją liczbę Operacji (Operations number; 3), co daje łącznie 7. Odejmuje od tego wyniku podwojony Poziom Stabilizacji (Stability Number) Meksyku (2×2=4) i otrzymuje ostateczny wynik 3. Tyle znaczników Wpływów może usunąć z Meksyku / dodać w Meksyku. USA usuwają 2 znaczniki Wpływów ZSRR, a następnie umieszczają 1 znacznik Wpływów USA."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>6.3.4</b> Każda próba Przewrotu (Coup attempt) w Państwie Strategicznym (Battleground country) obniża (degrades) status DEFCON o jeden poziom (w kierunku Wojny Nuklearnej).",
+   "<b>6.3.5</b> Karty, które dają graczowi darmową próbę Przewrotu (free Coup attempt) w określonym Regionie, mogą ignorować ograniczenia geograficzne wynikające z bieżącego poziomu DEFCON (zob. 8.1.5). Jednak darmowa próba Przewrotu wykonana w Państwie Strategicznym (Battleground country) nadal obniża (degrades) poziom DEFCON (zob. 6.3.4). Darmowe próby Przewrotu nie liczą się jako Operacje Wojskowe (Military Operations; zob. 8.2.2).",
+   "6.4 WYŚCIG KOSMICZNY (THE SPACE RACE)",
+   "„Wyruszamy w kosmos, ponieważ w każdym przedsięwzięciu, którego musi się podjąć ludzkość, wolni ludzie muszą w pełni uczestniczyć… Uważam, że ten naród powinien zobowiązać się do osiągnięcia – jeszcze przed końcem tej dekady – celu, jakim jest lądowanie człowieka na Księżycu i jego bezpieczny powrót na Ziemię.”",
+   "<f MinionPro-Cn>– </f>John F. Kennedy"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>6.4.1</b> Na torze Wyścigu Kosmicznego (Space Race track) każde supermocarstwo ma swój znacznik. Punkty Operacyjne (Operations points) można wykorzystać do przesunięcia się na następne pole (box) toru. W tym celu zagraj kartę o Wartości Operacyjnej (Operations value) równej liczbie podanej na polu, na które próbujesz awansować, lub wyższej od niej. Rzuć kością. Jeśli wynik mieści się w zakresie podanym nad polem docelowym, przesuń swój znacznik na nowe pole."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>6.4.2</b> Gracz może w Etapie (turn) zagrać tylko 1 kartę w próbie awansu w Wyścigu Kosmicznym. <i>Wyjątek: zdolności specjalne (special abilities) toru Wyścigu Kosmicznego (Space Race track) i niektóre Wydarzenia (Events) mogą pozwolić graczom odrzucić więcej niż jedną kartę lub przesunąć swój znacznik na tym torze.</i>"
+  ]
+ }
+}

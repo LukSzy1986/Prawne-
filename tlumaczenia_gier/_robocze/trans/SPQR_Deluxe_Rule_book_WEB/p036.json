@@ -1,0 +1,86 @@
+{
+ "_uwagi": "s. 36 – 9.8–9.96; akapit 9.91 przechodzi z u7[1] do u9[0]; ostatni akapit u15[1] przechodzi na s. 37 (carry p037.json).",
+ "u2": {
+  "paras": [
+   "9.8 ARTYLERIA (ARTILLERY)",
+   "<b>9.81</b> Skorpiony (Scorpios) to machiny miotające bełty (B) z własną obsługą. Skorpiony mają współczynnik jakości wojsk (TQ rating) i traktuje się je jak lekką piechotę (Light Infantry, LI) do celów ruchu oraz wtedy, gdy bronią się w starciu (Shock Combat) lub przed ostrzałem (Missile Fire). Oddziały skorpionów nie są zdolne do starcia (Shock-capable), a ich jedyną zaczepną zdolnością bojową jest ostrzał.",
+   "<b>9.82</b> Skorpion jest albo w trybie ostrzału (Fire mode), albo w trybie ruchu (Move mode). Zmiana trybu wymaga rozkazu indywidualnego (Individual Order) od dowolnego własnego dowódcy. Skorpiony w trybie ruchu nie mogą strzelać i odwrotnie – w trybie ostrzału nie mogą się poruszać. Skorpion, którego tryb zmieniono na tryb ruchu, nie może się poruszać w tej samej fazie rozkazów (Orders Phase); podobnie skorpion, którego tryb przełączono na tryb ostrzału, nie może strzelać w tej samej fazie rozkazów. Oddział skorpionów w trybie ruchu może się poruszyć tylko na rozkaz indywidualny dowolnego własnego dowódcy. Oddziały skorpionów nie potrzebują rozkazów, by strzelać (zob. 9.85 poniżej)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Awers żetonu przedstawia oddział w trybie ostrzału (Fire mode), a rewers – w trybie ruchu (Move mode)."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>9.83</b> W jednym heksie może być tylko jeden oddział skorpionów. Wszystkie pozostałe zasady łączenia w stosy (stacking) obowiązują.",
+   "<b>9.84</b> Oddziały skorpionów nie mają ustawienia frontu (facing); mogą się poruszać lub strzelać w dowolnym kierunku, niezależnie od ustawienia samego żetonu. Wszystkie heksy są heksami frontowymi (Front hexes).",
+   "<b>9.85 Ostrzał aktywny (Active Fire):</b> Skorpiony mogą prowadzić ostrzał zaczepny <i>dwa razy na turę gry</i> (a nie na fazę rozkazów), podczas dowolnej własnej fazy rozkazów (Orders Phase). Do strzelania nie potrzebują rozkazu i mogą strzelać w dowolnym momencie etapu ruchu i ostrzału (Move­ment and Missile Fire Segment) aktywnego gracza, ale najwyżej raz na fazę rozkazów. Przy pierwszym strzale skorpiona połóż na nim znacznik Ostrzał aktywny – raz (ACTIVE FIRE ONCE). Gdy strzela po raz drugi, odwróć znacznik na stronę Ostrzał aktywny – zakończony (ACTIVE FIRE FINISHED). Skorpion, który strzelał, nie może w tej fazie rozkazów robić nic innego (np. usuwać ubytków – recover Hits).",
+   "<b>9.86 Ostrzał reakcyjny (Reaction Fire):</b> Skorpiony mogą strzelać dwa razy w każdej fazie rozkazów (Orders Phase) wroga, w dowolnym momencie etapu ruchu i ostrzału wroga – i to naprawdę „dowolnym”: mogą strzelać nawet w trakcie ruchu wroga! Gdy oddział skorpionów strzela po raz pierwszy, połóż na nim znacznik Ostrzał reakcyjny – raz (REACTION FIRE ONCE). Gdy strzela po raz drugi, odwróć znacznik na stronę Ostrzał reakcyjny – zakończony (REACTION FIRE FINISHED). Skorpiony nie mogą jednak korzystać z <i>żadnego</i> rodzaju zwykłego ostrzału re­ak­cyj­ne­go (8.2).",
+   "<b>9.87</b> Skorpiony otrzymują i usuwają ubytki spójności (Cohesion Hits) jak inne oddziały. Rozbity (routs) skorpion jest od razu eliminowany."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "9.9 BARBARZYŃCY (THE BARBARIANS)"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Zasady te odzwierciedlają możliwości i słabości plemion celtyckich, które walczyły z Rzymianami o panowanie nad północną Italią w okresie obejmowanym przez <f TimesNewRomanPSMT>SPQR</f>."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "9.91 Skutki dla ruchu (Movement Effects)",
+   "Oddziały piechoty barbarzyńskiej (BI) nie otrzymują ubytków spójności (Cohesion Hits) za przekraczanie terenu przekraczalnego dowolnego rodzaju ani za wchodzenie na niego, nie otrzymują ich też za zmianę frontu (facing) w terenie trudnym (Rough terrain). Oddziały BI nie mogą korzystać z ruchu"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "w kolumnie (Column Movement, 6.7), wcześniej zaplanowanego wycofania (PW, 6.8) ani uporządkowanego odwrotu (OW, 6.5).",
+   "9.93 Rozbicie i odzyskiwanie spójności (Rout and Recovery)",
+   "Oddziały BI mogą usunąć tylko 1 ubytek spójności (Cohesion Hit) za każdy rozkaz odzyskania spójności (Recovery order). Uszczuplone (Depleted) oddziały BI nie ulegają rozbiciu (Rout), lecz są eliminowane."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "9.94 Barbarzyńska zaciekłość (Barbarian Ferocity)"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Zasada ta oddaje budzącą grozę początkową szarżę, charakterystyczną dla walki w stylu plemiennym, w którą miejscowi zdawali się wkładać cały skrywany gniew, determinację i początkowy zapał. Taktyka plemion była prosta: potężny zryw, który miał szybko złamać przeciwnikowi kręgosłup. Zwykle bywał całkiem skuteczny – z wyjątkiem walki z karną, zawodową armią."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "Wszystkie oddziały BI rozpoczynają grę z zaciekłością (Ferocity). Oddział BI mający zaciekłość otrzymuje DRM –⁠1 do swojego rzutu w teście TQ przed starciem (Pre-Shock TQ die roll), a broniący się oddział (oddziały) otrzymuje DRM +2 do swojego rzutu (rzutów) w teście TQ przed starciem.",
+   "Zaciekłość (Ferocity) trwa, dopóki dowódca oddziałów BI (wskazany w rozstawieniu scenariusza) nie zda testu zaciekłości (Ferocity check), który gracz wykonuje za każdym razem, gdy oddział BI ulega rozbiciu (Routs). Gracz rzuca kością i porównuje wynik ze współczynnikiem inicjatywy (Initiative Rating) dowódcy. Jeśli wynik rzutu (DR) jest równy temu współczynnikowi lub od niego mniejszy, oddziały BI zachowują zaciekłość; w przeciwnym razie oddziały BI pod dowództwem tego dowódcy trwale ją tracą. Utrata zaciekłości przez oddziały jednego dowódcy nie wpływa na zaciekłość oddziałów pod dowództwem innych dowódców.",
+   "9.95 Barbarzyńska porywczość (Barbarian Impetuosity)",
+   "Na początku bitwy Galowie zwykle wprawiali się w stan gorączkowego uniesienia, które przeradzało się w szarżę na całego. Aby to oddać, na początku gry wszystkie oddziały BI mają MA zwiększoną o 1. Dowódcy, którym podlegają oddziały BI, otrzymują DRM –⁠1 do wszystkich rzutów na impet przy pierwszej próbie (first-try Momentum die rolls). Porywczość (Impetuosity) trwa, dopóki co najmniej dwa oddziały BI danego dowódcy nie wejdą w ZOC wroga; od tej chwili porywczość trwa jeszcze do końca bieżącej tury gry, po czym zostaje utracona. Skutki te dotyczą wyłącznie oddziałów BI podległych temu dowódcy (zgodnie z rozstawieniem scenariusza)."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "9.96 Rydwany galijskie (Gallic Chariots)"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Rydwany używane przez plemiona galijskie nie były w żadnym razie systemem uzbrojenia. Służyły wyłącznie jako środek transportu. Z bojowymi rydwanami „dawnych czasów” łączyło je jedynie to, że miały koła. Dlatego odniesienia do rydwanów (Chariots) w tabelach walki (Combat Tables) należy pomijać. Plemiona potrafiły jednak całkiem zręcznie wykorzystywać wszelkie korzyści, jakie rydwany dawały. W tym module rydwany pojawiają się pod Sentinum i pod Telamonem."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "Oddziały rydwanów galijskich (Gallic Chariot, CH) mają tylko zdolność ruchu (Movement Allowance); nie mają liczebności (Size) ani współczynnika TQ. Oddziały te nie mogą się w ogóle poruszać – dotyczy to również uporządkowanego odwrotu (Orderly Withdrawal) – chyba że tworzą stos z uprawnionym oddziałem lekkiej piechoty (Light Infantry, LI). Jeśli oddział bojowy wroga (dowolnego typu) wejdzie na heks sąsiadujący z oddziałem CH stojącym samotnie w heksie, oddział CH zostaje natychmiast wyeliminowany.",
+   "Każdy oddział rydwanów (CH) może przewozić jeden oddział lekkiej piechoty (LI). Aby oznaczyć, że oddział LI jedzie na rydwanie, połóż żeton CH na żetonie LI. Połączony oddział rydwanu i piechoty (CH i LI) traktuje się"
+  ]
+ }
+}

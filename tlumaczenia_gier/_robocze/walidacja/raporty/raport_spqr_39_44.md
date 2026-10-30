@@ -1,0 +1,23 @@
+# Raport walidacji – SPQR Deluxe, s. 39–44 (tag spqr_39_44)
+
+**Zakres:** 10.23–10.28 (dokończenie ucieczki rozbitych, zebranie), 10.29 i 10.3 (uszczuplenie), 10.4 (związanie walką), 11.0–11.2 (wycofanie armii i zwycięstwo), ramka Liwiusza (s. 41), indeks zasad (s. 42–43, każde hasło i numer), tylna okładka (s. 44). Sprawdzono zdanie po zdaniu md i trans JSON z EN, glosariuszem SPQR i brzmieniami serii (GBJC 10.24–10.53, 12.1–12.2; Aleksander 10.27, 10.3, 12.0; indeksy PDF GBJC i Aleksandra jako wzór podhaseł). Wynik: `/home/claude/work/val_spqr/val_spqr_39_44.tsv` (8 wierszy); skrypty: `/home/claude/work/val_spqr/w_39_44/` (nums.py – liczby EN↔md↔trans; index_check.py – kolejność 355 numerów i 59 pogrubień indeksu; write_tsv.py – zapis i kontrola cytatów).
+
+**Zgłoszenia wg kategorii i wagi:** termin 3 (I 1, D 2), kolokacja 1 (I), gramatyka 1 (D), składnia 1 (D), oryginal 2 (D). Krytycznych (K) brak. Razem: I 2, D 6.
+
+**Najpoważniejsze:**
+1. s. 40 (json, I): nagłówek „10.4 ZWIĄZANIE WALKĄ (OPCJONALNE)” → „10.4 ZWIĄZANIE WALKĄ<br>(ZASADA OPCJONALNA)” – niespójne z 4.9 na s. 11 tego samego PDF, z md i glosariuszem 0.3 (wydłużenie o wiersz; redaktor składu sam prosił o ujednolicenie).
+2. s. 41 (oba, I): „punkty rozbicia (Rout Points), które zgromadził z powodu swoich wyeliminowanych oddziałów” → „punkty rozbicia (Rout Points) zgromadzone za swoje wyeliminowane oddziały” – to samo zdanie EN w GBJC 12.2; kolokacja „zgromadzić z powodu” nienaturalna.
+3. s. 40 (oba, D): „związane walką (engaged) z oddziałami” → „związani walką …” (podmiot szeregowy z „harcownicy”; GBJC 10.52).
+4. s. 40 (json, D): „bez kosztu w MP ani ubytkach spójności” → „bez kosztu w MP i ubytkach spójności” (Aleksander 10.27).
+5. s. 42 (json, D): hasło indeksu „gdy falanga trwa zamiast ulec rozbiciu” → „gdy falanga utrzymuje się zamiast ulec rozbiciu” (skrót składu odszedł od terminu z 8.47 „utrzymuje się na miejscu (stands)”).
+6. s. 39 (md, D): „mają status „Brak pocisków”” → „mają stan „Brak pocisków”” (s. 20 md i Aleksander: „stan”; bez pokrycia w EN).
+
+**Ocena:** wierność 5/5 – brak zmian sensu, pominięć i dodatków (poza „status”); warunki may/must/unless, liczby, modyfikatory (+1/+2, 1L/1R, 2×/5×), odesłania i wszystkie 355 numerów indeksu w kolejności oryginału, pogrubienia md = trans; skróty składu (s. 39–43) nie gubią kwantyfikatorów ani numerów; Liwiusz przełożony wiernie i płynnie, nazwy własne wg glosariusza 6. Język 5/5 (minus) – naturalna polszczyzna, brak literówek i błędów interpunkcyjnych; jedyne usterki to dwa potknięcia składniowo-gramatyczne (poz. 3–4) i jedno nieczytelne skrócenie hasła indeksu.
+
+**Problemy systemowe:** (a) nagłówki zasad opcjonalnych w składzie – dwie formy w jednym PDF (s. 11 „(ZASADA OPCJONALNA)”, s. 40 „(OPCJONALNE)”) – ustalić jedną i sprawdzić spis treści s. 1; (b) skracanie podhaseł indeksu przez redaktora składu może zmieniać czasownik-termin (tu „trwa”) – przy skrótach trzymać się rdzenia użytego w tekście zasady; (c) zdania identyczne z GBJC 12.x/10.x zostały przeważnie przejęte, ale nie wszystkie (poz. 2) – przy innych partiach warto porównać z GBJC akapity 11.0–11.2 i 10.2–10.5 całymi zdaniami, nie tylko terminami.
+
+**Glosariusz a wzorzec serii (rozbieżności):** „Withdrawal Fire” (indeks, 6.55) – glosariusz „ostrzał podczas wycofania” [propozycja], indeksy GBJC i Aleksandra „ostrzał podczas odwrotu”; rekomendacja: zostawić „wycofania” (tekst SPQR 6.55 używa „wycofać się/podczas wycofania”, a „odwrót” jest zarezerwowany dla nazwy OW), ewentualnie zgłosić różnicę w glosariuszu. „Size Adjustments” – glosariusz „modyfikacje za liczebność”, GBJC „korekty za liczebność”, Aleksander „korekty liczebności”; rekomendacja: zostawić „modyfikacje” (spójne z p028 „modyfikacja za stosunek liczebności (Size ratio adjustment)”). „Rampaging Elephants” – seria „rozszalałe słonie”, SPQR „słonie w szale”; obie formy dopuszcza glosariusz 1 – bez zmian.
+
+**Do decyzji użytkownika:** (1) forma nagłówków „(OPTIONAL)” w składzie: jednowierszowe „(OPCJONALNE)” (jak chciał redaktor składu dla układu) czy glosariuszowe „(ZASADA OPCJONALNA)” w drugim wierszu (jak s. 11); (2) kropka na końcu ostatniego punktora 10.32 (oryginał jej nie ma – proponuję dodać, to typografia, nie treść); (3) osobliwości indeksu oryginału (powtórzone 6.52, kolejność 8.12/6.55, zakresy 6.41–6.44/6.45) – rekomendacja: zostawić bez przypisu.
+
+Błędy oryginału w zakresie (oddane wiernie, już w dzienniku spójności): „impassible” (10.25), „Prefects” (11.1), „Aetolian LC T” wobec napisu „Macedon” na ilustracji s. 39; nowe: brak kropki w 10.32, powtórzenia/kolejność numerów w indeksie.

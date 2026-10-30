@@ -1,0 +1,60 @@
+{
+ "_uwagi": "s. 8 (tr1_8): 4.0–4.5 E. Nazwy kroków A–I w wykazie 4.5 i w etykietach kroków bez nawiasów EN (litery A–I jak w ramce SEQUENCE OF PLAY na planszy; brak miejsca) – EN terminów w tekście kroków.",
+ "u2": {
+  "paras": [
+   "4.0 PRZEBIEG GRY"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>4.1</f> <b><i>Twilight Struggle</i></b> ma 10 Etapów (turns). Każdy Etap obejmuje od trzech do pięciu lat, w których każdy gracz wykona sześć lub siedem zwykłych zagrań kart. Na początku gry każdy gracz otrzymuje 8 kart z talii Preludium (Early War). Na początku Etapu 4 talię Eskalacji (Mid War) wtasowuje się do stosu do dobierania, a graczom rozdaje się po 9 kart. Na początku Etapu 8 do stosu do dobierania wtasowuje się talię Apogeum (Late War).",
+   "<f MyriadPro-BlackCond>4.2</f> Aktywny Gracz (Phasing Player) to gracz, którego Runda (Action Round) właśnie trwa.",
+   "<f MyriadPro-BlackCond>4.3</f> Gdy w talii do dobierania (draw deck) zabraknie kart, ponownie przetasuj stos kart odrzuconych (discard pile), tworząc nową talię do dobierania. Przed ponownym przetasowaniem rozdaj wszystkie karty pozostałe w talii. Karty Wydarzeń (Event cards) z gwiazdką (*) po zagraniu usuwa się z gry na stałe (permanently removed from the game) i nie wtasowuje się ich do nowej talii.",
+   "<f MyriadPro-BlackCond>4.4</f> Przy przejściu z Preludium (Early War) do Eskalacji (Mid War) albo z Eskalacji do Apogeum (Late War) nie dodawaj stosu kart odrzuconych (discard pile) do talii. Zamiast tego dodaj karty Eskalacji lub Apogeum (odpowiednio) do istniejącej talii i ponownie przetasuj. Stos kart odrzuconych na razie się pomija, ale zostanie wtasowany do talii, gdy wyczerpie się talia do dobierania.",
+   "<f MyriadPro-BlackCond>4.5</f> Etap (turn) gry <b><i>Twilight Struggle</i></b> ma następującą strukturę:",
+   "A. Poprawa sytuacji na torze DEFCON",
+   "B. Rozdanie kart",
+   "C. Faza Wydarzeń Kluczowych",
+   "D. Rundy graczy",
+   "E. Sprawdzenie statusu Operacji Wojskowych",
+   "F. Sprawdzenie zatrzymanej karty Rozstrzygnięcia (Check for Held Scoring Card)",
+   "G. Przygotowanie <b><i><sc>Karty Chińskiej (The China Card)</sc></i></b>",
+   "H. Postęp na torze Etapów",
+   "I. Rozstrzygnięcie Końcowe (Final Scoring; tylko po Etapie 10)",
+   "A. Poprawa sytuacji na torze DEFCON (Improve DEFCON Status):",
+   "Jeśli poziom DEFCON jest niższy niż 5, dodaj 1 do statusu DEFCON (w kierunku pokoju, towards Peace).",
+   "B. Rozdanie kart (Deal Cards):",
+   "W Etapach 1–3 (Turns 1–3) każdy gracz otrzymuje tyle kart, aby mieć na ręce <b>8</b> kart. W Etapach 4–10 graczom należy rozdać tyle kart, aby mieli na ręce <b>9</b> kart. <b><i><sc>Karty Chińskiej (The China Card)</sc></i></b> nigdy nie wlicza się do tej liczby."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA DO ROZGRYWKI:</f> W grach turniejowych przy każdym rozdaniu pierwszą kartę rozdaj graczowi ZSRR, a następnie rozdawaj karty graczom na zmianę, aż obaj będą mieli na ręce wymaganą liczbę kart. Gracz może otrzymać w jednym rozdaniu kilka kart z rzędu, jeśli potrzebuje ich więcej niż przeciwnik."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "C. Faza Wydarzeń Kluczowych (Headline Phase):",
+   "Każdy gracz potajemnie wybiera kartę z ręki. Gdy obaj gracze wybiorą, jednocześnie ujawniają sobie swoje karty. Nazywa się je kartami Wydarzeń Kluczowych (Headline cards), a ich Wydarzenia (Events) zachodzą w tej fazie (jeśli tytuł Wydarzenia ma gwiazdkę (*), po zagraniu usuń kartę z gry). Najpierw zachodzi karta o wyższej Wartości Operacyjnej (Operations value). Przy remisie najpierw zachodzi Wydarzenie gracza USA.",
+   "• Karty Rozstrzygnięcia (Scoring cards) można zagrywać w fazie Wydarzeń Kluczowych, ale uważa się, że mają Wartość Operacyjną 0. Jeśli obaj gracze wybiorą kartę Rozstrzygnięcia jako kartę Wydarzenia Kluczowego, najpierw zachodzi karta Rozstrzygnięcia gracza USA.",
+   "• Gracze muszą zagrać Wydarzenie Kluczowe (Headline Event) bez względu na to, komu ono pomaga."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA:</f> Jeśli w fazie Wydarzeń Kluczowych (Headline Phase) zagrasz Wydarzenie (Event) przeciwnika, przeciwnik wykonuje to Wydarzenie tak, jakby sam zagrał tę kartę. Jednak gracz, który zagrał kartę Wydarzenia Kluczowego, jest uważany za Aktywnego Gracza (Phasing Player) na potrzeby statusu DEFCON (zob. 8.1.3)."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "• <b><i><sc>Karty Chińskiej (The China Card)</sc></i></b> nie można zagrać w fazie Wydarzeń Kluczowych (Headline Phase).",
+   "• O ile Wydarzenie Kluczowe (Headline Event) wyraźnie nie wspomina o Punktach Operacyjnych (Operations points), żaden gracz nie otrzymuje Punktów Operacyjnych z kart zagranych w fazie Wydarzeń Kluczowych (Headline Phase).",
+   "D. Rundy graczy (Action Rounds):",
+   "W Etapach 1–3 (Turns 1–3) rozgrywa się 6 Rund (Action Rounds), a w Etapach 4–10 – 7 Rund. Gracze na zmianę zagrywają karty, po jednej na Rundę. Gracz ZSRR zawsze zagrywa jako pierwszy. Działania wymagane przez kartę muszą zostać rozpatrzone, zanim następny gracz rozpocznie swoją Rundę, zagrywając kartę. Gracz, którego Runda właśnie trwa, nazywa się Aktywnym Graczem (Phasing Player).",
+   "• Zwykle po rozegraniu wszystkich Rund (Action Rounds) graczowi zostaje jedna karta. Uważa się ją za „zatrzymaną” (“held”) i można ją zagrać w kolejnych Rundach. Uważaj: zatrzymanie karty Rozstrzygnięcia (Scoring card) sprawi, że przegrasz grę (zob. 10.3.1)!",
+   "• Jeśli gracz nie ma dość kart, by rozegrać pozostałe Rundy (Action Rounds), musi przeczekać pozostałe Rundy, a przeciwnik w tym czasie kończy Etap (turn).",
+   "E. Sprawdzenie statusu Operacji Wojskowych:",
+   "Każdy gracz ustala, czy traci Punkty Zwycięstwa (Victory Points) za to, że w tym Etapie (turn) nie przeprowadził wystarczająco wielu Operacji Wojskowych (Military Operations, zob. 8.2). Następnie każdy gracz przesuwa swój znacznik Operacji Wojskowych (Military Operations markers) z powrotem na 0."
+  ]
+ }
+}

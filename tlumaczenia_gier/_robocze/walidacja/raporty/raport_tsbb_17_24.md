@@ -1,0 +1,21 @@
+# Raport walidacji – TS Background Book, s. 17–24 (tag tsbb_17_24)
+
+Plik zgłoszeń: `/home/claude/work/val_ts/val_tsbb_17_24.tsv` – 27 wierszy = 19 usterek (część zgłoszona osobno dla md i json). Wagi: K 0; I 9 wierszy (5 usterek: s. 18 ×2, s. 19 ×3); D 18 wierszy (14 usterek). Kategorie (wiersze): typografia 6, kolokacja 6, termin 4, kontekst 3, skladnia 3, sens 2, gramatyka 2, oryginal 1. Sprawdzono zdanie po zdaniu EN ↔ md ↔ trans (units/trans akapit po akapicie, podglądy PNG s. 17, 19, 24); liczby EN/PL zgodne (różnice tylko: pagina/stopka, dublety z nawiasów EN, „1980's/1920s/1960s” → „lata 80./20./60.”); skrypt słów zakazanych (sekcja 10) – 7 trafień, wszystkie zasadne (historyczne „pole bitwy” s. 21, 23, 24; „nagłówek” prasowy s. 22; napis karty „CHIANG KAI-SHEK” s. 20). Raportów redaktorów składu dla BB s. 13–48 w wykonawcy_runda3 nie ma (tylko BB 1–12) – skróty trans oceniałem wyłącznie z EN/md.
+
+Najpoważniejsze (strona: cytat → poprawka):
+1. s. 18 (oba): „pozwolić USA obejrzeć swoje karty na ręce” → „pokazać USA swoje karty na ręce” – „swoje” odnosi się do USA, sens odwrócony względem EN („letting the US see their hand”).
+2. s. 18 (md+json): „więc nie zdołasz zagrać jej na poczet Wyścigu Kosmicznego” → „…zagrać karty Samotny strzelec (Lone Gunman) na poczet…” – „jej” czyta się jako Containment.
+3. s. 19 (md+json): „Sprzedaż zboża (Grain Sales) Sowietom daje USA Operacje” → „Sprzedaż zboża Sowietom (Grain Sales to Soviets) daje…” – tytuł karty rozbity nawiasem EN (powielony błąd składu EN).
+4. s. 19 (md+json): „te 14 pułapek DEFCON nadaje Twilight Struggle niepowtarzalny charakter i treściwą, wymagającą rozgrywkę” → „tym 14 pułapkom … Twilight Struggle zawdzięcza…” – zeugma.
+5. s. 19 (md+json): „USA nie tylko mogą ograniczyć je …; jeśli nie mają Wpływów na Kubie, kartę można też zagrać” → „…, ale też, jeśli …, kartę można zagrać” – zerwane „nie tylko…”.
+6. s. 19 (md+json): „przejąć Kontrolę (Control) w Europie” → „Kontrolę (Control) Europy” – Kontrola Regionu, jak R s. 17.
+7. s. 23 (oba): „Załomoczmy więc raz jeszcze butami” → „Walnijmy więc raz jeszcze butem w stół” – aluzja do Chruszczowa (do oceny).
+8. s. 22 (oba): „Niczym współczesny Łazarz gry wojenne … wskrzesiły nasze hobby” – wiernie powielone „wiszące” porównanie EN (oryginal, do oceny).
+
+Ocena: wierność 5/5 – żadnych pominięć, dodatków ani przekłamań liczb, dat i nazw; jedyna realna zmiana sensu to zaimek „swoje” (s. 18). Polszczyzna 4/5 – tekst historyczny i eseje czytają się naturalnie, nazwy własne wg sekcji 7 (Wasilewski, Czang Kaj-szek, Kuryle, Sachalin, Cieśnina Tsugaru, Flota Oceanu Spokojnego, operacja „Hula”, De Gasperi); pozostają pojedyncze kalki/kolokacje („pompują doradców”, „wizerunek, jaki ma o sobie”, „stawiamy was za”) i powielone zeugmy EN. Terminologia w artykule o pułapkach DEFCON spójna z glosariuszem i R (zatrzymać/hold, pozbyć się/dump, zwycięstwo przez DEFCON, pułapka DEFCON, Wojna Nuklearna jako termin). Skróty składu w trans nie gubią kwantyfikatorów ani warunków; świadome zmiany szyku bez zmiany sensu.
+
+Problemy systemowe: (a) pauza „—” w epigrafie (s. 19) i w 7 plikach R – INSTRUKCJA każe półpauzę; ujednolicić globalnie; (b) nawias EN zagnieżdżony w nawiasie zdaniowym (s. 21) – sprawdzić w innych esejach; (c) zeugmy i „wiszące” porównania EN powielane wiernie (s. 22, 24) – decyzja, czy wygładzać; (d) skład: akapity dzielone na dwie jednostki przy opływaniu ilustracji – gdy podział wypada w środku zdania, zostaje urwany wiersz (s. 19 „Choć ten / przegląd”); s. 17 w porządku, warto przejrzeć inne strony z kartami w kolumnie.
+
+Glosariusz a wzorce: 5.5 „Grain Sales / Sprzedaż zboża – BB s. 19” – wpis wynika z tego, że w EN pogrubiono tylko „Grain Sales”; w zdaniu jest pełny tytuł – rekomendacja: usunąć ten wariant z 5.5 (lub zaznaczyć, że dotyczy tylko kroju) i dać pełny tytuł. „Kontrola Europy” (R) vs „Kontrola w Europie” (BB s. 19) – rekomendacja: dopełniacz jak w R. Phalanx w tym zakresie nie rozchodzi się z glosariuszem (Wojna Nuklearna, na poczet Wyścigu Kosmicznego, rodzina „nuklearna” – zgodne).
+
+Do decyzji użytkownika: 1) wygładzanie powielonych niezręczności oryginału (Łazarz s. 22, „kosztowało … konflikty” s. 24) czy wierność literalna; 2) „pound our shoes” – „butem w stół” (czytelna aluzja) czy dosłownie; 3) ujednolicenie pauzy „—” → „–” w całym TS (R + BB).

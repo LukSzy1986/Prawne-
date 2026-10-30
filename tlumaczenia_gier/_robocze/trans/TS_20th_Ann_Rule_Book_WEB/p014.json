@@ -1,0 +1,92 @@
+{
+ "u2": {
+  "paras": [
+   "<b>7.4.2</b> Wydarzenia (Events) modyfikujące Wartość Operacyjną (Operations value) kolejnych kart czynią to we wszystkich zastosowaniach."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD 1:</f> Jeśli gracz ZSRR wykorzystał kartę <b><sc>Czerwona panika/Czystka (Red Scare/Purge)</sc></b>, a gracz USA wykorzystał kartę o Wartości Operacyjnej 2 (2 Operations card) na Przewrót (Coup), dodaje on do rzutu na Przewrót tylko 1 i otrzymuje 1 punkt Wymaganych Operacji Wojskowych (Required Military Operations point)."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD 2:</f> Jeśli gracz ZSRR wykorzysta kartę <b><sc>Doktryna Breżniewa (Brezhnev Doctrine)</sc></b>, może następnie zagrać kartę o Wartości Operacyjnej 1 (1 Operations card), aby wykonać rzut wymagany przez Wydarzenie <b><sc>Niedźwiedź w potrzasku (Bear Trap)</sc></b>."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD 3:</f> Jeśli gracz USA wykorzysta kartę <b><sc>Powstrzymywanie (Containment)</sc></b>, może następnie zagrać kartę <b><sc>Utworzenie CIA (CIA Created)</sc></b> i wykorzystać 2 Operacje (2 Operations)."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>7.4.3</b> Jeśli Wydarzenie (Event) mówi, że gracz może „przeprowadzić Operacje (conduct Operations), rozmieścić Wpływy (place Influence) lub wykonać rzuty na Wywieranie Presji (attempt Realignments) tak, jakby” zagrał kartę o określonej Wartości Operacyjnej (Operations value), te dodatkowe Operacje traktuje się jak zagranie karty jako Operacje (for its Operations points). Podlegają więc zasadzie 6.0 i innym Wydarzeniom ograniczającym ich rozmieszczenie lub wartość.",
+   "<f MyriadPro-BlackCond>7.5</f> Jeśli Wydarzenie (Event) zostało anulowane lub ograniczone przez inne Wydarzenie, kartę z Wydarzeniem niemożliwym do zagrania nadal można wykorzystać jako Operacje (Operations)."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "7.6 Wydarzenia Wojenne:"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "Talia obejmuje 5 Wydarzeń Wojennych (War Events): <b><i><sc>Wojna w Korei (Korean War)</sc></i></b>, <b><i><sc>Wojna arabsko-izraelska (Arab-Israeli War)</sc></i></b>, <b><i><sc>Wojna indyjsko-pakistańska (Indo-Pakistani War)</sc></i></b>, <b><i><sc>Wojna lokalna (Brush War)</sc></i></b> i <b><i><sc>Wojna irańsko-iracka (Iran-Iraq War)</sc></i></b>. Gracz nie potrzebuje znaczników Wpływów (Influence markers) ani w państwach atakujących, ani w broniących się, aby zagrać te Wydarzenia. Jeśli żadne Wpływy nie są zagrożone, gracz i tak otrzymuje Wymagane Operacje Wojskowe (Required Military Operations), a w razie powodzenia – Punkty Zwycięstwa (zob. 8.2.4)."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "8.0 STATUS DEFCON I OPERACJE WOJSKOWE"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "„Dziwna gra. Jedyny zwycięski ruch to nie grać.” <f MinionPro-SemiboldCn>– Joshua, komputer NORAD z filmu</f> <b>Gry wojenne</b>",
+   "8.1 Tor DEFCON (The DEFCON Track)",
+   "<b>8.1.1</b> DEFCON mierzy w grze napięcie nuklearne. Na początku gry DEFCON jest na maksymalnym poziomie „pokoju” równym 5 i w wyniku Wydarzeń (Events) oraz działań graczy będzie się zmniejszać i zwiększać.",
+   "<b>8.1.2</b> Maksymalny poziom DEFCON to 5. Każde Wydarzenie (Event), które podniosłoby (would improve) DEFCON powyżej 5, nie zmienia poziomu DEFCON."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<b>8.1.3</b> Jeśli DEFCON osiągnie 1, wybucha Wojna Nuklearna (nuclear war) i gra natychmiast się kończy. Odpowiedzialność ponosi Aktywny Gracz (Phasing Player) i to on przegrywa grę."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA DO ROZGRYWKI:</f> Nierzadko partia <b>Twilight Struggle</b> kończy się tym, że gracz nie ma innego wyjścia niż zagrać kartę, która obniżyłaby (would degrade) DEFCON do 1 (lub pozwoliłaby zrobić to przeciwnikowi), co kończy grę Wojną Nuklearną. W <b>Twilight Struggle</b> jest 14 kart, które zagrane w niewłaściwym momencie"
+  ]
+ },
+ "u13": {
+  "paras": [
+   "mogą sprawić, że przegrasz grę; oznaczono je<br>rogu dla przypomnienia."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "w prawym dolnym"
+  ]
+ },
+ "u15": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz USA zagrywa kartę <b><sc>Igrzyska olimpijskie (Olympic Games)</sc></b>, gdy status DEFCON wynosi 2. Gracz ZSRR bojkotuje igrzyska. DEFCON zmniejsza się do 1, co inicjuje Wojnę Nuklearną. Gracz USA jako Aktywny Gracz (Phasing Player) przegrywa."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<b>8.1.4</b> Każda próba Przewrotu (Coup attempt) w Państwie Strategicznym (Battleground country) zmniejsza DEFCON o 1.",
+   "<b>8.1.5</b> Skutki statusu DEFCON są następujące:",
+   "• <b>DEFCON 5</b>: brak efektu",
+   "• <b>DEFCON 4</b>: w Europie nie wolno wykonywać Przewrotów ani rzutów na Wywieranie Presji (Coup or Realignment rolls).",
+   "• <b>DEFCON 3</b>: w Europie ani w Azji nie wolno wykonywać Przewrotów ani rzutów na Wywieranie Presji (Coup or Realignment rolls).",
+   "• <b>DEFCON 2</b>: w Europie, Azji ani na Bliskim Wschodzie nie wolno wykonywać Przewrotów ani rzutów na Wywieranie Presji (Coup or Realignment rolls).",
+   "• <b>DEFCON 1</b>: koniec gry. Aktywny Gracz (Phasing Player) przegrywa grę."
+  ]
+ },
+ "u17": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA DO ROZGRYWKI:</f> Gracze mogą umieścić w danym Regionie znacznik Ograniczenia DEFCON (DEFCON Restriction marker) jako przypomnienie, że nie wolno tam wykonywać rzutów na Wywieranie Presji ani Przewrotów (Realignment rolls or Coups)."
+  ]
+ }
+}

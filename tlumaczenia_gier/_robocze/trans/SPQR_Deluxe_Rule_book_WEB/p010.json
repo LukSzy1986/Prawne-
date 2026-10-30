@@ -1,0 +1,57 @@
+{
+ "_uwagi": "s. 10 (sp10_18): u2[0] – dokończenie 4.56 z carry p010.json; punktory 4.56 z p009.md",
+ "u2": {
+  "paras": [
+   "@@CARRY@@",
+   "• gdy gracz próbuje wydać rozkaz liniowy (Line Command) poza zasięgiem wodza naczelnego (OC), stosuje modyfikator rzutu (DRM) −1.",
+   "• jeśli wódz naczelny (OC) zginął, gracz może zastąpić go na stanowisku OC prokonsulem (Proconsul). Współczynniki prokonsula nie zmieniają się, a jego współczynnik strategiczny (Strategy Rating) wynosi 1.",
+   "4.6 DOWODZENIE KARTAGIŃSKIE",
+   "Jedną z dziedzin, w których przewaga Hannibala była najwyraźniejsza, był jego system dowodzenia. Dzięki gruntownym odprawom i kampaniom zastępcy Hannibala byli w pełni zdolni do samodzielnego reali­zo­wa­nia jego planów. Dlatego wszyscy kartagińscy dowódcy podlegli (Subordinate Commanders) w bitwach, w których wodzem naczelnym (Overall Commander) jest Hannibal – o ile scenariusz nie stanowi inaczej – mogą wydawać rozkazy liniowe (Line Commands) w swoich początkowych fazach rozkazów (Initial Orders Phases), nie będąc w zasięgu Hannibala i/lub nie uciekając się do rzutu (DR) na współczynnik strategiczny. W fazach uzyskanych dzięki impetowi (Momentum-generated Phases) obowiązuje 4.33.",
+   "<b><i>Wyjątek:</i></b> Ta możliwość nie przysługuje dowódcom zastępczym (Replacement leaders, 4.74)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "DYGRESJA HISTORYCZNA: Wygląda na to, że aby służyć Kartaginie, trzeba było być albo bratem Hannibala, albo nosić imię Hazdrubal lub Hannon. Liczba „różnych” dowódców noszących te dwa imiona jest przerażająca. Z punktu widzenia projektanta jeszcze gorzej jest ustalić, który z nich gdzie był. Do tego dochodzą „chłopcy od -⁠kara”: Hamilkar i Bomilkar. Dla zachowania zdrowych zmysłów wszystkich Hannonów połączyliśmy w jednego Hannona, a wszystkich Hazdrubalów – w jednego Hazdrubala. Ich współczynniki i tak były mniej więcej takie same."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "4.7 DOWÓDCY  A ODDZIAŁY BOJOWE WROGA",
+   "<b>4.71</b> Dowódca może wejść do strefy kontroli (ZOC) wroga tylko wtedy, gdy jest w stosie (stacked) z własnym oddziałem bojowym (a słonie dowódców (Leader Elephants) są oddziałami bojowymi) albo gdy tę strefę kontroli zajmuje już własny oddział bojowy. Podobnie jak oddziały bojowe, również dowódcy muszą zakończyć ruch po wejściu do strefy kontroli wroga. Dowódca (łącznie ze swoim słoniem dowódcy) może opuścić strefę kontroli wroga tylko wtedy, gdy otrzyma rozkaz(y) od swojego wodza naczelnego (OC, 4.4).",
+   "<b>4.72</b> W chwili, gdy oddział bojowy wroga w jakikolwiek sposób (6.0, 8.5, 8.6 itd.) znajdzie się w heksie sąsiadującym z własnym dowódcą, który nie jest jeszcze w strefie kontroli (ZOC) wroga, dowódca ten może natychmiast wycofać się o 1 do 3 heksów – według wyboru gracza – oddalając się od oddziału wroga. Mogą to być dowolne heksy, na które dowódca mógłby wejść podczas zwykłego ruchu (6.27). Dowódca może się wycofać niezależnie od tego, czy jest sam w heksie, czy w stosie (stacked) z własnym oddziałem bojowym, ale nie wtedy, gdy jest w stosie ze słoniem dowódcy (Leader Elephant). Jeśli dowódca nie jest w stosie z oddziałem bojowym i nie wycofa się albo nie może się wycofać, ponieważ jest otoczony terenem nieprzekraczalnym (impassable terrain), oddziałami wroga lub strefami kontroli, przez które musiałby przejść, zostaje wyeliminowany. Wycofanie nie wpływa na zdolność ruchu (MA) dowódcy ani na żadne inne jego możliwości. Dowódca w stosie z oddziałem bojowym, który wykonuje uporządkowany odwrót (Orderly Withdrawal), może wycofać się razem z tym oddziałem (6.51). Dowódca, który w inny sposób sąsiaduje z oddziałem bojowym wroga, nie może się wycofać i zostaje wyeliminowany, jeśli ten oddział bojowy w jakikolwiek sposób wejdzie do jego heksu."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>4.73</b> Straty wśród dowódców ustala się przed rozstrzygnięciem starcia (Shock Combat). Jeśli jeden z graczy (lub obaj) ma dowódcę w stosie (stacked) z którymś z oddziałów biorących udział w starciu, gracz ten wykonuje rzut kością dla każdego takiego dowódcy. Wynik 1–9 oznacza, że nic się nie dzieje; wynik 0 – że dowódca został trafiony. Gracz, którego to dotyczy, ustala następnie skutek, rzucając ponownie kością i sprawdzając wynik w tabeli strat wśród dowódców (Leader Casualty Table). Straty wśród dowódców od ostrzału (Missile Fire) – zob. 8.19. Wyeliminowanych dowódców natychmiast usuwa się z gry.",
+   "<b>4.74</b> Wszystkich dowódców poza wodzem naczelnym (OC) można po wyeliminowaniu zastąpić. W tym celu OC wydaje rozkaz indywidualny (IO) zastąpienia poległego podwładnego dowódcą zastępczym (Replacement leader). Wyeliminowanych trybunów (Tribunes) i prefektów (Praefects) po prostu umieszcza się z powrotem na mapie. OC nie musi mieć żadnego oddziału w swoim zasięgu; wystarczy umieścić dowódcę zastępczego (lub powracającego trybuna/prefekta) w dowolnym heksie z oddziałem, którym ten dowódca może dowodzić. Dowódca zastępczy jest zakończony (Finished) do końca tej tury gry (Game Turn). Liczba dostarczonych dowódców zastępczych jest zamierzonym przez projektanta ograniczeniem rozgrywki. Jeśli nie ma dostępnych dowódców zastępczych, dowódcy nie można zastąpić. Także i to nie dotyczy trybunów i prefektów."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Pojedynczy imienny żeton trybuna/prefekta (Tribune/Praefect) przedstawia na polu bitwy więcej niż jednego człowieka. To samo dotyczy innych imiennie wymienionych dowódców, z wyjątkiem wodzów naczelnych (Overall Commanders)."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<b>4.75</b> Wyeliminowanego wodza naczelnego (Overall Commander) nie zastępuje się; żaden inny dowódca nie przejmuje jego roli. Wyjątkiem są prokonsulowie (Proconsuls, 4.56).",
+   "4.8 SŁONIE DOWÓDCÓW",
+   "Choć jedynym dowódcą mającym słonia dowódcy (Leader Elephant) jest Hannibal (pod Zamą i Kannami), zasady sformułowano ogólnie.",
+   "<b>4.81</b> Każdy żeton słonia dowódcy (Leader Elephant) ma współczynnik liczebności (Size Rating) 1 i nadrukowane imię dowódcy. Słonie dowódców poruszają się jak dowódcy, ze zdolnością ruchu (MA) 9 na fazę rozkazów (Orders Phase).",
+   "<b>4.82</b> Dowódcy muszą przez całą grę pozostawać przy swoich słoniach, nawet podczas szału (Rampage). Jeśli ten oddział słoni zostanie wyeliminowany, sprawdź, czy doszło do straty wśród dowódców. Jeśli dowódca nie zostanie wyeliminowany, staje się zwykłym dowódcą.",
+   "<b>4.83</b> Słoń dowódcy (Leader Elephant) jest oddziałem bojowym, choć hybrydowym. Jego typu (Type) nie można jednak wykorzystać przy ustalaniu parametrów starcia (Shock Determination), gdy broni się razem z innymi oddziałami bojowymi. Nigdy nie może atakować; broni się normalnie. Ponadto jazda nie musi się cofać (retreat), gdy słoń dowódcy wchodzi do jej strefy kontroli (ZOC, 9.16). Słonie dowódców nie mają osłon i nie roztaczają żadnej strefy kontroli. Słoń dowódcy zawsze porusza się na zasadach ruchu dowódców; nie gromadzi ubytków spójności (Cohesion Hits) za ruch. Słoń dowódcy może opuszczać strefy kontroli wroga razem ze swoim dowódcą (4.71).",
+   "<b>4.84</b> Jeśli dowódca zostanie wyeliminowany w walce (combat), wykonaj rzut kością. Przy wyniku (DR) 0–6 po prostu usuń słonia dowódcy (Leader Elephant). Przy wyniku 7–9 słoń jest tak zrozpaczony, że wpada w szał (Rampages); zob. 9.14."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "UWAGA PROJEKTANTA: To nie jest „zasada dla żartu”; słonie, które bardzo przywiązywały się do swoich jeźdźców, były jak najbardziej zdolne do czegoś takiego."
+  ]
+ }
+}

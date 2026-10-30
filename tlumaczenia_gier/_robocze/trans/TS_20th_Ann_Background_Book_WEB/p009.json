@@ -1,0 +1,142 @@
+{
+ "_uwagi": "s. 9 (tb9_12): AR6 Etapu 2, koniec Etapu 2, początek Etapu 3. Nagłówki AR i „Ręka ZSRR” między ikonami (łatka hdr); podkreślenia <u> nad białymi łatkami u901…. u10: pagina; u11–u17: liczby na mapie – keep.",
+ "u2": {
+  "paras": [
+   "<u>AR6 (ZSRR)</u>"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Karta: <b><i><sc>Utworzenie Układu Warszawskiego</sc></i></b> (<b><i><sc>Warsaw Pact Formed</sc></i></b>, Wydarzenie ZSRR)",
+   "Nikita wybiera wariant z rozmieszczeniem Wpływów (Influence‑placement option) i dodaje 5 Punktów Wpływów ZSRR (USSR Influence) w Europie Wschodniej (Eastern Europe), nie więcej niż 2 w jednym państwie.",
+   "• Niemcy Wschodnie (East Germany): (0/5) <b><c #b90e31>Kontrola ZSRR</c></b>",
+   "• Polska (Poland): (0/5) <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "• Czechosłowacja (Czechoslovakia): (0/3) <b><c #b90e31>Kontrola ZSRR</c></b>",
+   "• Węgry (Hungary): (2/3)",
+   "<b><sc>Utworzenie Układu Warszawskiego</sc></b> to Wydarzenie z gwiazdką (*) – zostaje teraz usunięte z gry. Ponieważ <b><sc>Plan Marshalla (Marshall Plan)</sc></b> już umożliwia <b>NATO</b>, nie trzeba używać znacznika przypominającego (reminder marker) tego Wydarzenia."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Przed Układem nasze wojska były tam, bo my je tam umieściliśmy. Po Układzie były tam, bo wymagał tego traktat. Żołnierze niczego nie zauważyli, a dyplomaci uznali to za przydatne."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<u>AR6 (USA)</u>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Karta: <b><i><sc>Zbiegowie</sc></i></b> (<b><i><sc>Defectors</sc></i></b>, USA, 2 Ops)"
+  ]
+ },
+ "u26": {
+  "paras": [
+   "<u>Poszerzanie Strefy Wpływów (Influence placement)</u>",
+   "• Korea Południowa (South Korea): (3/0) <b><c #0072aa>Kontrola USA</c></b>",
+   "• Tajlandia (Thailand): (1/1)"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>KENNEDY:</b> Czasem najlepszy argument to po prostu przybyć pierwszym i zostać."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Najlepsze rzeczy zwykle przychodzą z dołączonym rachunkiem."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "KONIEC ETAPU DRUGIEGO"
+  ]
+ },
+ "u28": {
+  "paras": [
+   "Wymóg Operacji Wojskowych (DEFCON 2 → wymagane 2)<br>ZSRR: 2 Operacje Wojskowe (Military Ops) <b>☑</b>",
+   "USA: 2 Operacje Wojskowe (Military Ops) <b>☑</b>",
+   "Zatrzymane karty (Held cards):",
+   "ZSRR: <b><i><sc>Naser</sc></i></b> (<b><i><sc>Nasser</sc></i></b>)",
+   "USA: brak",
+   "Wynik na koniec Etapu 2 (Turn 2): <b>ZSRR 8 VP</b>."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "<f MyriadPro-BlackCond>BACKGROUND BOOK</f>"
+  ]
+ },
+ "u11": "keep",
+ "u12": "keep",
+ "u13": "keep",
+ "u14": "keep",
+ "u15": "keep",
+ "u16": "keep",
+ "u17": "keep",
+ "u18": {
+  "paras": [
+   "<b>Na początku Etapu 3 (Turn 3):</b> Azja i północna część Azji Płd.-Wsch."
+  ]
+ },
+ "u19": {
+  "paras": [
+   "ETAP TRZECI [PRELUDIUM]"
+  ]
+ },
+ "u20": {
+  "paras": [
+   "DEFCON podnosi się (improves) z 2 → 3. Plansza przechyla się teraz ku wschodowi. Japonia (Japan), Korea Południowa (South Korea) i Filipiny (Philippines) skłaniają się ku Waszyngtonowi, a Moskwa zacieśnia uścisk w Europie Wschodniej i nie spuszcza oka z Kairu.",
+   "Jack długo przygląda się Azji (Asia). Nikita to zauważa."
+  ]
+ },
+ "u21": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Mapa robi się coraz większa, Jack."
+  ]
+ },
+ "u22": {
+  "paras": [
+   "<b>KENNEDY:</b> Tylko dlatego, że upierasz się, by prowokować w każdym jej zakątku."
+  ]
+ },
+ "u23": {
+  "paras": [
+   "KARTY NA RĘKACH W ETAPIE TRZECIM",
+   "Karty pozostałe w talii do dobierania rozdaje się, zanim stos kart odrzuconych zostanie potasowany w nową talię."
+  ]
+ },
+ "u27": {
+  "paras": [
+   "<u>Ręka ZSRR</u>"
+  ]
+ },
+ "u24": {
+  "lines": [
+   "◊",
+   "<sc>Naser (Nasser)</sc>",
+   "◊",
+   "<sc>Wojna w Korei (Korean War)</sc>",
+   "◊",
+   "<sc>Pojmany nazistowski naukowiec (Captured Nazi Scientist)</sc>",
+   "◊",
+   "<sc>Igrzyska olimpijskie (Olympic Games)</sc>",
+   "◊",
+   "<sc>NATO</sc>",
+   "◊",
+   "<sc>Plan pięcioletni (Five‑Year Plan)</sc>",
+   "◊",
+   "<sc>Wojna arabsko-izraelska (Arab‑Israeli War)</sc>",
+   "◊",
+   "<sc>Zbiegowie (Defectors)</sc>",
+   "◊",
+   "<sc>Karta Chińska (China Card)</sc>"
+  ]
+ },
+ "u901": "keep",
+ "u902": "keep",
+ "u903": "keep",
+ "u904": "keep",
+ "_u901": "u901…: białe łatki (łatka; twarde spacje na białym tle) zakrywające podkreślenia z tła – podkreślenia składa <u>"
+}

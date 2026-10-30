@@ -1,0 +1,74 @@
+{
+ "_uwagi": "sp1_9. u2[0] – dokończenie hasła „Triarii” ze s. 4; u4[7] „Lekka jazda” – ciąg dalszy na s. 6 (src/splits.py). Opisy rodzajów wojsk (2. część 2.4) traktowane jak tekst historyczny (K.5): EN tylko w haśle i przy terminach z listy ZAWSZE.",
+ "u2": {
+  "paras": [
+   "włócznie – ostatni rzymscy hoplici. Pod koniec tego okresu zaczynali zanikać jako klasa oddziałów."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "<b>Alae sociorum:</b> „Skrzydła sprzymierzeńców” (bo to właśnie znaczą te słowa po łacinie) armii konsularnej. Każdą alę (na każdą armię przypadały dwie) wystawiano spośród sprzymierzeńców Rzymu nieposiadających obywatelstwa (np. Samnitów, Kampanów, Umbrów) i organizowano w nieco podobny sposób jak legion. Każda ala miała jednak mniej welitów i triarii, różnice między hastati a principes zwykle się zacierały, a ponieważ sprzymierzeńcy na ogół lepiej się do tego nadawali, ala miała trzy razy liczniejszy kontyngent jazdy niż legion. Każda ala miała też doborowe kohorty piechoty – <i>extraordinarii</i> – a na każde dwie alae przypadał podobny oddział jazdy. W sumie organizacja każdej ali bardziej przypominała legion Cesarstwa niż legion Republiki. W czasach Mariusza alae zniknęły, stając się regularnymi legionami, a słowo ala oznaczało odtąd jazdę."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>Manipuł (Maniple):</b> Każda linia hastati i principes walczyła w manipułach, po dziesięć w każdej linii legionu. Manipuły często ustawiano w szachownicę (quincunx), co w połączeniu z ich wyszkoleniem pozwalało im przechodzić przez siebie nawzajem w przód i w tył, dając legionowi manipularnemu niezwykłą elastyczność na polu bitwy."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<b>Ciężka piechota (Heavy Infantry):</b> Potomkowie greckich hoplitów – wojska chronione uzbrojeniem ochronnym (zwy­kle hełmem, pan­ce­rzem na tułów i osłonami nóg), noszące tarczę i władające mieczem, a niekiedy też włócznią. Były to potężne oddziały, które często walczyły w gęsto zwartych szykach, ograniczających ich ruchliwość."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>Falanga (Phalanx):</b> Szyk złożony z hoplitów stojących ramię w ramię, stosowany w greckich wojnach mniej więcej od VII wieku p.n.e. i udoskonalony przez Macedończyków. W epoce wzrostu potęgi Rzymu falanga osiągnęła szczyt swojego rozwoju. Pierwsze szeregi używały teraz skróconej włóczni długości 9 stóp, piąty szereg – olbrzymiej włóczni długości 21 stóp, a długość sarissy w szeregach pośrednich była odpowiednio stopniowana. Dzięki temu falanga mogła wystawić niemal nieprzenikniony mur włóczni. Na marginesie: ponieważ rzymski legionista potrzebował miejsca na zamach mieczem, a falangita musiał po prostu stać w miejscu, stosunek włóczni do legionistów wynosił często (i zwykle) 10–1!! Cała sztuka (i cały haczyk) polegała na tym, by falanga pozostała w miejscu! Skład falangi często różnił się w poszczególnych krajach – zależnie od rodzaju uzbrojenia i wyszkolenia. Ostatecznie, w kategoriach gry, decydowało to, jak falangę wyszkolono tak⁠tycz⁠nie."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>Piechota legionowa (Legion Infantry):</b> Termin gry służący do odróżnienia hastati, principes i kohort od nieco przestarzałej ciężkiej piechoty, którą przewyższały one ruchliwością i siłą zabójczą, choć często miały podobne uzbrojenie zaczepne i ochronne. Główna różnica polega na tym, że jako broni do zabijania używano przede wszystkim miecza, a nie włóczni, oraz na zastosowaniu większej, skuteczniejszej rzymskiej tarczy, dającej przyzwoitą ochronę przed ciężką piechotą uzbrojoną we włócznie."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>Średnia piechota (Medium Infantry):</b> Zastępcze określenie oddziałów (np. piechoty celtyckiej), które – choć nie były tak dobrze wyposażone jak ich ciężsi odpowiednicy – miały uzbrojenie i pewną osłonę ciała skuteczniejsze od tych, które nosiła (lub których nie nosiła) lekka piechota."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<b>Piechota barbarzyńska (Barbarian Infantry):</b> Niezwykle zapalczywi, choć niekiedy taktycznie tępawi wojownicy plemienni, walczący ogromnymi mieczami i groźnymi toporami bojowymi, z minimalnym uzbrojeniem ochronnym, za to z ogromną odwagą – tej ostatniej zwykle starczało tylko na jedną szarżę. Właściwie dowodzeni i użyci potrafili być niezwykle skuteczni (i przerażający – do tego stopnia, że Rzy­mia­nie zaczęli naśladować ich „okrzyk bojowy”). Zbyt często jednak byli tylko nieokiełznaną tłuszczą, która rozpadała się w zetknięciu z lepszą organizacją."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "<b>Lekka piechota (Light Infantry):</b> Ogólne określenie oddziałów pieszych bez uzbrojenia ochronnego lub z bardzo lekkim uzbrojeniem ochronnym, z lekką tarczą, zwykle z włócznią i/lub mieczem. Większość lekkiej piechoty miała zdolność do ostrzału, choć taktyka i wyszkolenie odróżniały ją od harcowników.",
+   "<b>Harcownicy (Skirmishers):</b> Ogólne określenie wojsk, które nie nosiły uzbrojenia ochronnego, rzadko miały tarcze i posługiwały się bronią miotającą: oszczepników, łuczników i procarzy. Ich zadaniem było nękanie i niepokojenie nadciągającego wroga oraz tworzenie zasłony, za którą – przy odrobinie szczęścia – można było ukryć przemieszczanie wojsk. Dzięki swojej ruchliwości mogli umknąć ciężej uzbrojonym przeciwnikom, co – biorąc wszystko pod uwagę – dawało im największe szanse przeżycia. Rzadko, jeśli w ogóle, przeprowadzali atak w starciu (shock-attacked), gdyż nie mieli do tego odpowiedniej broni, i działali w rozproszonych, bezkształtnych szykach, co dawało im dużą swobodę manewru."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b>Oszczepnicy (Javelinists):</b> Harcownicy, którzy jako broni do nękania przeciwnika używali włóczni do rzucania. W tej epoce spotyka się w zasadzie niewielu czystych harcowników-oszczepników, ponieważ broń ta, używana samodzielnie, okazywała się mało skuteczna – dlatego w grze nie ma harcowników-oszczepników. W tym czasie większość pieszych żołnierzy nosiła oszczep lub dwa, które rzucała przed zwarciem się do walki."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<b>Łucznicy (Archers):</b> Wojska lekkie (praktycznie bez uz­bro­je­nia ochronnego i osłon), zwykle z Krety, wystrzeliwujące 30 i więcej strzał na skuteczną odległość 150 i więcej jardów, przy zasięgu maksymalnym 250 jardów (mniejszym, gdy strzelano z konia i w ruchu). Ówczesne strzały rzadko przebijały metalowy pancerz, ale poza tym były skuteczne. Tani w uzbrojeniu, drodzy w wyszkoleniu. Używani jako harcownicy."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>Procarze (Slingers):</b> Kolejny rodzaj harcowników bez uzbrojenia ochronnego. Miotali pociski, zwykle ołowiane, na skuteczną odległość do 120 i więcej jardów, choć ich celność nie dorównywała celności strzał. Procarze byli tani w uzbrojeniu, ale wymagali sporego, fachowego wyszkolenia i zajmowali dużo miejsca. Promień zamachu był 2–3 razy większy niż w innych oddziałach harcowników. Większość tych wojsk pochodziła z Balearów."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<b>Lekka jazda (Light Cavalry):</b> W istocie konni oszczepnicy, słynący z ruchliwości. O tym, że szybkość i ruchliwość mogły być wielkim atutem, świadczy skuteczność wspaniałej lekkiej jazdy numidyjskiej Masynissy oraz"
+  ]
+ }
+}

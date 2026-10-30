@@ -1,0 +1,147 @@
+{
+ "_uwagi": "Nagłówki z ikonami: podkreślenie jest w tle (bez <u>). Nawiasy EN w nagłówkach pominięte (K.4 – brak miejsca). „Kontrola ZSRR/USA (… Control)” z EN raz na listę (K.6 a; USA – przy Włochach, bo przy Niemczech Zach. wiersz się łamał). Regiony w zdaniu o Jacku/Nikicie bez EN (nie z listy ZAWSZE; zdanie skrócone do 1 wiersza). u21 – nota „Od redakcji” (łatka, glosariusz TS 9.2).",
+ "u2": {
+  "paras": [
+   "PRZYKŁAD ROZGRYWKI"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Partia pokazowa między <b>prezydentem Johnem F. Kennedym („Jack”)</b> a <b>premierem Nikitą Chruszczowem („Nikita”)</b>. Dwie z głównych postaci zimnej wojny zasiadają naprzeciw siebie na spotkaniu na szczycie, jakiego jeszcze nie było. Każda karta jest wyborem politycznym, każdy znacznik – próbą woli.",
+   "Aby ułatwić graczom śledzenie przebiegu partii, w nawiasach podano liczbę Punktów Wpływów w państwie po wykonaniu danej czynności. Liczba przed ukośnikiem to Wpływy USA (US Influence), a liczba po ukośniku – Wpływy ZSRR (USA/ZSRR). Zaznaczono także Kontrolę (Control) nad państwem."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "ETAP PIERWSZY [PRELUDIUM]"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "PRZYGOTOWANIE GRY (WPŁYWY POCZĄTKOWE)"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Wpływy początkowe ZSRR"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "• Polska (Poland): 0/3 <b><c #b90e31>Kontrola ZSRR (USSR Control)</c></b>",
+   "• Węgry (Hungary): 0/1",
+   "• Czechosłowacja (Czechoslovakia): 0/1",
+   "• Rumunia (Romania): 0/1",
+   "• Niemcy Wschodnie (East Germany): 0/3 <b><c #b90e31>Kontrola ZSRR</c></b>",
+   "• Finlandia (Finland): 0/1",
+   "• Korea Północna (North Korea): 0/3 <b><c #b90e31>Kontrola ZSRR</c></b>",
+   "• Syria: 0/1",
+   "• Irak (Iraq): 0/1"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "Wpływy początkowe USA"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "• Niemcy Zachodnie (West Germany): 4/0 <b><c #0072aa>Kontrola USA</c></b>",
+   "• Włochy (Italy): 3/0 <b><c #0072aa>Kontrola USA (US Control)</c></b>",
+   "• Wielka Brytania (United Kingdom): 5/0 <b><c #0072aa>Kontrola USA</c></b>",
+   "• Kanada (Canada): 2/0",
+   "• Japonia (Japan): 1/0"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "• Korea Południowa (South Korea): 1/0",
+   "• Filipiny (Philippines): 1/0",
+   "• Australia: 4/0 <b><c #0072aa>Kontrola USA</c></b>",
+   "• Izrael (Israel): 1/0",
+   "• Iran: 1/0",
+   "• Panama: 1/0",
+   "• RPA (South Africa): 1/0"
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<f MyriadPro-BlackCond>Karta Chińska (China Card):</f> leży odkryta przed graczem ZSRR (nie wlicza się do liczby kart na ręce).",
+   "DEFCON: 5",
+   "VP: 0",
+   "Jack studiuje Europę Zachodnią; Nikita patrzy na Bliski Wschód."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<b>KENNEDY:</b> Nikita, stoimy oko w oko. Zobaczymy, czy mrugniesz."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Czy się to panu podoba, czy nie, historia jest po naszej stronie, panie prezydencie."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "KARTY NA RĘKACH W ETAPIE PIERWSZYM"
+  ]
+ },
+ "u16": {
+  "paras": [
+   "Ręka ZSRR"
+  ]
+ },
+ "u17": {
+  "lines": [
+   "◊",
+   "<sc>Rozstrzygnięcie na Bliskim Wschodzie (Middle East Scoring)</sc>",
+   "◊",
+   "<sc>Czerwona panika/Czystka (Red Scare/Purge)</sc>",
+   "◊",
+   "<sc>Blokada (Blockade)</sc>",
+   "◊",
+   "<sc>Destalinizacja (De‑Stalinization)</sc>",
+   "◊",
+   "<sc>Kryzys sueski (Suez Crisis)</sc>",
+   "◊",
+   "<sc>Wojna arabsko-izraelska (Arab‑Israeli War)</sc>",
+   "◊",
+   "<sc>Rządy socjalistów (Socialist Governments)</sc>",
+   "◊",
+   "<sc>RWPG (COMECON)</sc>",
+   "◊",
+   "<sc>Karta Chińska (China Card)</sc>"
+  ]
+ },
+ "u18": {
+  "paras": [
+   "Ręka USA"
+  ]
+ },
+ "u19": {
+  "lines": [
+   "◊",
+   "<sc>Rozstrzygnięcie w Europie (Europe Scoring)</sc>",
+   "◊",
+   "<sc>Nadzwyczajne relacje (Special Relationship)</sc>",
+   "◊",
+   "<sc>Zakaz prób jądrowych (Nuclear Test Ban)</sc>",
+   "◊",
+   "<sc>NORAD</sc>",
+   "◊",
+   "<sc>Doktryna Trumana (Truman Doctrine)</sc>",
+   "◊",
+   "<sc>Powstrzymywanie (Containment)</sc>",
+   "◊",
+   "<sc>Padnij i kryj się (Duck and Cover)</sc>",
+   "◊",
+   "<sc>Rezolucja formozańska (Formosan Resolution)</sc>"
+  ]
+ },
+ "u21": {
+  "paras": [
+   "<b>Od redakcji:</b> Angielskie nazwy terminów gry podano w nawiasach przy pierwszym użyciu w danym punkcie zasad oraz zawsze przy terminach, które łatwo pomylić, przy tytułach kart i nazwach elementów gry. Polskie nazwy terminów są zgodne z polskim wydaniem gry (Phalanx), m.in. Etap (Turn), Runda (Action Round), Wydarzenie Kluczowe (Headline), Rozstrzygnięcie (Scoring), Preludium, Eskalacja, Apogeum (Early, Mid, Late War). VP – Punkty Zwycięstwa (Victory Points), Ops – Punkty Operacyjne (Operations points); w Przykładzie rozgrywki AR – Runda (Action Round)."
+  ]
+ }
+}

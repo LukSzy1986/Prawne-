@@ -1,0 +1,39 @@
+{
+ "_uwagi": "s. 19 (sp19_27) – u2[0] = dokończenie 6.73 ze s. 18 (@@CARRY@@ z carry/p019.json). Nawiasy EN wg K (lista ZAWSZE raz na akapit; pozostałe przy pierwszym użyciu w punkcie; uwagi i przykłady – tylko ZAWSZE); nagłówek 6.8 bez EN (K.4). QA 26.10: nagłówek 6.8 wydzielony (u5, 12 pt, ścieśnienie hs 0,93), tekst 6.8 w u7; podpis pod diagramem do lewej.",
+ "u2": {
+  "paras": [
+   "@@CARRY@@",
+   "<b>6.74</b> Oddziały w kolumnie (In Column) wchodzą albo do swojego heksu frontowego (front hex), albo do heksów skrzydłowych (flank hexes) przylegających do heksu frontowego. Aby wejść do przedniego heksu skrzydłowego (front-flank hex), oddział jednoheksowy najpierw obraca się frontem do tego heksu, a potem do niego wchodzi. W przypadku oddziałów falangi (Phalanx) żeton obraca się w trakcie ruchu tak, że przednia połowa żetonu trafia do przedniego heksu skrzydłowego, a tylna – do heksu zajmowanego wcześniej przez przednią połowę. Za takie zmiany frontu nie płaci się punktów ruchu (MP) ani nie ponosi kary w spójności. Oddziały inne niż falangi, które chcą wejść do dowolnego innego heksu skrzydłowego lub tylnego (rear hex), płacą za zmianę frontu zwykły koszt w MP. Oddziały falangi nie mogą w ten sposób zmieniać frontu."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Kolumna (column) falangi wykonuje ruch i wchodzi do przedniego heksu skrzydłowego (front-flank hex).",
+   "<b>6.75</b> Oddziałom w kolumnie (In Column) tymczasowo obniża się współczynnik jakości wojsk (TQ) o 2. Oddziały w kolumnie nie mogą przeprowadzać ataku w starciu (Shock attack) ani prowadzić ostrzału (Missile Fire). Mogą wykonywać ruch na rozkaz i mogą usuwać ubytki spójności (Cohesion Hits) przez odzyskiwanie spójności (Recovery). Jeśli zostaną za­ata­ko­wane w starciu, oddział atakujący automatycznie ma przewagę atakującego (Attack Superior), bez względu na pozycję (Position) i system uzbrojenia (Weapon system).",
+   "<b>6.76</b> Jeśli oddział w kolumnie (In Column) zostanie za­ata­ko­wany w starciu (Shock attacked), po zakończeniu tej fazy rozkazów (Orders Phase) automatycznie wraca do szyku niekolumnowego (tj. usuwa się znacznik W kolumnie), co kosztuje go 1 ubytek spójności (Cohesion Hit). Oddziały falangi (Phalanx) nie zmieniają ustawienia frontu; wszystkie pozostałe oddziały trzeba obrócić o 30 stopni w lewo lub w prawo (według wyboru gracza, do którego należą), tak aby były zwrócone frontem do wierzchołka heksu.",
+   "<b>6.77</b> Oddziały w kolumnie (In Column) nie mogą korzystać z uporządkowanego odwrotu (Orderly Withdrawal, 6.5) ani z reakcyjnej zmiany frontu (Reaction Facing Change, 7.15). Nie mogą przechodzić przez własny oddział bojowy, a własny oddział bojowy nie może dobrowolnie przechodzić przez oddział w kolumnie. Oddziały rozbite (Routed) mogą przechodzić przez oddziały w kolumnie – obowiązują przy tym wszystkie kary za łączenie w stosy (stacking penalties)."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "6.8 WCZEŚNIEJ ZAPLANOWANE WYCOFANIE"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "Gracz może próbować uprzedzić plan bitwy przeciwnika, stosując specjalną taktykę zwaną wcześniej zaplanowanym wycofaniem (Pre-arranged Withdrawal, PW). Taktyka ta pozwala niektórym oddziałom wycofać się (withdraw) przed ruchem wroga, mimo że nie mają wyższej zdolności ruchu (MA).",
+   "<b>6.81</b> Wcześniej zaplanowane wycofanie (Pre-arranged Withdrawal) jest dostępne wyłącznie dla armii, która ma elitarnego wodza (Elite Commander) albo wodza naczelnego (OC) z inicjatywą (Initiative) 6 lub wyższą. PW mogą stosować wyłącznie linie (Lines) oddziałów piechoty (4.32 i tabela uprawnień do rozkazów liniowych – Line Command Eligibility Chart); nie mogą go jednak stosować oddziały typu piechota barbarzyńska (BI) ani harcownicy (SK). Ponadto, aby umożliwić zastosowanie taktyki PW, linia musi mieć dowódcę zdolnego dowodzić jej oddziałami, który znajduje się w odległości do 2 heksów od jednego z oddziałów wyznaczonej linii i ma do niego linię widzenia (LOS). Jeśli taktyka ta zostanie zastosowana, wódz naczelny tej strony może w tej turze gry (Game Turn) podjąć tylko jedną próbę uzyskania impetu (Momentum attempt), a nie dwie (5.14).",
+   "<b>6.82</b> Słowo „wcześniej” w nazwie PW należy rozumieć dosłownie: taktykę tę trzeba wyznaczyć na początku tury gry (Game Turn), zanim zostanie aktywowany którykolwiek dowódca. W tym celu gracz kładzie pod dowódcą, który ma umożliwić tę taktykę, znacznik Wcześniej zaplanowane wycofanie (PRE-ARRANGED WITHDRAWAL). Nie oszukujmy się – takie działanie zasygnalizuje przeciwnikowi, że coś się szykuje, dlatego gracz zawsze może położyć znacznik stroną Bez PW (NO PW) do góry, aby ukryć swoje zamiary. Jeśli jest więcej niż jedna linia (Line) z dowódcą spełniającym wymogi podane wyżej w 6.81, można położyć więcej niż jeden znacznik.",
+   "<b>6.83</b> Znacznik odkrywa się, gdy dowódca zostaje aktywowany albo gdy gracz chce skorzystać z możliwości PW w chwili, gdy oddziały wroga zbliżają się do uprawnionej linii (Line). Zależnie od tego, co nastąpi wcześniej:",
+   "• Linia (Line) może wycofać się (withdraw) o 1 heks w chwili, gdy dowolna <i>piechota</i> wroga normalnie wywołałaby uporządkowany odwrót (OW), jeśli oddziały tej linii objętej PW mają do niego zdolność (6.51). Po uruchomieniu PW wszystkie oddziały linii muszą wycofać się razem (jak w 6.57) i wszystkie muszą się wycofać o 1 heks. Obowiązują wszystkie skutki uporządkowanego odwrotu (6.52, 6.55 itd.). Do końca tury gry PW można przeprowadzać dowolną liczbę razy. Gdy linia skorzysta z PW, jej dowódca staje się zakończony (Finished)… nawet jeśli nie był jeszcze aktywowany!",
+   "• Jeśli przed wykonaniem PW nadejdzie kolej na aktywację tego dowódcy, może on wydawać wyłącznie rozkazy indywidualne (Individual Orders), ale nie rozkaz ruchu (Move order), i to tylko tym oddziałom linii (Line), które skorzystają z PW.",
+   "UWAGA DO ROZGRYWKI NR 1: Należy pamiętać, że PW nie można stosować przeciwko jeździe ani słoniom; jest to wyłącznie manewr piechoty przeciwko piechocie. Czy ktoś dostrzega tu związek z Kannami?",
+   "UWAGA DO ROZGRYWKI NR 2: Nie chcemy komplikować gry bardziej, niż już to zrobiliśmy, zmuszając gracza do wskazywania, której konkretnie linii (Line) wydano rozkaz PW. W obecnym brzmieniu zasady dowódca z rozkazem PW może go użyć dla dowolnej uprawnionej linii w odległości do 2 heksów itd. Graczom, którzy chcą dokładniej sprecyzować tę możliwość, proponujemy jednak zapisywanie, której dokładnie linii dotyczy PW."
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "_uwagi": "s. 1 (tr1_8): spis treści. Kropki wiodące tła (oryginał, od końca tytułu EN) zakryte podświetleniem w kolorze ramki (#f1dcc4) i zastąpione własnymi kropkami o stałej podziałce do numeru strony. QA: „Scenariusz Apogeum / Wschodzące czerwone słońce” (bez drugiego „scenariusz”). Tytuły bez nawiasów EN (K.4, jak w spisach SE). Numery punktów i stron bez zmian.",
+ "u1": {
+  "lines": [
+   "1.0",
+   "<hl #f1dcc4>Wprowadzenie   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>",
+   "2.0",
+   "<hl #f1dcc4>Elementy gry   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>",
+   "3.0",
+   "<hl #f1dcc4>Przygotowanie gry     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>",
+   "4.0",
+   "<hl #f1dcc4>Przebieg gry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>",
+   "5.0",
+   "<hl #f1dcc4>Zagrywanie kart     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>",
+   "6.0",
+   "<hl #f1dcc4>Operacje   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>",
+   "7.0",
+   "<hl #f1dcc4>Wydarzenia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>",
+   "8.0",
+   "9.0",
+   "10.0",
+   "<hl #f1dcc4>Rozstrzygnięcie i zwycięstwo  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</hl>",
+   "11.0",
+   "12.0",
+   "<hl #f1dcc4>Dodatek Etap zero    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>"
+  ]
+ },
+ "u2": {
+  "paras": [
+   "<hl #f1dcc4>Status DEFCON i Operacje Wojskowe     . . . . . . . . . . . . . . . . . . . . . . .</hl><br><hl #f1dcc4>Chiny   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<hl #f1dcc4>Wariant „Chińska wojna domowa”   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>13.0</b>  <hl #f1dcc4>Zasady opcjonalne   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </hl>"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<hl #f1dcc4>Scenariusz Apogeum / Wschodzące czerwone słońce     . . . . . . . . . . . . . </hl><br><hl #f1dcc4>Twórcy  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</hl>"
+  ]
+ },
+ "u6": {
+  "lines": [
+   "KSIĘGA ZASAD"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "SPIS TREŚCI"
+  ]
+ },
+ "u8": "keep"
+}

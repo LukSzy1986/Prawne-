@@ -1,0 +1,56 @@
+{
+ "_uwagi": "s. 26 (sp19_27) – lista modyfikatorów (u2) przebudowana łatką: 6 pozycji z wcięciem wiszącym, u3 („(9.94).”) usunięta; liczba i tekst rozdzielone spacją półfiretową (U+2002) jak kolumna w oryginale.",
+ "u2": {
+  "paras": [
+   "Powyższy wynik rzutu (DR) modyfikuje się następująco:",
+   "+1 dla oddziału słoni (Elephant) atakującego falangę (PH) lub ciężką piechotę (HI) przez heks frontowy (Front hex);",
+   "+1 dla słonia afrykańskiego (African Elephant) atakującego oddział słoni indyjskich (Indian Elephant) lub broniącego się przed nim;",
+   "+1 dla oddziału atakowanego przez falangę o podwójnej głębokości (Double Depth);",
+   "–1 dla falangi o podwójnej głębokości atakowanej przez dowolny oddział;",
+   "–1 dla piechoty barbarzyńskiej (BI) mającej zaciekłość (Ferocity, 9.94);",
+   "+2 dla oddziału atakowanego przez piechotę barbarzyńską mającą zaciekłość (9.94)."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b><i>Wyjątek:</i></b> Jeśli miałby zostać rozbity (rout) dwuheksowy oddział falangi (two-hex Phalanx unit), jego właściciel najpierw wykonuje rzut kością, dodając do wyniku rzutu (DR) liczbę ubytków spójności (Cohesion Hits), o jaką ubytki oddziału przekraczają jego jakość wojsk (TQ), oraz dodatkowo 3, jeśli oddział ten był w danej walce <i>atakującym</i>. Jeśli zmodyfikowany wynik jest wyższy od jakości wojsk oddziału, oddział zostaje rozbity zgodnie z 10.21; w przeciwnym razie pozostaje na miejscu, a jego ubytki spójności ustala się na poziomie jakości wojsk (TQ) pomniejszonej o 1.",
+   "Jeśli po wykonaniu wszystkich testów TQ przed starciem (Pre-Shock TQ checks) co najmniej jeden atakujący i jeden obrońca w tej samej walce nie zostali rozbici (rout), przejdź do następnego kroku.",
+   "<b>8.44 Starcie a dowódcy (Shock and Leaders):</b> Za pomocą procedury z 4.73 ustal, czy którykolwiek z dowódców połączonych w stos z biorącymi udział w walce oddziałami bojowymi padł ofiarą walki. Charyzma (Charisma) dowódcy służy jako modyfikator rzutu kością (DRM) – na dobre lub na złe – niezależnie od wyniku (8.46[3]). Pamiętaj jednak, że właśnie w tym miejscu sprawdza się, czy do tego dochodzi.",
+   "<b>8.45 Szczęk włóczni i mieczy (The Clash of Spears and Swords):</b> Teraz sprawdza się tabelę szczęku włóczni i mieczy (Clash of Spears & Swords Chart). Odczytaj pole na przecięciu typu (Type) oddziału atakującego z typem oddziału broniącego się i jego położeniem względem atakującego, aby ustalić, która kolumna tabeli wyników starcia (Shock CRT) – przed ewentualnymi przesunięciami – posłuży do rozstrzygnięcia walki. Jeśli broni się więcej niż jeden oddział, gracz broniący się wybiera, który oddział zostanie wzięty pod uwagę przy tym ustalaniu. Podobnie jeśli atakuje więcej niż jeden oddział, gracz atakujący wybiera, którego oddziału typ i kąt ataku zostaną wzięte pod uwagę. Jeśli oddział jest atakowany przez oddział falangi (Phalanx unit) przez wierzchołek heksu na granicy różnych stref ustawienia frontu (facings), obrońca korzysta z najkorzystniejszego dla siebie ustawienia frontu.",
+   "Nie można wybrać oddziałów niezdolnych do starcia (not Shock-capable), które bronią się wspólnie z oddziałami typów zdolnych do starcia.",
+   "PRZYKŁAD NR 1: Falanga (Phalanx) atakująca od frontu lekką piechotę (Light Infantry) korzystałaby z kolumny 10 tabeli wyników starcia (Shock CRT) – przed ewentualnymi przesunięciami.",
+   "PRZYKŁAD NR 2: Oddział kartagińskiej ciężkiej piechoty (Heavy Infantry) atakuje jednocześnie dwa oddziały: jeden oddział hastati/piechoty legionowej (HA/LG) – przez jego skrzydło (flank) – i jeden oddział welitów/lekkiej piechoty (Velites/LI) – od frontu. Typ oddziału wybiera obrońca; tutaj wybiera welitów, choć jest to oddział „słabszy”. Dlaczego? Po pierwsze, z tabeli szczęku włóczni i mieczy (Clash of Spears and Swords Chart) wynika, że wskazanie oddziału hastati (piechoty legionowej) atakowanego przez skrzydło daje kolumnę 11 tabeli wyników starcia (Shock CRT), podczas gdy atak od frontu na welitów (lekką piechotę) zmusiłby atakującego do skorzystania z kolumny 9 tej tabeli. Poza tym – niezależnie od wyboru obrońcy – atakujący ma przewagę atakującego (Attack Superiority), albo ze względu na typ (ciężka piechota przeciw lekkiej piechocie), albo ze względu na położenie (atak na hastati przez ich skrzydło)."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "PRZYKŁAD NR 3: Dwa oddziały rzymskie atakują oddział falangi (Phalanx): oddział welitów od frontu i oddział ciężkiej jazdy sprzymierzeńców (HC) od tyłu. Gracz rzymski wybrałby wariant „ciężka jazda (HC) atakuje falangi od tyłu” („HC attacking Phalanxes from the rear”), aby uzyskać znacznie korzystniejszą kolumnę 11, a także przewagę pozycyjną (position Superiority) za atak od tyłu.",
+   "<b>8.46 Zmagania wręcz (The Hand-to-Hand Struggle):</b> Gracze ustalają teraz skutki wszelkich przewag, jakie ma którakolwiek ze stron, a następnie rozstrzygają starcie (Shock Combat).",
+   "<b>Krok 1: Ustal przewagę (Determine Superiority):</b> Istnieją dwa rodzaje przewagi: przewaga pozycyjna (Position Superiority) i przewaga systemu uzbrojenia (Weapon System Superiority). Jedna albo druga strona może (ale nie musi) uzyskać przewagę – jako przewagę atakującego (AS) albo przewagę obrońcy (DS). Gracze ustalają przewagę za pomocą tabeli przewagi w starciu (Shock Superiority Chart). W wielu przypadkach żadna ze stron nie ma przewagi. Przewagę ustala się następująco:",
+   "<b>A. Przewaga pozycyjna (Position Superiority):</b> Oddział atakujący ma z reguły przewagę pozycyjną, jeśli atakuje przez heks skrzydłowy (Flank) lub heks tylny (Rear hex) oddziału broniącego się. Oddział, na podstawie którego gracz atakujący ustala przewagę pozycyjną, musi jednak być zarazem tym, na podstawie którego ustala się kolumnę starcia w tabeli szczęku włóczni i mieczy (Clash of Swords chart) zgodnie z 8.45.",
+   "Atak nie daje przewagi pozycyjnej (Position Superiority), gdy:",
+   "• oddział harcowników (Skirmisher) jest atakowany przez heks skrzydłowy (Flank hex), <i>lub</i>",
+   "• oddział jazdy atakuje oddział słoni (Elephant), <i>lub</i>",
+   "• oddział słoni (Elephant) atakuje inny oddział słoni, <i>lub</i>",
+   "• oddział atakujący znajduje się w strefie kontroli (ZOC) zdolnego do starcia oddziału wroga, który stoi w heksie skrzydłowym (Flank) lub w heksie tylnym (Rear hex) atakującego.",
+   "W powyższych sytuacjach o przewadze (Superiority) decyduje system uzbrojenia (Weapon System, 8.46[1.B] poniżej). Jeśli oddział atakujący ma przewagę pozycyjną, gracz atakujący uzyskuje w tej walce przewagę atakującego (AS).",
+   "<b>B. Przewaga systemu uzbrojenia (Weapon System Superiority):</b> Jeśli nie uzyskano przewagi pozycyjnej, gracze sprawdzają wzajemną relację klas uzbrojenia (weapon class) przeciwnych oddziałów (zob. tabela przewagi w starciu – Shock Superiority Chart, 8.72), aby ustalić, czy system uzbrojenia którejś ze stron ma przewagę (AS albo DS) nad drugim. Jeśli po którejkolwiek stronie w walce bierze udział więcej niż jeden oddział, do ustalenia używa się oddziałów wybranych w 8.45."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Możliwych jest wiele różnych permutacji i kombinacji typów oddziałów i kątów ataku z wielu stron. Dwie powyższe zasady powinny obejmować wszystkie te przypadki. Jeśli tak nie jest, staraj się uzyskać wynik najlepiej zgodny z ogólnymi założeniami. Jeśli i to nie zadziała, spróbuj rozciąć kurczaka i poradzić się jego wnętrzności…"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "<b>Krok 2: Ustal różnicę stosunku liczebności (Determine Size Ratio Difference):</b> Porównaj łączną liczbę punktów liczebności (Size points) oddziału (oddziałów) atakującego z punktami obrońcy (obrońców). Za każdy poziom różnicy stosunku liczebności (SRD) <i>powyżej</i> 1 do 1, jaki ma dana strona, otrzymuje ona przesunięcie kolumny tabeli wyników starcia (Shock Results Table) o jedną na swoją korzyść. Atakujący przesuwa kolumnę w prawo, obrońca – w lewo. Wszystkie stosunki liczebności sprowadź do postaci #–1 (lub 1–#), zaokrąglając następująco:",
+   "• Jeśli którykolwiek z atakujących wszedł do heksu sąsiadującego z obrońcą z heksu niesąsiadującego, zaokrąglaj na korzyść atakującego. Tak więc oddział o liczebności (Size) 5 atakujący oddział o liczebności 4 daje stosunek 2–1; 4–5 daje 1–1, a 2–5 daje 1–2."
+  ]
+ }
+}

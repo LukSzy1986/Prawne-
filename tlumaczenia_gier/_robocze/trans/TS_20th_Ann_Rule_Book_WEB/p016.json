@@ -1,0 +1,44 @@
+{
+ "u2": {
+  "paras": [
+   "10.0 ROZSTRZYGNIĘCIE I ZWYCIĘSTWO"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "Celem gry jest zdobywanie Punktów Zwycięstwa (Victory Points, VP). Punkty Zwycięstwa możesz zdobywać, kontrolując (Controlling) państwa lub zagrywając określone Wydarzenia (Events). Każdy Region ma własną kartę Rozstrzygnięcia (Scoring card), dzięki której gracze zdobywają Punkty Zwycięstwa zależnie od tego, ile mają Wpływów (Influence) w Regionie w chwili jej zagrania."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA DO ROZGRYWKI:</f> Zagrywanie kart Rozstrzygnięcia (Scoring cards), gdy masz w Regionie maksymalne Wpływy (peak Influence), jest często kluczem do zwycięstwa."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "10.1 ROZSTRZYGNIĘCIE (SCORING)",
+   "<b>10.1.1</b> Podczas Rozstrzygnięcia w Regionie (Regional Scoring) stosuje się następujące terminy:",
+   "<b><u>Obecność (Presence):</u></b> Supermocarstwo ma Obecność w Regionie, jeśli kontroluje (Controls) co najmniej 1 państwo w tym Regionie.",
+   "<b><u>Dominacja (Domination):</u></b> Supermocarstwo uzyskuje Dominację w Regionie, jeśli kontroluje (Controls) w nim więcej państw (łącznie) i więcej Państw Strategicznych (Battleground countries) niż przeciwnik (oraz co najmniej 1 państwo niestrategiczne, non-Battleground country).",
+   "<b><u>Kontrola (Control):</u></b> Supermocarstwo ma Kontrolę nad Regionem, jeśli kontroluje (Controls) w nim więcej państw niż przeciwnik i kontroluje wszystkie Państwa Strategiczne (Battleground countries) w tym Regionie.",
+   "<b>10.1.2</b> Podczas Rozstrzygnięcia w Regionie (Regional Scoring) gracze mogą zdobyć dodatkowe punkty w następujący sposób:",
+   "• +1 VP za każde kontrolowane (Controlled) państwo sąsiadujące z supermocarstwem przeciwnika.",
+   "• +1 VP za każde kontrolowane (Controlled) Państwo Strategiczne (Battleground country) w Regionie.",
+   "• Skoryguj stan toru Punktacji (Victory Point track) o różnicę między wynikami graczy."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> ZSRR zagrywa kartę <b><sc>Rozstrzygnięcie w Ameryce Środkowej (Central America Scoring)</sc></b>. ZSRR kontroluje (Controls) Kubę (Cuba), Haiti i Dominikanę (Dominican Republic). USA kontrolują Gwatemalę (Guatemala) i mają 1 Punkt Wpływów (Influence) w Panamie. ZSRR ma zatem Dominację (Domination; 3 VP), kontroluje 1 Państwo Strategiczne (Battleground country; 1 VP) i kontroluje państwo sąsiadujące z supermocarstwem przeciwnika (1 VP) – łącznie 5 VP. USA mają Obecność (Presence; 1 VP), ale na tym koniec, bo nie kontrolują żadnego Państwa Strategicznego – 1 Punkt Wpływów nie wystarcza do Kontroli nad Panamą. Różnica wyników (5 VP i 1 VP) wynosi 4. Przesuń znacznik Punktacji (Victory Point marker) o 4 pola w stronę zwycięstwa ZSRR (USSR Victory)."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>10.1.3</b> Punkty Zwycięstwa (Victory Points) mogą przyznawać niektóre Wydarzenia (Events).",
+   "<b>10.1.4</b> Możesz zdobyć Punkty Zwycięstwa (Victory Points), jeśli przeciwnik nie przeprowadzi w Etapie (turn) liczby Wymaganych Operacji Wojskowych (Required Military Operations; zob. 8.2).",
+   "<b>10.1.5</b> Wydarzenia (Events) nie mogą zmusić graczy do zatrzymania (hold) kart Rozstrzygnięcia (Scoring cards).",
+   "10.2 Tor Punktacji (The Victory Point Track)",
+   "<b>10.2.1</b> Tor Punktacji (Victory Point track) biegnie od pola USA-20 (US-20; automatyczne zwycięstwo USA) do ZSRR-20 (USSR-20; automatyczne zwycięstwo ZSRR). Znacznik Punktacji (VP marker) zaczyna grę na polu Start (zero), oznaczającym pełną równowagę między obiema stronami. Przy korygowaniu wyników graczy licz to pole (box) jako jedno pole (space)."
+  ]
+ }
+}

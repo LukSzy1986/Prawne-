@@ -1,0 +1,52 @@
+{
+ "u2": {
+  "paras": [
+   "<b>10.2.2</b> Jeśli według karty gracz „zyskuje” (“gains”) 1 VP, przesuń znacznik Punktacji (VP marker) o 1 pole na korzyść tego gracza."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Jeśli znacznik Punktacji (VP marker) stoi na polu USA-10, a gracz ZSRR zyskuje 2 VP, przesuń znacznik na pole USA-8. Jeśli znacznik stoi na polu ZSRR-1, a gracz USA zdobywa 2 VP, przesuń znacznik o 2 pola, na pole USA-1."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>10.2.3</b> Jeśli karta przyznaje Punkty Zwycięstwa obu graczom, przesuń znacznik Punktacji (VP marker) o różnicę między wynikami.",
+   "10.3 ZWYCIĘSTWO (VICTORY)",
+   "<b>10.3.1 Automatyczne zwycięstwo (Automatic Victory).</b> Automatyczne zwycięstwo następuje, gdy:",
+   "•  Gracz osiąga 20 VP. Gra natychmiast się kończy, a ten gracz zwycięża. Jeśli gracz osiągnie 20 VP w fazie sprawdzenia statusu Operacji Wojskowych (Check Military Operations Status phase), zanim zostanie ogłoszony zwycięzcą, musi ujawnić wszystkie zatrzymane karty; jeśli ma zatrzymaną kartę Rozstrzygnięcia (Scoring card), zamiast tego natychmiast przegrywa grę. <i>UWAGA: Przed ustaleniem, czy nastąpiło automatyczne zwycięstwo, zalicz obu graczom VP przyznane za Wydarzenie (Event) lub kartę Rozstrzygnięcia.</i>",
+   "•  Następuje Rozstrzygnięcie w Europie (Europe is Scored), a jeden z graczy kontroluje (Controls) Europę. Ten gracz zwycięża.",
+   "•  Gracz, który w fazie sprawdzenia zatrzymanej karty Rozstrzygnięcia (Check for Held Scoring Card phase) ma zatrzymaną kartę Rozstrzygnięcia, rozpętał przypadkową wojnę nuklearną i natychmiast przegrywa.",
+   "•  Wojna Nuklearna (Nuclear War): gracz może także ogłosić automatyczne zwycięstwo, jeśli DEFCON osiągnie 1, gdy Aktywnym Graczem (Phasing Player) jest przeciwnik.",
+   "<b>10.3.2 Zwycięstwo po zakończeniu gry (End Game Victory).</b> Na koniec Etapu 10 (Turn 10) przeprowadza się Rozstrzygnięcie w każdym Regionie, a uzyskane w ten sposób VP dodaje się do bieżącego wyniku. Azja Południowo-Wschodnia (Southeast Asia) wchodzi w skład Rozstrzygnięcia w Azji (Asia Scoring). Zacznij od Europy, ponieważ Kontrola (Control) Europy daje automatyczne zwycięstwo. Przeprowadź Rozstrzygnięcie w każdym Regionie, zanim ustalisz, kto ma najwięcej punktów i zwycięża. Jeśli znacznik Punktacji (VP marker) stoi na polu 0, gra kończy się remisem."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "11.0 WARIANT „CHIŃSKA WOJNA DOMOWA”"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Z magazynu C3i #21, prawa autorskie: RBM Studio",
+   "Wariant „Chińska wojna domowa” (The Chinese Civil War Variant) należy rozgrywać z zachowaniem obowiązujących zasad (zob. 9.0) dotyczących <b><sc>Karty Chińskiej (The China Card)</sc></b>. Jeżeli jednak zasady tego wariantu są sprzeczne z dotychczasowymi zasadami lub z tekstem karty Wydarzenia (Event card text), pierwszeństwo ma niniejszy rozdział zasad.",
+   "11.1 Pole Chińska wojna domowa",
+   "Pole Chińska wojna domowa (Chinese Civil War space) uważa się za sąsiadujące wyłącznie ze Związkiem Radzieckim (Soviet Union). Pole"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "leży w Azji, ale nie w Azji Południowo-Wschodniej (Southeast Asia). Nie oddziałuje na żadne karty Rozstrzygnięcia (Scoring cards). Jedyną czynnością dotyczącą pola Chińska wojna domowa jest umieszczanie na nim Punktów Wpływów (Influence points) przez gracza ZSRR. Gracz USA nie może używać wobec pola Chińska wojna domowa żadnych Operacji (Operations) ani Wydarzeń (Events). Gdy gracz ZSRR umieści na polu Chińska wojna domowa 3 Punkty Wpływów, pole nie wywołuje już żadnych dalszych skutków. Znaczniki można odłożyć, a pole Chińska wojna domowa pomija się do końca gry.",
+   "11.2 Kontrola (Control)",
+   "Aby uzyskać Kontrolę (Control), ZSRR musi umieścić na polu Chińska wojna domowa (Chinese Civil War space) 3 Punkty Wpływów (Influence), z zachowaniem zwykłych ograniczeń z zasady 6.1. Jeśli <b><i><sc>Karta Chińska (The China Card)</sc></i></b> przez całą grę pozostanie nieprzejęta (zob. 11.3), podczas Rozstrzygnięcia Końcowego (End Game Scoring) żaden gracz nie otrzymuje Punktu Zwycięstwa (Victory Point) za posiadanie <b><i><sc>Karty Chińskiej (The China Card)</sc></i></b>.",
+   "11.3 Skutki Kontroli (Impact of Control)",
+   "Dopóki gracz ZSRR nie umieści na polu Chińska wojna domowa (Chinese Civil War space) 3 Punktów Wpływów (Influence points), <b><i><sc>Karta Chińska (The China Card)</sc></i></b> nie należy do żadnego gracza. Gdy gracz ZSRR umieści na tym polu 3 Punkty Wpływów, natychmiast otrzymuje <b><i><sc>Kartę Chińską (The China Card)</sc></i></b> odkrytą (faceup) i gotową do zagrania, a ograniczenia dotyczące zagrywania Wydarzeń (Event play, zob. 11.4) zostają zniesione.",
+   "11.4 Ograniczenia Wydarzeń (Event Restrictions)",
+   "Dopóki gracz ZSRR nie umieści na polu Chińska wojna domowa (Chinese Civil War space) 3 Punktów Wpływów (Influence points), nie może zagrywać jako Wydarzeń (Events) kart <b><i><sc>Czerwona panika/Czystka (Red Scare/Purge)</sc></i></b> ani <b><i><sc>Rewolucja kulturalna (Cultural Revolution)</sc></i></b>. Ponadto gracz USA nie może zagrać jako Wydarzenia karty <b><i><sc>Rezolucja formozańska (Formosan Resolution)</sc></i></b>.",
+   "<b>11.4.1 Specjalne ograniczenie dla USA (Special US Condition):</b> Gdy jako Wydarzenia (Events) zagrywa się karty <b><i><sc>Potyczka nad Ussuri (Ussuri River Skirmish)</sc></i></b> lub <b><i><sc>Nixon zagrywa Kartę Chińską (Nixon Plays the China Card)</sc></i></b>, uznaje się, że USA są w posiadaniu <b><i><sc>Karty Chińskiej (The China Card)</sc></i></b>, jeśli gracz ZSRR nie umieścił jeszcze 3 Punktów Wpływów (Influence points) na polu Chińska wojna domowa (Chinese Civil War space).",
+   "<b>11.4.2</b> Dopóki gracz ZSRR nie umieści na polu Chińska wojna domowa (Chinese Civil War space) 3 Punktów Wpływów (Influence points), gracz ZSRR przy rzucie kością w celu rozpatrzenia Wydarzenia (Event) <b><i><sc>Wojna w Korei (Korean War)</sc></i></b> odejmuje od wyniku dodatkowo 1.",
+   "<b>11.4.3</b> Wydarzenia (Events), których z powodu tych ograniczeń nie można zagrać, nadal można wykorzystać, by uzyskać Punkty Operacyjne (Operations points; zob. zasadę 7.5)."
+  ]
+ },
+ "_uwagi": "tr17_20 (2026-10-26): przekład z out/TS_20th_Ann_Rule_Book_WEB/p017.md; nawiasy EN wg GLOSARIUSZ.md K i GLOSARIUSZ_TS.md 0.4"
+}

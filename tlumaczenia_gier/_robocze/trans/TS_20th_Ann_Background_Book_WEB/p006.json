@@ -1,0 +1,119 @@
+{
+ "u2": "keep",
+ "u3": "keep",
+ "u4": "keep",
+ "u5": "keep",
+ "u6": "keep",
+ "u7": "keep",
+ "u8": "keep",
+ "u9": "keep",
+ "u18": "keep",
+ "u19": "keep",
+ "u20": "keep",
+ "u10": {
+  "paras": [
+   "<b>Na początku Etapu 2 (Turn 2):</b> Europa i północna część Bliskiego Wschodu"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "ETAP DRUGI [PRELUDIUM]"
+  ]
+ },
+ "u12": {
+  "paras": [
+   "DEFCON podnosi się (improves) z 2 → 3<f MinionPro-Cn>.</f> Jack przenosi wzrok z Berlina na Teheran. Nikita uśmiecha się, jakby obie sprawy były już przesądzone."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<b>KENNEDY:</b> Zakładam, że zamierzasz to jeszcze utrudnić."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Jack, gdyby to było łatwe, nie byłoby historią."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "KARTY NA RĘKACH W ETAPIE DRUGIM"
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<u>Ręka ZSRR</u>"
+  ]
+ },
+ "u17": {
+  "lines": [
+   "◊",
+   "<sc>Blokada (Blockade)</sc>",
+   "◊",
+   "<sc>Dekolonizacja (Decolonization)</sc>",
+   "◊",
+   "<sc>Fidel</sc>",
+   "◊",
+   "<sc>Naser (Nasser)</sc>",
+   "◊",
+   "<sc>Wojna indyjsko-pakistańska (Indo‑Pakistani War)</sc>",
+   "◊",
+   "<sc>Abdykacja w Rumunii (Romanian Abdication)</sc>",
+   "◊",
+   "<sc>Utworzenie Układu Warszawskiego (Warsaw Pact Formed)</sc>",
+   "◊",
+   "<sc>Plan pięcioletni (Five‑Year Plan)</sc>",
+   "◊",
+   "<sc>Karta Chińska (China Card)</sc>"
+  ]
+ },
+ "u21": {
+  "paras": [
+   "<u>Ręka USA</u>"
+  ]
+ },
+ "u22": {
+  "lines": [
+   "◊",
+   "<sc>Powstrzymywanie (Containment)</sc>",
+   "◊",
+   "<sc>Plan Marshalla (Marshall Plan)</sc>",
+   "◊",
+   "<sc>Utworzenie CIA (CIA Created)</sc>",
+   "◊",
+   "<sc>Niezależni czerwoni (Independent Reds)</sc>",
+   "◊",
+   "<sc>Pakt o wzajemnej obronie USA/Japonia</sc>",
+   "<sc>(US/Japan Mutual Defense Pact)</sc>",
+   "◊",
+   "<sc>Zbiegowie (Defectors)</sc>",
+   "◊",
+   "<sc>Powstanie w Wietnamie (Vietnam Revolts)</sc>",
+   "◊",
+   "<sc>Interwencja ONZ (UN Intervention)</sc>"
+  ]
+ },
+ "u23": {
+  "paras": [
+   "Nikita z zadowoleniem przygląda się swoim kartom."
+  ]
+ },
+ "u24": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Trochę Europy, trochę Azji, trochę rewolucji. Zbilansowany posiłek."
+  ]
+ },
+ "u25": {
+  "paras": [
+   "Jack przegląda swoje karty i krzywi się na widok jednej z nich."
+  ]
+ },
+ "u26": {
+  "paras": [
+   "<b>KENNEDY:</b> Widzę, że udało ci się podrzucić mi kolejną ze swoich pocztówek z dżungli."
+  ]
+ },
+ "u901": "keep",
+ "u902": "keep",
+ "_u901": "u901…: białe prostokąty (łatka) zakrywające linie podkreśleń z tła – podkreślenia składają się znacznikiem <u> pod polskim tekstem; „keep” = złożyć bez zmian"
+}

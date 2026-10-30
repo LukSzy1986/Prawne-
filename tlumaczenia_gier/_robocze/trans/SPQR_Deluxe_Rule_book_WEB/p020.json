@@ -1,0 +1,154 @@
+{
+ "_uwagi": "s. 20 (sp19_27) – łatka: u18+u19 scalone (7.2 + definicja ZOC opływająca diagram), etykiety „Skrzydło” po lewej stronie diagramów wyrównane do prawej. Nagłówek 7.0 jak w PDF GBJC („I ZOC”; EN „ZOCs” to skrót) – pełna forma nie mieści się w wierszu 18 pt. QA 26.10: nagłówki 7.1 (u3) i 7.2 (u18) wydzielone – 12 pt; 7.11 w u27, 7.2 dalej w u28.",
+ "u2": {
+  "paras": [
+   "7.0 USTAWIENIE FRONTU I ZOC"
+  ]
+ },
+ "u3": {
+  "paras": [
+   "7.1 USTAWIENIE FRONTU (FACING)"
+  ]
+ },
+ "u4": {
+  "lines": [
+   "Front",
+   "Front"
+  ]
+ },
+ "u5": {
+  "lines": [
+   "Skrzydło"
+  ]
+ },
+ "u6": {
+  "lines": [
+   "Skrzydło"
+  ]
+ },
+ "u7": {
+  "lines": [
+   "Tył",
+   "Tył"
+  ]
+ },
+ "u8": {
+  "lines": [
+   "Front",
+   "Front",
+   "Front"
+  ]
+ },
+ "u9": {
+  "lines": [
+   "Skrzydło"
+  ]
+ },
+ "u10": {
+  "lines": [
+   "Skrzydło"
+  ]
+ },
+ "u11": {
+  "lines": [
+   "Tył",
+   "Tył",
+   "Tył"
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>7.12</b> Aby oddział inny niż falanga (non-Phalanx) zmienił front (change facing), musi obrócić się w swoim heksie. Kosztuje to 1 punkt ruchu (MP) za każdy wierzchołek, o który się obraca, z następującymi wyjątkami:",
+   "• Oddziały rzymskiej piechoty legionów i ali (Roman Legion/Ala infantry) płacą za zmianę frontu w dowolnym kierunku 1 MP, bez względu na liczbę wierzchołków, o które się obracają.",
+   "• Oddziały słoni (Elephant) płacą za zmianę frontu 2 MP za każdy wierzchołek, co odzwierciedla trudność, z jaką zmieniały kierunek.",
+   "• Harcownicy (Skirmishers) nie płacą za zmianę frontu żadnych MP.",
+   "• Oddziały w kolumnie (In Column) – zob. 6.74.",
+   "<b>7.13</b> Oddziały falangi (Phalanx) nie zmieniają frontu; kierunek mogą zmienić jedynie przez przesunięcie do przodu jednej strony żetonu (i poniesienie wszelkich związanych z tym kosztów), czyli przez obrót żetonu (6.4).",
+   "<b>7.14</b> Oddziały, które zmieniają front w heksie terenu trudnego (Rough, 6.24), otrzymują 1 ubytek spójności (Cohesion Hit) za każdy wierzchołek obrotu. Oddziały słoni (EL), harcowników (SK) i piechoty barbarzyńskiej (BI) ze względu na swój wyjątkowo luźny szyk nie ponoszą tej kary. W takim terenie oddział może zapłacić za zmianę frontu wyższy koszt w spójności niż w MP.",
+   "<b>7.15 Reakcyjna zmiana frontu (Reaction Facing Change):</b> Każdy oddział inny niż falanga (non-Phalanx) lub stos oddziałów może w każdej fazie rozkazów (Orders Phase) zmienić front o jeden wierzchołek, gdy oddział wroga wejdzie do heksu z nim sąsiadującego z heksu niesąsiadującego; dotyczy to także każdego ruchu wykonywanego bez rozkazu (8.5, 8.62, 9.11). Oddział nie może tego zrobić, jeśli już znajduje się w strefie kontroli (ZOC) innego oddziału wroga. Po zmianie frontu właściciel oddziału wykonuje rzut kością i modyfikuje jego wynik (DR) o różnicę (+/–) między zdolnością ruchu (MA) oddziału poruszającego się a MA oddziału nieruchomego. Jeśli wynik rzutu jest wyższy od TQ oddziału, oddział otrzymuje ubytki spójności (Cohesion Hits) równe tej różnicy, co najmniej jednak 1 ubytek spójności, bez względu na wynik rzutu. Po zmianie frontu oddział nieaktywny (inactive) może (jeśli jest uprawniony) przeprowadzić ostrzał reakcyjny przy wejściu (Entry Reaction Fire)."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b><i>Wyjątek:</i></b> Oddziały jazdy zmieniające front w reakcji na ruch piechoty są zwolnione z opisanego wyżej testu i dokonują zmiany frontu bez żadnych niekorzystnych skutków."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Przypominamy, że oba oddziały w stosie wykonują ten test według TQ oddziału wierzchniego."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<b>7.16</b> Oddział falangi (Phalanx) może (jeśli jest uprawniony) raz na fazę rozkazów odwrócić front (Reverse Face, 6.45), gdy oddział wroga wejdzie na jeden z jego heksów tylnych (Rear hexes). Liczbę otrzymanych ubytków spójności (Cohesion Hits) ustal według procedury z 7.15."
+  ]
+ },
+ "u17": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Daliśmy oddziałom falangi (Phalanx) możliwość odwrócenia frontu w odpowiedzi na nieuniknione ataki na skrzydło i tył, choć kosztem spójności."
+  ]
+ },
+ "u18": {
+  "paras": [
+   "7.2 STREFY KONTROLI (ZOC)"
+  ]
+ },
+ "u20": {
+  "lines": [
+   "Front",
+   "Front",
+   "ZOC",
+   "ZOC"
+  ]
+ },
+ "u21": {
+  "lines": [
+   "Skrzydło"
+  ]
+ },
+ "u22": {
+  "lines": [
+   "Skrzydło"
+  ]
+ },
+ "u23": {
+  "lines": [
+   "Tył",
+   "Tył"
+  ]
+ },
+ "u24": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Powyższy wyjątek nie pozwoli harcownikom (Skirmishers) unieruchamiać oddziałów od tyłu."
+  ]
+ },
+ "u25": {
+  "paras": [
+   "Oddział opuszczający ZOC wroga może od razu wejść do innej ZOC wroga, ale wtedy musi zakończyć ruch na pozostałą część tej fazy rozkazów (Orders Phase).",
+   "<b>7.24</b> Oddział, który zaczyna etap ruchu i ostrzału (Movement/Missile Segment) w strefie kontroli (ZOC) oddziału wroga, w większości sytuacji nie może zmienić frontu (change facing). Może jednak wykorzystać na zmiany frontu do połowy swojej zdolności ruchu (MA), z zaokrągleniem w górę, jeśli <i>spełnione są wszystkie poniższe warunki:</i>"
+  ]
+ },
+ "u27": {
+  "paras": [
+   "<b>7.11</b> Wszystkie oddziały, oprócz oddziałów w kolumnie (In Column, 6.73), muszą stać w heksie tak, by górna krawędź żetonu (strona z nazwą) była zwrócona do wierzchołka heksu (między dwoma bokami heksu, jak poniżej). Wszystkie oddziały bojowe w jednym heksie muszą być zwrócone w tę samą stronę. 2 heksy przed oddziałem (3 w przypadku falangi – Phalanx) to heksy frontowe (Front hexes), heksy po bokach – skrzydłowe (Flank hexes), a heksy za oddziałem – tylne (Rear hexes). <i>Oddział może wejść wyłącznie do heksu frontowego.</i>"
+  ]
+ },
+ "u28": {
+  "paras": [
+   "Strefy kontroli (ZOC) to heksy – poza heksem zajmowanym – nad którymi oddziały sprawują kontrolę, ograniczając ruch oddziałów wroga.",
+   "",
+   "<b>7.21</b> Wszystkie oddziały bojowe roztaczają ZOC na swoje heksy frontowe (Front hexes). Uzbrojeni w pociski harcownicy (SK) oraz rzymscy welici (Velites) roztaczają ZOC na swoje heksy frontowe i skrzydłowe (Flank hexes) – z wyjątkiem sytuacji, gdy wyczerpali pociski (stan Brak pocisków – Missile No); wtedy harcownicy nie roztaczają żadnej ZOC, a rzymscy welici roztaczają ZOC wyłącznie na swoje heksy frontowe. Oddziały rozbite (Routed) i dowódcy (w tym słonie dowódców – leader elephants) nie roztaczają stref kontroli.",
+   "<b>7.22</b> Strefy kontroli (ZOC) <i>nie</i> obejmują heksów, do których ruch jest zabroniony.",
+   "<b>7.23</b> Oddział musi zakończyć ruch w chwili, gdy wejdzie do strefy kontroli (ZOC) wroga (wyjątkiem jest 6.44). Oddział, który zaczyna ruch w ZOC wroga, może ją opuścić tylko wtedy, gdy:",
+   "• jest oddziałem bojowym, który może otrzymać rozkaz ruchu, ma co najmniej jeden niezajęty heks frontowy (Front hex; oddziały falangi mogą potrzebować ich więcej), a jego nadrukowana zdolność ruchu (MA) jest wyższa od MA każdego oddziału wroga, który obejmuje go swoją ZOC (w tym celu dla falangi – Phalanx – przyjmuje się rozszerzoną zdolność ruchu, równą 5); <i>albo</i>",
+   "• jest wodzem naczelnym (OC), który wydaje rozkaz indywidualny (Individual Order) samemu sobie; <i>albo</i>",
+   "• jest dowódcą, któremu jego wódz naczelny (OC) wydał 2 rozkazy indywidualne (Individual Orders).",
+   "<b><i>Wyjątek:</i></b> Na potrzeby pierwszego punktu pomija się ZOC oddziału wroga niezdolnego do starcia (not Shock-capable)."
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_uwagi": "s. 28 – rozszerzony przykład starcia (przykład: nawiasy EN tylko z listy ZAWSZE, K.5); akapit u6[2] („7. The Carthaginian…”) to dalszy ciąg u6[1] – scalony; dalszy ciąg u6[3] na s. 29 (u2[0]).",
+ "u2": {
+  "paras": [
+   "Rozszerzony przykład starcia – [nad Bagradasem]",
+   "<b>Wyznaczenie do starcia (Shock Designation):</b> Kartagiński dowódca Bostar jest aktywny i wydał rozkazy ruchu kartagińskim oddziałom falangi (PH) <b>A</b> i <b>B</b>, które przesunęły się, aby zaatakować linię rzymskich oddziałów różnych typów. Ponieważ oba oddziały falangi należą do typów ciężkich i weszły na heksy sąsiadujące z oddziałami wroga, muszą przeprowadzić starcie (Shock), dlatego oba otrzymują znaczniki Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ). Gdy rozgrywka przechodzi do etapu starcia, gracz kartagiński może wykorzystać Bostara, aby umożliwić starcie innym oddziałom w jego zasięgu dowodzenia. Bliższy z dwóch oddziałów celtyckich – Celtowie (MI) <b>C</b> – spełnia warunki, więc gracz postanawia, że przeprowadzi on starcie, i oddział ten otrzymuje znacznik Starcie: bez testu TQ (SHOCK NO TQ CHECK). Drugi oddział, Celtowie (MI) <b>D</b>, znajduje się poza zasięgiem, nie weźmie więc udziału w tym etapie starcia.",
+   "<b>Procedura przed starciem (Pre-Shock Procedure):</b> Gracz kartagiński musi następnie rozdzielić swoje ataki. Falanga (Phalanx) A zaatakuje rzymskich welitów (Velites) T i obie rzymskie kohorty (CO) – <b>U</b> i <b>V</b>, a falanga <b>B</b> – triarii <b>W</b> i welitów <b>X</b> w dwóch skrajnych prawych heksach, które kontroluje. Gracz mógłby też kazać falandze <b>A</b> zaatakować tylko <b>T</b> i <b>U</b>, a falandze <b>B</b> – <b>V</b>, <b>W</b> i <b>X</b>, ale – jak się przekonamy – byłby to mniej korzystny atak. Celtowie (MI) <b>C</b> mają tylko jedną możliwość i muszą zaatakować zarówno rzymskich triarii <b>Y</b>, jak i welitów <b>Z</b> w swojej strefie kontroli (ZOC)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<b>Szarża (The Charge):</b> Gracze muszą teraz przeprowadzić testy TQ przed starciem (Pre-Shock TQ Checks) dla oddziałów atakujących oznaczonych znacznikami Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ) oraz dla obrońców w tych atakach. Gracz kartagiński wyrzuca dla swoich oddziałów 6 i 7, więc żaden z nich nie ponosi skutków. Gracz rzymski wyrzuca 5, 7 i 8 dla <b>T</b>, <b>U</b> i <b>V</b>. <b>T</b> nie ponosi skutków, natomiast <b>U</b> otrzymuje 1 ubytek (Hit), a <b>V</b> – 2 ubytki. W rzutach za dwa oddziały stojące naprzeciw falangi (Phalanx) <b>B</b> wypadają 9 i 0, więc triarii <b>W</b> otrzymują 3 ubytki, a welici (Velites) <b>X</b> nie ponoszą skutków. Triarii <b>W</b> mają teraz liczbę ubytków równą swojej jakości wojsk (TQ), więc zostają natychmiast rozbici (routs)"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "i przesunięci o 2 heksy w stronę rzymskiej krawędzi odwrotu. Ponieważ falanga <b>B</b> ma w swojej strefie kontroli (ZOC) oddział wroga, nie wykonuje posunięcia (advance)."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>Straty wśród dowódców (Leader Casualties):</b> Gracz rzymski ma dowódcę biorącego udział w jednym ze starć (Shock Combats), musi więc sprawdzić, czy dowódca nie padł ofiarą walki. Wyrzuca 0, a więc jego dowódca padł ofiarą walki. Gracz rzymski rzuca ponownie, tym razem wypada 5, więc jego dowódca staje się zakończony (Finished) do końca tury.",
+   "<b>Zmagania wręcz (The Hand-to-Hand Struggle):</b> Zaczynając od falangi (Phalanx) <b>A</b>, gracze sprawdzają tabelę szczęku włóczni i mieczy (Clash of Spears and Swords Chart), aby ustalić kolumnę bazową (base column), której użyją w tabeli wyników starcia (Shock Combat Results Table). Atak falangi <b>A</b> jest prowadzony od frontu, ale ponieważ bronią się oddziały więcej niż jednego typu, gracz rzymski może wybrać, którego z nich użyć. Z dwóch typów korzystniejsza jest dla niego piechota legionowa (LG), dająca kolumnę bazową 7, a według tabeli przewagi w starciu (Shock Superiority Chart) żadna ze stron nie ma przewagi. Ponadto, ponieważ atak jest prowadzony od frontu, nie ma przewagi pozycyjnej (Position Superiority). Następnie gracze ustalają, jaki wpływ ma stosunek liczebności. Liczebność 10 falangi <b>A</b> jest dokładnie równoważona przez sumę liczebności trzech oddziałów rzymskich (4+3+3). Nie ma żadnych przesunięć, więc atak falangi <b>A</b> zostanie rozstrzygnięty w kolumnie 7. Gracz kartagiński wyrzuca 6, co daje wynik „2(2)”. Falanga <b>A</b> otrzymuje 2 ubytki (Hits). Gracz kartagiński postanawia przy przydziale ubytków skorzystać ze specjalnej zasady dla falangi i przydziela oba kohorcie <b>V</b> (ma ona teraz 4 ubytki).",
+   "",
+   "W walce falangi (Phalanx) <b>B</b>, teraz już tylko z welitami (Velites) <b>X</b>, kolumna starcia (Shock Column) to 10. Według tabeli przewagi w starciu (Shock Superiority Chart) falanga <b>B</b> ma przewagę atakującego (Attack Superior) nad welitami <b>X</b>, zada więc w ataku podwójną liczbę ubytków (Hits). Falanga <b>B</b> ma znaczną przewagę liczebności (Size) nad samotnymi welitami (Velites) X: 10 wobec 3, czyli 3:1. Modyfikację za stosunek"
+  ]
+ }
+}

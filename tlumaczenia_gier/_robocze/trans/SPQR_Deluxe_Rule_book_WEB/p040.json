@@ -1,0 +1,56 @@
+{
+ "_uwagi": "s. 40 (redaktor sp37_44) – u2[0] = dalszy ciąg 10.28; 10.32 ostatni punktor bez kropki jak w oryginale.",
+ "u2": {
+  "paras": [
+   "Gdy oddział zostaje zebrany (rallied), gracz rzuca kością, sprawdza wynik w tabeli zebrania (Rally Table, 10.29) i przydziela mu podane tam ubytki spójności (Cohesion Hits) zależnie od wyniku rzutu i nadrukowanej TQ.",
+   "PRZYKŁAD: Dowódca o inicjatywie 4 próbuje zebrać (Rally) rozbity (routed) oddział principes (nadrukowana TQ 7). Jeśli gracz wyrzuci 2, oddział zostaje zebrany. Następnie wyrzuca 5, sprawdza wynik w tabeli zebrania (Rally Table) i przydziela oddziałowi 2 ubytki spójności (Cohesion Hits). Gdyby w pierwszym rzucie wypadło 6, oddział wykonałby ucieczkę rozbitych (rout moves), a przy 8 – zostałby wyeliminowany.",
+   "Zebrane (Rallied) oddziały nie mogą otrzymywać ani wykonywać rozkazów do następnej tury gry, ale przy zebraniu mogą zmienić front bez kosztu w MP i ubytkach spójności (Cohesion Hits). Automatycznie stają się uszczuplone (Depleted, 10.3) – odwróć żeton; piesze oddziały strzelające otrzymują znacznik Brak pocisków (MISSILE NO).",
+   "<b>10.29 Tabela zebrania (Rally Table):</b> Ustal z niej liczbę ubytków spójności (Cohesion Hits), które otrzymuje zebrany (Rallied) oddział."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "10.3 USZCZUPLENIE (DEPLETION)"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Uszczuplenie (Depletion) odzwierciedla rzeczywiste straty w ludziach poniesione w walce."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<b>10.31</b> Za każdym razem, gdy oddział rozbity (Routed) zostaje zebrany (Rallied), automatycznie staje się uszczuplony (Depleted). W niektórych scenariuszach pewne oddziały mogą zaczynać grę jako uszczuplone. Oddziały już uszczuplone nie podlegają dalszym uszczupleniom. Aby oznaczyć uszczuplenie, odwróć oddział na drugą stronę. Oddział, który raz stał się uszczuplony, pozostaje taki do końca gry.",
+   "<b>10.32</b> Uszczuplenie (Depletion) wpływa na walkę następująco:",
+   "• Jeśli atak w starciu (Shock attack) przeprowadza jakikolwiek oddział uszczuplony (Depleted), w tabeli wyników starcia (Shock Results Table) stosuje się przesunięcie o 1 kolumnę w lewo (1L).",
+   "• Jeśli przed atakiem w starciu (Shock attack) broni się jakikolwiek oddział uszczuplony (Depleted), w tabeli wyników starcia (Shock Results Table) stosuje się przesunięcie o 1 kolumnę w prawo (1R).",
+   "• Gdy oddział uszczuplony (Depleted) prowadzi ostrzał (Missile Fire), do rzutu kością na ostrzał (Missile Fire DR) stosuje się modyfikator rzutu kością (DRM) +1.",
+   "• Uszczuplone oddziały piechoty barbarzyńskiej (Depleted Barbarian Infantry) zostają wyeliminowane, jeśli ulegną rozbiciu (rout).",
+   "<b>10.33</b> Przy próbie zebrania (Rally, 10.28) oddziału uszczuplonego (Depleted) do rzutu kością na zebranie stosuje się modyfikator rzutu kością (DRM) +1. Przy korzystaniu z tabeli zebrania (Rally Table) do tego rzutu kością (DR) stosuje się modyfikator rzutu kością +2. Nie dotyczy to oddziałów, które dopiero co stały się uszczuplone, a jedynie tych, które były uszczuplone przed próbą zebrania."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "10.4 ZWIĄZANIE WALKĄ (ZASADA OPCJONALNA)"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>10.41</b> Oddziały oraz dowódcy w stosie z nimi stają się związani walką (Engaged) wskutek starcia (Shock Combat; zob. 8.47). Na każdym takim oddziale kładzie się znacznik Związany walką (ENGAGED) oznaczający jego stan. Oddziały związane walką (w tym dowódcy):",
+   "• nie mogą w żadnych okolicznościach dobrowolnie wykonywać ruchu ani zmieniać ustawienia frontu (facing), <i>oraz</i>",
+   "• nie mogą prowadzić ostrzału (Missile Fire) ani być celem ostrzału, <i>oraz</i>",
+   "• muszą, jeśli to możliwe, otrzymać znacznik Starcie: bez testu TQ (SHOCK-NO TQ CHECK) w etapie wyznaczenia do starcia (Shock Designation Segment, 8.41), jeśli znajdują się w zasięgu dowodzenia (Command Range) aktywnego dowódcy. Ograniczenia dowodzenia (Command restrictions) pomija się; znacznik Starcie: bez testu TQ otrzymują wszystkie własne oddziały w zasięgu.",
+   "<b>10.42</b> Jazda (Cavalry), harcownicy (Skirmishers) i lekka piechota (Light Infantry) związani walką (engaged) z oddziałami, których zdolność ruchu (MA) jest mniejsza od ich własnej, mogą zamiast otrzymania znacznika Starcie: bez testu TQ (SHOCK NO TQ CHECK) cofnąć się (retreat) o 1 heks, zachowując dotychczasowe ustawienie frontu (facing). Oddziały niezdolne do starcia (Non-Shock-capable) <i>muszą</i> się cofnąć, jeśli to możliwe. Heks ten:",
+   "• musi być pusty i taki, do którego oddział mógłby wejść zwykłym ruchem, <i>oraz</i>",
+   "• nie może się znajdować w strefie kontroli (ZOC) wroga, <i>oraz</i>",
+   "• nie może sąsiadować z oddziałem, z którym cofający się (retreating) oddział jest związany walką (Engaged).",
+   "Oddział zdolny do starcia (Shock-capable), który nie może się cofnąć (retreat), musi zamiast tego otrzymać znacznik Starcie: bez testu TQ (SHOCK-NO TQ CHECK).",
+   "<b>10.43</b> Znacznik Związany walką (ENGAGED) można usunąć w wyniku eliminacji oddziałów, posunięć (advances) i ucieczek rozbitych (rout moves) w kroku załamania (Collapse, 8.47) albo w dowolnym momencie, jeśli w strefie kontroli (ZOC) oddziału związanego walką (Engaged) nie ma już żadnych związanych walką oddziałów wroga, a sam oddział nie znajduje się w strefie kontroli związanego walką oddziału wroga."
+  ]
+ }
+}

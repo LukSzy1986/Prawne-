@@ -1,0 +1,20 @@
+# Raport walidacji – TS_20th_Ann_Rule_Book_WEB, s. 1–8 (tsr_1_8)
+
+Zakres: okładka ze spisem treści, 1.0 Wprowadzenie, 2.0 Elementy gry (2.1 mapa, 2.2 karty, 2.3 znaczniki), 3.0 Przygotowanie gry (plansza s. 6–7), 4.0 Przebieg gry do kroku E. Sprawdzono każde zdanie w md i w trans JSON z EN (pages + units), liczby i numery reguł skryptem (md i trans – zgodne; różnice tylko numer strony, stopka „© 2026”, „sześciościenne” za „6-sided”, EN powtórzone w nawiasach), słowa zakazane (0 trafień w md i trans), pandoc (8 plików bez ostrzeżeń), podglądy PNG s. 2, 5, 6, 8 (fragmenty 3.1–3.4 między ikonami ①–⑩ czytają się poprawnie), tytuły kart i napisy planszy z sekcjami 2, 3, 5, 6 glosariusza, terminy z Phalanx.
+
+Zgłoszenia: 8, wszystkie wagi D (K: 0, I: 0). Kategorie: termin 4 (brak EN przy terminach z listy ZAWSZE w składzie: s. 6 „Space Race”, s. 8 krok A, wykaz 4.5 F i I), kolokacja 2 (s. 6 „kładąc” za „rozmieszczając”, 3.2 i 3.3 trans), sens 1 (s. 5 „Gra ma 110 kart” za „W grze używa się 110 kart”), kontekst 1 (s. 2 nota „Od redakcji” odsyła do Przykładu rozgrywki, którego w Zasadach nie ma). Wszystkie dotyczą trans JSON; md bez usterek.
+
+Najpoważniejsze (strona: cytat → poprawka):
+- s. 5 (json): „Gra ma 110 kart.” → „W grze używa się 110 kart.” (zestaw ma też karty TZ/RS/P).
+- s. 2 (json): nota „Od redakcji” – „…; w Przykładzie rozgrywki AR – Runda (Action Round).” → usunąć człon (dotyczy tylko BB) – do decyzji.
+- s. 6 (json): „kładąc 15/25 znaczników” → „rozmieszczając …” (konwencja: znaczniki – umieszczać, karty – kłaść).
+- s. 6 (json): „Znaczniki Wyścigu Kosmicznego USA i ZSRR” → „… (Space Race) …” (jedyny termin 3.4 bez EN w akapicie).
+- s. 8 (json): „A. Poprawa sytuacji na torze DEFCON:” → „… (Improve DEFCON Status):” (B, C, D mają EN, A i E nie); wykaz 4.5: F „(Check for Held Scoring Card)”, I „(Final Scoring; …)”.
+
+Ocena: wierność 5/5 – nie znaleziono żadnej zmiany sensu, pominięcia ani dodatku; warunki (may/must, co najmniej, równe lub większe, before/after), liczby rozstawienia (15 i 25 znaczników – sumy zgodne), progi Regionów, wartości toru Wyścigu Kosmicznego i odesłania zgodne z EN. Polszczyzna 5/5 – bez literówek, błędów odmiany i interpunkcji; cytaty JFK i Churchilla naturalne i zgodne z glosariuszem 7; skróty składu nie gubią kwantyfikatorów. Terminologia zgodna z glosariuszem (nagłówki 4.1, kroki A–I, tytuły kart w ramce Event Reminder, nazwy państw 6, pola toru 2.1).
+
+Problemy systemowe (mogą wystąpić w innych partiach): (1) skład pomija EN także przy terminach z listy ZAWSZE w etykietach kroków i wykazach (4.5), choć wiersze są krótkie – warto sprawdzić nagłówki kroków F–I na s. 9 i dalsze wykazy; (2) przestawienia składu zamieniają czasowniki („rozmieszcza” → „kładąc”, „używa się” → „ma”) – drobne, ale łamią konwencje redakcji spójności; (3) nota „Od redakcji” wspólna dla R i BB zawiera zdanie właściwe tylko dla BB.
+
+Glosariusz a Phalanx (terminy): 2.1.7 Phalanx „Kontrolowanie państwa”, u nas „Kontrolowanie państw” (EN l.mn. – zostawić); 3.4 Phalanx „pole startowe”, glosariusz „pole Start (Start box)” – zostawić (napis na torze „START”); 4.0 Phalanx „Przebieg rozgrywki”, glosariusz „Przebieg gry” (sprawa 12.1 – bez zmian). Rozbieżność wewnątrz glosariusza: 2.1 podaje „TURN 4+ (oznaczenie pola 8 toru)”, opis ilustracji w p007.md – „na polu 7 (przy jego prawej krawędzi)”; logicznie napis dotyczy pola 7 (7. Runda od Etapu 4), ale bez obrazu oryginału nie da się tego rozstrzygnąć – do sprawdzenia przez orkiestratora na renderze s. 7/12.
+
+Do decyzji użytkownika: (a) nota „Od redakcji” w R – usunąć człon o AR/Przykładzie rozgrywki albo zostawić wspólne brzmienie 9.2; (b) „Rulebook” = „Księga zasad” (okładka, 2.1) obok „Rules Booklet” = „zeszyt zasad” i „Background Booklet” = „zeszyt tła historycznego” (2.0) przy tytule BB „Księga tła historycznego” – zgodne z glosariuszem (jak SE), ale czytelnik może nie połączyć „zeszytu” z „Księgą”; rekomendacja: w 2.0 „niniejsza księga zasad” i „księga tła historycznego (Background Booklet)”. Błędy oryginału (oddane wiernie, bez wpływu na PL): 4.5 D „theirAction” (brak spacji), 2.2.1 uwaga „Years of competitive play has shown”.

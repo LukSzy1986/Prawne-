@@ -1,0 +1,82 @@
+{
+ "_uwagi": "s. 31 – u2[0] = dalszy ciąg 8.62 ze s. 30 (u13[11]); 8.63–9.11; dalszy ciąg listy 9.11 na s. 32; QA: u7 (DRM) scalona łatką z u6.",
+ "u2": {
+  "paras": [
+   "musi wykonać posunięcie (advance), nie sprawdza ponownie, czy podejmuje pościg jazdy (Cavalry Pursuit). Oddział jazdy wykonuje posunięcie zgodnie z 8.5, chyba że wszyscy obrońcy byli na początku walki rozbici (Routed) i zostali wyeliminowani – wtedy porusza się zamiast tego o ½ swojej MA (z zaokrągleniem w górę) lub o pełną MA, tak jak w pierwszym punktorze powyżej."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Zwykle wyprowadza to zwycięski oddział jazdy poza zasięg jego dowódcy, a gracz musi wtedy zdecydować, jak najlepiej postąpić w tej sytuacji."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Jeśli rozbity (routed) oddział wroga opuści mapę, ścigającą jazdę i dowódców w stosie z nią umieszcza się poza mapą. Heks wyjścia w rozumieniu 8.64 to heks, przez który rozbity oddział opuścił mapę.",
+   "• <b>Oderwanie się (Break-Off):</b> jazda wykonuje posunięcie po walce (Advances after Combat, 8.5).",
+   "<b>8.63</b> Jazda, która się oderwała (Break-Off) lub podjęła pościg (Pursue), jest zakończona (Finished) do końca tury gry; nie może otrzymywać rozkazów ruchu ani ostrzału, ale może usuwać ubytki (recover Hits). Nie może atakować w starciu (Shock attack), ale może normalnie reagować (6.5, 8.2 itd.) i bronić się. Po rozstrzygnięciu oderwania się/pościgu oznacz je znacznikiem Pościg/Zakończony (PURSUIT/FINISHED).",
+   "PRZYKŁAD: [Zama] Kartagińska ciężka jazda (HC, TQ=7) szarżuje na oddział hastati w heksie 2728 i rozbija go (routed). Oddział cofa się (retreats) na 2527, a w teście pościgu (pursuit) gracz kartagiński wyrzuca 8 – i jazda rusza w zawzięty pościg. Wchodzi na 2628 i ponownie atakuje, rozbijając i tym samym eliminując uciekających hastati. Następnie wykonuje posunięcie (advances) o 4 MP w kierunku ucieczki hastati."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Gracz, którego oddziały uciekają, powinien – o ile to możliwe i rozsądne – prowadzić je tak, by unikały kontaktu z jego własnymi oddziałami. Słowem kluczowym jest tu oczywiście „rozsądne”… a w razie zażartego sporu rozstrzyga zdanie gracza prowadzącego pościg (pursuing player). Nie próbuj wykorzystywać uciekających oddziałów do zwabienia jazdy wroga w jakąś „pułapkę”."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>8.64 Przegrupowanie poza mapą (Off-Map Regroup).</b> Ścigająca jazda może znaleźć się poza mapą. Nie może wrócić do gry, dopóki gracz nie zadeklaruje za pomocą swojego wodza naczelnego (OC), że cała jego faza rozkazów (Orders Phase) zostaje przeznaczona na przegrupowanie i powrót (Regroup and Return) jazdy (bez względu na zasięg i położenie). Rozkaz przegrupowania i powrotu jazdy dotyczy całej jazdy danej armii przebywającej poza mapą. Pozwala jej wrócić na mapę w odległości do 2 heksów od heksu, przez który ją opuściła, z wykorzystaniem dowolnej części jej MA.",
+   "<b>8.65</b> Oddziałów jazdy przebywających poza mapą z powodu pościgu (pursued) nie uwzględnia się przy ustalaniu punktów rozbicia (Rout Points). Dowódcy przebywający poza mapą nie są aktywowani.",
+   "<b>8.66 Opcja pościgu jazdy (Cavalry Pursuit Option):</b> Zamiast sprawdzać podjęcie pościgu (8.62) na podstawie współczynnika TQ, użyj następujących współczynników pościgu (Pursuit Ratings) i modyfikatorów (DRM), aby ustalić, czy oddział jazdy podejmuje pościg:",
+   "Lekka jazda/kopijnicy (LC/LN): <f TimesNewRomanPSMT>5</f>",
+   "Jazda rzymska/ciężka jazda/jazda barbarzyńska (RC/HC/BC): <f TimesNewRomanPSMT>3</f>",
+   "Modyfikatory rzutu kością (DRM):",
+   "+1 – za lekką jazdę numidyjską (Numidian LC).",
+   "+2 – jeśli którykolwiek z rozbitych (routed) oddziałów to piechota.",
+   "+/– charyzma dowolnego jednego uczestniczącego dowódcy.",
+   "–1 – jeśli oddział jazdy znajduje się w ZOC oddziału wroga."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "8.7 TABELE WALKI (THE COMBAT TABLES)",
+   "<b>8.71 Tabela zasięgu i wyników ostrzału (Missile Range and Results Chart):</b> Tabela ta służy do ustalania siły ostrzału oddziału strzelającego na danym zasięgu.",
+   "<b>8.72 Tabela przewagi w starciu (Shock Superiority Chart):</b> Tabela ta służy do porównania ewentualnej przewagi (superiority) oddziału jednego typu nad oddziałem innego typu, w zależności od tego, która strona atakuje, a która się broni. Tabelę należy zawsze czytać w dół kolumny (column) – z punktu widzenia atakującego. (Czytanie w poprzek, wierszami, daje „błędny” wynik.) Przewaga (Superiority) służy do zwiększania ubytków spójności (Cohesion Hits).",
+   "<b>8.73 Tabela szczęku włóczni i mieczy (Clash of Spears and Swords Chart):</b> Tabela ta służy do ustalenia, która kolumna (Column) tabeli wyników starcia (Shock Combat Results Table) zostanie użyta (z zastrzeżeniem przesunięć).",
+   "<b>8.74 Tabela wyników starcia (Shock Combat Results Table):</b> Tabela ta służy do rozstrzygania starcia (Shock Combat) w postaci ubytków spójności (Cohesion Hits) zarówno dla atakującego, jak i dla obrońcy. Zob. 10.11 i 10.14.",
+   "<b>8.75 Tabela ubytków spójności i testów TQ (Cohesion Hit and TQ Check Chart):</b> Tabela ta stanowi zestawienie sytuacji, w których nalicza się ubytki spójności (Cohesion Hits) i przeprowadza testy TQ."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "9.0 SPECJALNE ODDZIAŁY BOJOWE"
+  ]
+ },
+ "u12": {
+  "paras": [
+   "9.1 SŁONIE BOJOWE (WAR ELEPHANTS)"
+  ]
+ },
+ "u13": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Mimo swoich słabości słonie bojowe cieszyły się ogromną popularnością od epoki diadochów (następców Aleksandra) aż po czasy Republiki rzymskiej (używali ich nawet Rzy­mia­nie – por. Kynoskefalaj – choć nieczęsto). W czasach Pyrrusa słonie bojowe zaczęto wyposażać w „wieże”, a współdziałającą z nimi jazdę również wyszkolono do walki u ich boku. Niestety elastyczność rzymskiego systemu legionowego ostatecznie zniweczyła ich zalety, pozostawiając im mnóstwo wad, które przesądziły o tym, że stały się przeżytkiem."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "<b>9.11 Przepuszczenie słoni (Elephant Pass-Thru):</b> Oddział piechoty atakowany przez jeden ze swoich heksów frontowych (Front hexes) przez oddział słoni (Elephant) oznaczony znacznikiem Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ) może spróbować przepuścić słonie przez swój heks. Decyzję trzeba podjąć przed rzutem w teście TQ przed starciem (Pre-Shock TQ Check, 8.43); można ją podjąć tylko wtedy, gdy co najmniej jeden z heksów tylnych (Rear hexes) obrońcy jest pusty. Przepuszczenie (Pass-Thru) jest <i>niedozwolone</i>, gdy:",
+   "• oddział piechoty jest atakowany przez heks skrzydłowy (Flank) lub tylny (Rear);",
+   "• oddział słoni atakuje razem z innymi oddziałami;",
+   "• oddział piechoty na początku fazy rozkazów (Orders Phase) znajdował się w strefie kontroli (ZOC) wroga.",
+   "Z przepuszczenia (Pass-Thru) mogą skorzystać dwa broniące się oddziały piechoty, jeśli oba spełniają powyższe warunki. Gdy gracz zrezygnuje z przepuszczenia, starcie (Shock) przebiega normalnie.",
+   "Jeśli gracz wybierze przepuszczenie (Pass-Thru), wykonaj kolejno:",
+   "1. Zastosuj DRM +1 do rzutu (DR) oddziału piechoty w teście TQ przed starciem (Pre-Shock TQ Check).",
+   "2. Przeprowadź procedurę rozstrzygania starcia (Shock resolution), ale ubytki spójności (Cohesion Hits) obrońcy podziel na pół (z zaokrągleniem w dół), a ubytki oddziału słoni zmniejsz o 1."
+  ]
+ }
+}

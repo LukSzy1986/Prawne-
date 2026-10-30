@@ -1,0 +1,56 @@
+{
+ "_uwagi": "Liczby na znacznikach mapy – keep; żywa pagina BACKGROUND BOOK – keep (glosariusz TS 4.4). u10 podzielona łatką na u10/u20/u21, u12 na u12/u22 (własne skale). u21: pominięty nawias (Operations) i „(US Operations cards)” – 1 wiersz nad ramką cytatu. u22: pominięte „(is not in effect)” (nie z listy ZAWSZE).",
+ "u2": "keep",
+ "u3": "keep",
+ "u4": "keep",
+ "u5": "keep",
+ "u6": "keep",
+ "u7": "keep",
+ "u8": "keep",
+ "u14": "keep",
+ "u15": "keep",
+ "u16": "keep",
+ "u17": "keep",
+ "u18": "keep",
+ "u9": {
+  "paras": [
+   "<b>Na początku Etapu 1 (Turn 1):</b> Europa i północna część Bliskiego Wschodu"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "FAZA WYDARZEŃ KLUCZOWYCH (HEADLINE PHASE)"
+  ]
+ },
+ "u20": {
+  "paras": [
+   "ZSRR: <b><i><sc>Czerwona panika/Czystka</sc></i></b> (<b><i><sc>Red Scare/Purge</sc></i></b>, <b>4</b> Ops)"
+  ]
+ },
+ "u21": {
+  "paras": [
+   "W tym Etapie (this turn) wszystkie karty USA mają −1 do Operacji (min. 1)."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "<b>CHRUSZCZOW:</b> Komuniści nigdy nie mieli lepszego przyjaciela niż McCarthy."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<f MinionPro-Cn>USA:</f> <sc>Nadzwyczajne relacje</sc> <f MinionPro-Cn>(</f><sc>Special Relationship</sc><f MinionPro-Cn>,</f> <f MinionPro-BoldCn>2</f> <f MinionPro-Cn>Ops)</f>"
+  ]
+ },
+ "u22": {
+  "paras": [
+   "Ponieważ Wielka Brytania (UK) jest kontrolowana przez USA (US Controlled), a <b>NATO</b> nie obowiązuje, USA dodają 1 Punkt Wpływów (Influence) we Francji (France).",
+   "• Francja (France): (1/0)"
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<b>KENNEDY:</b> Jackie najwyraźniej oczarowuje Paryż równie łatwo jak Londyn."
+  ]
+ }
+}

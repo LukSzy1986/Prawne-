@@ -1,0 +1,65 @@
+{
+ "_uwagi": "s. 12 (sp10_18): akapit 5.26 (drugi) dzielony u2[16] → u4[0] jak w oryginale",
+ "u2": {
+  "paras": [
+   "1. Ruch jednym dowolnym własnym oddziałem. Większość oddziałów strzelających (Missile units) może też strzelać w dowolnej chwili swojego ruchu.",
+   "2. Ostrzał (Missile Fire) jednym dowolnym własnym oddziałem strzelającym, bez ruchu.",
+   "3. Usunięcie ubytków spójności (Cohesion Hits) z jednego własnego oddziału (10.16).",
+   "4. Próba zebrania (Rally) jednego własnego rozbitego (Routed) oddziału (10.28).",
+   "5. Zastąpienie (Replace) wyeliminowanego własnego dowódcy (4.74).",
+   "6. Zmiana kolejności w stosie (stacking order) dowolnego jednego stosu własnych oddziałów rzymskich (6.66).",
+   "7. Przegrupowanie i powrót (Regroup and Return) własnej jazdy spoza mapy (8.64) [tylko wódz naczelny (OC); zużywa wszystkie rozkazy indywidualne (IO) danej fazy rozkazów].",
+   "Dowódca może wydać rozkaz indywidualny (IO) tylko oddziałowi, którym może dowodzić (4.35, 4.52 itd.). Może wydać sobie rozkaz ruchu, ale nie w strefie kontroli (ZOC) wroga (z wyjątkiem wodza naczelnego). Rozkaz ruchu innemu dowódcy może wydać tylko wódz naczelny (OC). Kosztuje to 2 IO, jeśli ten dowódca jest w strefie kontroli wroga.",
+   "<b>5.23 Rozkazy liniowe (Line Commands):</b> Każdy rozkaz liniowy pozwala graczowi wykonać jedną z następujących czynności:",
+   "1. Ruch dowolnymi/wszystkimi własnymi oddziałami jednej linii (line, 4.32), łącznie z rzymskim manipularnym wydłużeniem linii (Roman Manipular Line Extension, 9.66). Poruszające się oddziały zdolne do ostrzału – i tylko one – mogą go prowadzić; <i>albo</i>",
+   "2. Ostrzał (Missile Fire) dowolnymi/wszystkimi własnymi oddziałami jednej linii (line) <i>bez</i> ruchu.",
+   "Dowódca wydający rozkaz liniowy (Line Command) może w obu przypadkach wykonać ruch.",
+   "<b>5.24</b> Choć danemu oddziałowi bojowemu można w jednej turze gry (Game Turn) rozkazać ruch/ostrzał więcej niż raz, nie może on wykonać ruchu i/lub ostrzału więcej niż raz w jednej fazie rozkazów (Orders Phase, 6.11, 6.12). Ograniczenie to nie dotyczy dowódców.",
+   "PRZYKŁAD: Jeśli pod Kannami Maharbal rozkaże ruch oddziałowi lekkiej jazdy numidyjskiej nr 1, nie może w tej samej fazie rozkazów ponownie rozkazać mu ruchu. Taki rozkaz może mu jednak wydać w jednej z kolejnych faz rozkazów tej samej tury gry np. Hannibal, a nawet sam Maharbal, jeśli uzyska drugą aktywację (dzięki impetowi – Momentum).",
+   "<b>5.25</b> Rozkazy indywidualne (Individual Orders) i liniowe (Line Commands) nie służą do bezpośredniego wywołania starcia (Shock Combat), które następuje w późniejszym etapie (8.4). Rozkazy służą do ostrzału (Missile Fire, 8.1). Ostrzał reakcyjny (Reaction Fire, 8.2) nie wymaga rozkazów; następuje w odpowiedzi na działania wroga.",
+   "<b>5.26</b> Dowódca inny niż wódz naczelny (OC), zajmujący heks w strefie kontroli (ZOC) wroga, nie może wydawać rozkazów (4.24, 4.33). Jego zasięg dowodzenia (Command Range) można jednak nadal wykorzystać do wyznaczenia oddziałów do starcia (Shock Combat) w tym etapie fazy rozkazów (Orders Phase, 7.33), nie jest on więc zupełnie bezużyteczny. Dowódca nie staje się zakończony (Finished) tylko dlatego, że jest w strefie kontroli wroga; staje się jednak zakończony – i nie może zostać aktywowany – jeśli ma zastosowanie którykolwiek z punktów 5.15 albo jeśli wykorzystał swój zasięg dowodzenia, aby umożliwić oddziałom udział w starciu, jak opisano wyżej.",
+   "Dowódca, który zaczyna swoją początkową fazę rozkazów (initial Orders Phase) w strefie kontroli (ZOC) wroga, może pozostać nieaktywny (inactive), a więc nic nie robić (wyjątek od 5.15 pkt 4). Jeśli w dalszej części tury gry dowódca nie jest już w strefie kontroli wroga, gracz musi go aktywować przed jakimkolwiek innym dowódcą. Tak aktywowany dowódca nie może jednak korzystać z impetu (Momentum)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u4": {
+  "paras": [
+   "Dowódca staje się zakończony (Finished), jeśli nadal jest w strefie kontroli wroga, gdy wszyscy pozostali dowódcy są zakończeni albo w strefie kontroli wroga.",
+   "PRZYKŁAD: Jeśli Hannon jest w strefie kontroli wroga, gdy przychodzi kolej na jego aktywację, a gracz kartagiński wykorzysta Hannona, aby umożliwić kilku oddziałom w jego zasięgu udział w starciu (Shock Combat), Hannon staje się zakończony (Finished) i nie jest uprawniony do aktywacji, jeśli Hannibal później wyprowadzi go z tej strefy kontroli.",
+   "<b>5.27</b> Gdy dowódca wyda wszystkie rozkazy, jakie chce (lub może), własne oddziały biorą udział w starciu w następującym potem etapie starcia (Shock Combat Segment), zgodnie z opisem we wstępie do 8.4.",
+   "<b>5.28</b> Po zakończeniu starcia (Shock Combat) faza rozkazów (Orders Phase) się kończy. Może teraz nastąpić jedno z dwojga:",
+   "1. Gracz może spróbować uzyskać fazę rozkazów dzięki impetowi (Momentum Orders Phase, 5.3) dla tego samego dowódcy, który właśnie był aktywowany; <i>albo</i>",
+   "2. Aktywowany zostaje nowy dowódca – powrót do fazy A.",
+   "Gdy wszyscy dowódcy są zakończeni (Finished), gracze przechodzą do fazy rozbicia i uzupełniania pocisków (Rout and Reload Phase, D)."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Impet (Momentum) – i opisane niżej przebicie (Trumping) – to bardzo przydatne i skuteczne zagrania, zwłaszcza dla gracza z lepszymi dowódcami. Zwykle istnieje jednak 20–40% szans, że obrócą się przeciwko grającemu; gdy tak się stanie, impet może często otworzyć przed przeciwnikiem ogromne możliwości."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>5.31</b> Po zakończeniu fazy rozkazów (Orders Phase) gracz może spróbować przeprowadzić dodatkową fazę rozkazów z aktywnym dowódcą (active leader), który właśnie skończył wydawać rozkazy. W tym celu dowódca musi zdać rzut na impet (Momentum die roll) i nie może zachodzić żadna z następujących sytuacji ograniczających:",
+   "• dowódca jest lub był wcześniej w strefie kontroli (ZOC) wroga (5.26);",
+   "• dowódca był wcześniej przebity (Trumped) lub pominięty (Bypassed, 5.44);",
+   "• dowódca jest zakończony (Finished, 5.15).",
+   "<b>5.32</b> Gracz rzuca kością i porównuje wynik ze współczynnikiem inicjatywy (Initiative Rating) dowódcy. Jeśli wynik (DR) jest równy temu współczynnikowi lub mniejszy, dowódca rozpoczyna kolejną fazę rozkazów (fazę B); jeśli jest wyższy, dowódca staje się zakończony (Finished).",
+   "PRZYKŁAD: Hannibal potrzebowałby wyniku 0–7, aby uzyskać impet (Momentum); wynik 8 lub 9 uczyniłby go zakończonym (Finish).",
+   "<b>5.33 Fatalny rzut (Die Roll of Doom):</b> Jeśli wynik rzutu na impet (Momentum die roll) wynosi 9, natychmiast rzuca się ponownie. Jeśli drugi wynik (DR) wynosi:",
+   "• <b>0 lub 1</b> – możliwa jest ponowna aktywacja (Re-Activation). Kolej natychmiast przechodzi na przeciwnika, który może aktywować dowolnego jednego ze swoich dowódców, niezależnie od tego, czy jest on zakończony (Finished), czy nie! Ponownie aktywowany zakończony dowódca nie może jednak sam korzystać z impetu (Momentum). Dowódca próbujący uzyskać impet staje się zakończony.",
+   "• <b>2–8</b> – dowódca próbujący uzyskać impet (Momentum) staje się zakończony (Finished).",
+   "• <b>9</b> – w tej turze nie mogą już nastąpić żadne aktywacje dowódców; gra przechodzi od razu do fazy rozbicia i uzupełniania pocisków (Rout and Reload Phase, D).",
+   "<b>5.34</b> Rzuty na impet (Momentum die rolls) dotyczą tylko dowódcy, który właśnie zakończył fazę rozkazów (Orders Phase). Nie można zastosować impetu do dowódcy, który stał się zakończony (Finished) kilka faz wcześniej lub został ponownie aktywowany (Reactivated, 5.33)."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "5.3 IMPET (MOMENTUM)"
+  ]
+ }
+}

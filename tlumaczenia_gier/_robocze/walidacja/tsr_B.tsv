@@ -1,0 +1,10 @@
+dok	strona	cytat_PL	poprawka_PL	gdzie	id	uwagi
+TS_20th_Ann_Rule_Book_WEB	18	które mogły doprowadzić do zupełnie innej zimnej wojny	które mogły doprowadzić do zasadniczo innej zimnej wojny	oba	tsr_17_24#1	sens/D
+TS_20th_Ann_Rule_Book_WEB	18	pięć kart Sztuki Rządzenia (Statecraft cards) oznaczonych swoją stroną	pięć kart Sztuki Rządzenia (Statecraft cards) oznaczonych jego stroną	oba	tsr_17_24#2	skladnia/D
+TS_20th_Ann_Rule_Book_WEB	18	(Chinese Civil War variant), odłóż kartę Kryzysu (Crisis card)	(Chinese Civil War variant), odłóżcie kartę Kryzysu (Crisis card)	md	tsr_17_24#3	skladnia/I
+TS_20th_Ann_Rule_Book_WEB	18	Jeśli używacie wariantu „Chińska wojna domowa”, odłóż kartę Kryzysu	Jeśli używacie wariantu „Chińska wojna domowa”, odłóżcie kartę Kryzysu	json	tsr_17_24#4	skladnia/I
+TS_20th_Ann_Rule_Book_WEB	19	Skróty użyte na tym torze odnoszą się do różnych rodzajów techniki wojskowej	Wszystkie skróty użyte na tym torze odnoszą się do różnych rodzajów techniki wojskowej	oba	tsr_17_24#6	pominiecie/D
+TS_20th_Ann_Rule_Book_WEB	19	co może mieć dramatyczny wpływ na grę	co może mieć dramatyczne skutki dla gry	json	tsr_17_24#7	kontekst/D
+TS_20th_Ann_Rule_Book_WEB	19	ograniczyć wpływ tych kart na moment tasowania	ograniczyć działanie tych kart na moment tasowania	json	tsr_17_24#8	kontekst/D
+TS_20th_Ann_Rule_Book_WEB	20	niewskazaną w żadnej z ofert (bid), otrzymuje dodatkowe Wpływy (additional Influence)	niewskazaną w żadnej z ofert (bid), otrzymuje wtedy te dodatkowe Wpływy (additional Influence)	md	tsr_17_24#9	sens/D
+TS_20th_Ann_Rule_Book_WEB	20	niewskazaną w żadnej z ofert, otrzymuje dodatkowe Wpływy	niewskazaną w żadnej z ofert, otrzymuje wtedy te dodatkowe Wpływy	json	tsr_17_24#10	sens/D

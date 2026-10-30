@@ -1,0 +1,77 @@
+{
+ "_uwagi": "s. 30 – 8.52–8.62; u7[1] (8.54) przechodzi do u9[0]; u13[11] przechodzi na s. 31 (u2[0]). Podpisy diagramów bez EN (QA: jednolicie; z EN dwa prawe nie mieszczą się pod diagramem).",
+ "u2": {
+  "paras": [
+   "<b>8.52</b> Oddziały inne niż falanga (non-Phalanx) mogą po zakończeniu posunięcia (advance) zmienić front (facing) o jeden wierzchołek heksu, nawet jeśli są w ZOC wroga. Ten punkt ma pierwszeństwo przed 7.24 – i stanowi od niego wyjątek."
+  ]
+ },
+ "u3": {
+  "lines": [
+   "Brak posunięcia"
+  ]
+ },
+ "u4": {
+  "lines": [
+   "Posunięcie z obrotem"
+  ]
+ },
+ "u5": {
+  "lines": [
+   "Posunięcie"
+  ]
+ },
+ "u6": {
+  "lines": [
+   "Posunięcie ze zwrotem"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>8.53</b> Posuwający się oddział falangi (Phalanx) musi wejść do przodu obiema połówkami na heks(y) opuszczony(-e) przez oddział(y) wroga, o ile jest w stanie to zrobić. Jeśli oddział nie może posunąć się do przodu w całości, nie wykonuje posunięcia (advance). Jeśli jednak na jego lewym albo prawym heksie frontowym (front) – ale nie na obu – znajduje się oddział wroga, a jedynym opuszczonym heksem był środkowy heks frontowy, oddział falangi musi zamiast tego wykonać obrót (pivot) za pomocą manewru zwrotu (Wheeling maneuver, 6.44) na opuszczony środkowy heks frontowy, ponosząc wszystkie związane z tym manewrem koszty spójności (cohesion costs). Jeśli miałby przy tym ulec rozbiciu (rout), stosuje się 8.51. Jeśli oddział falangi mógł posunąć się do przodu i wykonał posunięcie w całości, może następnie wykonać manewr zwrotu, jeśli nadarzy się ku temu okazja – o ile poniesie wszystkie koszty spójności związane z tym manewrem. W takim przypadku, jeśli oddział miałby ulec rozbiciu, zostaje rozbity zgodnie z 10.21.",
+   "<b>8.54</b> Jeśli oddziałów i/lub stosów atakujących jest więcej niż zwolnionych heksów, posunięcie (advance) muszą wykonać te oddziały (stosy), które – jeśli takie są – miały przewagę (Superiority). Jeśli takich oddziałów (stosów) nie ma, posunięcie muszą wykonać te o najwyższej jakości wojsk (TQ). W razie remisu wybiera gracz wykonujący posunięcie."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "Jeśli zwolnionych heksów było więcej niż oddziałów atakujących, heks (heksy) wybiera gracz wykonujący posunięcie.",
+   "<b>8.55</b> Przeciwnik nie może w odpowiedzi na posunięcie (advance) wykonać uporządkowanego odwrotu (Orderly Withdrawal, 6.51), ale może zmienić front (facing) wg 7.15–16 i/lub – jeśli spełnia warunki – przeprowadzić ostrzał reakcyjny przy wejściu (Entry Reaction Fire, 8.21).",
+   "<b>8.56</b> Po samym ostrzale (Missile Fire) nie wykonuje się posunięcia (advance), bez względu na to, co zrobi cel ostrzału."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "8.6 POŚCIG JAZDY (CAVALRY PURSUIT)"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Jednym z problemów z jazdą na przestrzeni całej historii wojskowości było to, że zwycięską jazdę często trudno było powstrzymać przed ściganiem uciekających wojsk wroga. (Niektórzy historycy uważają, że Hannibal – chytry lis, jakim był – liczył pod Zamą na to, że silniejsza jazda rzymska odgalopuje gdzieś w dal!) O tym, czy uda się zawrócić rozpędzonych jeźdźców na pole bitwy, decydował zwykle stopień kontroli sprawowanej przez dowódców."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Pod Beneventum tej zasady nie stosuje się, dlatego na tej mapie nie ma pól pościgu (Pursuit boxes)."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "<b>8.61</b> Atakujące oddziały jazdy, które w kroku załamania (Collapse step, 8.47[1]) rozbiją (rout) obrońców, mogą podjąć pościg (pursue). Pościg podejmują wyłącznie zwycięskie atakujące oddziały jazdy – nigdy zwycięscy obrońcy. Jeśli w walce bierze udział więcej niż jeden atakujący oddział jazdy, pościg podejmuje tylko jeden, wybrany przez gracza, do którego należą. Do pościgu nie dochodzi:",
+   "• jeśli broniący się oddział (oddziały) zostaje rozbity (routs) wskutek nieudanego testu TQ w kroku załamania (Collapse TQ check, 8.47[2]);",
+   "• jeśli broniący się oddział (oddziały) jest otoczony przez oddziały wroga i/lub ZOC wroga;",
+   "• jeśli bronią się dwa oddziały, a rozbity (routs) zostaje tylko jeden;",
+   "• jeśli w chwili rozbicia (rout) oddział jazdy był związany walką (Engaged; zob. 10.4);",
+   "• w każdym starciu (Shock Combat) będącym skutkiem wyniku „pościg” (Pursue, 8.62).",
+   "W tych przypadkach zwycięski oddział (oddziały) jazdy wykonuje posunięcie po walce (Advances After Combat, 8.5).",
+   "<b>8.62</b> Aby rozstrzygnąć pościg, gracz, do którego należy jazda, rzuca kością i porównuje wynik ze współczynnikiem TQ ścigającej jazdy. Jeśli wynik (DR) jest wyższy, oddział jazdy i dowódcy w stosie z nim <i>muszą</i> <b>podjąć pościg (Pursue)</b>; w przeciwnym razie oddział <i>musi</i> <b>oderwać się (Break-Off)</b>. Procedury są następujące:",
+   "<b>Pościg (Pursue):</b> Ścigający oddział jazdy porusza się w stronę rozbitego (routed) oddziału wzdłuż jego drogi odwrotu. Nie kosztuje to MP, ale obowiązują ubytki spójności (Cohesion Hits) za teren. Jeśli wszyscy obrońcy zostali wyeliminowani (oddziały rozbite, harcownicy itp.), ścigający oddział jazdy porusza się zamiast tego o ½ swojej MA (z zaokrągleniem w górę), jeśli którykolwiek z obrońców był piechotą, albo o pełną MA, jeśli wszyscy obrońcy byli jazdą:",
+   "• w kierunku, w którym zmierzał rozbity oddział (oddziały) – jeśli kierunków jest kilka, wybiera gracz prowadzący pościg, <i>albo</i>",
+   "• w kierunku krawędzi odwrotu (Retreat Edge) przeciwnika, jeśli żaden z wyeliminowanych oddziałów nie był wcześniej rozbity (Routed).",
+   "Oddział jazdy musi się zatrzymać, jeśli wejdzie w strefę kontroli (ZOC) wroga lub jeśli oddział wroga znajdzie się w jego ZOC. Następnie gracz prowadzący pościg rozstrzyga starcie (Shock Combat, 8.43–8.47) przeciwko wszystkim oddziałom wroga w jego ZOC. Jeśli ścigający oddział"
+  ]
+ }
+}

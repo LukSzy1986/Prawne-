@@ -1,0 +1,35 @@
+{
+ "u2": {
+  "paras": [
+   "<b>6.1.3</b> Znaczniki Wpływów (Influence markers) można umieszczać w wielu Regionach i w wielu państwach – do liczby Punktów Operacyjnych (Operations points) zagranej karty."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz USA ma znaczniki w Panamie i Korei Południowej (South Korea). Wykorzystuje kartę o Wartości Operacyjnej 3 (3 Operations card), aby umieścić kolejne Wpływy (Influence). Może umieścić znaczniki Wpływów zarówno w Kostaryce (Costa Rica), jak i w Kolumbii (Colombia). Nie może jednak umieścić znaczników Wpływów w Kostaryce, a następnie w Nikaragui (Nicaragua). Może też wykorzystać pozostałe Punkty Operacyjne (Operations points) do wzmocnienia Korei Południowej lub sąsiadujących z nią państw."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>6.1.4</b> Znaczniki Wpływów (Influence markers) zawsze można umieszczać w państwach sąsiadujących (adjacent) z polem supermocarstwa (superpower space) Aktywnego Gracza (Phasing Player).",
+   "<b>6.1.5</b> Znaczniki Wpływów (Influence markers) traktuje się jak gotówkę. Gracze mogą w dowolnej chwili rozmienić znacznik o dużym nominale na znaczniki o mniejszych nominałach. Ponadto liczba znaczników Wpływów dołączonych do gry nie jest bezwzględnym limitem. W razie braku znaczników można użyć małych żetonów pokerowych, monet lub drewnianych klocków.",
+   "<b>6.1.6</b> Jeśli gracz ma w państwie 2 znaczniki lub więcej, wyższy nominał połóż na wierzchu. Znaczniki Wpływów (Influence markers) są zawsze jawne.",
+   "6.2 RZUTY NA WYWIERANIE PRESJI",
+   "<b>6.2.1</b> Rzuty na Wywieranie Presji (Realignment rolls) służą do zmniejszania Wpływów (Influence) przeciwnika w państwie. Aby wykonać rzut na Wywieranie Presji, nie musisz mieć żadnych Wpływów w państwie będącym celem (target country) ani w państwie sąsiadującym, choć znacznie zwiększa to szansę powodzenia. Przeciwnik musi jednak mieć znaczniki Wpływów (Influence markers) w państwie będącym celem. Wykorzystując kartę na rzuty na Wywieranie Presji, gracz może wykonać każdy rzut, zanim zadeklaruje kolejny cel. Państwo może być celem Wywierania Presji więcej niż raz w Rundzie (Action Round).",
+   "<b>6.2.2</b> Wykonanie rzutu na Wywieranie Presji (Realignment roll) kosztuje jeden Punkt Operacyjny (Operations point). Każdy gracz rzuca kością, a gracz z wyższym wynikiem może usunąć tyle Wpływów (Influence) przeciwnika w państwie będącym celem, ile wynosi różnica wyników. Równe wyniki oznaczają remis i żadne znaczniki nie zostają usunięte. Każdy gracz modyfikuje swój wynik rzutu:",
+   "• +1 za każde sąsiadujące kontrolowane (Controlled) państwo,",
+   "• +1, jeśli ma w państwie będącym celem więcej Wpływów (Influence) niż przeciwnik,",
+   "• +1, jeśli supermocarstwo gracza sąsiaduje z celem."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Gracz USA wybiera Koreę Północną (North Korea) jako cel Wywierania Presji (Realignment). ZSRR ma w Korei Północnej 3 Punkty Wpływów (Influence points), a gracz USA – żadnego. Gracz USA nie ma żadnych modyfikatorów – nie kontroluje (Control) żadnego sąsiadującego państwa i ma w Korei Północnej mniej Wpływów (Influence) niż Sowieci. Gracz ZSRR ma +1, ponieważ Korea Północna sąsiaduje z ZSRR, i +1 za to, że ma w Korei Północnej więcej Wpływów niż USA. Gracz USA ma szczęście i uzyskuje w rzucie 5, a gracz ZSRR – 2 (po modyfikacji 4). Gracz ZSRR musi usunąć z Korei Północnej jeden Punkt Wpływów."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>6.2.3</b> W wyniku rzutu na Wywieranie Presji (Realignment roll) nigdy nie dodaje się do państwa żadnych Wpływów (Influence)."
+  ]
+ }
+}

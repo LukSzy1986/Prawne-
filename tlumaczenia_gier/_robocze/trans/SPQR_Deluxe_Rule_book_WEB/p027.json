@@ -1,0 +1,50 @@
+{
+ "_uwagi": "s. 27 (sp19_27) – ostatni akapit strony (uwaga do rozgrywki 8.47) kończy się na tej stronie; carry na s. 28 niepotrzebne. 8.47 w zwięźlejszym brzmieniu PDF GBJC (te same zdania EN).",
+ "u2": {
+  "paras": [
+   "• Jeśli żaden z atakujących nie wszedł do heksu sąsiadującego, zaokrąglaj na korzyść obrońcy. Tak więc oddział o liczebności (Size) 5 atakujący oddział o liczebności 4 dałby stosunek 1–1, ale 4–5 daje 1–2.",
+   "Różnicę stosunku liczebności (SRD) pomija się w następujących sytuacjach:",
+   "• Gdy oddziały słoni (Elephant units) walczą z jakimikolwiek oddziałami innymi niż słonie.",
+   "• W każdej walce, w której wszystkimi obrońcami są harcownicy (Skirmishers).",
+   "PRZYKŁAD: Atak w stosunku 11–5 daje stosunek 3–1, jeśli atakujący wykonał ruch, i przesuwa kolumnę tabeli wyników starcia (Shock Table) o dwie w prawo. Gdyby atakujący nie wykonał ruchu przed atakiem, 11–5 dałoby 2–1 i przesunięcie o jedną kolumnę w prawo."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Zasady „zaokrąglania” odzwierciedlają przewagę, jaką daje rozpęd."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>Krok 3: Przesuń kolumny i rozstrzygnij walkę (Adjust Columns and Resolve):</b> Aby rozstrzygnąć starcie (Shock), gracz atakujący zaczyna od kolumny bazowej (base column) tabeli wyników starcia (Shock CRT, 8.45) i przesuwa ją stosownie do różnicy stosunku liczebności (SRD) oraz wpływu oddziałów i/lub terenu (wszystkie te czynniki wymieniono w tabeli wyników starcia). Następnie rzuca kością, dodając do wyniku rzutu (DR) współczynnik charyzmy (Charisma Rating) dowolnego jednego ze swoich dowódców biorących udział w starciu i odejmując współczynnik charyzmy dowolnego jednego biorącego w nim udział dowódcy strony broniącej się (według wyboru gracza broniącego się). Jeśli dowódca zginął (8.44), jego strona otrzymuje odwrócony modyfikator rzutu kością równy współczynnikowi charyzmy poległego dowódcy powiększonemu o 2.",
+   "PRZYKŁAD: Gdyby atakującymi dowodził Hannibal, modyfikacja rzutu kością wynosiłaby +3. Jeśli Maharbal zginie, prowadząc do ataku grupę jazdy numidyjskiej, gracz odejmie od wyniku rzutu 4 (2 punkty charyzmy Maharbala plus dodatkowe, automatyczne 2).",
+   "<b>Krok 4: Zastosuj wyniki (Apply Results):</b> Wyniki w tabeli wyników starcia (Shock CRT) to ubytki spójności (Cohesion Hits) zarówno dla atakującego, jak i dla obrońcy. Liczba (#) w nawiasie dotyczy obrońcy. Uzyskane ubytki modyfikuje się następująco:",
+   "• Jeśli atakujący miał przewagę (AS), podwój (2×) wynik obrońcy.",
+   "• Jeśli obrońca miał przewagę (DS), potrój (3×) wynik atakującego.",
+   "• Jeśli obrońcą są harcownicy (Skirmisher), zmniejsz o połowę (½×, z zaokrągleniem w dół) ubytki (Hits) atakującego; wynik nie może przekroczyć 1 ubytku.",
+   "• Jeśli oddziałem atakującym wybranym do ustalenia kolumny (8.45) jest lekka jazda (Light Cavalry), a obrońcą falanga (Phalanx) albo oddział ciężkiej, średniej, legionowej lub barbarzyńskiej piechoty (HI, MI, LG lub BI), zmniejsz o połowę (½×, z zaokrągleniem w dół) ubytki (Hits) obrońcy. Zmniejszenie to nie ma zastosowania, jeśli obrońca jest rozbity (Routed), i sumuje się z pierwszym punktem wyliczenia.",
+   "Jeśli w walce brał udział więcej niż jeden oddział tego samego gracza, ubytki spójności (Cohesion Hits) rozdziela się zgodnie z 10.13."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>8.47 Załamanie (The Collapse):</b> Gracze ustalają teraz, które z oddziałów walczących w starciu (Shock) zostaną rozbite (rout), wykonując następujące kroki <i>po kolei:</i>",
+   "1. Wszystkie oddziały z ubytkami spójności (Cohesion Hits) równymi swojej jakości wojsk (TQ) lub większymi zostają rozbite zgodnie z 10.21. Jeśli w danym starciu rozbite miałyby zostać <i>wszystkie</i> oddziały, najpierw zastosuj 10.15, aby ustalić, które zostaną rozbite. Jeśli obaj gracze mają oddziały rozbite w tej samej walce, jako pierwszy swoje oddziały porusza obrońca.",
+   "<b><i>Wyjątek:</i></b> Jeśli miałby zostać rozbity oddział falangi (Phalanx), jego właściciel ustala za pomocą procedury wyjątku z 8.43, czy oddział zostaje rozbity, czy utrzymuje się na miejscu. Jeśli jednak oddział ten jest obrońcą, a atakujący ma przewagę pozycyjną (Position Superiority), nie wykonuje się rzutu kością – obrońca zostaje rozbity zgodnie z 10.21.",
+   "2. Następnie gracze rzucają kością za każdy swój walczący oddział, który ma ubytki spójności o jeden mniejsze od TQ (TQ minus 1) i znajduje się w strefie kontroli (ZOC) wroga. Jeśli wynik rzutu (DR) jest równy TQ oddziału lub mniejszy, usuń 1 ubytek spójności. Jeśli jest większy, oddział zostaje rozbity (routs) zgodnie z 10.21, przy czym oddziały falangi (Phalanx) ustalają, czy zostają rozbite, czy utrzymują się na miejscu, za pomocą procedury z 8.47[1] powyżej.",
+   "<b><i>Wyjątek:</i></b> Nie wykonuje się rzutu za oddziały falangi (Phalanx), które w poprzednim kroku (8.47[1]) pomyślnie przeszły test rozbicia (rout check).",
+   "3. Oddziały atakujące, które muszą wykonać posunięcie (advance, 8.5), robią to teraz. Atakująca jazda, która rozbiła lub wyeliminowała oddziały wroga, zamiast tego sprawdza pościg jazdy (Cavalry Pursuit, 8.6).",
+   "Przy stosowaniu opcjonalnej zasady „związanie walką” (Engaged, 10.4) usuń znaczniki Związany walką (ENGAGED) z każdego oddziału, który wykonuje ucieczkę rozbitych (rout moves) lub posunięcie (advances); jednak oddział falangi (Phalanx), który wykonuje posunięcie tylko o jeden heks (tj. obraca się; zob. 8.53), zachowuje swój znacznik. Jeśli wszystkie oddziały broniące się albo wszystkie atakujące wykonały ucieczkę rozbitych lub posunięcie albo zostały wyeliminowane, usuń wszystkie znaczniki Związany walką z walczących oddziałów drugiej strony. Jeśli zarówno atakujący, jak i obrońcy mają oddziały, które pozostały w swoich heksach, połóż (lub pozostaw) na nich znaczniki Związany walką."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: Ważne jest, by kroki załamania (Collapse) wykonywać po kolei – tak, aby rozbite oddziały zeszły z drogi przed testami TQ, a wszelka ucieczka rozbitych (rout moves) wynikła z tych testów odbyła się przed posunięciami (advances) i pościgami (pursuits). Przy wielu walkach pomocne może być oznaczenie znacznikiem Wykonał ruch (Moved) rozbitych oddziałów, które mogą być ścigane."
+  ]
+ }
+}

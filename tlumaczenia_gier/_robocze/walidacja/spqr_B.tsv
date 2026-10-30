@@ -1,0 +1,24 @@
+dok	strona	cytat_PL	poprawka_PL	gdzie	id	uwagi
+SPQR_Deluxe_Rule_book_WEB	41	punkty rozbicia (Rout Points), które zgromadził z powodu swoich wyeliminowanych oddziałów	punkty rozbicia (Rout Points) zgromadzone za swoje wyeliminowane oddziały	oba	spqr_39_44#2	kolokacja/I
+SPQR_Deluxe_Rule_book_WEB	40	związane walką (engaged) z oddziałami, których	związani walką (engaged) z oddziałami, których	oba	spqr_39_44#3	gramatyka/D
+SPQR_Deluxe_Rule_book_WEB	40	bez kosztu w MP ani ubytkach spójności	bez kosztu w MP i ubytkach spójności	json	spqr_39_44#4	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	39	automatycznie mają status „Brak pocisków” (Missile No)	automatycznie mają stan „Brak pocisków” (Missile No)	md	spqr_39_44#5	termin/D
+SPQR_Deluxe_Rule_book_WEB	42	gdy falanga trwa zamiast ulec rozbiciu	gdy falanga utrzymuje się zamiast ulec rozbiciu	json	spqr_39_44#6	termin/D
+SPQR_Deluxe_Rule_book_WEB	40	zostają wyeliminowane, jeśli ulegną rozbiciu (rout)	zostają wyeliminowane, jeśli ulegną rozbiciu (rout).	oba	spqr_39_44#8	oryginal/D
+SPQR_Deluxe_Rule_book_WEB	9	nie dorównuje swoim towarzyszom	nie dorównują swoim towarzyszom	oba	spqr_9_16#1	gramatyka/I
+SPQR_Deluxe_Rule_book_WEB	9	hierarchii dowodzenia przedstawiają trybuni	hierarchii dowodzenia reprezentują trybuni	oba	spqr_9_16#2	kolokacja/D
+SPQR_Deluxe_Rule_book_WEB	10	Dzięki gruntownym odprawom i wspólnie odbytym kampaniom	Dzięki gruntownym odprawom i kampaniom	md	spqr_9_16#3	dodatek/D
+SPQR_Deluxe_Rule_book_WEB	10	są oddziałami bojowymi), albo gdy heks	są oddziałami bojowymi) albo gdy heks	md	spqr_9_16#4	interpunkcja/D
+SPQR_Deluxe_Rule_book_WEB	12	podjąć próbę uzyskania fazy rozkazów uzyskanej dzięki impetowi (Momentum Orders Phase, 5.3)	spróbować uzyskać fazę rozkazów dzięki impetowi (Momentum Orders Phase, 5.3)	md	spqr_9_16#6	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	13	przebić tę pierwszą aktywację uzyskaną przebiciem własnym nieaktywnym (inactive) dowódcą	przebić – własnym nieaktywnym (inactive) dowódcą – tę pierwszą aktywację uzyskaną przebiciem	json	spqr_9_16#7	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	16	przed nadciągającym wrogiem na długo, zanim ten zdoła	przed nadciągającym wrogiem, na długo zanim ten zdoła	json	spqr_9_16#11	interpunkcja/D
+SPQR_Deluxe_Rule_book_WEB	19	a tylna – heks zajmowany wcześniej przez przednią połowę	a tylna – do heksu zajmowanego wcześniej przez przednią połowę	json	spqr_17_24#1	skladnia/I
+SPQR_Deluxe_Rule_book_WEB	23	ilu oszczepów pilum używali	ile oszczepów pilum używali	oba	spqr_17_24#2	gramatyka/I
+SPQR_Deluxe_Rule_book_WEB	23	Harcownicy-łucznicy i łucznicy lekkiej piechoty (klasa A; Skirmisher and Light Infantry Archers)	Łucznicy (klasy A) spośród harcowników i lekkiej piechoty (Skirmisher and Light Infantry Archers)	json	spqr_17_24#3	termin/I
+SPQR_Deluxe_Rule_book_WEB	20	Kosztuje to 1 punkt ruchu (MP) za każdy wierzchołek obrotu, z następującymi wyjątkami	Kosztuje to 1 punkt ruchu (MP) za każdy wierzchołek, o który się obraca, z następującymi wyjątkami	json	spqr_17_24#4	skladnia/D
+SPQR_Deluxe_Rule_book_WEB	20	(w przypadku falangi (Phalanx) – 3)	(3 w przypadku falangi – Phalanx)	json	spqr_17_24#5	typografia/D
+SPQR_Deluxe_Rule_book_WEB	20	(w tym celu dla falangi (Phalanx) przyjmuje się rozszerzoną zdolność ruchu, równą 5)	(w tym celu dla falangi – Phalanx – przyjmuje się rozszerzoną zdolność ruchu, równą 5)	json	spqr_17_24#6	typografia/D
+SPQR_Deluxe_Rule_book_WEB	22	(ale nie słonie dowódców (leader elephants) bez innych oddziałów)	(ale nie słonie dowódców – leader elephants – bez innych oddziałów)	json	spqr_17_24#7	typografia/D
+SPQR_Deluxe_Rule_book_WEB	18	nie mogą korzystać z ruchu w kolumnie.	nie mogą korzystać z ruchu w kolumnie (Column).	json	spqr_17_24#9	termin/D
+SPQR_Deluxe_Rule_book_WEB	21	Harcownicy, skorpiony, łucznicy lekkiej piechoty i lekkiej jazdy nie są zdolni	Harcownicy (SK), skorpiony, łucznicy lekkiej piechoty (LI) i lekkiej jazdy (LC) nie są zdolni	json	spqr_17_24#10	termin/D
+SPQR_Deluxe_Rule_book_WEB	18	„Growa” zdolność tych oddziałów do łączenia w stosy pozwala	Zdolność tych oddziałów do łączenia w stosy „w grze” pozwala	oba	spqr_17_24#11	kolokacja/D

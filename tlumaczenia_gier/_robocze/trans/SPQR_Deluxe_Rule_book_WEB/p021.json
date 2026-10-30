@@ -1,0 +1,95 @@
+{
+ "_uwagi": "s. 21 (sp19_27) – łatka: pierwszy punktor prawego łamu (oddziały rozbite / w kolumnie) przeniesiony na koniec lewego łamu (u4[9]); nagłówek 7.3 bez EN (K.4); w uwadze do rozgrywki drugi znacznik bez nawiasu EN (brak miejsca w ramce). QA 26.10: nagłówek 7.3 wydzielony (u17, 12 pt); 7.3 i 7.31 w u16; 7.32–7.33 w u18 (zakotwiczone przy znaczniku SHOCK). Runda 3: 8.11 – u12[0] wąski pas obok żetonów (do lewej), u12[1] ciąg dalszy akapitu (justowany).",
+ "u2": {
+  "paras": [
+   "• oddział znajduje się w ZOC tylko jednego oddziału bojowego wroga, <i>oraz</i>",
+   "• w ZOC oddziału nie ma żadnych oddziałów bojowych wroga, <i>oraz</i>",
+   "• oddział pozostaje w swoim heksie przez cały ten etap ruchu i ostrzału; nie może skorzystać z pierwszego punktu 7.23, aby opuścić ZOC.",
+   "<b><i>Wyjątek:</i></b> Na potrzeby pierwszego punktu pomija się ZOC oddziału wroga, który nie może atakować w starciu (Shock)."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Złagodziliśmy nakaz z poprzednich wydań „nigdy nie zmieniaj frontu w ZOC wroga”; teraz oddział niezwiązany walką od frontu ani nieatakowany z kilku kierunków może się obrócić, by stawić czoło atakom ze skrzydła lub od tyłu."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>7.25</b> Jeśli oddziały przeciwnych stron roztaczają ZOC na ten sam heks, uważa się, że oba kontrolują ten heks."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "• Welici (Velites) mogą atakować w starciu wyłącznie heks frontowy (Front hex).",
+   "Przy stosowaniu zasady „związanie walką” (Engaged, 10.4) znaczniki Starcie: bez testu TQ (SHOCK NO TQ CHECK) muszą otrzymać, bez względu na ograniczenia dowodzenia, własne oddziały związane walką w zasięgu aktywowanego dowódcy."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: I nie – na „lekkim” oddziale, który w ruchu zrezygnował ze starcia, nie można położyć znacznika Starcie: bez testu TQ (SHOCK NO TQ CHECK); dostaje on znacznik Starcie: obowiązkowy test TQ. Testu TQ przed starciem nie da się uniknąć."
+  ]
+ },
+ "u8": {
+  "paras": [
+   "8.0 WALKA (COMBAT)"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "Istnieją dwa rodzaje walki (Combat): walka na dystans (Missile) i starcie (Shock). Walka na dystans toczy się w ramach ruchu – lub zamiast niego – w dowolnym momencie etapu ruchu i ostrzału (Movement and Missile Fire Segment) fazy rozkazów (Orders Phase). Starcie ma własny etap, który następuje po wydaniu wszystkich rozkazów i zakończeniu ruchu. Oddział strzelający może w tej samej fazie rozkazów wziąć udział w obu rodzajach walki. W starciu uwzględnia się typ (Type), liczebność (Size) i jakość wojsk (Troop Quality) oddziału. Skutkiem walki są ubytki spójności (Cohesion Hits), które mogą doprowadzić do rozbicia (Routed) oddziału."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "8.1 OSTRZAŁ (MISSILE FIRE)"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Oddziały strzelające, mające niższą jakość wojsk (TQ) i podatne na ataki w starciu (shock) cięższych oddziałów, wydają się oddziałami „słabymi”. Mają jednak dwie zdolności, które czynią je bardzo przydatnymi: (zazwyczaj) mogą strzelać w trakcie ruchu, a większość z nich może prowadzić ostrzał w ramach nękania i rozproszenia (Harassment & Dispersal). Ich skuteczność bojowa była jednak ograniczona z powodu małej siły przebicia – problemu, który przetrwał aż do wynalezienia kuszy i walijskiego łuku długiego."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b>8.11</b> Oddziały zdolne do ostrzału (zob. przykładowe oddziały) mogą strzelać. Oddziały strzelające",
+   "dzielą się na cztery klasy: łucznicy (A), procarze (S), oszczepnicy (J) i skorpiony. Po otrzymaniu rozkazu pojedynczy oddział strzelający może oddać strzał w dowolnej chwili: przed ruchem, po nim, w jego trakcie – albo zamiast niego. Jeśli oddział strzelający wykonuje ruch, może strzelać tylko wtedy, gdy tuż przed oddaniem strzału przesunął się „naprzód” (bliżej celu). Strzelanie w trakcie ruchu nie kosztuje punktów ruchu. Każdy oddział z rozkazem może strzelać tylko raz na fazę rozkazów.",
+   "<b><i>Wyjątek:</i></b> Łucznicy lekkiej piechoty (LI klasy A) i oddziały skorpionów mogą w tej samej fazie rozkazów albo wykonać ruch, albo strzelać – nigdy jedno i drugie. Skorpiony nie potrzebują rozkazów, aby strzelać (9.85)."
+  ]
+ },
+ "u13": {
+  "paras": [
+   "UWAGA HISTORYCZNA: Rzymskim oszczepem było pilum; z różnych względów pozostaliśmy jednak przy nazwie „oszczep” (javelin)."
+  ]
+ },
+ "u14": {
+  "paras": [
+   "PRZYKŁADY: Oddział łuczników konnych może przesunąć się o 4 heksy naprzód, ostrzelać wroga oddalonego o 2 heksy, a następnie wykorzystać pozostałe punkty ruchu, aby odjechać. Oddział procarzy może przesunąć się o 3 heksy naprzód, wystrzelić kamień na odległość 2 heksów, a następnie kontynuować ruch, oddalając się."
+  ]
+ },
+ "u17": {
+  "paras": [
+   "7.3 WYMOGI STARCIA"
+  ]
+ },
+ "u16": {
+  "paras": [
+   "To, czy oddział bojowy musi za­ata­ko­wać oddział wroga, zależy zarówno od jego typu (Type), jak i od tego, czy wykonał ruch – starcie (shock) jest bowiem w większym stopniu kwestią bezwładu niż uzbrojenia.",
+   "<b>7.31</b> W etapie starcia (Shock Combat Segment) wszystkie własne oddziały „ciężkie” – te, których typ (Type) jest oznaczony w tabeli przewagi w starciu (Shock Superiority Chart) znakiem plus (+) – które w poprzedzającym etapie ruchu i ostrzału (Movement and Missile Fire Segment) <i>weszły do heksu sąsiadującego</i> z oddziałem wroga z heksu niesąsiadującego, muszą przeprowadzić atak w starciu (Shock attack) na wszystkie oddziały wroga w swojej strefie kontroli (ZOC). Wszystkie pozostałe, „lekkie” oddziały zdolne do starcia (Shock-capable) – bez znaku plus (+) – które w poprzedzającym etapie ruchu i ostrzału weszły do heksu sąsiadującego z oddziałem wroga z heksu niesąsiadującego, <i>mogą</i> w następującym po nim etapie starcia <i>zdecydować się</i> za­ata­ko­wać w starciu wszystkie oddziały wroga w swojej ZOC."
+  ]
+ },
+ "u18": {
+  "paras": [
+   "<b>7.32</b> Gracz wykonujący ruch kładzie znacznik Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ) na każdym oddziale, który w następującym etapie starcia musi za­ata­ko­wać w starciu albo który gracz postanowił wysłać do ataku (7.31). Znaczniki te kładzie się w chwili, gdy poruszający się oddział wejdzie do heksu sąsiadującego, jeszcze przed jakimkolwiek ostrzałem reakcyjnym (Reaction Fire), aby wskazać, które oddziały będą musiały przejść test TQ przed starciem (Pre-Shock TQ check, 8.43).",
+   "PRZYKŁAD: Na falandze macedońskiej (PH) wchodzącej do heksu sąsiadującego z rzymskim oddziałem hastati kładzie się znacznik Starcie: obowiązkowy test TQ (SHOCK MUST CHECK TQ), ponieważ musi ona za­ata­ko­wać (7.31). Numidyjska lekka jazda (LC) wchodząca do heksu sąsiadującego z oddziałem principes nie musi atakować w starciu; gracz wykonujący ruch musi jednak oświadczyć, czy to zrobi, gdy oddział kończy ruch. Jeśli chce, by oddział za­ata­ko­wał, kładzie na nim znacznik Starcie: obowiązkowy test TQ.",
+   "<b>7.33</b> Każdy oddział z rozkazem ostrzału albo rozkazem ruchu, do którego nie ma zastosowania 7.31, lub po prostu znajdujący się w zasięgu dowodzenia aktywowanego dowódcy, o ile ten może nim dowodzić, <i>może zdecydować się</i> za­ata­ko­wać wszystkie oddziały bojowe wroga w swojej (własnej) ZOC. Oddziały te otrzymują w kroku wyznaczenia do starcia (8.41) znacznik Starcie: bez testu TQ (SHOCK NO TQ CHECK), wskazujący, że za­ata­kują w starciu, ale nie muszą przechodzić testu TQ przed starciem (Pre-Shock TQ check). Zob. wstęp do 8.4.",
+   "Wyjątki:",
+   "• Harcownicy, skorpiony, łucznicy lekkiej piechoty i lekkiej jazdy nie są zdolni do starcia (Shock-capable) i nigdy nie mogą atakować w starciu.",
+   "• Oddziały rozbite (Routed) i w kolumnie (In Column) nigdy nie mogą atakować w starciu."
+  ]
+ }
+}

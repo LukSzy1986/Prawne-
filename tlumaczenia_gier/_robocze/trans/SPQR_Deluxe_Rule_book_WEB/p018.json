@@ -1,0 +1,61 @@
+{
+ "_uwagi": "s. 18 (sp10_18): u2[0] – dokończenie przykładu nr 1 ze s. 17; 6.66 dzielone u4[2] → u6[0]; 6.73 przechodzi na s. 19 – dalszy ciąg w /home/claude/lay/carry/SPQR_Deluxe_Rule_book_WEB/p019.json",
+ "u2": {
+  "paras": [
+   "Przejście przez jakikolwiek inny oddział – w tym przez jazdę legionu/ali XIV (XIV Legion/Ala) i dowolny oddział z legionu/ali o innym kolorze – oznaczałoby 1 ubytek (Hit) dla welitów i 1 ubytek dla oddziału nieruchomego. Welici nie mogą zatrzymać się w heksie z jakimkolwiek oddziałem.",
+   "Rzymski oddział hastati z legionu XIV może bez kary przejść przez dowolny oddział piechoty legionu/ali XIV (XIV Legion/Ala). Oddział hastati otrzymałby jednak (wraz z oddziałem nieruchomym) 1 ubytek (Hit) przy przechodzeniu przez jakikolwiek inny oddział. Ponadto otrzymałby 1 ubytek przy przechodzeniu przez stos oddziałów HA/PR/CO/TR legionu/ali XIV. Oddział hastati XIV mógłby zatrzymać się w heksie z dowolnym innym oddziałem HA/PR/CO/TR, ale wszystkie oddziały w tym stosie otrzymywałyby modyfikator (DRM) +1 do wszystkich testów TQ.",
+   "PRZYKŁAD NR 2 (ucieczka rozbitych/cofanie się – Rout/Retreat)",
+   "Kontynuując powyższy przykład: gdyby zamiast tego rozbici (routed) zostali welici legionu XIV, wszystkie oddziały nieruchome inne niż harcownicy lub welici otrzymałyby 1 ubytek (Hit). Gdyby welici musieli zatrzymać się w heksie zajmowanym przez własny oddział, przesunęliby się o jeszcze jeden heks. W przypadku oddziałów nieruchomych innych niż harcownicy/welici gracz przydzieliłby 1 ubytek, a potem rzucił kością i przydzielił ubytki w liczbie równej wynikowi pomniejszonemu o TQ oddziału nieruchomego, jeśli wynik (DR) był wyższy. Dla naszego uciekającego (routing) oddziału hastati legionu XIV przejście przez dowolny oddział HA/PR/CO/TR (niepołączony w stos) z legionu/ali XIV (XIV Legion/Ala) odbyłoby się bez skutków. Każdy inny oddział lub stos kosztowałby nieruchomy oddział (lub oddziały) 1 ubytek. Natomiast zatrzymanie się w jakimkolwiek zajętym heksie innym niż heks z oddziałem welitów tego samego koloru wymusza test TQ i ubytek spójności (Cohesion Hit) dla oddziału nieruchomego."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Osławiona rzymska elastyczność – ich „taktyka manipularna”, dzięki której jedna linia mogła się cofnąć przez linię tylną – wynikała nie tyle ze zdolności oddziałów do przechodzenia przez siebie nawzajem, ile z ich nietypowego rozstawienia w „szachownicę” (quincunx). Łączenie w stosy oddziałów „pierwszej linii”, które od razu wezmą udział w walce, nie przynosi większych korzyści. Jeśli jednak linie tylne są połączone w stosy i rozstawione z odstępami, cofające się (retreating) i wycofujące się (withdrawing) oddziały mogą bez żadnych problemów przez nie przechodzić, podczas gdy ta połączona w stosy linia posuwa się naprzód, rozwija się i wchodzi do walki (zob. zasadę manipularnego wydłużenia linii – Manipular Line Extension Rule – w 9.66). Zdolność tych oddziałów do łączenia w stosy „w grze” pozwala na takie rozstawienie i manewr. Ci z was, którzy widzieli film <f TimesNewRomanPSMT>Spartakus</f>, będą umieli to sobie wyobrazić."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>6.64</b> Aby poruszyć dwa oddziały bojowe połączone w stos w jednym heksie, dowódca musi wydać dwa rozkazy indywidualne (Individual Orders). Wódz naczelny (OC) może jednak <i>jednym</i> rozkazem indywidualnym poruszyć <i>wszystkie oddziały</i> (łącznie ze sobą) w stosie na heksie, który zajmuje. OC i oddziały muszą poruszać się razem i zakończyć ruch na tym samym heksie.",
+   "<b>6.65</b> Oddziały bojowe mogą wchodzić na heks zajęty tylko przez dowódcę bez kosztu w ruchu i spójności – i odwrotnie. Jeśli oddział bojowy i dowódca w stosie z nim wykonują razem uporządkowany odwrót (Orderly Withdrawal, 6.5), muszą pozostać razem.",
+   "<b>6.66</b> Jeśli dwa oddziały są w stosie w jednym heksie, kolejność w stosie (stacking order; tj. który oddział leży na wierzchu) można zmienić tylko rozkazem indywidualnym zmiany kolejności w stosie (change stacking Individual Order, 5.22 pkt 6); nie może to być część rozkazu ruchu ani rozkazu liniowego (Line Command). Jeśli gracz chce rozdzielić stos, w danej fazie rozkazów (Orders Phase) może się poruszyć tylko oddział <i>wierzchni</i> (wyjątkiem jest 9.66)."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "Oddział wchodzący na heks, by utworzyć stos, kładzie się zawsze na spodzie. Taki ruch do heksu sąsiadującego z oddziałem wroga nie wywołuje ostrzału reakcyjnego przy wejściu (Entry Reaction Fire, 8.21) i nie kładzie się znacznika starcia (Shock marker, 7.32).",
+   "<b>6.67</b> Oba oddziały bojowe w stosie muszą mieć takie samo ustawienie frontu (facing). Aby pozostać w stosie, wchodzący oddział musi móc dostosować front do oddziału już stojącego w heksie, płacąc koszt w MP i ewentualny koszt w spójności. Zasada ta <i>nie</i> dotyczy oddziału przechodzącego przez zajęty heks.",
+   "<b>6.68</b> Łączenie w stosy (Stacking) ma następujące skutki:",
+   "• Oddziały w stosie sumują swoje współczynniki liczebności (Size ratings), gdy biorą udział w starciu (Shock Combat).",
+   "• Strzelać (Missile Fire) może tylko <i>oddział wierzchni</i> stosu.",
+   "• Ostrzał wroga dotyczy tylko oddziału wierzchniego w stosie, chyba że jest prowadzony przez heksy tylne (Rear hexes) – wtedy dotyczy tylko oddziału spodniego.",
+   "• Każdy oddział w stosie przechodzi własny test TQ, używa jednak współczynnika TQ oddziału wierzchniego. Automatyczne ubytki spójności (Cohesion Hits) otrzymuje każdy oddział w stosie.",
+   "• Niektóre oddziały w stosie (6.69) otrzymują modyfikator (DRM) +1 do wszystkich testów TQ.",
+   "• Jeśli 10.13 nie ma pierwszeństwa, ubytki spójności (Cohesion Hits) ze starcia (Shock) dzieli się możliwie równo, a ewentualny nadliczbowy ubytek otrzymuje oddział wierzchni. Jeśli jednak atak nastąpił od tyłu (Rear), otrzymuje go oddział spodni.",
+   "• Jeśli oddział wierzchni zostaje rozbity (Routs), rozbity zostaje także oddział spodni. Jeśli rozbity zostaje oddział spodni, oddział wierzchni przechodzi test TQ i w razie niepowodzenia zostaje rozbity.",
+   "<b>6.69 Tabela łączenia w stosy (Stacking Chart):</b> Tabela wskazuje, jakiego typu oddział wykonuje ruch. Skutki dotyczą jednak zarówno oddziałów poruszających się, jak i nieruchomych, chyba że zaznaczono inaczej."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "6.7 RUCH W KOLUMNIE"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Na polu bitwy piechota w szyku – do której zaliczamy tu wszystko, od falang (PH) po lekką piechotę (LI) – poruszała się w szyku bojowym, który w późniejszych stuleciach nazwano by linią (Line). Potrafiła jednak przyjąć luźny, bardziej ruchliwy szyk (we współczesnej terminologii – kolumnę, Column), aby szybciej się przemieszczać. Ponadto, ponieważ oddziały nie tworzyły rozciągniętej linii, którą trzeba było bez przerwy wyrównywać, by zachowała skuteczność, ruch nie odbijał się tak drastycznie na spójności oddziału."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>6.71</b> Każdy oddział piechoty, który otrzymał rozkaz ruchu i nie jest w strefie kontroli (ZOC) wroga, może <i>na koniec</i> ruchu przejść do „kolumny” (Column) lub z niej wyjść. Każda taka zmiana szyku – do kolumny lub z niej – kosztuje 1 MP. Aby użyć ruchu w kolumnie (Column Movement), oddział musi zacząć fazę rozkazów (Orders Phase) w kolumnie (In Column). Oznaczają to znaczniki W kolumnie (IN COLUMN).",
+   "<b><i>Wyjątki:</i></b> Piechota barbarzyńska (Barbarian Infantry, BI), harcownicy (Skirmishers, SK) i oddziały rozbite (Routed) nie mogą korzystać z ruchu w kolumnie (Column).",
+   "<b>6.72</b> Oddziały w kolumnie (In Column) mają MA większą o 1. Oddziały falangi zwiększają wyższą ze swoich dwóch MA. Dla niektórych typów oddziałów koszt w spójności za teren określonego rodzaju jest zmniejszony. Tak więc oddział falangi (PH) w kolumnie nie ponosi kosztu w spójności za przekroczenie strumienia (Stream) ani za wejście na heks terenu nierównego (Broken).",
+   "<b>6.73</b> Oddziały w kolumnie (In Column) muszą być zwrócone frontem do boku heksu (a nie do wierzchołka); tylko heks leżący bezpośrednio przed nimi jest heksem frontowym (frontal), heks naprzeciwko –"
+  ]
+ }
+}

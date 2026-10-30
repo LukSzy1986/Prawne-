@@ -1,0 +1,16 @@
+dok	strona	cytat_PL	poprawka_PL	gdzie	id	uwagi
+TS_20th_Ann_Background_Book_WEB	2	Dwie centralne postaci zimnej wojny	Dwie z głównych postaci zimnej wojny	oba	tsbb_1_8#1	sens/D
+TS_20th_Ann_Background_Book_WEB	2	Jack bada Europę Zachodnią	Jack studiuje Europę Zachodnią	json	tsbb_1_8#4	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	3	otrzymują –1 do Operacji (Operations, minimum 1)	otrzymują −1 do Operacji (Operations, minimum 1)	md	tsbb_1_8#5	typografia/D
+TS_20th_Ann_Background_Book_WEB	3	–1 do Operacji (min. 1)	−1 do Operacji (Operations, min. 1)	json	tsbb_1_8#6	termin/D
+TS_20th_Ann_Background_Book_WEB	4	(Wojna nieudana, Wpływy (Influence) bez zmian)	(Wojna kończy się porażką, Wpływy (Influence) bez zmian)	json	tsbb_1_8#7	termin/I
+TS_20th_Ann_Background_Book_WEB	4	państwo kontrolowane przez USA nie daje	państwo kontrolowane przez USA (US Controlled) nie daje	json	tsbb_1_8#11	termin/D
+TS_20th_Ann_Background_Book_WEB	4	a Kanada jest kontrolowana	a Kanada (Canada) jest kontrolowana	json	tsbb_1_8#12	termin/D
+TS_20th_Ann_Background_Book_WEB	5	z Europy Zachodniej.	z Europy Zachodniej (Western Europe).	json	tsbb_1_8#13	termin/D
+TS_20th_Ann_Background_Book_WEB	7	FAZA WYDARZEŃ KLUCZOWYCH	FAZA WYDARZEŃ KLUCZOWYCH (HEADLINE PHASE)	json	tsbb_1_8#14	termin/D
+TS_20th_Ann_Background_Book_WEB	7	by zatrzymać naszych ludzi	by nie wypuścić naszych ludzi	json	tsbb_1_8#15	sens/D
+TS_20th_Ann_Background_Book_WEB	8	Modyfikator rzutu: -1	Modyfikator rzutu: −1	md	tsbb_1_8#16	typografia/D
+TS_20th_Ann_Background_Book_WEB	8	Modyfikator rzutu: -1 (Kontrola Iranu przez USA)	Modyfikator rzutu: −1 (Kontrola Iranu przez USA, US control of Iran)	json	tsbb_1_8#17	typografia/D
+TS_20th_Ann_Background_Book_WEB	8	(modyfikator -1 = 2)	(modyfikator −1 = 2)	oba	tsbb_1_8#18	typografia/D
+TS_20th_Ann_Background_Book_WEB	8	Wasze przyjęcia emerytalne mają więcej pistoletów niż nasze.	Wasze pożegnania emerytów mają więcej pistoletów niż nasze.	json	tsbb_1_8#19	kolokacja/D
+TS_20th_Ann_Background_Book_WEB	8	USA/Japonia</sc></i></b> (Wydarzenie USA)	USA/Japonia</sc></i></b> (<b><i><sc>US/Japan Mutual Defense Pact</sc></i></b>, Wydarzenie USA)	json	tsbb_1_8#20	termin/D

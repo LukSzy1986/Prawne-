@@ -1,0 +1,91 @@
+{
+ "_uwagi": "s. 5 (tr1_8): 2.1.7–2.3. Uwaga do rozgrywki 2.2.1 przechodzi z lewej łamy (u7) do prawej (u8).",
+ "u2": {
+  "paras": [
+   "<b>2.1.7 Kontrolowanie państw:</b> Każde państwo na mapie jest albo kontrolowane (Controlled) przez jednego z graczy, albo niekontrolowane. Państwo uważa się za kontrolowane przez gracza, jeśli:",
+   "• Wpływy (Influence) gracza w tym państwie są równe Poziomowi Stabilizacji (Stability Number) lub większe, <b>oraz</b>",
+   "• Wpływy (Influence) gracza w tym państwie przewyższają Wpływy przeciwnika co najmniej o Poziom Stabilizacji (Stability Number) tego państwa."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "<f MyriadPro-BlackCond>PRZYKŁAD:</f> Aby kontrolować (Control) Izrael o Poziomie Stabilizacji (Stability Number) 4, gracz musi mieć w Izraelu co najmniej 4 Punkty Wpływów i co najmniej o 4 Punkty Wpływów więcej niż przeciwnik."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>2.1.8</b> Niektóre państwa mają w dolnych rogach małe niebieskie lub czerwone liczby. Oznaczają one Wpływy (Influence) umieszczane podczas przygotowania gry w danym państwie. Wpływy przypisane do Regionu, ale nie do konkretnego państwa, podano na mapie pod etykietami Regionów. Pełny wykaz Wpływów początkowych – zob. 3.2 i 3.3."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "2.2 KARTY"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "<b>2.2.1</b> W grze używa się 110 kart. Wszystkie karty oprócz kart Rozstrzygnięcia (Scoring cards) mają Wartość Operacyjną (Operations value), tytuł i opis Wydarzenia (Event). Karty Rozstrzygnięcia mają w tytule słowo „<b><i><sc>Rozstrzygnięcie</sc></i></b>” (“<b><i><sc>Scoring</sc></i></b>”)."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA DO ROZGRYWKI:</f> Gracze znający starsze wersje <b>Twilight Struggle</b> mogą zauważyć, że „opcjonalne” karty o numerach 104–110 są teraz domyślnie włączone do gry. Lata rozgrywki turniejowej pokazały, że gra pełną talią 110 kart to najbardziej"
+  ]
+ },
+ "u8": {
+  "paras": [
+   "zrównoważony i najciekawszy sposób gry w Twilight Struggle. Jeśli chcesz wypróbować grę bez „opcjonalnych” kart, po prostu usuń karty 104–110 z talii przed przygotowaniem gry."
+  ]
+ },
+ "u9": {
+  "paras": [
+   "<b>2.2.2</b> Na każdej karcie widać, które supermocarstwo jest powiązane z jej Wydarzeniem (Event):"
+  ]
+ },
+ "u10": {
+  "paras": [
+   "• karty z czerwoną gwiazdą"
+  ]
+ },
+ "u11": {
+  "paras": [
+   "są powiązane z ZSRR;"
+  ]
+ },
+ "u12": {
+  "paras": [
+   "• karty z niebieską gwiazdą"
+  ]
+ },
+ "u13": {
+  "paras": [
+   "są powiązane z USA;"
+  ]
+ },
+ "u14": {
+  "paras": [
+   "• karty z szarą gwiazdą",
+   "(Skutki zagrania kart, których Wydarzenia (Events) są powiązane z supermocarstwem przeciwnika – zob. 5.2.)",
+   "<b>2.2.3</b> Karty można zagrywać jako Wydarzenia (Events) albo Operacje (Operations).",
+   "<b>2.2.4</b> Wiele kart ma gwiazdkę (*) po tytule Wydarzenia (Event title). Gdy karty te zostaną zagrane jako Wydarzenia, usuwa się je z gry na stałe.",
+   "<b>2.2.5</b> Karty z podkreślonym tytułem Wydarzenia (Event title) wykłada się odkryte obok planszy jako przypomnienie, że mają trwały efekt (lasting effect) – aż do anulowania (albo końca gry)."
+  ]
+ },
+ "u15": {
+  "paras": [
+   "są powiązane z obiema stronami."
+  ]
+ },
+ "u16": {
+  "paras": [
+   "<f MyriadPro-BlackCond>UWAGA DO ROZGRYWKI:</f> Zagrane podkreślone Wydarzenia gracze mogą też oznaczać ponumerowanymi znacznikami kart w grze (Card Reminder)."
+  ]
+ },
+ "u17": {
+  "paras": [
+   "<b>2.2.6</b> Karty odrzucone (discarded), a nie usunięte z gry na stałe (permanently removed from the game), kładzie się odkryte obok stosu do dobierania (draw pile).",
+   "2.3 ZNACZNIKI",
+   "Gra zawiera różne znaczniki ułatwiające rozgrywkę:"
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "_uwagi": "s. 34 – u2[0] = dokończenie ostatniego punktora 9.24 ze s. 33; 9.3–9.53.",
+ "u2": {
+  "paras": [
+   "wynika z obecności tylko jednego takiego oddziału.",
+   "PRZYKŁAD: W 2808 stoją hastati, w 2809 – welici (Velites), a w 2810 – hastati. Nadal może to być linia (line). Gdyby jednak welici stali w 2809 i 2810, a hastati w 2808 i 2811, te dwa oddziały hastati nie utworzyłyby linii. Gdyby hastati stali w 2808, 2810 i 2812, a welici w 2809 i 2811, hastati mogliby utworzyć linię.",
+   "9.3 LEKKA JAZDA (LIGHT CAVALRY)",
+   "<b>9.31</b> Lekka jazda (Light Cavalry) uzbrojona w pociski może stosować nękanie i rozproszenie (H&D fire, 8.3) przeciwko wszystkim oddziałom o niższej MA, z wyjątkiem harcowników (Skirmishers). Łucznicy lekkiej jazdy (Light Cavalry Archers) mogą strzelać podczas uporządkowanego odwrotu (Orderly Withdrawal, 6.55).",
+   "<b>9.32</b> Wszelkie ubytki spójności (Cohesion Hits) zadane przez atakującą lekką jazdę (Light Cavalry) falandze (Phalanx) albo ciężkiej, średniej, legionowej lub barbarzyńskiej piechocie (Heavy, Medium, Legion, or Barbarian Infantry) dzieli się na pół (z zaokrągleniem w dół).",
+   "PRZYKŁAD: Lekka jazda (Light Cavalry) mająca przewagę atakującego (Attack Superiority, AS) nad ciężką piechotą (Heavy Infantry) korzystałaby z wyniku wydrukowanego w tabeli wyników starcia (Shock CRT).",
+   "9.4 OBRONA FALANGI",
+   "<b>9.41</b> W każdym rozstrzygnięciu starcia (Shock Resolution), w którym oddział <i>wchodzi na heks sąsiadujący</i> z falangą (Phalanx) <i>i atakuje ją w starciu</i> z heksu frontowego (Front hex) obrońcy, falanga uzyskuje przesunięcie o 2 kolumny w lewo (2L) w tabeli wyników starcia (Shock Combat CRT) za każdy swój heks skrzydłowy (Flank hex) zajęty przez inny własny oddział falangi albo leżący w ZOC własnego oddziału falangi. Jeśli atakującym jest ciężka piechota (Heavy Infantry) dowolnej klasy, przesunięcie wynosi zamiast tego 1 kolumnę w lewo (1L). Dotyczy to wyłącznie ataków z ruchu, a nie ataków, w których atakujący zaczynał w heksie sąsiadującym z falangą i pozostał w nim, by przeprowadzić starcie. Nie dotyczy to też ataków od skrzydła lub od tyłu (Flank/Rear attacks) ani sytuacji, gdy którykolwiek z atakujących również jest falangą.",
+   "PRZYKŁAD: Jeśli 2 oddziały LG atakują od frontu falangę (PH), która w obu heksach skrzydłowych (Flank hex) ma inne falangi, starcie (Shock) rozstrzyga się – przy braku innych modyfikacji – w kolumnie 1 (oddziały zaczynają w kolumnie 5 i zostają przesunięte o 4L do kolumny 1). Oznacza to, że średnio w jednym starciu falanga otrzyma 1, może 2 ubytki (Hits), ale każdy LG – 2 lub 3."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Zasada ta odzwierciedla niezwykłe możliwości obronne tej ściany sariss, zwłaszcza w obliczu początkowej szarży wroga. Gdy atakujący przedostali się już za ostrza sariss, mieli większą szansę na przełamanie falangi (Phalanx). Mniejszy skutek w przypadku ciężkiej piechoty (Heavy Infantry) wynika z tego, że ona również była uzbrojona we włócznie."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u5": {
+  "paras": [
+   "9.5 FALANGI O PODWÓJNEJ GŁĘBOKOŚCI"
+  ]
+ },
+ "u6": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Aby zwiększyć miażdżący napór falang (Phalanxes), poaleksandryjscy wodzowie stosujący system macedoński często wprowadzali szyk podwajający ich głębokość. Uprawnione oddziały wymieniono w zasadach poszczególnych scenariuszy."
+  ]
+ },
+ "u7": {
+  "paras": [
+   "<b>9.51</b> Falangi (Phalanxes) mogą przyjmować szyk podwójnej głębokości (Double-Depth, DD), który pozwala łączyć je w stosy po dwie na heks. Sformowanie szyku DD wymaga rozkazu indywidualnego (Individual Order) lub rozkazu liniowego (Line Command) wydanego bezpośrednio przez wodza naczelnego (OC). Aby sformować szyk DD, dołączająca do stosu „tylna” falanga musi rozpocząć ruch na heksie bezpośrednio za „przednią”. „Tylna” falanga wchodzi następnie na heks przedniej, płacąc zwykłe koszty terenu, i wydaje 1 MP ponad koszt terenu na połączenie w stos. „Tylną” falangę umieszcza się następnie pod „przednią”. Kończy to ruch obu oddziałów w tej fazie rozkazów (Orders Phase).",
+   "<b>9.52 Ograniczenia ruchu (Movement Restrictions):</b> Szyk podwójnej głębokości (DD) ma następujące skutki:",
+   "• Oddziały mogą otrzymywać rozkazy tylko od wodza naczelnego (OC).",
+   "• Mogą się poruszać jak jeden oddział, ale do wspólnego ruchu obu oddziałów potrzebne są 2 rozkazy indywidualne (Individual Orders), gdy korzysta się z rozkazów indywidualnych. Mogą korzystać z wcześniej zaplanowanego wycofania (Pre-Arranged Withdrawal, 6.8).",
+   "• Oddziały nie mogą wykonywać manewru zwrotu (Wheel, 6.44) ani odwrócenia frontu (Reverse, 6.45), nie mogą też korzystać z kolumny (Column, 6.7). Rozdzielenie stosu wymaga – jak wyżej – rozkazu indywidualnego lub liniowego; wówczas oddział wierzchni (top unit) schodzi ze stosu, płacąc zwykłe koszty. Oddział spodni (bottom unit) musi pozostać na miejscu.",
+   "• Oddziały zawsze używają swojej MA 4; nigdy do niczego nie używają MA 5. Przy każdym ruchu, który powodowałby ubytek spójności (Cohesion Hit), ubytek ten otrzymują oba oddziały.",
+   "• Żaden oddział, bez względu na typ, nigdy nie może przejść przez stos podwójnej głębokości ani na niego wejść. Traktuj takie stosy jak teren nieprzekraczalny (impassable terrain).",
+   "<b>9.53 Skutki w walce (Combat Effects):</b> Szyk podwójnej głębokości (DD) ma następujące skutki w walce:",
+   "• Liczebności (Sizes) obu oddziałów sumuje się.",
+   "• Do testów TQ używa się tylko oddziału wierzchniego (top unit) – chyba że stos jest atakowany od tyłu (rear), wtedy spodniego (bottom unit). Jeśli jednak ten oddział otrzyma jakiekolwiek ubytki spójności (Cohesion Hits), test wykonuje drugi oddział.",
+   "• Oddziały broniące się przed atakiem w starciu (Shock attack) oddziałów w szyku DD otrzymują DRM +1 do rzutów w teście TQ przed starciem (Pre-Shock TQ check).",
+   "• Broniące się oddziały w szyku DD otrzymują DRM –⁠1 do rzutów w teście TQ przed starciem (Pre-Shock TQ check). Obowiązuje również obrona falangi (Phalanx Defense, 9.41).",
+   "• Jeśli stos DD zostanie zaatakowany w starciu (Shock attacked) z heksu skrzydłowego (Flank) lub tylnego (Rear hex), ubytki spójności (Cohesion Hits) obrońcy się potraja (3×), a nie podwaja.",
+   "• Ubytki spójności (Cohesion Hits) ze starcia (Shock) rozdziela się po równo między oba oddziały, przy czym ewentualne nieparzyste ubytki otrzymuje oddział wierzchni. Ubytki spójności od ostrzału (Missile Fire Hits) dotyczą tylko oddziału wierzchniego, chyba że ostrzał prowadzony jest przez heks tylny (Rear hex) – wtedy ubytki otrzymuje oddział spodni.",
+   "• Jeśli którykolwiek oddział w stosie zostanie rozbity (routs), rozbite zostają oba. Oddziały muszą uciekać (retreat) na oddzielne heksy. Jeśli nie jest to możliwe, oddział zostaje zamiast tego wyeliminowany.",
+   "PRZYKŁAD: Zob. zasady scenariusza Kynoskefalaj (Cynoscephalae)."
+  ]
+ }
+}

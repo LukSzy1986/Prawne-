@@ -1,0 +1,69 @@
+{
+ "_uwagi": "s. 24 (sp19_27) – przykład [Beneventum] zaczyna się pod diagramem (u5) i trwa w prawym łamie (u7); u7[3] i u7[4] („Z. Whichever…” – podział wiersza w oryginale) scalone (łatka: lastbase).",
+ "u2": {
+  "paras": [
+   "<b>8.32</b> Aby zastosować nękanie i rozproszenie (H&D), lekka jazda (LC) musi się znajdować w odległości nie większej niż 4 heksy od celu, a oddziały piechoty – nie większej niż 2 heksy, <i>ale nie w heksie z nim sąsiadującym</i>; oddział nie może też znajdować się w strefie kontroli (ZOC) wroga. Oddział musi mieć linię widzenia (LOS) do celu i móc wyznaczyć ścieżkę heksów wyłącznie przez swoje heksy frontowe (Front hexes), wolną od jakichkolwiek oddziałów bojowych oraz od stref kontroli wroga, chyba że dana ZOC sąsiaduje z celem. Ścieżki nie można wyznaczyć przez heks nieprzekraczalny (impassable hex), heks terenu trudnego (Rough terrain hex) ani w górę lub w dół przez bok heksu, na którym wysokość terenu zmienia się o więcej niż 1 poziom. Ścieżka może przecinać strumień (Stream).",
+   "<b>8.33</b> Jeśli oddział spełnia warunki podane wyżej w 8.32, może ostrzelać wybrany cel. Procedura jest następująca:",
+   "• Wskaż oddział, który stosuje H&D, <i>następnie</i>",
+   "• Wskaż cel, jak opisano wyżej, <i>następnie</i>",
+   "• Przeprowadź ostrzał tak, jakby był prowadzony na zasięg 1 heksu. Jest to atak w ruchu.",
+   "Cel może w ramach reakcji zmienić front (7.15/7.16). Cel i każdy inny oddział tej samej strony mogą zastosować ostrzał reakcyjny przy wejściu (Entry Reaction Fire, 8.21), jeśli ścieżka przebiega przez sąsiedni heks w ich polu ostrzału (arc of fire, 8.13). W tej sytuacji cały ostrzał traktuje się jednak jako równoczesny.",
+   "Wszystko to odbywa się bez fizycznego przesuwania żetonu na mapie. Na potrzeby 6.13 oddział jest jednak traktowany jako poruszający się."
+  ]
+ },
+ "u3": {
+  "paras": [
+   "UWAGA PROJEKTANTA: No cóż, oddział naprawdę się porusza (do celu, a potem z powrotem tam, skąd przyszedł). Po prostu usunęliśmy dłubaninę. Zasada odwzorowuje zdolność lekkiego oddziału do podejścia do przeciwnika (na ok. 30 jardów), rzucenia pocisków i szybkiego wycofania się, zanim zostanie wciągnięty w starcie (Shock)."
+  ]
+ },
+ "u4": {
+  "paras": [
+   "<b>8.34</b> Lekka jazda (Light Cavalry) może prowadzić ostrzał H&D przeciwko słoniom (Elephants), obowiązują jednak ograniczenia z 9.15. Z tego względu ostrzał H&D jazdy przez heks frontowy (Front hex) słonia jest niedozwolony. Atak jazdy w ramach H&D przez heks skrzydłowy lub tylny (Flank/Rear hex) skutkuje 2 ubytkami spójności (Cohesion Hits), które stosuje się przed jakimkolwiek ostrzałem."
+  ]
+ },
+ "u5": {
+  "paras": [
+   "PRZYKŁAD: [Beneventum] Łucznicy kreteńscy (Crete Archer) A mogą ostrzelać rzymskie oddziały <b>Y</b> i <b>Z</b> (strzałki przerywane). Odległość wynosi odpowiednio 3 i 4 heksy."
+  ]
+ },
+ "u6": {
+  "paras": [
+   "SPQR: Great Battles of the Roman Republic <f TimesNewRomanPSMT>– wyd. 5.</f>"
+  ]
+ },
+ "u7": {
+  "paras": [
+   "Ponieważ <b>A</b> to łucznicy, mogą strzelać ponad peltastami trackimi (Thrace Peltast) <b>C</b>, gdyż ten potencjalnie blokujący oddział znajduje się bliżej łuczników niż którykolwiek z celów. Oddział peltastów trackich <b>B</b> blokuje ostrzał <b>A</b> na <b>W</b> i <b>X</b>, ponieważ <b>B</b> znajduje się bliżej tych celów niż łuczników.",
+   "Peltaści traccy <b>B</b> mogą ostrzelać rzymski oddział <b>W</b> albo <b>X</b> z odległości 1. Ostrzelany oddział rzymski może po rozstrzygnięciu ostrzału <b>B</b> odpowiedzieć ostrzałem odwetowym z odległości 1. Drugi z nich nie ma okazji do ostrzału reakcyjnego.",
+   "Peltaści traccy <b>C</b> nie mają w zasięgu żadnego celu dla zwykłego ostrzału, mogą jednak prowadzić ostrzał H&D z odległości 2 heksów (czarna strzałka). <b>C</b> nie ma linii widzenia (LOS) do rzymskiego oddziału <b>X</b>, ponieważ LOS biegnie wzdłuż boku heksu oddzielającego heks blokujący od nieblokującego. <b>C</b> ma natomiast LOS i wolną ścieżkę do rzymskiego oddziału <b>Y</b>, może więc prowadzić ostrzał H&D, rozstrzygany jak z odległości 1. Zauważ, że oszczepnicy nie ponoszą kary za ruch. Zarówno <b>X</b>, jak i <b>Y</b> mogą odpowiedzieć na ostrzał H&D ostrzałem reakcyjnym przy wejściu z odległości 1, przy czym ostrzał ten uznaje się za jednoczesny, a nie rozstrzygany jako pierwszy.",
+   "Lekka jazda macedońska (Macedon LC) <b>D</b> nie ma w zasięgu żadnego celu dla zwykłego ostrzału, ale wszystkie oddziały rzymskie znajdują się w zasięgu 4 heksów, właściwym dla ostrzału H&D. LOS i ścieżkę <b>D</b> do rzymskiego oddziału W blokują jednak dwa własne oddziały. <b>D</b> ma natomiast wolną LOS i ścieżkę do rzymskich oddziałów <b>X</b>, <b>Y</b> i <b>Z</b> (strzałki pomarańczowe). Ostrzał <b>D</b> na którykolwiek z tych celów byłby prowadzony jak z odległości 1, z modyfikatorem rzutu kością +1 (DRM), ponieważ lekka jazda macedońska jest konna i przy ostrzale H&D uważa się ją za poruszającą się. Korzystny jest wybór <b>Z</b> jako celu, ponieważ <b>D</b> może tak wyznaczyć ścieżkę, że ostrzałem reakcyjnym będzie mógł odpowiedzieć jedynie oddział będący celem. Atak na <b>X</b> lub <b>Y</b> ściągnąłby dodatkowy ostrzał reakcyjny ze strony <b>Y</b> lub <b>Z</b>. Oddział rzymski wybrany na cel – którykolwiek to będzie – może odpowiedzieć ostrzałem reakcyjnym przy wejściu.",
+   ""
+  ]
+ },
+ "u8": {
+  "paras": [
+   "8.4 STARCIE (SHOCK COMBAT)"
+  ]
+ },
+ "u9": {
+  "paras": [
+   "UWAGA PROJEKTANTA: Ten podrozdział stanowi serce gry, dlatego dołożyliśmy wszelkich starań, aby wyjaśnić, jak wszystko działa. Jest dłuższy i bardziej szczegółowy niż pozostałe i może się wydawać nieco przytłaczający. Nie trać ducha: w praktyce większość mechanizmów okazuje się oczywista, a po kilku próbnych rozgrywkach rozstrzyganie starcia (Shock) wejdzie ci w krew."
+  ]
+ },
+ "u10": {
+  "paras": [
+   "UWAGA DO ROZGRYWKI: System starcia (Shock) opiera się na wzajemnym oddziaływaniu uzbrojenia i opancerzenia oddziałów, ich liczebności, kąta ataku oraz jakości wojsk (TQ), które razem dają jeden wynik. Choć żaden czynnik nie jest bez znaczenia, najbaczniej należy śledzić TQ, ponieważ to ona decyduje o zdolności oddziału do znoszenia trudów starożytnej walki w bezpośrednim zwarciu."
+  ]
+ },
+ "u11": {
+  "paras": [
+   "PROCEDURA",
+   "Starcie (Shock Combat) odbywa się w etapie starcia (Shock Combat Segment). Starcie jest częścią fazy rozkazów (Orders Phase) dowódcy, a wszystkie starcia wywołane przez tego dowódcę rozstrzyga się, zanim będzie mógł zostać aktywowany kolejny dowódca albo zanim zostanie podjęta próba uzyskania impetu (Momentum)."
+  ]
+ },
+ "u12": {
+  "paras": [
+   "<b><c #ed1f24>WAŻNE:</c></b> Każde starcie (Shock Combat) prowadzi się jako serię kroków wykonywanych po kolei dla wszystkich uczestniczących w nim oddziałów. Tak więc najpierw wykonuje się 8.43 dla wszystkich tych oddziałów, potem 8.44 dla wszystkich tych oddziałów itd."
+  ]
+ }
+}
